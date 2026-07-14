@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-14T16:45:06Z",
+  "generated_at": "2026-07-14T21:34:15Z",
   "lists": [
     "Local",
     "Off Angle"
@@ -1139,6 +1139,17 @@
       "url": "https://wl.eventim.us/event/REBUKE-DALLAS/691745?afflky=DiscoPresents-Ductwork"
     },
     {
+      "id": "kingdom-2026-08-21-mat-zo",
+      "venue": "Kingdom",
+      "list": "Local",
+      "date": "2026-08-21",
+      "time": "10:00 PM",
+      "artist": "Mat Zo",
+      "support": "",
+      "genre": "Live Music",
+      "url": "https://kingdomnightclub.com/event/mat-zo-2/kingdom-nightclub/austin-texas/"
+    },
+    {
       "id": "emo-s-2026-08-21-st-lucia",
       "venue": "Emo's",
       "list": "Local",
@@ -2028,6 +2039,28 @@
       "support": "",
       "genre": "EDM",
       "url": "https://wl.eventim.us/event/TroyBoi-Hear2Move-DALLAS/697913?afflky=SILO"
+    },
+    {
+      "id": "silo-houston-2026-09-19-dj-diesel",
+      "venue": "Silo Houston",
+      "list": "Local",
+      "date": "2026-09-19",
+      "time": "9:00 PM",
+      "artist": "DJ Diesel",
+      "support": "",
+      "genre": "EDM",
+      "url": "https://wl.eventim.us/event/BELTRAN-HOUSTON/698122?afflky=DuctworkHouston"
+    },
+    {
+      "id": "silo-dallas-2026-09-20-dj-diesel",
+      "venue": "Silo Dallas",
+      "list": "Local",
+      "date": "2026-09-20",
+      "time": "7:00 PM",
+      "artist": "DJ Diesel",
+      "support": "",
+      "genre": "EDM",
+      "url": "https://silodallas.com/events/dj-diesel-58317477674"
     },
     {
       "id": "red-rocks-2026-09-20-andrea-bocelli",
