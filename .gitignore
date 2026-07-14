@@ -1,0 +1,6 @@
+# macOS junk files (created automatically on external drives)
+.DS_Store
+._*
+
+# Scraper output that's rebuilt on every run — no need to store it
+scraper/last_changes.txt
