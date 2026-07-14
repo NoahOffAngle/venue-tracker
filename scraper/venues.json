@@ -1,21 +1,25 @@
 {
-  "_comment": "The list of venues to track. To add a venue that uses a scraper we already support, just copy a block and change the name/url. A brand-new website layout needs a new 'parser' added to scrape.py first. 'rank' controls ordering.",
+  "_comment": "'lists' defines your tabs (order matters). Each venue's 'list' says which tab it appears in. To add a venue that uses a scraper we already support, copy a block and change name/url/list. A brand-new website layout needs a new 'parser' added to scrape.py first. 'rank' controls ordering within a tab.",
+  "lists": ["Local", "National"],
   "venues": [
     {
       "rank": 1,
       "name": "Red Rocks",
+      "list": "Local",
       "parser": "redrocks",
       "url": "https://www.redrocksonline.com/events/"
     },
     {
       "rank": 2,
       "name": "Bill Graham Civic",
+      "list": "Local",
       "parser": "billgraham",
       "url": "https://billgrahamcivic.com/event-listing/"
     },
     {
       "rank": 3,
       "name": "Under the K Bridge",
+      "list": "Local",
       "parser": "aeg_json",
       "url": "https://aegwebprod.blob.core.windows.net/json/events/360/events.json",
       "site_url": "https://underthekbridge.org"

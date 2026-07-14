@@ -28,6 +28,7 @@ ROOT = pathlib.Path(__file__).resolve().parent.parent
 DATA_FILE = ROOT / "data" / "events.json"
 CONFIG_FILE = ROOT / "scraper" / "venues.json"
 SUMMARY_FILE = ROOT / "scraper" / "last_changes.txt"
+GENRES_FILE = ROOT / "scraper" / "genres.json"
 
 HEADERS = {"User-Agent": "Mozilla/5.0 (compatible; ShowTracker/1.0; personal use)"}
 TIMEOUT = 30
@@ -48,14 +49,61 @@ def make_id(venue, date, artist):
     return f"{slugify(venue)}-{date}-{slugify(artist)}"[:120]
 
 
+# EDM keyword list, loaded from scraper/genres.json (edit that file to fix labels).
+try:
+    EDM_KEYWORDS = [k.lower() for k in json.loads(GENRES_FILE.read_text(encoding="utf-8"))["edm"]]
+except Exception:
+    EDM_KEYWORDS = []
+
+
+# Phrases that mean the "supporting" text is really a description, not opening acts.
+_DESCRIPTION_MARKERS = (
+    "in partnership", "pre-show", "presented by", "performances by",
+    "a benefit", "benefiting", "in celebration", "an evening with",
+    "screening", "film ", "presented in",
+)
+# Connector words to strip from the front of a supporting-acts string.
+_SUPPORT_PREFIX = re.compile(
+    r"^(with(\s+very)?\s+special\s+guests?|with|w/|plus\s+special\s+guests?|plus|"
+    r"featuring|feat\.?|special\s+guests?)\s+", re.I)
+
+
+def tidy_support(support):
+    """Clean up the supporting-acts text: drop descriptions, strip connectors."""
+    s = (support or "").strip()
+    if not s:
+        return ""
+    # If it was truncated with an ellipsis, it's almost always a description blurb.
+    if s.endswith("…") or s.endswith("..."):
+        return ""
+    low = s.lower()
+    if any(marker in low for marker in _DESCRIPTION_MARKERS):
+        return ""
+    # Strip leading "with / plus / special guest(s) / featuring" fluff.
+    s = _SUPPORT_PREFIX.sub("", s).strip()
+    return s
+
+
+def detect_genre(artist, support):
+    """Two buckets: 'EDM' if any known EDM name/keyword matches, else 'Live Music'."""
+    text = f" {artist} {support} ".lower()
+    for kw in EDM_KEYWORDS:
+        if kw in text:
+            return "EDM"
+    return "Live Music"
+
+
 def make_event(venue, date, time, artist, support, url):
+    support = tidy_support(support)
     return {
         "id": make_id(venue, date, artist),
         "venue": venue,
+        "list": "",            # which tab/group this venue belongs to (set in main)
         "date": date,          # "YYYY-MM-DD"
         "time": time,          # "7:30 PM"
         "artist": artist,
         "support": support,
+        "genre": detect_genre(artist, support),
         "url": url,
     }
 
@@ -255,6 +303,8 @@ def main():
             events = parser(v["name"], v)
             if not events:
                 raise ValueError("0 events found (site layout may have changed)")
+            for e in events:
+                e["list"] = v.get("list", "")
             print(f"  {v['name']}: {len(events)} events")
             scraped.extend(events)
             ok_venues.add(v["name"])
@@ -275,6 +325,7 @@ def main():
     out = {
         "generated_at": datetime.datetime.now(datetime.timezone.utc)
                         .strftime("%Y-%m-%dT%H:%M:%SZ"),
+        "lists": config.get("lists", []),
         "events": sorted(current.values(), key=lambda e: (e["date"], e["time"], e["venue"])),
     }
     DATA_FILE.parent.mkdir(parents=True, exist_ok=True)

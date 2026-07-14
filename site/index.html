@@ -31,10 +31,9 @@
       var(--bg);
     min-height: 100vh;
   }
-  .wrap { max-width: 1120px; margin: 0 auto; padding: 30px 20px 70px; }
+  .wrap { max-width: 1160px; margin: 0 auto; padding: 30px 20px 70px; }
 
-  /* Header */
-  .head { display: flex; align-items: center; gap: 14px; margin-bottom: 26px; }
+  .head { display: flex; align-items: center; gap: 14px; margin-bottom: 20px; }
   .logo {
     width: 44px; height: 44px; border-radius: 12px; flex: none;
     display: grid; place-items: center; font-weight: 800; font-size: 15px; letter-spacing: -0.02em;
@@ -45,8 +44,17 @@
     background: linear-gradient(90deg, var(--accent-2), #a78bfa); -webkit-background-clip: text; background-clip: text; color: transparent; }
   h1 { font-size: 24px; margin: 1px 0 0; letter-spacing: -0.02em; font-weight: 800; }
 
-  /* Controls */
-  .controls { display: flex; flex-wrap: wrap; gap: 12px; align-items: center; margin-bottom: 16px; }
+  /* Tabs (venue lists) */
+  .tabs { display: flex; flex-wrap: wrap; gap: 4px; margin: 0 0 18px; border-bottom: 1px solid var(--line); }
+  .tabs button {
+    background: none; border: none; color: var(--muted); font-size: 15px; font-weight: 700;
+    padding: 10px 2px; margin-right: 22px; cursor: pointer; border-bottom: 2px solid transparent; margin-bottom: -1px;
+  }
+  .tabs button:hover { color: var(--fg); }
+  .tabs button.on { color: var(--fg); border-bottom-color: var(--accent-2); }
+
+  .controls { display: flex; flex-wrap: wrap; gap: 12px; align-items: center; margin-bottom: 14px; }
+  .flabel { font-size: 12px; font-weight: 700; color: var(--faint); text-transform: uppercase; letter-spacing: 0.05em; margin-right: 2px; }
   input[type=search] {
     flex: 1 1 260px; min-width: 200px; padding: 12px 15px; font-size: 14px; color: var(--fg);
     border: 1px solid var(--line-strong); border-radius: 14px; background: rgba(255,255,255,0.03);
@@ -60,43 +68,31 @@
     border: 1px solid var(--line-strong); border-radius: 12px; background: rgba(255,255,255,0.03);
   }
   input[type=date]:focus { outline: none; border-color: var(--accent); box-shadow: 0 0 0 3px rgba(109,94,252,0.25); }
-  .clear-dates {
-    font-size: 12px; font-weight: 600; padding: 8px 12px; border-radius: 999px; cursor: pointer;
-    border: 1px solid var(--line-strong); background: var(--chip); color: var(--muted);
-  }
-  .clear-dates:hover { color: var(--fg); border-color: rgba(255,255,255,0.25); }
-  .presets { display: flex; flex-wrap: wrap; gap: 8px; }
-  .presets button {
+
+  .pills { display: flex; flex-wrap: wrap; gap: 8px; }
+  .pills button {
     font-size: 13px; font-weight: 600; padding: 9px 14px; border-radius: 999px; cursor: pointer;
     border: 1px solid var(--line-strong); background: var(--chip); color: var(--muted); transition: .15s;
   }
-  .presets button:hover { color: var(--fg); border-color: rgba(255,255,255,0.25); }
-  .presets button.on {
+  .pills button:hover { color: var(--fg); border-color: rgba(255,255,255,0.25); }
+  .pills button.on {
     color: #fff; border-color: transparent;
     background: linear-gradient(135deg, var(--accent), var(--accent-2));
     box-shadow: 0 4px 16px rgba(109,94,252,0.4);
   }
-  .venues { display: flex; flex-wrap: wrap; gap: 8px; }
-  .venues button {
-    font-size: 13px; font-weight: 600; padding: 9px 15px; border-radius: 999px; cursor: pointer;
-    border: 1px solid var(--line-strong); background: var(--chip); color: var(--muted); transition: .15s;
-  }
-  .venues button:hover { color: var(--fg); border-color: rgba(255,255,255,0.25); }
-  .venues button.on {
-    color: #fff; border-color: transparent;
-    background: linear-gradient(135deg, var(--accent), var(--accent-2));
-    box-shadow: 0 4px 16px rgba(109,94,252,0.4);
-  }
+  .clear-dates { font-size: 12px; font-weight: 600; padding: 8px 12px; border-radius: 999px; cursor: pointer;
+    border: 1px solid var(--line-strong); background: var(--chip); color: var(--muted); }
+  .clear-dates:hover { color: var(--fg); border-color: rgba(255,255,255,0.25); }
+
   .count { color: var(--faint); font-size: 13px; margin: 0 0 10px; font-weight: 500; }
 
-  /* Table "frame" */
   .frame {
     border: 1px solid var(--line-strong); border-radius: 20px; overflow: hidden;
     background: linear-gradient(180deg, var(--panel-2), var(--panel));
     box-shadow: 0 30px 80px -30px rgba(0,0,0,0.8);
   }
   .tablewrap { overflow-x: auto; }
-  table { border-collapse: collapse; width: 100%; font-size: 14px; min-width: 720px; }
+  table { border-collapse: collapse; width: 100%; font-size: 14px; min-width: 820px; }
   th, td { text-align: left; padding: 13px 18px; border-bottom: 1px solid var(--line); vertical-align: top; }
   thead tr { background: rgba(255,255,255,0.02); }
   th {
@@ -112,11 +108,12 @@
   .artist { font-weight: 700; }
   .artist a { color: inherit; text-decoration: none; }
   .artist a:hover { color: var(--accent-2); }
-  .support { color: var(--muted); max-width: 340px; }
-  .venue-tag {
-    display: inline-block; font-size: 12px; font-weight: 600; padding: 3px 10px; border-radius: 8px; white-space: nowrap;
-    background: rgba(255,255,255,0.05); border: 1px solid var(--line); color: var(--muted);
-  }
+  .support { color: var(--muted); max-width: 320px; }
+  .venue-tag { display: inline-block; font-size: 12px; font-weight: 600; padding: 3px 10px; border-radius: 8px; white-space: nowrap;
+    background: rgba(255,255,255,0.05); border: 1px solid var(--line); color: var(--muted); }
+  .genre-tag { display: inline-block; font-size: 11px; font-weight: 700; padding: 3px 9px; border-radius: 6px; white-space: nowrap; }
+  .genre-edm { color: #fff; background: linear-gradient(135deg, var(--accent), var(--accent-2)); }
+  .genre-live { color: var(--muted); background: rgba(255,255,255,0.05); border: 1px solid var(--line); }
   .empty { padding: 48px; text-align: center; color: var(--faint); }
 </style>
 </head>
@@ -129,11 +126,19 @@
       <h1>Show Tracker</h1>
     </div>
   </div>
+
+  <div class="tabs" id="tabs"></div>
+
   <p class="count" id="updated">Loading…</p>
 
   <div class="controls">
     <input type="search" id="search" placeholder="Search artist or supporting act…" autocomplete="off">
-    <div class="venues" id="venues"></div>
+    <div class="pills" id="venues"></div>
+  </div>
+
+  <div class="controls">
+    <span class="flabel">Genre</span>
+    <div class="pills" id="genres"></div>
   </div>
 
   <div class="controls">
@@ -144,7 +149,7 @@
       <input type="date" id="to">
       <button class="clear-dates" id="clearDates">Clear dates</button>
     </div>
-    <div class="presets" id="presets">
+    <div class="pills" id="presets">
       <button data-preset="weekend">This weekend</button>
       <button data-preset="month">This month</button>
       <button data-preset="30">Next 30 days</button>
@@ -163,6 +168,7 @@
             <th data-key="time">Time <span class="arrow"></span></th>
             <th data-key="artist">Artist <span class="arrow"></span></th>
             <th data-key="support">Supporting Artists <span class="arrow"></span></th>
+            <th data-key="genre">Genre <span class="arrow"></span></th>
             <th data-key="venue">Venue <span class="arrow"></span></th>
           </tr>
         </thead>
@@ -176,133 +182,163 @@
 <script>
 const DAYS = ["Sun","Mon","Tue","Wed","Thu","Fri","Sat"];
 let ALL = [];
+let LISTS = [];
+let currentList = null;         // active tab (null = show everything)
+let lockedList = null;          // set via ?list= to lock to one tab (hides tabs)
 let activeVenues = new Set();
+let activeGenres = new Set();
 let sortKey = "date", sortDir = 1;
 
-function dayOfWeek(iso) {
-  const [y, m, d] = iso.split("-").map(Number);
-  return DAYS[new Date(y, m - 1, d).getDay()];
-}
-function prettyDate(iso) {
-  const [y, m, d] = iso.split("-").map(Number);
-  return new Date(y, m - 1, d).toLocaleDateString("en-US", { month: "short", day: "numeric", year: "numeric" });
-}
-function timeToMinutes(t) {
-  const m = /(\d+):(\d+)\s*(AM|PM)/i.exec(t || "");
-  if (!m) return 0;
-  let h = +m[1] % 12; if (/PM/i.test(m[3])) h += 12;
-  return h * 60 + +m[2];
-}
+function dayOfWeek(iso){ const [y,m,d]=iso.split("-").map(Number); return DAYS[new Date(y,m-1,d).getDay()]; }
+function prettyDate(iso){ const [y,m,d]=iso.split("-").map(Number);
+  return new Date(y,m-1,d).toLocaleDateString("en-US",{month:"short",day:"numeric",year:"numeric"}); }
+function timeToMinutes(t){ const m=/(\d+):(\d+)\s*(AM|PM)/i.exec(t||""); if(!m) return 0;
+  let h=+m[1]%12; if(/PM/i.test(m[3])) h+=12; return h*60+ +m[2]; }
+function esc(s){ return (s||"").replace(/[&<>"]/g,c=>({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;"}[c])); }
 
-function render() {
+// Events belonging to the active tab (before the other filters).
+function base(){ return ALL.filter(e => !currentList || (e.list||"") === currentList); }
+
+function render(){
   const q = document.getElementById("search").value.trim().toLowerCase();
-  const from = document.getElementById("from").value; // "YYYY-MM-DD" or ""
+  const from = document.getElementById("from").value;
   const to = document.getElementById("to").value;
-  let rows = ALL.filter(e => {
+  let rows = base().filter(e => {
     if (activeVenues.size && !activeVenues.has(e.venue)) return false;
+    if (activeGenres.size && !activeGenres.has(e.genre || "Live Music")) return false;
     if (q && !(e.artist + " " + e.support).toLowerCase().includes(q)) return false;
-    if (from && e.date < from) return false;   // ISO dates compare correctly as strings
+    if (from && e.date < from) return false;
     if (to && e.date > to) return false;
     return true;
   });
-  rows.sort((a, b) => {
-    let av, bv;
-    if (sortKey === "day") { av = new Date(a.date).getDay(); bv = new Date(b.date).getDay(); }
-    else if (sortKey === "time") { av = timeToMinutes(a.time); bv = timeToMinutes(b.time); }
-    else { av = (a[sortKey] || "").toString().toLowerCase(); bv = (b[sortKey] || "").toString().toLowerCase(); }
-    return av < bv ? -sortDir : av > bv ? sortDir : 0;
+  rows.sort((a,b)=>{
+    let av,bv;
+    if (sortKey==="day"){ av=new Date(a.date).getDay(); bv=new Date(b.date).getDay(); }
+    else if (sortKey==="time"){ av=timeToMinutes(a.time); bv=timeToMinutes(b.time); }
+    else { av=(a[sortKey]||"").toString().toLowerCase(); bv=(b[sortKey]||"").toString().toLowerCase(); }
+    return av<bv ? -sortDir : av>bv ? sortDir : 0;
   });
 
-  const tbody = document.getElementById("rows");
-  tbody.innerHTML = rows.map(e => `
-    <tr>
+  document.getElementById("rows").innerHTML = rows.map(e => {
+    const genre = e.genre || "Live Music";
+    const gClass = genre === "EDM" ? "genre-edm" : "genre-live";
+    return `<tr>
       <td class="date">${prettyDate(e.date)}</td>
       <td class="day">${dayOfWeek(e.date)}</td>
       <td class="date">${e.time || ""}</td>
       <td class="artist">${e.url ? `<a href="${e.url}" target="_blank" rel="noopener">${esc(e.artist)}</a>` : esc(e.artist)}</td>
       <td class="support">${esc(e.support) || "—"}</td>
+      <td><span class="genre-tag ${gClass}">${esc(genre)}</span></td>
       <td><span class="venue-tag">${esc(e.venue)}</span></td>
-    </tr>`).join("");
+    </tr>`;
+  }).join("");
 
-  document.getElementById("count").textContent = `${rows.length} show${rows.length === 1 ? "" : "s"}`;
+  document.getElementById("count").textContent = `${rows.length} show${rows.length===1?"":"s"}`;
   document.getElementById("empty").style.display = rows.length ? "none" : "block";
-  document.querySelectorAll("th .arrow").forEach(a => a.textContent = "");
+  document.querySelectorAll("th .arrow").forEach(a=>a.textContent="");
   const th = document.querySelector(`th[data-key="${sortKey}"] .arrow`);
-  if (th) th.textContent = sortDir === 1 ? "▲" : "▼";
+  if (th) th.textContent = sortDir===1 ? "▲" : "▼";
 }
-function esc(s) { return (s || "").replace(/[&<>"]/g, c => ({ "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;" }[c])); }
 
-function buildVenueButtons() {
-  const venues = [...new Set(ALL.map(e => e.venue))].sort();
-  const box = document.getElementById("venues");
+function makePill(container, label, isActive, onClick){
+  const b = document.createElement("button");
+  b.textContent = label;
+  if (isActive) b.classList.add("on");
+  b.onclick = () => { onClick(b); };
+  container.appendChild(b);
+}
+
+function buildVenueButtons(){
+  const box = document.getElementById("venues"); box.innerHTML = "";
+  const venues = [...new Set(base().map(e=>e.venue))].sort();
+  venues.forEach(v => makePill(box, v, activeVenues.has(v), (b)=>{
+    activeVenues.has(v) ? activeVenues.delete(v) : activeVenues.add(v);
+    b.classList.toggle("on"); render();
+  }));
+}
+
+function buildGenreButtons(){
+  const box = document.getElementById("genres"); box.innerHTML = "";
+  const genres = [...new Set(base().map(e=>e.genre||"Live Music"))].sort();
+  genres.forEach(g => makePill(box, g, activeGenres.has(g), (b)=>{
+    activeGenres.has(g) ? activeGenres.delete(g) : activeGenres.add(g);
+    b.classList.toggle("on"); render();
+  }));
+}
+
+function selectTab(name){
+  currentList = name;
+  activeVenues.clear(); activeGenres.clear();
+  document.querySelectorAll("#tabs button").forEach(b => b.classList.toggle("on", b.dataset.list === name));
+  buildVenueButtons(); buildGenreButtons(); render();
+}
+
+function buildTabs(){
+  const box = document.getElementById("tabs");
+  const tabs = (LISTS && LISTS.length) ? LISTS : [...new Set(ALL.map(e=>e.list).filter(Boolean))];
+  // With a ?list= lock, or 0/1 tabs, don't show a tab bar.
+  if (lockedList) { currentList = lockedList; box.style.display = "none"; return; }
+  if (tabs.length < 2) { currentList = null; box.style.display = "none"; return; }
+  box.style.display = "flex";
   box.innerHTML = "";
-  venues.forEach(v => {
+  tabs.forEach(name => {
     const b = document.createElement("button");
-    b.textContent = v;
-    b.onclick = () => { activeVenues.has(v) ? activeVenues.delete(v) : activeVenues.add(v); b.classList.toggle("on"); render(); };
+    b.textContent = name; b.dataset.list = name;
+    b.onclick = () => selectTab(name);
     box.appendChild(b);
   });
+  // Default to the first tab that actually has shows, else the first tab.
+  const withShows = tabs.find(t => ALL.some(e => (e.list||"") === t));
+  selectTab(withShows || tabs[0]);
+}
+
+// ---- date presets ----
+function fmt(d){ const y=d.getFullYear(),m=String(d.getMonth()+1).padStart(2,"0"),day=String(d.getDate()).padStart(2,"0"); return `${y}-${m}-${day}`; }
+function clearPresetHighlight(){ document.querySelectorAll("#presets button").forEach(b=>b.classList.remove("on")); }
+function applyPreset(name, btn){
+  const today=new Date(); today.setHours(0,0,0,0);
+  let from=new Date(today), to=new Date(today);
+  if (name==="weekend"){ const day=today.getDay();
+    if (day===0){ from.setDate(today.getDate()-2); }
+    else if (day===6){ from.setDate(today.getDate()-1); to.setDate(today.getDate()+1); }
+    else { from.setDate(today.getDate()+(5-day)); to=new Date(from); to.setDate(from.getDate()+2); }
+  } else if (name==="month"){ from=new Date(today.getFullYear(),today.getMonth(),1); to=new Date(today.getFullYear(),today.getMonth()+1,0);
+  } else if (name==="30"){ to.setDate(today.getDate()+30); }
+  document.getElementById("from").value=fmt(from);
+  document.getElementById("to").value=fmt(to);
+  clearPresetHighlight(); btn.classList.add("on"); render();
 }
 
 document.querySelectorAll("th").forEach(th => th.onclick = () => {
   const k = th.dataset.key;
-  if (sortKey === k) sortDir *= -1; else { sortKey = k; sortDir = 1; }
+  if (sortKey===k) sortDir*=-1; else { sortKey=k; sortDir=1; }
   render();
 });
-function fmt(d) {
-  const y = d.getFullYear(), m = String(d.getMonth() + 1).padStart(2, "0"), day = String(d.getDate()).padStart(2, "0");
-  return `${y}-${m}-${day}`;
-}
-function clearPresetHighlight() { document.querySelectorAll("#presets button").forEach(b => b.classList.remove("on")); }
-
-function applyPreset(name, btn) {
-  const today = new Date(); today.setHours(0, 0, 0, 0);
-  let from = new Date(today), to = new Date(today);
-  if (name === "weekend") {
-    const day = today.getDay();               // 0 Sun … 6 Sat
-    if (day === 0) { from.setDate(today.getDate() - 2); }          // Sunday: weekend Fri–Sun
-    else if (day === 6) { from.setDate(today.getDate() - 1); to.setDate(today.getDate() + 1); }
-    else { from.setDate(today.getDate() + (5 - day)); to = new Date(from); to.setDate(from.getDate() + 2); }
-  } else if (name === "month") {
-    from = new Date(today.getFullYear(), today.getMonth(), 1);
-    to = new Date(today.getFullYear(), today.getMonth() + 1, 0);   // last day of this month
-  } else if (name === "30") {
-    to.setDate(today.getDate() + 30);
-  }
-  document.getElementById("from").value = fmt(from);
-  document.getElementById("to").value = fmt(to);
-  clearPresetHighlight();
-  btn.classList.add("on");
-  render();
-}
-
 document.getElementById("search").addEventListener("input", render);
-document.getElementById("from").addEventListener("change", () => { clearPresetHighlight(); render(); });
-document.getElementById("to").addEventListener("change", () => { clearPresetHighlight(); render(); });
-document.getElementById("clearDates").addEventListener("click", () => {
-  document.getElementById("from").value = "";
-  document.getElementById("to").value = "";
-  clearPresetHighlight();
-  render();
+document.getElementById("from").addEventListener("change", ()=>{ clearPresetHighlight(); render(); });
+document.getElementById("to").addEventListener("change", ()=>{ clearPresetHighlight(); render(); });
+document.getElementById("clearDates").addEventListener("click", ()=>{
+  document.getElementById("from").value=""; document.getElementById("to").value="";
+  clearPresetHighlight(); render();
 });
-document.querySelectorAll("#presets button").forEach(b =>
-  b.addEventListener("click", () => applyPreset(b.dataset.preset, b))
-);
+document.querySelectorAll("#presets button").forEach(b => b.addEventListener("click", ()=>applyPreset(b.dataset.preset,b)));
 
 fetch("../data/events.json")
-  .then(r => r.json())
-  .then(data => {
+  .then(r=>r.json())
+  .then(data=>{
     ALL = data.events || [];
+    LISTS = data.lists || [];
+    const param = new URLSearchParams(location.search).get("list");
+    if (param && (LISTS.includes(param))) lockedList = param;
     const when = new Date(data.generated_at);
     document.getElementById("updated").textContent =
-      `${ALL.length} shows · last updated ${when.toLocaleString("en-US", { dateStyle: "medium", timeStyle: "short" })}`;
+      `${ALL.length} shows · last updated ${when.toLocaleString("en-US",{dateStyle:"medium",timeStyle:"short"})}`;
+    buildTabs();
     buildVenueButtons();
+    buildGenreButtons();
     render();
   })
-  .catch(err => {
-    document.getElementById("updated").textContent = "Could not load data.";
-    console.error(err);
-  });
+  .catch(err=>{ document.getElementById("updated").textContent="Could not load data."; console.error(err); });
 </script>
 </body>
 </html>
