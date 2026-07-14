@@ -1,28 +1,68 @@
 {
   "_comment": "'lists' defines your tabs (order matters). Each venue's 'list' says which tab it appears in. To add a venue that uses a scraper we already support, copy a block and change name/url/list. A brand-new website layout needs a new 'parser' added to scrape.py first. 'rank' controls ordering within a tab.",
-  "lists": ["Local", "National"],
+  "lists": [
+    "Local",
+    "Off Angle"
+  ],
   "venues": [
     {
       "rank": 1,
       "name": "Red Rocks",
-      "list": "Local",
+      "list": "Off Angle",
       "parser": "redrocks",
       "url": "https://www.redrocksonline.com/events/"
     },
     {
       "rank": 2,
       "name": "Bill Graham Civic",
-      "list": "Local",
+      "list": "Off Angle",
       "parser": "billgraham",
       "url": "https://billgrahamcivic.com/event-listing/"
     },
     {
       "rank": 3,
       "name": "Under the K Bridge",
-      "list": "Local",
+      "list": "Off Angle",
       "parser": "aeg_json",
       "url": "https://aegwebprod.blob.core.windows.net/json/events/360/events.json",
       "site_url": "https://underthekbridge.org"
+    },
+    {
+      "rank": 4,
+      "name": "The Concourse Project",
+      "list": "Local",
+      "parser": "seetickets",
+      "url": "https://concourseproject.com/calendar/"
+    },
+    {
+      "rank": 5,
+      "name": "Kingdom",
+      "list": "Local",
+      "parser": "rockhouse",
+      "url": "https://kingdomnightclub.com/events/"
+    },
+    {
+      "rank": 6,
+      "name": "Emo's",
+      "list": "Local",
+      "parser": "jsonld",
+      "url": "https://www.emosaustin.com/shows"
+    },
+    {
+      "rank": 7,
+      "name": "Silo Dallas",
+      "list": "Local",
+      "parser": "silodallas",
+      "url": "https://silodallas.com/events",
+      "genre": "EDM"
+    },
+    {
+      "rank": 8,
+      "name": "Silo Houston",
+      "list": "Local",
+      "parser": "festistack",
+      "url": "https://silohouston.com/",
+      "genre": "EDM"
     }
   ]
 }
