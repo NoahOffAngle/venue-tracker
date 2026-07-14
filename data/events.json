@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-14T11:14:29Z",
+  "generated_at": "2026-07-14T16:45:06Z",
   "lists": [
     "Local",
     "Off Angle"
@@ -850,7 +850,7 @@
       "artist": "Dash Berlin",
       "support": "",
       "genre": "EDM",
-      "url": "https://silodallas.com/events/dash-berlin-58317654824"
+      "url": "https://wl.eventim.us/event/Dash-Berlin-DALLAS/698851?afflky=DiscoPresents-Ductwork"
     },
     {
       "id": "red-rocks-2026-08-10-film-on-the-rocks-jurassic-park",
@@ -1090,7 +1090,7 @@
       "date": "2026-08-18",
       "time": "8:00 PM",
       "artist": "Nathaniel Rateliff with The Colorado Symphony",
-      "support": "",
+      "support": "Lucius",
       "genre": "Live Music",
       "url": "https://www.redrocksonline.com/events/nathaniel-rateliff-with-the-colorado-symphony-orchestra-1397027/"
     },
@@ -1403,6 +1403,17 @@
       "url": "https://wl.seetickets.us/event/Kayzo-presents-The-Cage-at-The-Concourse-Project/695945?afflky=TheConcourseProject"
     },
     {
+      "id": "the-concourse-project-2026-08-28-westend",
+      "venue": "The Concourse Project",
+      "list": "Local",
+      "date": "2026-08-28",
+      "time": "9:00 PM",
+      "artist": "Westend",
+      "support": "",
+      "genre": "EDM",
+      "url": "https://wl.seetickets.us/event/Westend-at-The-Concourse-Project-The-Hangar/698729?afflky=TheConcourseProject"
+    },
+    {
       "id": "red-rocks-2026-08-29-yoga-on-the-rocks",
       "venue": "Red Rocks",
       "list": "Off Angle",
@@ -1610,17 +1621,6 @@
       "support": "",
       "genre": "EDM",
       "url": "https://wl.eventim.us/event/LSRCITY-X-by-Gareth-Emery-HOUSTON/697705?afflky=DuctworkHouston&EVENTPASS=LCGAX"
-    },
-    {
-      "id": "the-concourse-project-2026-09-04-lilly-palmer-extended-set",
-      "venue": "The Concourse Project",
-      "list": "Local",
-      "date": "2026-09-04",
-      "time": "9:00 PM",
-      "artist": "Lilly Palmer (Extended Set)",
-      "support": "",
-      "genre": "EDM",
-      "url": "https://wl.seetickets.us/event/Lilly-Palmer-Extended-Set-at-The-Concourse-Project/691625?afflky=TheConcourseProject"
     },
     {
       "id": "red-rocks-2026-09-05-mana",
