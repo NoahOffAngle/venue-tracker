@@ -1,0 +1,59 @@
+name: Scrape venues
+
+# When this runs:
+#  - On a schedule, 4x per day (times are in UTC).
+#  - Whenever you click "Run workflow" in the Actions tab (manual test).
+on:
+  schedule:
+    - cron: "0 0,6,12,18 * * *"   # 00:00, 06:00, 12:00, 18:00 UTC
+  workflow_dispatch:
+
+# Let the job commit the updated data file back to the repo.
+permissions:
+  contents: write
+
+jobs:
+  scrape:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Get the code
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Install dependencies
+        run: pip install -r scraper/requirements.txt
+
+      - name: Run scraper
+        id: scrape
+        run: python scraper/scrape.py
+
+      - name: Save updated data
+        run: |
+          git config user.name  "show-tracker-bot"
+          git config user.email "actions@github.com"
+          git add data/events.json
+          git commit -m "Update shows ($(date -u '+%Y-%m-%d %H:%M UTC'))" || echo "Nothing to commit"
+          git push
+
+      # Emails you ONLY when shows were added / changed / removed.
+      # Requires the MAIL_* secrets to be set (see README). If they aren't set,
+      # this step is skipped automatically instead of failing.
+      - name: Email me the changes
+        if: steps.scrape.outputs.has_changes == 'true' && env.MAIL_USERNAME != ''
+        env:
+          MAIL_USERNAME: ${{ secrets.MAIL_USERNAME }}
+        uses: dawidd6/action-send-mail@v3
+        with:
+          server_address: smtp.gmail.com
+          server_port: 465
+          secure: true
+          username: ${{ secrets.MAIL_USERNAME }}
+          password: ${{ secrets.MAIL_PASSWORD }}
+          from: Show Tracker <${{ secrets.MAIL_USERNAME }}>
+          to: ${{ secrets.MAIL_TO }}
+          subject: "🎸 Show Tracker — your venues changed"
+          body: file://scraper/last_changes.txt

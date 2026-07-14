@@ -1,0 +1,308 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Show Tracker</title>
+<style>
+  :root {
+    --bg: #0a0912;
+    --panel: #131120;
+    --panel-2: #17152a;
+    --fg: #f4f3fb;
+    --muted: #9c9ab5;
+    --faint: #6f6d8a;
+    --line: rgba(255,255,255,0.08);
+    --line-strong: rgba(255,255,255,0.14);
+    --accent: #6d5efc;
+    --accent-2: #38bdf8;
+    --chip: rgba(255,255,255,0.04);
+    --hover: rgba(255,255,255,0.03);
+  }
+  * { box-sizing: border-box; }
+  html, body { background: var(--bg); }
+  body {
+    margin: 0; color: var(--fg);
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Inter, Roboto, Helvetica, Arial, sans-serif;
+    line-height: 1.45; -webkit-font-smoothing: antialiased;
+    background:
+      radial-gradient(900px 500px at 12% -8%, rgba(109,94,252,0.22), transparent 60%),
+      radial-gradient(800px 480px at 100% 0%, rgba(56,189,248,0.10), transparent 55%),
+      var(--bg);
+    min-height: 100vh;
+  }
+  .wrap { max-width: 1120px; margin: 0 auto; padding: 30px 20px 70px; }
+
+  /* Header */
+  .head { display: flex; align-items: center; gap: 14px; margin-bottom: 26px; }
+  .logo {
+    width: 44px; height: 44px; border-radius: 12px; flex: none;
+    display: grid; place-items: center; font-weight: 800; font-size: 15px; letter-spacing: -0.02em;
+    color: #fff; background: linear-gradient(140deg, var(--accent), var(--accent-2));
+    box-shadow: 0 6px 20px rgba(109,94,252,0.35);
+  }
+  .eyebrow { font-size: 11px; letter-spacing: 0.18em; font-weight: 700; text-transform: uppercase;
+    background: linear-gradient(90deg, var(--accent-2), #a78bfa); -webkit-background-clip: text; background-clip: text; color: transparent; }
+  h1 { font-size: 24px; margin: 1px 0 0; letter-spacing: -0.02em; font-weight: 800; }
+
+  /* Controls */
+  .controls { display: flex; flex-wrap: wrap; gap: 12px; align-items: center; margin-bottom: 16px; }
+  input[type=search] {
+    flex: 1 1 260px; min-width: 200px; padding: 12px 15px; font-size: 14px; color: var(--fg);
+    border: 1px solid var(--line-strong); border-radius: 14px; background: rgba(255,255,255,0.03);
+  }
+  input[type=search]::placeholder { color: var(--faint); }
+  input[type=search]:focus { outline: none; border-color: var(--accent); box-shadow: 0 0 0 3px rgba(109,94,252,0.25); }
+  .daterange { display: flex; flex-wrap: wrap; align-items: center; gap: 8px; }
+  .daterange label { font-size: 12px; font-weight: 600; color: var(--faint); text-transform: uppercase; letter-spacing: 0.05em; }
+  input[type=date] {
+    padding: 10px 12px; font-size: 13px; color: var(--fg); color-scheme: dark;
+    border: 1px solid var(--line-strong); border-radius: 12px; background: rgba(255,255,255,0.03);
+  }
+  input[type=date]:focus { outline: none; border-color: var(--accent); box-shadow: 0 0 0 3px rgba(109,94,252,0.25); }
+  .clear-dates {
+    font-size: 12px; font-weight: 600; padding: 8px 12px; border-radius: 999px; cursor: pointer;
+    border: 1px solid var(--line-strong); background: var(--chip); color: var(--muted);
+  }
+  .clear-dates:hover { color: var(--fg); border-color: rgba(255,255,255,0.25); }
+  .presets { display: flex; flex-wrap: wrap; gap: 8px; }
+  .presets button {
+    font-size: 13px; font-weight: 600; padding: 9px 14px; border-radius: 999px; cursor: pointer;
+    border: 1px solid var(--line-strong); background: var(--chip); color: var(--muted); transition: .15s;
+  }
+  .presets button:hover { color: var(--fg); border-color: rgba(255,255,255,0.25); }
+  .presets button.on {
+    color: #fff; border-color: transparent;
+    background: linear-gradient(135deg, var(--accent), var(--accent-2));
+    box-shadow: 0 4px 16px rgba(109,94,252,0.4);
+  }
+  .venues { display: flex; flex-wrap: wrap; gap: 8px; }
+  .venues button {
+    font-size: 13px; font-weight: 600; padding: 9px 15px; border-radius: 999px; cursor: pointer;
+    border: 1px solid var(--line-strong); background: var(--chip); color: var(--muted); transition: .15s;
+  }
+  .venues button:hover { color: var(--fg); border-color: rgba(255,255,255,0.25); }
+  .venues button.on {
+    color: #fff; border-color: transparent;
+    background: linear-gradient(135deg, var(--accent), var(--accent-2));
+    box-shadow: 0 4px 16px rgba(109,94,252,0.4);
+  }
+  .count { color: var(--faint); font-size: 13px; margin: 0 0 10px; font-weight: 500; }
+
+  /* Table "frame" */
+  .frame {
+    border: 1px solid var(--line-strong); border-radius: 20px; overflow: hidden;
+    background: linear-gradient(180deg, var(--panel-2), var(--panel));
+    box-shadow: 0 30px 80px -30px rgba(0,0,0,0.8);
+  }
+  .tablewrap { overflow-x: auto; }
+  table { border-collapse: collapse; width: 100%; font-size: 14px; min-width: 720px; }
+  th, td { text-align: left; padding: 13px 18px; border-bottom: 1px solid var(--line); vertical-align: top; }
+  thead tr { background: rgba(255,255,255,0.02); }
+  th {
+    position: sticky; top: 0; background: #16142a; cursor: pointer; user-select: none;
+    font-size: 11px; text-transform: uppercase; letter-spacing: 0.08em; color: var(--faint); white-space: nowrap; font-weight: 700;
+  }
+  th:hover { color: var(--fg); }
+  th .arrow { color: var(--accent-2); font-size: 10px; }
+  tbody tr:last-child td { border-bottom: none; }
+  tbody tr:hover { background: var(--hover); }
+  .date { white-space: nowrap; font-variant-numeric: tabular-nums; }
+  .day { color: var(--muted); }
+  .artist { font-weight: 700; }
+  .artist a { color: inherit; text-decoration: none; }
+  .artist a:hover { color: var(--accent-2); }
+  .support { color: var(--muted); max-width: 340px; }
+  .venue-tag {
+    display: inline-block; font-size: 12px; font-weight: 600; padding: 3px 10px; border-radius: 8px; white-space: nowrap;
+    background: rgba(255,255,255,0.05); border: 1px solid var(--line); color: var(--muted);
+  }
+  .empty { padding: 48px; text-align: center; color: var(--faint); }
+</style>
+</head>
+<body>
+<div class="wrap">
+  <div class="head">
+    <div class="logo">ST</div>
+    <div>
+      <div class="eyebrow">Music Venue Tracker</div>
+      <h1>Show Tracker</h1>
+    </div>
+  </div>
+  <p class="count" id="updated">Loading…</p>
+
+  <div class="controls">
+    <input type="search" id="search" placeholder="Search artist or supporting act…" autocomplete="off">
+    <div class="venues" id="venues"></div>
+  </div>
+
+  <div class="controls">
+    <div class="daterange">
+      <label for="from">From</label>
+      <input type="date" id="from">
+      <label for="to">To</label>
+      <input type="date" id="to">
+      <button class="clear-dates" id="clearDates">Clear dates</button>
+    </div>
+    <div class="presets" id="presets">
+      <button data-preset="weekend">This weekend</button>
+      <button data-preset="month">This month</button>
+      <button data-preset="30">Next 30 days</button>
+    </div>
+  </div>
+
+  <p class="count" id="count"></p>
+
+  <div class="frame">
+    <div class="tablewrap">
+      <table>
+        <thead>
+          <tr>
+            <th data-key="date">Date <span class="arrow"></span></th>
+            <th data-key="day">Day <span class="arrow"></span></th>
+            <th data-key="time">Time <span class="arrow"></span></th>
+            <th data-key="artist">Artist <span class="arrow"></span></th>
+            <th data-key="support">Supporting Artists <span class="arrow"></span></th>
+            <th data-key="venue">Venue <span class="arrow"></span></th>
+          </tr>
+        </thead>
+        <tbody id="rows"></tbody>
+      </table>
+    </div>
+    <div class="empty" id="empty" style="display:none">No shows match your filters.</div>
+  </div>
+</div>
+
+<script>
+const DAYS = ["Sun","Mon","Tue","Wed","Thu","Fri","Sat"];
+let ALL = [];
+let activeVenues = new Set();
+let sortKey = "date", sortDir = 1;
+
+function dayOfWeek(iso) {
+  const [y, m, d] = iso.split("-").map(Number);
+  return DAYS[new Date(y, m - 1, d).getDay()];
+}
+function prettyDate(iso) {
+  const [y, m, d] = iso.split("-").map(Number);
+  return new Date(y, m - 1, d).toLocaleDateString("en-US", { month: "short", day: "numeric", year: "numeric" });
+}
+function timeToMinutes(t) {
+  const m = /(\d+):(\d+)\s*(AM|PM)/i.exec(t || "");
+  if (!m) return 0;
+  let h = +m[1] % 12; if (/PM/i.test(m[3])) h += 12;
+  return h * 60 + +m[2];
+}
+
+function render() {
+  const q = document.getElementById("search").value.trim().toLowerCase();
+  const from = document.getElementById("from").value; // "YYYY-MM-DD" or ""
+  const to = document.getElementById("to").value;
+  let rows = ALL.filter(e => {
+    if (activeVenues.size && !activeVenues.has(e.venue)) return false;
+    if (q && !(e.artist + " " + e.support).toLowerCase().includes(q)) return false;
+    if (from && e.date < from) return false;   // ISO dates compare correctly as strings
+    if (to && e.date > to) return false;
+    return true;
+  });
+  rows.sort((a, b) => {
+    let av, bv;
+    if (sortKey === "day") { av = new Date(a.date).getDay(); bv = new Date(b.date).getDay(); }
+    else if (sortKey === "time") { av = timeToMinutes(a.time); bv = timeToMinutes(b.time); }
+    else { av = (a[sortKey] || "").toString().toLowerCase(); bv = (b[sortKey] || "").toString().toLowerCase(); }
+    return av < bv ? -sortDir : av > bv ? sortDir : 0;
+  });
+
+  const tbody = document.getElementById("rows");
+  tbody.innerHTML = rows.map(e => `
+    <tr>
+      <td class="date">${prettyDate(e.date)}</td>
+      <td class="day">${dayOfWeek(e.date)}</td>
+      <td class="date">${e.time || ""}</td>
+      <td class="artist">${e.url ? `<a href="${e.url}" target="_blank" rel="noopener">${esc(e.artist)}</a>` : esc(e.artist)}</td>
+      <td class="support">${esc(e.support) || "—"}</td>
+      <td><span class="venue-tag">${esc(e.venue)}</span></td>
+    </tr>`).join("");
+
+  document.getElementById("count").textContent = `${rows.length} show${rows.length === 1 ? "" : "s"}`;
+  document.getElementById("empty").style.display = rows.length ? "none" : "block";
+  document.querySelectorAll("th .arrow").forEach(a => a.textContent = "");
+  const th = document.querySelector(`th[data-key="${sortKey}"] .arrow`);
+  if (th) th.textContent = sortDir === 1 ? "▲" : "▼";
+}
+function esc(s) { return (s || "").replace(/[&<>"]/g, c => ({ "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;" }[c])); }
+
+function buildVenueButtons() {
+  const venues = [...new Set(ALL.map(e => e.venue))].sort();
+  const box = document.getElementById("venues");
+  box.innerHTML = "";
+  venues.forEach(v => {
+    const b = document.createElement("button");
+    b.textContent = v;
+    b.onclick = () => { activeVenues.has(v) ? activeVenues.delete(v) : activeVenues.add(v); b.classList.toggle("on"); render(); };
+    box.appendChild(b);
+  });
+}
+
+document.querySelectorAll("th").forEach(th => th.onclick = () => {
+  const k = th.dataset.key;
+  if (sortKey === k) sortDir *= -1; else { sortKey = k; sortDir = 1; }
+  render();
+});
+function fmt(d) {
+  const y = d.getFullYear(), m = String(d.getMonth() + 1).padStart(2, "0"), day = String(d.getDate()).padStart(2, "0");
+  return `${y}-${m}-${day}`;
+}
+function clearPresetHighlight() { document.querySelectorAll("#presets button").forEach(b => b.classList.remove("on")); }
+
+function applyPreset(name, btn) {
+  const today = new Date(); today.setHours(0, 0, 0, 0);
+  let from = new Date(today), to = new Date(today);
+  if (name === "weekend") {
+    const day = today.getDay();               // 0 Sun … 6 Sat
+    if (day === 0) { from.setDate(today.getDate() - 2); }          // Sunday: weekend Fri–Sun
+    else if (day === 6) { from.setDate(today.getDate() - 1); to.setDate(today.getDate() + 1); }
+    else { from.setDate(today.getDate() + (5 - day)); to = new Date(from); to.setDate(from.getDate() + 2); }
+  } else if (name === "month") {
+    from = new Date(today.getFullYear(), today.getMonth(), 1);
+    to = new Date(today.getFullYear(), today.getMonth() + 1, 0);   // last day of this month
+  } else if (name === "30") {
+    to.setDate(today.getDate() + 30);
+  }
+  document.getElementById("from").value = fmt(from);
+  document.getElementById("to").value = fmt(to);
+  clearPresetHighlight();
+  btn.classList.add("on");
+  render();
+}
+
+document.getElementById("search").addEventListener("input", render);
+document.getElementById("from").addEventListener("change", () => { clearPresetHighlight(); render(); });
+document.getElementById("to").addEventListener("change", () => { clearPresetHighlight(); render(); });
+document.getElementById("clearDates").addEventListener("click", () => {
+  document.getElementById("from").value = "";
+  document.getElementById("to").value = "";
+  clearPresetHighlight();
+  render();
+});
+document.querySelectorAll("#presets button").forEach(b =>
+  b.addEventListener("click", () => applyPreset(b.dataset.preset, b))
+);
+
+fetch("../data/events.json")
+  .then(r => r.json())
+  .then(data => {
+    ALL = data.events || [];
+    const when = new Date(data.generated_at);
+    document.getElementById("updated").textContent =
+      `${ALL.length} shows · last updated ${when.toLocaleString("en-US", { dateStyle: "medium", timeStyle: "short" })}`;
+    buildVenueButtons();
+    render();
+  })
+  .catch(err => {
+    document.getElementById("updated").textContent = "Could not load data.";
+    console.error(err);
+  });
+</script>
+</body>
+</html>
