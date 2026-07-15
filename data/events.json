@@ -1,21 +1,10 @@
 {
-  "generated_at": "2026-07-14T21:34:15Z",
+  "generated_at": "2026-07-15T07:32:02Z",
   "lists": [
     "Local",
     "Off Angle"
   ],
   "events": [
-    {
-      "id": "red-rocks-2026-07-14-kaleo",
-      "venue": "Red Rocks",
-      "list": "Off Angle",
-      "date": "2026-07-14",
-      "time": "7:30 PM",
-      "artist": "KALEO",
-      "support": "Elle King",
-      "genre": "Live Music",
-      "url": "https://www.redrocksonline.com/events/kaleo-with-very-special-guest-elle-king-1287812/"
-    },
     {
       "id": "red-rocks-2026-07-15-the-head-and-the-heart-with-the-colorado-symphony-orchestra",
       "venue": "Red Rocks",
@@ -1601,6 +1590,17 @@
       "url": "https://wl.seetickets.us/event/FREE-with-RSVP-Jamback-at-The-Concourse-Project/687516?afflky=TheConcourseProject"
     },
     {
+      "id": "kingdom-2026-09-04-horse-meat-disco-atx-sweat-labor-day-weekend",
+      "venue": "Kingdom",
+      "list": "Local",
+      "date": "2026-09-04",
+      "time": "10:00 PM",
+      "artist": "HORSE MEAT DISCO ATX SWEAT LABOR DAY WEEKEND",
+      "support": "",
+      "genre": "Live Music",
+      "url": "https://kingdomnightclub.com/event/horse-meat-disco-atx-sweat-labor-day-weekend/kingdom-nightclub/austin-texas/"
+    },
+    {
       "id": "red-rocks-2026-09-04-mana",
       "venue": "Red Rocks",
       "list": "Off Angle",
@@ -1632,6 +1632,17 @@
       "support": "",
       "genre": "EDM",
       "url": "https://wl.eventim.us/event/LSRCITY-X-by-Gareth-Emery-HOUSTON/697705?afflky=DuctworkHouston&EVENTPASS=LCGAX"
+    },
+    {
+      "id": "kingdom-2026-09-05-tuff-atx-sweat-labor-day-weekend",
+      "venue": "Kingdom",
+      "list": "Local",
+      "date": "2026-09-05",
+      "time": "10:00 PM",
+      "artist": "TUFF ATX SWEAT LABOR DAY WEEKEND",
+      "support": "",
+      "genre": "Live Music",
+      "url": "https://kingdomnightclub.com/event/tuff-atx-sweat-labor-day-weekend/kingdom-nightclub/austin-texas/"
     },
     {
       "id": "red-rocks-2026-09-05-mana",
