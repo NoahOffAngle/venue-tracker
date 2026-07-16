@@ -1,21 +1,10 @@
 {
-  "generated_at": "2026-07-15T21:33:30Z",
+  "generated_at": "2026-07-16T07:39:29Z",
   "lists": [
     "Local",
     "Off Angle"
   ],
   "events": [
-    {
-      "id": "red-rocks-2026-07-15-the-head-and-the-heart-with-the-colorado-symphony-orchestra",
-      "venue": "Red Rocks",
-      "list": "Off Angle",
-      "date": "2026-07-15",
-      "time": "7:30 PM",
-      "artist": "The Head And The Heart with the Colorado Symphony Orchestra",
-      "support": "",
-      "genre": "Live Music",
-      "url": "https://www.redrocksonline.com/events/the-head-and-the-heart-with-the-colorado-symphony-1216455/"
-    },
     {
       "id": "kingdom-2026-07-16-hot-summer-nights",
       "venue": "Kingdom",
@@ -488,6 +477,17 @@
       "support": "",
       "genre": "EDM",
       "url": "https://wl.eventim.us/event/Blastoyz-DALLAS/688689?afflky=DiscoPresents-Ductwork"
+    },
+    {
+      "id": "kingdom-2026-07-31-late-service",
+      "venue": "Kingdom",
+      "list": "Local",
+      "date": "2026-07-31",
+      "time": "10:00 PM",
+      "artist": "Late Service",
+      "support": "",
+      "genre": "Live Music",
+      "url": "https://kingdomnightclub.com/event/late-service/kingdom-nightclub/austin-texas/"
     },
     {
       "id": "kingdom-2026-07-31-sonic-connection-an-immersive-date-night-experience",
@@ -2564,7 +2564,7 @@
       "date": "2026-10-12",
       "time": "7:00 PM",
       "artist": "Rise Against",
-      "support": "Teen Mortgage, Alkaline Trio",
+      "support": "Alkaline Trio, Teen Mortgage",
       "genre": "Live Music",
       "url": "https://www.redrocksonline.com/events/rise-against-ricochet-2026-1366745/"
     },
@@ -2795,7 +2795,7 @@
       "date": "2026-10-23",
       "time": "5:00 PM",
       "artist": "Mersiv (Two Sets)",
-      "support": "Know Good, Jaenga, Phrva, Dr. Ushuu, SLOWDOWN, Vyhara",
+      "support": "Know Good, Jaenga, Phrva, Dr. Ushuu, Vyhara",
       "genre": "EDM",
       "url": "https://www.redrocksonline.com/events/mersiv-1247239/"
     },
