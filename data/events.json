@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-17T21:10:56Z",
+  "generated_at": "2026-07-18T07:13:16Z",
   "lists": [
     "Local",
     "Off Angle"
@@ -17,28 +17,6 @@
       "url": "https://kingdomnightclub.com/event/hot-summer-nights-2/kingdom-nightclub/austin-texas/"
     },
     {
-      "id": "red-rocks-2026-07-17-the-string-cheese-incident",
-      "venue": "Red Rocks",
-      "list": "Off Angle",
-      "date": "2026-07-17",
-      "time": "6:00 PM",
-      "artist": "The String Cheese Incident",
-      "support": "Clay Street Unit",
-      "genre": "Live Music",
-      "url": "https://www.redrocksonline.com/events/the-string-cheese-incident-1249068/"
-    },
-    {
-      "id": "under-the-k-bridge-2026-07-17-breakaway-festival-ft-tiesto",
-      "venue": "Under the K Bridge",
-      "list": "Off Angle",
-      "date": "2026-07-17",
-      "time": "6:00 PM",
-      "artist": "Breakaway Festival ft. Tiësto",
-      "support": "D.O.D, Lilly Palmer, Camoufly, DJ Mandy, Oppidan, Arlo, Wes Mills, Daniel Lerman, Griffen Haas, Jivan Calderone",
-      "genre": "EDM",
-      "url": "https://underthekbridge.org/events/detail?event_id=1372373"
-    },
-    {
       "id": "emo-s-2026-07-17-club-90s-presents-off-campus-night",
       "venue": "Emo's",
       "list": "Local",
@@ -48,17 +26,6 @@
       "support": "",
       "genre": "Live Music",
       "url": "https://www.ticketmaster.com/club-90s-presents-off-campus-night-austin-texas-07-17-2026/event/3A0064D4BA15B5B8"
-    },
-    {
-      "id": "silo-dallas-2026-07-17-ghengar",
-      "venue": "Silo Dallas",
-      "list": "Local",
-      "date": "2026-07-17",
-      "time": "9:00 PM",
-      "artist": "Ghengar",
-      "support": "",
-      "genre": "EDM",
-      "url": "https://wl.eventim.us/event/GHENGAR-DALLAS/690089?afflky=SILO"
     },
     {
       "id": "the-concourse-project-2026-07-17-free-with-rsvp-reggaeton-rave",
@@ -81,6 +48,17 @@
       "support": "",
       "genre": "Live Music",
       "url": "https://kingdomnightclub.com/event/hot-summer-nights-3/kingdom-nightclub/austin-texas/"
+    },
+    {
+      "id": "kingdom-2026-07-18-friday-night-after-hours",
+      "venue": "Kingdom",
+      "list": "Local",
+      "date": "2026-07-18",
+      "time": "2:00 AM",
+      "artist": "Friday Night After Hours",
+      "support": "",
+      "genre": "Live Music",
+      "url": "https://kingdomnightclub.com/event/friday-night-after-hours-3/kingdom-nightclub/austin-texas/"
     },
     {
       "id": "red-rocks-2026-07-18-yoga-on-the-rocks",
