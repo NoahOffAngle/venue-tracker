@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-18T20:33:20Z",
+  "generated_at": "2026-07-19T07:53:22Z",
   "lists": [
     "Local",
     "Off Angle"
@@ -17,39 +17,6 @@
       "url": "https://kingdomnightclub.com/event/hot-summer-nights-3/kingdom-nightclub/austin-texas/"
     },
     {
-      "id": "red-rocks-2026-07-18-the-string-cheese-incident",
-      "venue": "Red Rocks",
-      "list": "Off Angle",
-      "date": "2026-07-18",
-      "time": "7:00 PM",
-      "artist": "The String Cheese Incident",
-      "support": "Three Sets Of Cheese",
-      "genre": "Live Music",
-      "url": "https://www.redrocksonline.com/events/the-string-cheese-incident-1249298/"
-    },
-    {
-      "id": "bill-graham-civic-2026-07-18-ella-mai",
-      "venue": "Bill Graham Civic",
-      "list": "Off Angle",
-      "date": "2026-07-18",
-      "time": "8:00 PM",
-      "artist": "Ella Mai",
-      "support": "AMA, Girlfriend",
-      "genre": "Live Music",
-      "url": "https://billgrahamcivic.com/events/ella-mai-260718"
-    },
-    {
-      "id": "silo-dallas-2026-07-18-wax-motif",
-      "venue": "Silo Dallas",
-      "list": "Local",
-      "date": "2026-07-18",
-      "time": "9:00 PM",
-      "artist": "Wax Motif",
-      "support": "",
-      "genre": "EDM",
-      "url": "https://wl.eventim.us/event/Wax-Motif-DALLAS/687113?afflky=SILO"
-    },
-    {
       "id": "the-concourse-project-2026-07-18-infected-mushroom-hybrid-set",
       "venue": "The Concourse Project",
       "list": "Local",
@@ -59,6 +26,17 @@
       "support": "Madison Palmer",
       "genre": "EDM",
       "url": "https://wl.seetickets.us/event/Infected-Mushroom-Hybrid-Set-at-The-Concourse-Project/687779?afflky=TheConcourseProject"
+    },
+    {
+      "id": "kingdom-2026-07-19-saturday-night-after-hours",
+      "venue": "Kingdom",
+      "list": "Local",
+      "date": "2026-07-19",
+      "time": "12:00 AM",
+      "artist": "Saturday Night After Hours",
+      "support": "",
+      "genre": "Live Music",
+      "url": "https://kingdomnightclub.com/event/saturday-night-after-hours-3/kingdom-nightclub/austin-texas/"
     },
     {
       "id": "silo-dallas-2026-07-19-fleetmac-wood",
