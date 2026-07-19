@@ -1,43 +1,10 @@
 {
-  "generated_at": "2026-07-19T07:53:22Z",
+  "generated_at": "2026-07-19T15:34:54Z",
   "lists": [
     "Local",
     "Off Angle"
   ],
   "events": [
-    {
-      "id": "kingdom-2026-07-18-hot-summer-nights",
-      "venue": "Kingdom",
-      "list": "Local",
-      "date": "2026-07-18",
-      "time": "10:00 PM",
-      "artist": "Hot Summer Nights",
-      "support": "",
-      "genre": "Live Music",
-      "url": "https://kingdomnightclub.com/event/hot-summer-nights-3/kingdom-nightclub/austin-texas/"
-    },
-    {
-      "id": "the-concourse-project-2026-07-18-infected-mushroom-hybrid-set",
-      "venue": "The Concourse Project",
-      "list": "Local",
-      "date": "2026-07-18",
-      "time": "9:00 PM",
-      "artist": "Infected Mushroom (Hybrid Set)",
-      "support": "Madison Palmer",
-      "genre": "EDM",
-      "url": "https://wl.seetickets.us/event/Infected-Mushroom-Hybrid-Set-at-The-Concourse-Project/687779?afflky=TheConcourseProject"
-    },
-    {
-      "id": "kingdom-2026-07-19-saturday-night-after-hours",
-      "venue": "Kingdom",
-      "list": "Local",
-      "date": "2026-07-19",
-      "time": "12:00 AM",
-      "artist": "Saturday Night After Hours",
-      "support": "",
-      "genre": "Live Music",
-      "url": "https://kingdomnightclub.com/event/saturday-night-after-hours-3/kingdom-nightclub/austin-texas/"
-    },
     {
       "id": "silo-dallas-2026-07-19-fleetmac-wood",
       "venue": "Silo Dallas",
@@ -212,7 +179,7 @@
       "artist": "Yoga on the Rocks",
       "support": "",
       "genre": "Live Music",
-      "url": "https://www.redrocksonline.com/events/yoga-on-the-rocks-2026-1415123-1/"
+      "url": "https://www.redrocksonline.com/events/yoga-on-the-rocks-2026-1415123-5/"
     },
     {
       "id": "red-rocks-2026-07-25-darius-rucker-songs-of-summer-tour-2026",
@@ -443,7 +410,7 @@
       "artist": "Yoga on the Rocks",
       "support": "",
       "genre": "Live Music",
-      "url": "https://www.redrocksonline.com/events/yoga-on-the-rocks-2026-1415123-2/"
+      "url": "https://www.redrocksonline.com/events/yoga-on-the-rocks-2026-1415123-1/"
     },
     {
       "id": "red-rocks-2026-08-01-tedeschi-trucks-band",
@@ -652,7 +619,7 @@
       "artist": "Yoga on the Rocks",
       "support": "",
       "genre": "Live Music",
-      "url": "https://www.redrocksonline.com/events/yoga-on-the-rocks-2026-1415123-3/"
+      "url": "https://www.redrocksonline.com/events/yoga-on-the-rocks-2026-1415123-2/"
     },
     {
       "id": "under-the-k-bridge-2026-08-08-charlotte-de-witte-b2b-yousuke-yukimatsu-u-uk-uk1mat-u",
@@ -850,7 +817,7 @@
       "artist": "Yoga on the Rocks",
       "support": "",
       "genre": "Live Music",
-      "url": "https://www.redrocksonline.com/events/yoga-on-the-rocks-2026-1415123-4/"
+      "url": "https://www.redrocksonline.com/events/yoga-on-the-rocks-2026-1415123-3/"
     },
     {
       "id": "emo-s-2026-08-15-noname",
@@ -1290,7 +1257,7 @@
       "artist": "Yoga on the Rocks",
       "support": "",
       "genre": "Live Music",
-      "url": "https://www.redrocksonline.com/events/yoga-on-the-rocks-2026-1415123-5/"
+      "url": "https://www.redrocksonline.com/events/yoga-on-the-rocks-2026-1415123-4/"
     },
     {
       "id": "under-the-k-bridge-2026-08-29-mochakk",
@@ -1555,6 +1522,17 @@
       "support": "",
       "genre": "EDM",
       "url": "https://wl.eventim.us/event/BELTRAN-HOUSTON/698122?afflky=DuctworkHouston"
+    },
+    {
+      "id": "the-concourse-project-2026-09-05-whomadewho-hybrid-dj-set",
+      "venue": "The Concourse Project",
+      "list": "Local",
+      "date": "2026-09-05",
+      "time": "9:00 PM",
+      "artist": "WhoMadeWho (Hybrid DJ Set)",
+      "support": "",
+      "genre": "EDM",
+      "url": "https://wl.seetickets.us/event/WhoMadeWho-Hybrid-DJ-Set-at-The-Concourse-Project/692640?afflky=TheConcourseProject"
     },
     {
       "id": "red-rocks-2026-09-06-gregory-alan-isakov-with-the-colorado-symphony",
