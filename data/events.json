@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-21T09:34:28Z",
+  "generated_at": "2026-07-21T17:01:23Z",
   "lists": [
     "Local",
     "Off Angle"
@@ -1266,7 +1266,7 @@
       "date": "2026-08-29",
       "time": "9:00 PM",
       "artist": "Indo Warehouse",
-      "support": "",
+      "support": "Deer Jade, Ferno",
       "genre": "EDM",
       "url": "https://wl.seetickets.us/event/Indo-Warehouse-at-The-Concourse-Project/694384?afflky=TheConcourseProject"
     },
@@ -2481,6 +2481,17 @@
       "url": "https://billgrahamcivic.com/events/sara-bareilles-261016"
     },
     {
+      "id": "silo-houston-2026-10-16-sabai-x-hoang",
+      "venue": "Silo Houston",
+      "list": "Local",
+      "date": "2026-10-16",
+      "time": "9:00 PM",
+      "artist": "SABAI x HOANG",
+      "support": "",
+      "genre": "EDM",
+      "url": "https://wl.eventim.us/event/SIDEPIECE-HOUSTON/699511?afflky=DuctworkHouston"
+    },
+    {
       "id": "under-the-k-bridge-2026-10-17-gryffin",
       "venue": "Under the K Bridge",
       "list": "Off Angle",
@@ -2569,6 +2580,28 @@
       "url": "https://www.redrocksonline.com/events/zac-brown-band-1307879/"
     },
     {
+      "id": "emo-s-2026-10-21-marilyn-manson-2-day-ticket-10-21-26-10-22-26",
+      "venue": "Emo's",
+      "list": "Local",
+      "date": "2026-10-21",
+      "time": "12:00 AM",
+      "artist": "Marilyn Manson - 2 Day Ticket (10/21/26 + 10/22/26)",
+      "support": "",
+      "genre": "Live Music",
+      "url": "https://www.ticketmaster.com/marilyn-manson-2-day-ticket-102126-austin-texas-10-21-2026/event/3A0064ED8E754D7B"
+    },
+    {
+      "id": "emo-s-2026-10-21-marilyn-manson",
+      "venue": "Emo's",
+      "list": "Local",
+      "date": "2026-10-21",
+      "time": "8:00 PM",
+      "artist": "Marilyn Manson",
+      "support": "",
+      "genre": "Live Music",
+      "url": "https://www.ticketmaster.com/marilyn-manson-austin-texas-10-21-2026/event/3A0064ED8C38495C"
+    },
+    {
       "id": "red-rocks-2026-10-21-muna",
       "venue": "Red Rocks",
       "list": "Off Angle",
@@ -2600,6 +2633,17 @@
       "support": "",
       "genre": "Live Music",
       "url": "https://billgrahamcivic.com/events/monsta-x-261022"
+    },
+    {
+      "id": "emo-s-2026-10-22-marilyn-manson",
+      "venue": "Emo's",
+      "list": "Local",
+      "date": "2026-10-22",
+      "time": "8:00 PM",
+      "artist": "Marilyn Manson",
+      "support": "",
+      "genre": "Live Music",
+      "url": "https://www.ticketmaster.com/marilyn-manson-austin-texas-10-22-2026/event/3A0064ED8C8749CB"
     },
     {
       "id": "red-rocks-2026-10-23-mersiv-two-sets",
@@ -2800,17 +2844,6 @@
       "url": "https://wl.eventim.us/event/Gorgon-City-DALLAS/695778?afflky=SILO"
     },
     {
-      "id": "emo-s-2026-11-01-hazlett",
-      "venue": "Emo's",
-      "list": "Local",
-      "date": "2026-11-01",
-      "time": "7:00 PM",
-      "artist": "Hazlett",
-      "support": "",
-      "genre": "Live Music",
-      "url": "https://www.ticketmaster.com/hazlett-austin-texas-11-01-2026/event/3A0064CAED7A4FB8"
-    },
-    {
       "id": "silo-dallas-2026-11-01-pan-pot",
       "venue": "Silo Dallas",
       "list": "Local",
@@ -2831,28 +2864,6 @@
       "support": "",
       "genre": "Live Music",
       "url": "https://www.redrocksonline.com/events/yandel-sinfonico-1434572/"
-    },
-    {
-      "id": "emo-s-2026-11-03-knox",
-      "venue": "Emo's",
-      "list": "Local",
-      "date": "2026-11-03",
-      "time": "6:30 PM",
-      "artist": "Knox",
-      "support": "",
-      "genre": "Live Music",
-      "url": "https://www.ticketmaster.com/knox-austin-texas-11-03-2026/event/3A0064E6DE9ABC7D"
-    },
-    {
-      "id": "emo-s-2026-11-04-slow-pulp",
-      "venue": "Emo's",
-      "list": "Local",
-      "date": "2026-11-04",
-      "time": "7:00 PM",
-      "artist": "Slow Pulp",
-      "support": "",
-      "genre": "Live Music",
-      "url": "https://www.ticketmaster.com/slow-pulp-austin-texas-11-04-2026/event/3A0064A58FC6812F"
     },
     {
       "id": "red-rocks-2026-11-04-joshua-slone",
@@ -3072,7 +3083,18 @@
       "artist": "SIDEPIECE",
       "support": "",
       "genre": "EDM",
-      "url": "https://wl.eventim.us/event/LSRCITY-X-by-Gareth-Emery-HOUSTON/697705?afflky=DuctworkHouston&EVENTPASS=LCGAX"
+      "url": "https://wl.eventim.us/event/SIDEPIECE-HOUSTON/699511?afflky=DuctworkHouston"
+    },
+    {
+      "id": "silo-dallas-2026-12-13-sam-wolfe",
+      "venue": "Silo Dallas",
+      "list": "Local",
+      "date": "2026-12-13",
+      "time": "7:00 PM",
+      "artist": "Sam WOLFE",
+      "support": "",
+      "genre": "EDM",
+      "url": "https://silodallas.com/events/sam-wolfe-59102999211"
     },
     {
       "id": "silo-dallas-2026-12-18-due-to-circumstances-beyond-control-the-dillstradamus-dillon-francis-b2b-flosstradamus-event-orig",
