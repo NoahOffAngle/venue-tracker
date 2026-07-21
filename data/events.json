@@ -1,43 +1,10 @@
 {
-  "generated_at": "2026-07-20T21:53:13Z",
+  "generated_at": "2026-07-21T09:34:28Z",
   "lists": [
     "Local",
     "Off Angle"
   ],
   "events": [
-    {
-      "id": "silo-dallas-2026-07-19-fleetmac-wood",
-      "venue": "Silo Dallas",
-      "list": "Local",
-      "date": "2026-07-19",
-      "time": "5:00 PM",
-      "artist": "Fleetmac Wood",
-      "support": "",
-      "genre": "EDM",
-      "url": "https://wl.eventim.us/event/Fleetmac-Wood-DALLAS/691352?afflky=DiscoPresents-Ductwork"
-    },
-    {
-      "id": "emo-s-2026-07-20-tomahawk",
-      "venue": "Emo's",
-      "list": "Local",
-      "date": "2026-07-20",
-      "time": "7:00 PM",
-      "artist": "Tomahawk",
-      "support": "",
-      "genre": "Live Music",
-      "url": "https://www.ticketmaster.com/tomahawk-austin-texas-07-20-2026/event/3A006452B54F2AFE"
-    },
-    {
-      "id": "red-rocks-2026-07-20-hilary-duff",
-      "venue": "Red Rocks",
-      "list": "Off Angle",
-      "date": "2026-07-20",
-      "time": "7:00 PM",
-      "artist": "Hilary Duff",
-      "support": "La Roux, Jade LeMac",
-      "genre": "Live Music",
-      "url": "https://www.redrocksonline.com/events/hilary-duff-1328065/"
-    },
     {
       "id": "red-rocks-2026-07-21-the-colorado-symphony-performs-the-music-of-hans-zimmer-john-williams",
       "venue": "Red Rocks",
@@ -210,7 +177,7 @@
       "date": "2026-07-25",
       "time": "9:00 PM",
       "artist": "Deep Dish (Extended Set)",
-      "support": "",
+      "support": "Will Konitzer, Alec Michael",
       "genre": "EDM",
       "url": "https://wl.seetickets.us/event/Deep-Dish-Extended-Set-at-The-Concourse-Project/691616?afflky=TheConcourseProject"
     },
@@ -2875,6 +2842,17 @@
       "support": "",
       "genre": "Live Music",
       "url": "https://www.ticketmaster.com/knox-austin-texas-11-03-2026/event/3A0064E6DE9ABC7D"
+    },
+    {
+      "id": "emo-s-2026-11-04-slow-pulp",
+      "venue": "Emo's",
+      "list": "Local",
+      "date": "2026-11-04",
+      "time": "7:00 PM",
+      "artist": "Slow Pulp",
+      "support": "",
+      "genre": "Live Music",
+      "url": "https://www.ticketmaster.com/slow-pulp-austin-texas-11-04-2026/event/3A0064A58FC6812F"
     },
     {
       "id": "red-rocks-2026-11-04-joshua-slone",
