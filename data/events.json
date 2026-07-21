@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-21T17:01:23Z",
+  "generated_at": "2026-07-21T21:47:00Z",
   "lists": [
     "Local",
     "Off Angle"
@@ -56,7 +56,7 @@
       "date": "2026-07-23",
       "time": "9:00 PM",
       "artist": "FREE with RSVP: AC Slater",
-      "support": "",
+      "support": "B Side, Doseph",
       "genre": "EDM",
       "url": "https://wl.seetickets.us/event/FREE-with-RSVP-AC-Slater-at-The-Concourse-Project/695041?afflky=TheConcourseProject"
     },
@@ -2006,6 +2006,17 @@
       "support": "",
       "genre": "EDM",
       "url": "https://wl.eventim.us/event/Holy-Priest-DALLAS/694030?afflky=SILO"
+    },
+    {
+      "id": "kingdom-2026-09-25-ahmed-spins",
+      "venue": "Kingdom",
+      "list": "Local",
+      "date": "2026-09-25",
+      "time": "10:00 PM",
+      "artist": "Ahmed Spins",
+      "support": "",
+      "genre": "Live Music",
+      "url": "https://kingdomnightclub.com/event/ahmed-spins/kingdom-nightclub/austin-texas/"
     },
     {
       "id": "under-the-k-bridge-2026-09-25-the-prodigy",
