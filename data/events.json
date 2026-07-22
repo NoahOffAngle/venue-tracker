@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-22T09:34:56Z",
+  "generated_at": "2026-07-22T17:01:13Z",
   "lists": [
     "Local",
     "Off Angle"
@@ -2162,6 +2162,17 @@
       "url": "https://www.redrocksonline.com/events/beck-ride-lonesome-tour-1407922/"
     },
     {
+      "id": "silo-dallas-2026-10-01-hybrid-minds",
+      "venue": "Silo Dallas",
+      "list": "Local",
+      "date": "2026-10-01",
+      "time": "9:00 PM",
+      "artist": "Hybrid Minds",
+      "support": "",
+      "genre": "EDM",
+      "url": "https://silodallas.com/events/hybrid-minds-59178459005"
+    },
+    {
       "id": "red-rocks-2026-10-02-levity-presents-levi-rocks-the-volcano",
       "venue": "Red Rocks",
       "list": "Off Angle",
@@ -3053,6 +3064,17 @@
       "url": "https://wl.eventim.us/event/Virtual-Riot-and-Blanke-DALLAS/695833?afflky=SILO"
     },
     {
+      "id": "silo-houston-2026-11-27-deorro",
+      "venue": "Silo Houston",
+      "list": "Local",
+      "date": "2026-11-27",
+      "time": "9:00 PM",
+      "artist": "Deorro",
+      "support": "",
+      "genre": "EDM",
+      "url": "https://wl.eventim.us/event/SIDEPIECE-HOUSTON/699511?afflky=DuctworkHouston"
+    },
+    {
       "id": "bill-graham-civic-2026-12-02-the-neighbourhood",
       "venue": "Bill Graham Civic",
       "list": "Off Angle",
@@ -3094,7 +3116,7 @@
       "artist": "Sam WOLFE",
       "support": "",
       "genre": "EDM",
-      "url": "https://silodallas.com/events/sam-wolfe-59102999211"
+      "url": "https://wl.eventim.us/event/Sam-Wolfe-DALLAS/699785?afflky=DiscoPresents-Ductwork"
     },
     {
       "id": "silo-dallas-2026-12-18-due-to-circumstances-beyond-control-the-dillstradamus-dillon-francis-b2b-flosstradamus-event-orig",
