@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-22T17:01:13Z",
+  "generated_at": "2026-07-22T21:44:48Z",
   "lists": [
     "Local",
     "Off Angle"
@@ -48,6 +48,17 @@
       "support": "B Side, Doseph",
       "genre": "EDM",
       "url": "https://wl.seetickets.us/event/FREE-with-RSVP-AC-Slater-at-The-Concourse-Project/695041?afflky=TheConcourseProject"
+    },
+    {
+      "id": "kingdom-2026-07-24-night-shift",
+      "venue": "Kingdom",
+      "list": "Local",
+      "date": "2026-07-24",
+      "time": "10:00 PM",
+      "artist": "Night Shift",
+      "support": "",
+      "genre": "Live Music",
+      "url": "https://kingdomnightclub.com/event/night-shift/kingdom-nightclub/austin-texas/"
     },
     {
       "id": "kingdom-2026-07-24-sonic-connection-an-immersive-date-night-experience",
