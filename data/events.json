@@ -1,21 +1,10 @@
 {
-  "generated_at": "2026-07-22T21:44:48Z",
+  "generated_at": "2026-07-23T09:16:29Z",
   "lists": [
     "Local",
     "Off Angle"
   ],
   "events": [
-    {
-      "id": "red-rocks-2026-07-22-the-strokes-reality-awaits-north-america",
-      "venue": "Red Rocks",
-      "list": "Off Angle",
-      "date": "2026-07-22",
-      "time": "7:00 PM",
-      "artist": "The Strokes – Reality Awaits North America",
-      "support": "Hamilton Leithauser, ÖLÜM",
-      "genre": "Live Music",
-      "url": "https://www.redrocksonline.com/events/the-strokes-reality-awaits-north-america-1407661/"
-    },
     {
       "id": "red-rocks-2026-07-23-the-strokes-reality-awaits-north-america",
       "venue": "Red Rocks",
@@ -48,17 +37,6 @@
       "support": "B Side, Doseph",
       "genre": "EDM",
       "url": "https://wl.seetickets.us/event/FREE-with-RSVP-AC-Slater-at-The-Concourse-Project/695041?afflky=TheConcourseProject"
-    },
-    {
-      "id": "kingdom-2026-07-24-night-shift",
-      "venue": "Kingdom",
-      "list": "Local",
-      "date": "2026-07-24",
-      "time": "10:00 PM",
-      "artist": "Night Shift",
-      "support": "",
-      "genre": "Live Music",
-      "url": "https://kingdomnightclub.com/event/night-shift/kingdom-nightclub/austin-texas/"
     },
     {
       "id": "kingdom-2026-07-24-sonic-connection-an-immersive-date-night-experience",
@@ -114,6 +92,17 @@
       "support": "Adam Ten, Darco",
       "genre": "EDM",
       "url": "https://wl.seetickets.us/event/Adam-Ten-Darco-at-The-Concourse-Project/691667?afflky=TheConcourseProject"
+    },
+    {
+      "id": "kingdom-2026-07-25-night-shift",
+      "venue": "Kingdom",
+      "list": "Local",
+      "date": "2026-07-25",
+      "time": "12:00 AM",
+      "artist": "Night Shift",
+      "support": "",
+      "genre": "Live Music",
+      "url": "https://kingdomnightclub.com/event/night-shift/kingdom-nightclub/austin-texas/"
     },
     {
       "id": "kingdom-2026-07-25-sonic-connection-an-immersive-date-night-experience",
