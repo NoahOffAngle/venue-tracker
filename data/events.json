@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-23T17:07:43Z",
+  "generated_at": "2026-07-23T21:40:49Z",
   "lists": [
     "Local",
     "Off Angle"
@@ -2501,6 +2501,17 @@
       "support": "",
       "genre": "Live Music",
       "url": "https://billgrahamcivic.com/events/sara-bareilles-261016"
+    },
+    {
+      "id": "silo-dallas-2026-10-16-bob-moses",
+      "venue": "Silo Dallas",
+      "list": "Local",
+      "date": "2026-10-16",
+      "time": "9:00 PM",
+      "artist": "Bob Moses",
+      "support": "",
+      "genre": "EDM",
+      "url": "https://silodallas.com/events/bob-moses-59178642987"
     },
     {
       "id": "silo-houston-2026-10-16-sabai-x-hoang",
