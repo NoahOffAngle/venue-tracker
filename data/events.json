@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-23T09:16:29Z",
+  "generated_at": "2026-07-23T17:07:43Z",
   "lists": [
     "Local",
     "Off Angle"
@@ -2170,7 +2170,7 @@
       "artist": "Hybrid Minds",
       "support": "",
       "genre": "EDM",
-      "url": "https://silodallas.com/events/hybrid-minds-59178459005"
+      "url": "https://wl.eventim.us/event/Hybrid-Minds-DALLAS/699781?afflky=DiscoPresents-Ductwork"
     },
     {
       "id": "red-rocks-2026-10-02-levity-presents-levi-rocks-the-volcano",
@@ -2393,6 +2393,17 @@
       "url": "https://www.redrocksonline.com/events/rise-against-ricochet-2026-1366745/"
     },
     {
+      "id": "emo-s-2026-10-13-quadeca",
+      "venue": "Emo's",
+      "list": "Local",
+      "date": "2026-10-13",
+      "time": "7:00 PM",
+      "artist": "Quadeca",
+      "support": "",
+      "genre": "Live Music",
+      "url": "https://www.ticketmaster.com/quadeca-austin-texas-10-13-2026/event/3A0064EEB0058ECA"
+    },
+    {
       "id": "red-rocks-2026-10-13-shaboozey",
       "venue": "Red Rocks",
       "list": "Off Angle",
@@ -2500,7 +2511,7 @@
       "artist": "SABAI x HOANG",
       "support": "",
       "genre": "EDM",
-      "url": "https://wl.eventim.us/event/SIDEPIECE-HOUSTON/699511?afflky=DuctworkHouston"
+      "url": "https://wl.eventim.us/event/SABAI-x-HOANG-HOUSTON/699331?afflky=DuctworkHouston&eventpass=CHANCE"
     },
     {
       "id": "under-the-k-bridge-2026-10-17-gryffin",
@@ -2734,17 +2745,6 @@
       "url": "https://wl.eventim.us/event/San-Holo-DALLAS/694651?afflky=SILO"
     },
     {
-      "id": "emo-s-2026-10-25-mom-jeans",
-      "venue": "Emo's",
-      "list": "Local",
-      "date": "2026-10-25",
-      "time": "6:30 PM",
-      "artist": "Mom Jeans",
-      "support": "",
-      "genre": "Live Music",
-      "url": "https://www.ticketmaster.com/mom-jeans-austin-texas-10-25-2026/event/3A0064A58E8B7BFE"
-    },
-    {
       "id": "red-rocks-2026-10-25-stardew-valley-symphony-of-seasons",
       "venue": "Red Rocks",
       "list": "Off Angle",
@@ -2954,6 +2954,17 @@
       "url": "https://www.redrocksonline.com/events/clipse-j-i-d-1439908/"
     },
     {
+      "id": "kingdom-2026-11-13-com-truise-dj-set",
+      "venue": "Kingdom",
+      "list": "Local",
+      "date": "2026-11-13",
+      "time": "10:00 PM",
+      "artist": "Com Truise – DJ Set",
+      "support": "",
+      "genre": "Live Music",
+      "url": "https://kingdomnightclub.com/event/com-truise-dj-set/kingdom-nightclub/austin-texas/"
+    },
+    {
       "id": "red-rocks-2026-11-13-gryffin",
       "venue": "Red Rocks",
       "list": "Off Angle",
@@ -3072,7 +3083,7 @@
       "artist": "Deorro",
       "support": "",
       "genre": "EDM",
-      "url": "https://wl.eventim.us/event/SIDEPIECE-HOUSTON/699511?afflky=DuctworkHouston"
+      "url": "https://wl.eventim.us/event/Deorro-HOUSTON/699784?afflky=DuctworkHouston"
     },
     {
       "id": "bill-graham-civic-2026-12-02-the-neighbourhood",
