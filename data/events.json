@@ -1,32 +1,10 @@
 {
-  "generated_at": "2026-07-24T09:13:18Z",
+  "generated_at": "2026-07-24T17:17:33Z",
   "lists": [
     "Local",
     "Off Angle"
   ],
   "events": [
-    {
-      "id": "the-concourse-project-2026-07-23-free-with-rsvp-ac-slater",
-      "venue": "The Concourse Project",
-      "list": "Local",
-      "date": "2026-07-23",
-      "time": "9:00 PM",
-      "artist": "FREE with RSVP: AC Slater",
-      "support": "B Side, Doseph",
-      "genre": "EDM",
-      "url": "https://wl.seetickets.us/event/FREE-with-RSVP-AC-Slater-at-The-Concourse-Project/695041?afflky=TheConcourseProject"
-    },
-    {
-      "id": "kingdom-2026-07-24-sonic-connection-an-immersive-date-night-experience",
-      "venue": "Kingdom",
-      "list": "Local",
-      "date": "2026-07-24",
-      "time": "6:30 PM",
-      "artist": "Sonic Connection: An Immersive Date Night Experience",
-      "support": "",
-      "genre": "EDM",
-      "url": "https://kingdomnightclub.com/event/sonic-connection-an-immersive-date-night-experience/kingdom-nightclub/austin-texas/"
-    },
     {
       "id": "red-rocks-2026-07-24-cross-canadian-ragweed",
       "venue": "Red Rocks",
@@ -81,17 +59,6 @@
       "support": "",
       "genre": "Live Music",
       "url": "https://kingdomnightclub.com/event/night-shift/kingdom-nightclub/austin-texas/"
-    },
-    {
-      "id": "kingdom-2026-07-25-sonic-connection-an-immersive-date-night-experience",
-      "venue": "Kingdom",
-      "list": "Local",
-      "date": "2026-07-25",
-      "time": "6:30 PM",
-      "artist": "Sonic Connection: An Immersive Date Night Experience",
-      "support": "",
-      "genre": "EDM",
-      "url": "https://kingdomnightclub.com/event/sonic-connection-an-immersive-date-night-experience-2/kingdom-nightclub/austin-texas/"
     },
     {
       "id": "red-rocks-2026-07-25-yoga-on-the-rocks",
@@ -793,7 +760,7 @@
       "date": "2026-08-15",
       "time": "9:00 PM",
       "artist": "ACRAZE",
-      "support": "",
+      "support": "Rello",
       "genre": "EDM",
       "url": "https://wl.seetickets.us/event/ACRAZE-at-The-Concourse-Project/690073?afflky=TheConcourseProject"
     },
@@ -1478,6 +1445,28 @@
       "support": "",
       "genre": "EDM",
       "url": "https://wl.eventim.us/event/Galantis-DALLAS/698482?afflky=SILO"
+    },
+    {
+      "id": "silo-houston-2026-09-06-don-diablo",
+      "venue": "Silo Houston",
+      "list": "Local",
+      "date": "2026-09-06",
+      "time": "9:00 PM",
+      "artist": "Don Diablo",
+      "support": "",
+      "genre": "EDM",
+      "url": "https://wl.eventim.us/event/LSRCITY-X-by-Gareth-Emery-HOUSTON/697705?afflky=DuctworkHouston&EVENTPASS=LCGAX"
+    },
+    {
+      "id": "the-concourse-project-2026-09-06-alignment-peterblue",
+      "venue": "The Concourse Project",
+      "list": "Local",
+      "date": "2026-09-06",
+      "time": "9:00 PM",
+      "artist": "Alignment + PETERBLUE",
+      "support": "Alignment, PETERBLUE",
+      "genre": "EDM",
+      "url": "https://wl.seetickets.us/event/Alignment-PETERBLUE-at-The-Concourse-Project/687517?afflky=TheConcourseProject"
     },
     {
       "id": "red-rocks-2026-09-07-gregory-alan-isakov-with-the-colorado-symphony",
@@ -2489,7 +2478,7 @@
       "artist": "Bob Moses",
       "support": "",
       "genre": "EDM",
-      "url": "https://silodallas.com/events/bob-moses-59178642987"
+      "url": "https://wl.eventim.us/event/Bob-Moses-club-set-DALLAS/700129?afflky=SILO"
     },
     {
       "id": "silo-houston-2026-10-16-sabai-x-hoang",
@@ -3050,7 +3039,7 @@
       "artist": "Crankdat",
       "support": "",
       "genre": "EDM",
-      "url": "https://silohouston.com/"
+      "url": "https://wl.eventim.us/event/Deorro-HOUSTON/699784?afflky=DuctworkHouston"
     },
     {
       "id": "silo-dallas-2026-11-25-virtual-riot-blanke",
