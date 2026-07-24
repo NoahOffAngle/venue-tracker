@@ -1,32 +1,10 @@
 {
-  "generated_at": "2026-07-23T21:40:49Z",
+  "generated_at": "2026-07-24T09:13:18Z",
   "lists": [
     "Local",
     "Off Angle"
   ],
   "events": [
-    {
-      "id": "red-rocks-2026-07-23-the-strokes-reality-awaits-north-america",
-      "venue": "Red Rocks",
-      "list": "Off Angle",
-      "date": "2026-07-23",
-      "time": "7:00 PM",
-      "artist": "The Strokes – Reality Awaits North America",
-      "support": "Hamilton Leithauser, ÖLÜM",
-      "genre": "Live Music",
-      "url": "https://www.redrocksonline.com/events/the-strokes-reality-awaits-north-america-1407666/"
-    },
-    {
-      "id": "silo-dallas-2026-07-23-hostage-situation",
-      "venue": "Silo Dallas",
-      "list": "Local",
-      "date": "2026-07-23",
-      "time": "9:00 PM",
-      "artist": "Hostage Situation",
-      "support": "",
-      "genre": "EDM",
-      "url": "https://wl.eventim.us/event/Hostage-Situation-DALLAS/691197?afflky=DiscoPresents-Ductwork"
-    },
     {
       "id": "the-concourse-project-2026-07-23-free-with-rsvp-ac-slater",
       "venue": "The Concourse Project",
@@ -2987,17 +2965,6 @@
       "url": "https://www.redrocksonline.com/events/gryffin-1394914/"
     },
     {
-      "id": "red-rocks-2026-11-14-mike",
-      "venue": "Red Rocks",
-      "list": "Off Angle",
-      "date": "2026-11-14",
-      "time": "5:30 PM",
-      "artist": "mike.",
-      "support": "closing DJ set from Stevie Daniels",
-      "genre": "Live Music",
-      "url": "https://www.redrocksonline.com/events/mike-1239116/"
-    },
-    {
       "id": "bill-graham-civic-2026-11-14-worship",
       "venue": "Bill Graham Civic",
       "list": "Off Angle",
@@ -3007,6 +2974,17 @@
       "support": "Sub Focus, Dimension, Culture Shock, 1991",
       "genre": "EDM",
       "url": "https://billgrahamcivic.com/events/worship-261114"
+    },
+    {
+      "id": "red-rocks-2026-11-14-mike",
+      "venue": "Red Rocks",
+      "list": "Off Angle",
+      "date": "2026-11-14",
+      "time": "7:30 PM",
+      "artist": "mike.",
+      "support": "closing DJ set from Stevie Daniels",
+      "genre": "Live Music",
+      "url": "https://www.redrocksonline.com/events/mike-1239116/"
     },
     {
       "id": "silo-dallas-2026-11-14-zhu",
