@@ -1,32 +1,10 @@
 {
-  "generated_at": "2026-07-25T07:35:52Z",
+  "generated_at": "2026-07-25T15:48:33Z",
   "lists": [
     "Local",
     "Off Angle"
   ],
   "events": [
-    {
-      "id": "the-concourse-project-2026-07-24-adam-ten-darco",
-      "venue": "The Concourse Project",
-      "list": "Local",
-      "date": "2026-07-24",
-      "time": "9:00 PM",
-      "artist": "Adam Ten + Darco",
-      "support": "Adam Ten, Darco",
-      "genre": "EDM",
-      "url": "https://wl.seetickets.us/event/Adam-Ten-Darco-at-The-Concourse-Project/691667?afflky=TheConcourseProject"
-    },
-    {
-      "id": "kingdom-2026-07-25-night-shift",
-      "venue": "Kingdom",
-      "list": "Local",
-      "date": "2026-07-25",
-      "time": "12:00 AM",
-      "artist": "Night Shift",
-      "support": "",
-      "genre": "Live Music",
-      "url": "https://kingdomnightclub.com/event/night-shift/kingdom-nightclub/austin-texas/"
-    },
     {
       "id": "red-rocks-2026-07-25-yoga-on-the-rocks",
       "venue": "Red Rocks",
@@ -1522,6 +1500,17 @@
       "support": "",
       "genre": "EDM",
       "url": "https://wl.eventim.us/event/Calcium-DALLAS/694650?afflky=DiscoPresents-Ductwork"
+    },
+    {
+      "id": "the-concourse-project-2026-09-11-zeds-dead-at-germania-insurance-amphitheater",
+      "venue": "The Concourse Project",
+      "list": "Local",
+      "date": "2026-09-11",
+      "time": "7:00 PM",
+      "artist": "Zeds Dead at Germania Insurance Amphitheater",
+      "support": "Daily Bread",
+      "genre": "EDM",
+      "url": "https://www.ticketmaster.com/event/3A00645787918635?utm_campaign=Adv-3536119&utm_source=realmusic+events&utm_medium=other_med_ln_digital"
     },
     {
       "id": "red-rocks-2026-09-11-brandi-carlile",
