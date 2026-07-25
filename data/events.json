@@ -1,43 +1,10 @@
 {
-  "generated_at": "2026-07-24T21:46:30Z",
+  "generated_at": "2026-07-25T07:35:52Z",
   "lists": [
     "Local",
     "Off Angle"
   ],
   "events": [
-    {
-      "id": "red-rocks-2026-07-24-cross-canadian-ragweed",
-      "venue": "Red Rocks",
-      "list": "Off Angle",
-      "date": "2026-07-24",
-      "time": "6:30 PM",
-      "artist": "Cross Canadian Ragweed",
-      "support": "The Smokin Oaks, Waves in April",
-      "genre": "Live Music",
-      "url": "https://www.redrocksonline.com/events/cross-canadian-ragweed-1322110/"
-    },
-    {
-      "id": "emo-s-2026-07-24-the-marvelous-miss-gender-starring-bosco",
-      "venue": "Emo's",
-      "list": "Local",
-      "date": "2026-07-24",
-      "time": "7:00 PM",
-      "artist": "The Marvelous Miss Gender starring BOSCO",
-      "support": "",
-      "genre": "Live Music",
-      "url": "https://www.ticketmaster.com/the-marvelous-miss-gender-starring-bosco-austin-texas-07-24-2026/event/3A006462EB9EEE15"
-    },
-    {
-      "id": "silo-dallas-2026-07-24-mita-gami",
-      "venue": "Silo Dallas",
-      "list": "Local",
-      "date": "2026-07-24",
-      "time": "9:00 PM",
-      "artist": "Mita Gami",
-      "support": "",
-      "genre": "EDM",
-      "url": "https://wl.eventim.us/event/MITA-GAMI-DALLAS/685102?afflky=SILO"
-    },
     {
       "id": "the-concourse-project-2026-07-24-adam-ten-darco",
       "venue": "The Concourse Project",
@@ -2721,6 +2688,17 @@
       "support": "",
       "genre": "EDM",
       "url": "https://wl.eventim.us/event/San-Holo-DALLAS/694651?afflky=SILO"
+    },
+    {
+      "id": "emo-s-2026-10-25-mom-jeans",
+      "venue": "Emo's",
+      "list": "Local",
+      "date": "2026-10-25",
+      "time": "6:30 PM",
+      "artist": "Mom Jeans",
+      "support": "",
+      "genre": "Live Music",
+      "url": "https://www.ticketmaster.com/mom-jeans-austin-texas-10-25-2026/event/3A0064A58E8B7BFE"
     },
     {
       "id": "red-rocks-2026-10-25-stardew-valley-symphony-of-seasons",
