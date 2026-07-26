@@ -1,43 +1,10 @@
 {
-  "generated_at": "2026-07-25T20:38:04Z",
+  "generated_at": "2026-07-26T09:02:52Z",
   "lists": [
     "Local",
     "Off Angle"
   ],
   "events": [
-    {
-      "id": "red-rocks-2026-07-25-darius-rucker-songs-of-summer-tour-2026",
-      "venue": "Red Rocks",
-      "list": "Off Angle",
-      "date": "2026-07-25",
-      "time": "7:00 PM",
-      "artist": "Darius Rucker: Songs of Summer Tour 2026",
-      "support": "Old Crow Medicine Show, Austin Williams",
-      "genre": "Live Music",
-      "url": "https://www.redrocksonline.com/events/darius-rucker-songs-of-summer-tour-2026-1342740/"
-    },
-    {
-      "id": "kingdom-2026-07-25-amped-austin",
-      "venue": "Kingdom",
-      "list": "Local",
-      "date": "2026-07-25",
-      "time": "9:00 PM",
-      "artist": "AMPED: AUSTIN",
-      "support": "",
-      "genre": "Live Music",
-      "url": "https://kingdomnightclub.com/event/amped-austin/kingdom-nightclub/austin-texas/"
-    },
-    {
-      "id": "silo-dallas-2026-07-25-walker-royce",
-      "venue": "Silo Dallas",
-      "list": "Local",
-      "date": "2026-07-25",
-      "time": "9:00 PM",
-      "artist": "Walker & Royce",
-      "support": "",
-      "genre": "EDM",
-      "url": "https://wl.eventim.us/event/Walker-and-Royce-DALLAS/668682?afflky=SILO"
-    },
     {
       "id": "the-concourse-project-2026-07-25-deep-dish-extended-set",
       "venue": "The Concourse Project",
@@ -234,7 +201,7 @@
       "artist": "Yoga on the Rocks",
       "support": "",
       "genre": "Live Music",
-      "url": "https://www.redrocksonline.com/events/yoga-on-the-rocks-2026-1415123-1/"
+      "url": "https://www.redrocksonline.com/events/yoga-on-the-rocks-2026-1415123-12/"
     },
     {
       "id": "red-rocks-2026-08-01-tedeschi-trucks-band",
@@ -443,7 +410,7 @@
       "artist": "Yoga on the Rocks",
       "support": "",
       "genre": "Live Music",
-      "url": "https://www.redrocksonline.com/events/yoga-on-the-rocks-2026-1415123-2/"
+      "url": "https://www.redrocksonline.com/events/yoga-on-the-rocks-2026-1415123-1/"
     },
     {
       "id": "under-the-k-bridge-2026-08-08-charlotte-de-witte-b2b-yousuke-yukimatsu-u-uk-uk1mat-u",
@@ -641,7 +608,7 @@
       "artist": "Yoga on the Rocks",
       "support": "",
       "genre": "Live Music",
-      "url": "https://www.redrocksonline.com/events/yoga-on-the-rocks-2026-1415123-3/"
+      "url": "https://www.redrocksonline.com/events/yoga-on-the-rocks-2026-1415123-2/"
     },
     {
       "id": "emo-s-2026-08-15-noname",
@@ -1081,7 +1048,7 @@
       "artist": "Yoga on the Rocks",
       "support": "",
       "genre": "Live Music",
-      "url": "https://www.redrocksonline.com/events/yoga-on-the-rocks-2026-1415123-4/"
+      "url": "https://www.redrocksonline.com/events/yoga-on-the-rocks-2026-1415123-3/"
     },
     {
       "id": "under-the-k-bridge-2026-08-29-mochakk",
