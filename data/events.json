@@ -1,21 +1,10 @@
 {
-  "generated_at": "2026-07-26T09:02:52Z",
+  "generated_at": "2026-07-26T15:48:36Z",
   "lists": [
     "Local",
     "Off Angle"
   ],
   "events": [
-    {
-      "id": "the-concourse-project-2026-07-25-deep-dish-extended-set",
-      "venue": "The Concourse Project",
-      "list": "Local",
-      "date": "2026-07-25",
-      "time": "9:00 PM",
-      "artist": "Deep Dish (Extended Set)",
-      "support": "Will Konitzer, Alec Michael",
-      "genre": "EDM",
-      "url": "https://wl.seetickets.us/event/Deep-Dish-Extended-Set-at-The-Concourse-Project/691616?afflky=TheConcourseProject"
-    },
     {
       "id": "silo-dallas-2026-07-26-eli-fur",
       "venue": "Silo Dallas",
@@ -201,7 +190,7 @@
       "artist": "Yoga on the Rocks",
       "support": "",
       "genre": "Live Music",
-      "url": "https://www.redrocksonline.com/events/yoga-on-the-rocks-2026-1415123-12/"
+      "url": "https://www.redrocksonline.com/events/yoga-on-the-rocks-2026-1415123-4/"
     },
     {
       "id": "red-rocks-2026-08-01-tedeschi-trucks-band",
@@ -1533,6 +1522,17 @@
       "support": "",
       "genre": "EDM",
       "url": "https://wl.eventim.us/event/INDO-WAREHOUSE-DALLAS/695177?afflky=SILO"
+    },
+    {
+      "id": "the-concourse-project-2026-09-12-lsr-city-x-by-gareth-emery",
+      "venue": "The Concourse Project",
+      "list": "Local",
+      "date": "2026-09-12",
+      "time": "9:00 PM",
+      "artist": "LSR/CITY X by Gareth Emery",
+      "support": "LSR/CITY, Gareth Emery",
+      "genre": "EDM",
+      "url": "https://wl.seetickets.us/event/LSRCITY-X-by-Gareth-Emery-at-The-Concourse-Project/690066?afflky=TheConcourseProject"
     },
     {
       "id": "red-rocks-2026-09-13-brandi-carlile",
