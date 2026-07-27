@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-27T12:42:37Z",
+  "generated_at": "2026-07-27T21:51:37Z",
   "lists": [
     "Local",
     "Off Angle"
@@ -1077,7 +1077,7 @@
       "venue": "Silo Dallas",
       "list": "Local",
       "date": "2026-08-30",
-      "time": "7:00 PM",
+      "time": "5:00 PM",
       "artist": "Desert Hearts",
       "support": "",
       "genre": "EDM",
@@ -1323,7 +1323,7 @@
       "artist": "Don Diablo",
       "support": "",
       "genre": "EDM",
-      "url": "https://wl.eventim.us/event/LSRCITY-X-by-Gareth-Emery-HOUSTON/697705?afflky=DuctworkHouston&EVENTPASS=LCGAX"
+      "url": "https://wl.eventim.us/event/DON-DIABLO-HOUSTON/700243?afflky=DuctworkHouston"
     },
     {
       "id": "the-concourse-project-2026-09-06-alignment-peterblue",
@@ -1953,6 +1953,17 @@
       "url": "https://www.ticketmaster.com/judah-the-lion-austin-texas-09-27-2026/event/3A0064CA993CA0F2"
     },
     {
+      "id": "silo-dallas-2026-09-27-inquisitive",
+      "venue": "Silo Dallas",
+      "list": "Local",
+      "date": "2026-09-27",
+      "time": "7:00 PM",
+      "artist": "Inquisitive",
+      "support": "",
+      "genre": "EDM",
+      "url": "https://silodallas.com/events/inquisitive-59321606926"
+    },
+    {
       "id": "red-rocks-2026-09-27-jungle",
       "venue": "Red Rocks",
       "list": "Off Angle",
@@ -2072,6 +2083,17 @@
       "support": "Frost Children, Kavari, Izzy Camina, Sakr",
       "genre": "EDM",
       "url": "https://www.redrocksonline.com/events/rezz-rocks-viii-1303156/"
+    },
+    {
+      "id": "red-rocks-2026-10-03-deorro",
+      "venue": "Red Rocks",
+      "list": "Off Angle",
+      "date": "2026-10-03",
+      "time": "7:30 PM",
+      "artist": "Deorro",
+      "support": "",
+      "genre": "Live Music",
+      "url": "https://www.redrocksonline.com/events/deorro-1514786/"
     },
     {
       "id": "silo-dallas-2026-10-03-sasha-john-digweed",
@@ -2536,6 +2558,17 @@
       "url": "https://www.ticketmaster.com/marilyn-manson-austin-texas-10-22-2026/event/3A0064ED8C8749CB"
     },
     {
+      "id": "silo-dallas-2026-10-22-gorilla-t",
+      "venue": "Silo Dallas",
+      "list": "Local",
+      "date": "2026-10-22",
+      "time": "9:00 PM",
+      "artist": "Gorilla T",
+      "support": "",
+      "genre": "EDM",
+      "url": "https://silodallas.com/events/gorilla-t-59321483880"
+    },
+    {
       "id": "red-rocks-2026-10-23-mersiv-two-sets",
       "venue": "Red Rocks",
       "list": "Off Angle",
@@ -2853,6 +2886,17 @@
       "support": "Oliver Heldens, AR/CO",
       "genre": "EDM",
       "url": "https://www.redrocksonline.com/events/gryffin-1394914/"
+    },
+    {
+      "id": "bill-graham-civic-2026-11-13-tyla",
+      "venue": "Bill Graham Civic",
+      "list": "Off Angle",
+      "date": "2026-11-13",
+      "time": "8:00 PM",
+      "artist": "Tyla",
+      "support": "",
+      "genre": "Live Music",
+      "url": "https://billgrahamcivic.com/events/tyla-261113"
     },
     {
       "id": "bill-graham-civic-2026-11-14-worship",
