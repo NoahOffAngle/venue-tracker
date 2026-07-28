@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-28T10:06:17Z",
+  "generated_at": "2026-07-28T17:13:59Z",
   "lists": [
     "Local",
     "Off Angle"
@@ -1458,6 +1458,17 @@
       "url": "https://wl.eventim.us/event/LSRCITY-X-by-Gareth-Emery-DALLAS/690277?afflky=SILO"
     },
     {
+      "id": "silo-houston-2026-09-11-bonnie-x-clyde",
+      "venue": "Silo Houston",
+      "list": "Local",
+      "date": "2026-09-11",
+      "time": "9:00 PM",
+      "artist": "Bonnie X Clyde",
+      "support": "",
+      "genre": "EDM",
+      "url": "https://wl.eventim.us/event/LSRCITY-X-by-Gareth-Emery-HOUSTON/697705?afflky=DuctworkHouston&EVENTPASS=LCGAX"
+    },
+    {
       "id": "emo-s-2026-09-12-sex-pistols-steve-jones-paul-cook-glen-matlock-feat-frank-carter",
       "venue": "Emo's",
       "list": "Local",
@@ -1950,7 +1961,7 @@
       "artist": "Inquisitive",
       "support": "",
       "genre": "EDM",
-      "url": "https://silodallas.com/events/inquisitive-59321606926"
+      "url": "https://wl.eventim.us/event/Inquisitive-DALLAS/700366?afflky=DiscoPresents-Ductwork"
     },
     {
       "id": "red-rocks-2026-09-27-jungle",
@@ -2855,6 +2866,17 @@
       "url": "https://www.redrocksonline.com/events/clipse-j-i-d-1439908/"
     },
     {
+      "id": "silo-dallas-2026-11-12-tisoki",
+      "venue": "Silo Dallas",
+      "list": "Local",
+      "date": "2026-11-12",
+      "time": "9:00 PM",
+      "artist": "Tisoki",
+      "support": "",
+      "genre": "EDM",
+      "url": "https://silodallas.com/events/tisoki-59416867981"
+    },
+    {
       "id": "kingdom-2026-11-13-com-truise-dj-set",
       "venue": "Kingdom",
       "list": "Local",
@@ -2987,6 +3009,17 @@
       "url": "https://wl.eventim.us/event/Virtual-Riot-and-Blanke-DALLAS/695833?afflky=SILO"
     },
     {
+      "id": "silo-dallas-2026-11-27-deathpact",
+      "venue": "Silo Dallas",
+      "list": "Local",
+      "date": "2026-11-27",
+      "time": "9:00 PM",
+      "artist": "Deathpact",
+      "support": "",
+      "genre": "EDM",
+      "url": "https://silodallas.com/events/deathpact-59459520609"
+    },
+    {
       "id": "silo-houston-2026-11-27-deorro",
       "venue": "Silo Houston",
       "list": "Local",
@@ -2996,6 +3029,17 @@
       "support": "",
       "genre": "EDM",
       "url": "https://wl.eventim.us/event/Deorro-HOUSTON/699784?afflky=DuctworkHouston"
+    },
+    {
+      "id": "silo-houston-2026-11-28-deathpact",
+      "venue": "Silo Houston",
+      "list": "Local",
+      "date": "2026-11-28",
+      "time": "9:00 PM",
+      "artist": "Deathpact",
+      "support": "",
+      "genre": "EDM",
+      "url": "https://wl.eventim.us/event/LSRCITY-X-by-Gareth-Emery-HOUSTON/697705?afflky=DuctworkHouston&EVENTPASS=LCGAX"
     },
     {
       "id": "bill-graham-civic-2026-12-02-the-neighbourhood",
