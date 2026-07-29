@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-29T10:15:57Z",
+  "generated_at": "2026-07-29T16:54:20Z",
   "lists": [
     "Local",
     "Off Angle"
@@ -122,7 +122,7 @@
       "date": "2026-07-31",
       "time": "9:00 PM",
       "artist": "salute",
-      "support": "",
+      "support": "VRGL, ThatHitMaKer",
       "genre": "EDM",
       "url": "https://wl.seetickets.us/event/salute-at-The-Concourse-Project/685401?afflky=TheConcourseProject"
     },
@@ -188,7 +188,7 @@
       "date": "2026-08-01",
       "time": "9:00 PM",
       "artist": "Matroda (Extended Set)",
-      "support": "",
+      "support": "Andrew Parsons, 45AM",
       "genre": "EDM",
       "url": "https://wl.seetickets.us/event/Matroda-Extended-Set-at-The-Concourse-Project/691662?afflky=TheConcourseProject"
     },
@@ -543,6 +543,17 @@
       "support": "Audien, TELYKast, Amel",
       "genre": "EDM",
       "url": "https://wl.seetickets.us/event/Audien-w-TELYKAST-Amel-at-The-Concourse-Project/689789?afflky=TheConcourseProject"
+    },
+    {
+      "id": "the-concourse-project-2026-08-15-pulse-pilates",
+      "venue": "The Concourse Project",
+      "list": "Local",
+      "date": "2026-08-15",
+      "time": "10:30 AM",
+      "artist": "Pulse Pilates",
+      "support": "Saint Stratus, Cartfish",
+      "genre": "EDM",
+      "url": "https://wl.seetickets.us/event/Pulse-Pilates-at-The-Concourse-Project/699830?afflky=TheConcourseProject"
     },
     {
       "id": "red-rocks-2026-08-15-yoga-on-the-rocks",
@@ -1455,7 +1466,7 @@
       "artist": "Bonnie X Clyde",
       "support": "",
       "genre": "EDM",
-      "url": "https://wl.eventim.us/event/LSRCITY-X-by-Gareth-Emery-HOUSTON/697705?afflky=DuctworkHouston&EVENTPASS=LCGAX"
+      "url": "https://wl.eventim.us/event/BONNIE-X-CLYDE-HOUSTON/700500?afflky=DuctworkHouston"
     },
     {
       "id": "emo-s-2026-09-12-sex-pistols-steve-jones-paul-cook-glen-matlock-feat-frank-carter",
@@ -1491,15 +1502,15 @@
       "url": "https://wl.eventim.us/event/INDO-WAREHOUSE-DALLAS/695177?afflky=SILO"
     },
     {
-      "id": "the-concourse-project-2026-09-12-lsr-city-x-by-gareth-emery",
-      "venue": "The Concourse Project",
+      "id": "silo-houston-2026-09-12-flosstradamus",
+      "venue": "Silo Houston",
       "list": "Local",
       "date": "2026-09-12",
       "time": "9:00 PM",
-      "artist": "LSR/CITY X by Gareth Emery",
-      "support": "LSR/CITY, Gareth Emery",
+      "artist": "Flosstradamus",
+      "support": "",
       "genre": "EDM",
-      "url": "https://wl.seetickets.us/event/LSRCITY-X-by-Gareth-Emery-at-The-Concourse-Project/690066?afflky=TheConcourseProject"
+      "url": "https://wl.eventim.us/event/BONNIE-X-CLYDE-HOUSTON/700500?afflky=DuctworkHouston"
     },
     {
       "id": "red-rocks-2026-09-13-brandi-carlile",
@@ -2555,7 +2566,7 @@
       "artist": "Gorilla T",
       "support": "",
       "genre": "EDM",
-      "url": "https://silodallas.com/events/gorilla-t-59321483880"
+      "url": "https://wl.eventim.us/event/GorillaT-DALLAS/700117?afflky=DiscoPresents-Ductwork&EVENTPASS=INNERMIND"
     },
     {
       "id": "red-rocks-2026-10-23-mersiv-two-sets",
