@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-30T09:38:36Z",
+  "generated_at": "2026-07-30T17:11:25Z",
   "lists": [
     "Local",
     "Off Angle"
@@ -1499,7 +1499,7 @@
       "artist": "Flosstradamus",
       "support": "",
       "genre": "EDM",
-      "url": "https://wl.eventim.us/event/BONNIE-X-CLYDE-HOUSTON/700500?afflky=DuctworkHouston"
+      "url": "https://wl.eventim.us/event/FLOSSTRADAMUS-HOUSTON/700584?afflky=DuctworkHouston"
     },
     {
       "id": "red-rocks-2026-09-13-brandi-carlile",
@@ -2555,7 +2555,7 @@
       "artist": "Gorilla T",
       "support": "",
       "genre": "EDM",
-      "url": "https://wl.eventim.us/event/GorillaT-DALLAS/700117?afflky=DiscoPresents-Ductwork&EVENTPASS=INNERMIND"
+      "url": "https://wl.eventim.us/event/GorillaT-DALLAS/700117?afflky=DiscoPresents-Ductwork"
     },
     {
       "id": "red-rocks-2026-10-23-mersiv-two-sets",
@@ -3006,7 +3006,7 @@
       "artist": "Deathpact",
       "support": "",
       "genre": "EDM",
-      "url": "https://silodallas.com/events/deathpact-59459520609"
+      "url": "https://wl.eventim.us/event/DEATHPACT-DALLAS/700256?afflky=SILO&eventpass=light"
     },
     {
       "id": "silo-houston-2026-11-27-deorro",
@@ -3020,6 +3020,17 @@
       "url": "https://wl.eventim.us/event/Deorro-HOUSTON/699784?afflky=DuctworkHouston"
     },
     {
+      "id": "silo-dallas-2026-11-28-deorro",
+      "venue": "Silo Dallas",
+      "list": "Local",
+      "date": "2026-11-28",
+      "time": "9:00 PM",
+      "artist": "Deorro",
+      "support": "",
+      "genre": "EDM",
+      "url": "https://silodallas.com/events/deorro-59457299369"
+    },
+    {
       "id": "silo-houston-2026-11-28-deathpact",
       "venue": "Silo Houston",
       "list": "Local",
@@ -3028,7 +3039,7 @@
       "artist": "Deathpact",
       "support": "",
       "genre": "EDM",
-      "url": "https://wl.eventim.us/event/LSRCITY-X-by-Gareth-Emery-HOUSTON/697705?afflky=DuctworkHouston&EVENTPASS=LCGAX"
+      "url": "https://wl.eventim.us/event/DEATHPACT-DALLAS/700256?afflky=SILO&eventpass=light"
     },
     {
       "id": "bill-graham-civic-2026-12-02-the-neighbourhood",
