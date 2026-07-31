@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-31T10:06:26Z",
+  "generated_at": "2026-07-31T17:13:20Z",
   "lists": [
     "Local",
     "Off Angle"
@@ -2644,6 +2644,17 @@
       "url": "https://wl.eventim.us/event/San-Holo-DALLAS/694651?afflky=SILO"
     },
     {
+      "id": "silo-houston-2026-10-24-odd-mob",
+      "venue": "Silo Houston",
+      "list": "Local",
+      "date": "2026-10-24",
+      "time": "9:00 PM",
+      "artist": "Odd Mob",
+      "support": "",
+      "genre": "EDM",
+      "url": "https://wl.eventim.us/event/LSRCITY-X-by-Gareth-Emery-HOUSTON/697705?afflky=DuctworkHouston&EVENTPASS=LCGAX"
+    },
+    {
       "id": "emo-s-2026-10-25-mom-jeans",
       "venue": "Emo's",
       "list": "Local",
@@ -2883,7 +2894,7 @@
       "artist": "Tisoki",
       "support": "",
       "genre": "EDM",
-      "url": "https://silodallas.com/events/tisoki-59416867981"
+      "url": "https://wl.eventim.us/event/Tisoki-DALLAS/700493?afflky=DiscoPresents-Ductwork"
     },
     {
       "id": "kingdom-2026-11-13-com-truise-dj-set",
@@ -3026,7 +3037,7 @@
       "artist": "Deathpact",
       "support": "",
       "genre": "EDM",
-      "url": "https://wl.eventim.us/event/DEATHPACT-DALLAS/700256?afflky=SILO&eventpass=light"
+      "url": "https://wl.eventim.us/event/DEATHPACT-FROM-DARKNESS-COMES-LIGHT-ECLIPSED-DALLAS/700256?afflky=SILO"
     },
     {
       "id": "silo-houston-2026-11-27-deorro",
@@ -3048,7 +3059,7 @@
       "artist": "Deorro",
       "support": "",
       "genre": "EDM",
-      "url": "https://silodallas.com/events/deorro-59457299369"
+      "url": "https://wl.eventim.us/event/DEORRO-DALLAS/700877?afflky=SILO"
     },
     {
       "id": "silo-houston-2026-11-28-deathpact",
