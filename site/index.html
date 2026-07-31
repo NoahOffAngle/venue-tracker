@@ -31,7 +31,7 @@
       var(--bg);
     min-height: 100vh;
   }
-  .wrap { max-width: 1160px; margin: 0 auto; padding: 30px 20px 70px; }
+  .wrap { max-width: 1220px; margin: 0 auto; padding: 30px 20px 70px; }
 
   .head { display: flex; align-items: center; gap: 14px; margin-bottom: 20px; }
   .logo {
@@ -44,7 +44,6 @@
     background: linear-gradient(90deg, var(--accent-2), #a78bfa); -webkit-background-clip: text; background-clip: text; color: transparent; }
   h1 { font-size: 24px; margin: 1px 0 0; letter-spacing: -0.02em; font-weight: 800; }
 
-  /* Tabs (venue lists) */
   .tabs { display: flex; flex-wrap: wrap; gap: 4px; margin: 0 0 18px; border-bottom: 1px solid var(--line); }
   .tabs button {
     background: none; border: none; color: var(--muted); font-size: 15px; font-weight: 700;
@@ -52,6 +51,10 @@
   }
   .tabs button:hover { color: var(--fg); }
   .tabs button.on { color: var(--fg); border-bottom-color: var(--accent-2); }
+  .tabs .badge {
+    display: inline-block; margin-left: 6px; font-size: 11px; font-weight: 800; padding: 1px 7px;
+    border-radius: 999px; background: var(--accent); color: #fff; vertical-align: 1px;
+  }
 
   .controls { display: flex; flex-wrap: wrap; gap: 12px; align-items: center; margin-bottom: 14px; }
   .flabel { font-size: 12px; font-weight: 700; color: var(--faint); text-transform: uppercase; letter-spacing: 0.05em; margin-right: 2px; }
@@ -71,20 +74,50 @@
 
   .pills { display: flex; flex-wrap: wrap; gap: 8px; }
   .pills button {
+    display: inline-flex; align-items: center; gap: 7px;
     font-size: 13px; font-weight: 600; padding: 9px 14px; border-radius: 999px; cursor: pointer;
     border: 1px solid var(--line-strong); background: var(--chip); color: var(--muted); transition: .15s;
   }
   .pills button:hover { color: var(--fg); border-color: rgba(255,255,255,0.25); }
-  .pills button.on {
+  .pills button .dot { width: 9px; height: 9px; border-radius: 50%; flex: none; }
+  .pills button.on { border-color: transparent; }
+  .pills button.on .dot { display: none; }
+  #genres button.on, #presets button.on {
+    color: #fff; background: linear-gradient(135deg, var(--accent), var(--accent-2));
+    box-shadow: 0 4px 16px rgba(109,94,252,0.4);
+  }
+  .btn {
+    font-size: 13px; font-weight: 600; padding: 9px 14px; border-radius: 999px; cursor: pointer;
+    border: 1px solid var(--line-strong); background: var(--chip); color: var(--muted);
+  }
+  .btn:hover { color: var(--fg); border-color: rgba(255,255,255,0.25); }
+  .btn.primary {
     color: #fff; border-color: transparent;
     background: linear-gradient(135deg, var(--accent), var(--accent-2));
     box-shadow: 0 4px 16px rgba(109,94,252,0.4);
   }
-  .clear-dates { font-size: 12px; font-weight: 600; padding: 8px 12px; border-radius: 999px; cursor: pointer;
-    border: 1px solid var(--line-strong); background: var(--chip); color: var(--muted); }
-  .clear-dates:hover { color: var(--fg); border-color: rgba(255,255,255,0.25); }
+
+  /* Colour editor */
+  .colorpanel {
+    display: none; border: 1px solid var(--line-strong); border-radius: 16px; padding: 16px 18px;
+    background: rgba(255,255,255,0.02); margin-bottom: 14px;
+  }
+  .colorpanel.open { display: block; }
+  .colorgrid { display: grid; grid-template-columns: repeat(auto-fill, minmax(230px, 1fr)); gap: 10px 18px; margin-bottom: 14px; }
+  .colorrow { display: flex; align-items: center; gap: 10px; font-size: 13px; font-weight: 600; }
+  .colorrow input[type=color] {
+    width: 34px; height: 26px; padding: 0; border: 1px solid var(--line-strong);
+    border-radius: 7px; background: none; cursor: pointer; flex: none;
+  }
+  .hint { font-size: 12px; color: var(--faint); margin: 0 0 10px; line-height: 1.5; }
+  textarea.copybox {
+    width: 100%; min-height: 92px; font-family: ui-monospace, SFMono-Regular, Menlo, monospace;
+    font-size: 12px; color: var(--fg); background: rgba(0,0,0,0.35); border: 1px solid var(--line-strong);
+    border-radius: 12px; padding: 10px 12px; resize: vertical;
+  }
 
   .count { color: var(--faint); font-size: 13px; margin: 0 0 10px; font-weight: 500; }
+  .toast { color: var(--accent-2); font-size: 13px; font-weight: 600; }
 
   .frame {
     border: 1px solid var(--line-strong); border-radius: 20px; overflow: hidden;
@@ -92,7 +125,7 @@
     box-shadow: 0 30px 80px -30px rgba(0,0,0,0.8);
   }
   .tablewrap { overflow-x: auto; }
-  table { border-collapse: collapse; width: 100%; font-size: 14px; min-width: 820px; }
+  table { border-collapse: collapse; width: 100%; font-size: 14px; min-width: 880px; }
   th, td { text-align: left; padding: 13px 18px; border-bottom: 1px solid var(--line); vertical-align: top; }
   thead tr { background: rgba(255,255,255,0.02); }
   th {
@@ -100,21 +133,30 @@
     font-size: 11px; text-transform: uppercase; letter-spacing: 0.08em; color: var(--faint); white-space: nowrap; font-weight: 700;
   }
   th:hover { color: var(--fg); }
+  th.nosort { cursor: default; }
+  th.nosort:hover { color: var(--faint); }
   th .arrow { color: var(--accent-2); font-size: 10px; }
+  th.pick, td.pick { width: 44px; padding-left: 16px; padding-right: 0; }
+  input[type=checkbox] { width: 17px; height: 17px; accent-color: var(--accent); cursor: pointer; }
   tbody tr:last-child td { border-bottom: none; }
   tbody tr:hover { background: var(--hover); }
+  tbody tr.picked { background: rgba(109,94,252,0.10); }
+  td.pick { border-left: 3px solid transparent; }
   .date { white-space: nowrap; font-variant-numeric: tabular-nums; }
   .day { color: var(--muted); }
   .artist { font-weight: 700; }
   .artist a { color: inherit; text-decoration: none; }
   .artist a:hover { color: var(--accent-2); }
-  .support { color: var(--muted); max-width: 320px; }
-  .venue-tag { display: inline-block; font-size: 12px; font-weight: 600; padding: 3px 10px; border-radius: 8px; white-space: nowrap;
-    background: rgba(255,255,255,0.05); border: 1px solid var(--line); color: var(--muted); }
+  .support { color: var(--muted); max-width: 300px; }
+  .venue-tag {
+    display: inline-flex; align-items: center; gap: 6px; font-size: 12px; font-weight: 700;
+    padding: 3px 10px; border-radius: 8px; white-space: nowrap;
+  }
+  .venue-tag .dot { width: 8px; height: 8px; border-radius: 50%; flex: none; }
   .genre-tag { display: inline-block; font-size: 11px; font-weight: 700; padding: 3px 9px; border-radius: 6px; white-space: nowrap; }
   .genre-edm { color: #fff; background: linear-gradient(135deg, var(--accent), var(--accent-2)); }
   .genre-live { color: var(--muted); background: rgba(255,255,255,0.05); border: 1px solid var(--line); }
-  .empty { padding: 48px; text-align: center; color: var(--faint); }
+  .empty { padding: 48px; text-align: center; color: var(--faint); line-height: 1.6; }
 </style>
 </head>
 <body>
@@ -131,28 +173,51 @@
 
   <p class="count" id="updated">Loading…</p>
 
-  <div class="controls">
-    <input type="search" id="search" placeholder="Search artist or supporting act…" autocomplete="off">
-    <div class="pills" id="venues"></div>
+  <!-- Export toolbar (only on the Selected tab) -->
+  <div class="controls" id="exportbar" style="display:none">
+    <button class="btn primary" id="copySheets">Copy for Google Sheets</button>
+    <button class="btn" id="downloadCsv">Download CSV</button>
+    <button class="btn" id="clearSel">Clear selection</button>
+    <span class="toast" id="toast"></span>
   </div>
 
-  <div class="controls">
-    <span class="flabel">Genre</span>
-    <div class="pills" id="genres"></div>
-  </div>
-
-  <div class="controls">
-    <div class="daterange">
-      <label for="from">From</label>
-      <input type="date" id="from">
-      <label for="to">To</label>
-      <input type="date" id="to">
-      <button class="clear-dates" id="clearDates">Clear dates</button>
+  <div id="filters">
+    <div class="controls">
+      <input type="search" id="search" placeholder="Search artist or supporting act…" autocomplete="off">
+      <div class="pills" id="venues"></div>
+      <button class="btn" id="toggleColors">Colours</button>
     </div>
-    <div class="pills" id="presets">
-      <button data-preset="weekend">This weekend</button>
-      <button data-preset="month">This month</button>
-      <button data-preset="30">Next 30 days</button>
+
+    <div class="colorpanel" id="colorpanel">
+      <p class="hint">Pick a colour for each venue. Changes apply instantly and are remembered in this
+        browser. To keep them <strong>forever, on every device</strong>, copy the list below into
+        <code>scraper/venues.json</code> as each venue's <code>"color"</code> value.</p>
+      <div class="colorgrid" id="colorgrid"></div>
+      <div class="controls">
+        <button class="btn" id="resetColors">Reset to defaults</button>
+        <button class="btn" id="copyColors">Copy colour list</button>
+      </div>
+      <textarea class="copybox" id="colorout" readonly></textarea>
+    </div>
+
+    <div class="controls">
+      <span class="flabel">Genre</span>
+      <div class="pills" id="genres"></div>
+    </div>
+
+    <div class="controls">
+      <div class="daterange">
+        <label for="from">From</label>
+        <input type="date" id="from">
+        <label for="to">To</label>
+        <input type="date" id="to">
+        <button class="btn" id="clearDates">Clear dates</button>
+      </div>
+      <div class="pills" id="presets">
+        <button data-preset="weekend">This weekend</button>
+        <button data-preset="month">This month</button>
+        <button data-preset="30">Next 30 days</button>
+      </div>
     </div>
   </div>
 
@@ -163,6 +228,7 @@
       <table>
         <thead>
           <tr>
+            <th class="pick nosort"><input type="checkbox" id="selectAll" title="Select all shown"></th>
             <th data-key="date">Date <span class="arrow"></span></th>
             <th data-key="day">Day <span class="arrow"></span></th>
             <th data-key="time">Time <span class="arrow"></span></th>
@@ -175,35 +241,68 @@
         <tbody id="rows"></tbody>
       </table>
     </div>
-    <div class="empty" id="empty" style="display:none">No shows match your filters.</div>
+    <div class="empty" id="empty" style="display:none"></div>
   </div>
 </div>
 
 <script>
 const DAYS = ["Sun","Mon","Tue","Wed","Thu","Fri","Sat"];
-let ALL = [];
-let LISTS = [];
-let currentList = null;         // active tab (null = show everything)
-let lockedList = null;          // set via ?list= to lock to one tab (hides tabs)
-let activeVenues = new Set();
-let activeGenres = new Set();
-let sortKey = "date", sortDir = 1;
+const SELECTED_TAB = "__selected__";
+const LS_COLORS = "showtracker_colors_v1";
+const LS_PICKED = "showtracker_selected_v1";
+const FALLBACK = ["#6d5efc","#38bdf8","#22c55e","#ec4899","#f0a63a","#e05252","#14b8a6","#a855f7"];
 
+let ALL = [], LISTS = [], VENUE_META = {};
+let currentList = null, lockedList = null;
+let activeVenues = new Set(), activeGenres = new Set();
+let colorOverrides = {}, picked = new Set();
+let sortKey = "date", sortDir = 1;
+let lastRows = [];
+
+/* ---------- tiny helpers ---------- */
 function dayOfWeek(iso){ const [y,m,d]=iso.split("-").map(Number); return DAYS[new Date(y,m-1,d).getDay()]; }
 function prettyDate(iso){ const [y,m,d]=iso.split("-").map(Number);
   return new Date(y,m-1,d).toLocaleDateString("en-US",{month:"short",day:"numeric",year:"numeric"}); }
 function timeToMinutes(t){ const m=/(\d+):(\d+)\s*(AM|PM)/i.exec(t||""); if(!m) return 0;
   let h=+m[1]%12; if(/PM/i.test(m[3])) h+=12; return h*60+ +m[2]; }
 function esc(s){ return (s||"").replace(/[&<>"]/g,c=>({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;"}[c])); }
+function load(key, fallback){ try { return JSON.parse(localStorage.getItem(key)) ?? fallback; }
+  catch(e){ return fallback; } }
+function save(key, value){ try { localStorage.setItem(key, JSON.stringify(value)); } catch(e){} }
 
-// Events belonging to the active tab (before the other filters).
-function base(){ return ALL.filter(e => !currentList || (e.list||"") === currentList); }
+function hashColor(name){
+  let h = 0; for (let i=0;i<name.length;i++) h = (h*31 + name.charCodeAt(i)) >>> 0;
+  return FALLBACK[h % FALLBACK.length];
+}
+function venueColor(name){
+  return colorOverrides[name] || (VENUE_META[name] && VENUE_META[name].color) || hashColor(name);
+}
+// Readable text colour (black or white) for a given background.
+function textOn(hex){
+  const c = hex.replace("#",""); if (c.length !== 6) return "#fff";
+  const [r,g,b] = [0,2,4].map(i => parseInt(c.slice(i,i+2),16)/255)
+    .map(v => v <= 0.03928 ? v/12.92 : Math.pow((v+0.055)/1.055, 2.4));
+  return (0.2126*r + 0.7152*g + 0.0722*b) > 0.42 ? "#12111a" : "#ffffff";
+}
+function tint(hex, alpha){
+  const c = hex.replace("#","");
+  const [r,g,b] = [0,2,4].map(i => parseInt(c.slice(i,i+2),16));
+  return `rgba(${r},${g},${b},${alpha})`;
+}
 
-function render(){
+/* ---------- data views ---------- */
+function inSelectedTab(){ return currentList === SELECTED_TAB; }
+function base(){
+  if (inSelectedTab()) return ALL.filter(e => picked.has(e.id));
+  return ALL.filter(e => !currentList || (e.list||"") === currentList);
+}
+
+function currentRows(){
   const q = document.getElementById("search").value.trim().toLowerCase();
   const from = document.getElementById("from").value;
   const to = document.getElementById("to").value;
   let rows = base().filter(e => {
+    if (inSelectedTab()) return true;              // the basket ignores filters
     if (activeVenues.size && !activeVenues.has(e.venue)) return false;
     if (activeGenres.size && !activeGenres.has(e.genre || "Live Music")) return false;
     if (q && !(e.artist + " " + e.support).toLowerCase().includes(q)) return false;
@@ -218,81 +317,246 @@ function render(){
     else { av=(a[sortKey]||"").toString().toLowerCase(); bv=(b[sortKey]||"").toString().toLowerCase(); }
     return av<bv ? -sortDir : av>bv ? sortDir : 0;
   });
+  return rows;
+}
 
+function render(){
+  const rows = lastRows = currentRows();
   document.getElementById("rows").innerHTML = rows.map(e => {
     const genre = e.genre || "Live Music";
     const gClass = genre === "EDM" ? "genre-edm" : "genre-live";
-    return `<tr>
+    const col = venueColor(e.venue);
+    const on = picked.has(e.id);
+    return `<tr class="${on ? "picked" : ""}" data-id="${esc(e.id)}">
+      <td class="pick" style="border-left-color:${col}">
+        <input type="checkbox" class="rowpick" ${on ? "checked" : ""} aria-label="Select show">
+      </td>
       <td class="date">${prettyDate(e.date)}</td>
       <td class="day">${dayOfWeek(e.date)}</td>
       <td class="date">${e.time || ""}</td>
-      <td class="artist">${e.url ? `<a href="${e.url}" target="_blank" rel="noopener">${esc(e.artist)}</a>` : esc(e.artist)}</td>
+      <td class="artist">${e.url ? `<a href="${esc(e.url)}" target="_blank" rel="noopener">${esc(e.artist)}</a>` : esc(e.artist)}</td>
       <td class="support">${esc(e.support) || "—"}</td>
       <td><span class="genre-tag ${gClass}">${esc(genre)}</span></td>
-      <td><span class="venue-tag">${esc(e.venue)}</span></td>
+      <td><span class="venue-tag" style="background:${tint(col,0.16)};color:${col};border:1px solid ${tint(col,0.4)}">
+            <span class="dot" style="background:${col}"></span>${esc(e.venue)}</span></td>
     </tr>`;
   }).join("");
 
   document.getElementById("count").textContent = `${rows.length} show${rows.length===1?"":"s"}`;
-  document.getElementById("empty").style.display = rows.length ? "none" : "block";
+  const emptyEl = document.getElementById("empty");
+  emptyEl.style.display = rows.length ? "none" : "block";
+  emptyEl.textContent = inSelectedTab()
+    ? "Nothing selected yet — tick the boxes beside shows in your other tabs to add them here."
+    : "No shows match your filters.";
+
   document.querySelectorAll("th .arrow").forEach(a=>a.textContent="");
   const th = document.querySelector(`th[data-key="${sortKey}"] .arrow`);
   if (th) th.textContent = sortDir===1 ? "▲" : "▼";
+
+  const all = rows.length > 0 && rows.every(e => picked.has(e.id));
+  const some = rows.some(e => picked.has(e.id));
+  const sa = document.getElementById("selectAll");
+  sa.checked = all; sa.indeterminate = !all && some;
+  updateTabBadge();
 }
 
-function makePill(container, label, isActive, onClick){
+/* ---------- selection ---------- */
+function togglePick(id, on){
+  on ? picked.add(id) : picked.delete(id);
+  save(LS_PICKED, [...picked]);
+}
+// Ticking a box must NOT rebuild the table — that would drop rapid clicks and
+// make the page jump. Update just what changed instead.
+function refreshPickState(){
+  document.querySelectorAll("#rows tr").forEach(tr =>
+    tr.classList.toggle("picked", picked.has(tr.dataset.id)));
+  const all = lastRows.length > 0 && lastRows.every(e => picked.has(e.id));
+  const some = lastRows.some(e => picked.has(e.id));
+  const sa = document.getElementById("selectAll");
+  sa.checked = all; sa.indeterminate = !all && some;
+  updateTabBadge();
+}
+document.getElementById("rows").addEventListener("change", ev => {
+  const box = ev.target.closest(".rowpick"); if (!box) return;
+  togglePick(box.closest("tr").dataset.id, box.checked);
+  // In the basket, unticking removes the row, so a rebuild is wanted there.
+  inSelectedTab() ? render() : refreshPickState();
+});
+document.getElementById("selectAll").addEventListener("change", ev => {
+  lastRows.forEach(e => togglePick(e.id, ev.target.checked));
+  document.querySelectorAll("#rows .rowpick").forEach(b => b.checked = ev.target.checked);
+  inSelectedTab() ? render() : refreshPickState();
+});
+document.getElementById("clearSel").addEventListener("click", () => {
+  picked.clear(); save(LS_PICKED, []); render();
+});
+
+function updateTabBadge(){
+  const b = document.querySelector(`#tabs button[data-list="${SELECTED_TAB}"] .badge`);
+  if (b) b.textContent = picked.size;
+}
+
+/* ---------- export ---------- */
+const COLUMNS = ["Date","Day","Time","Artist","Supporting Artists","Genre","Venue","Link"];
+function rowValues(e){
+  return [e.date, dayOfWeek(e.date), e.time || "", e.artist, e.support || "",
+          e.genre || "Live Music", e.venue, e.url || ""];
+}
+function buildTSV(){
+  const clean = v => String(v).replace(/[\t\r\n]+/g, " ").trim();
+  return [COLUMNS.join("\t")]
+    .concat(currentRows().map(e => rowValues(e).map(clean).join("\t"))).join("\n");
+}
+function buildCSV(){
+  const q = v => `"${String(v).replace(/"/g,'""').replace(/[\r\n]+/g," ").trim()}"`;
+  return [COLUMNS.map(q).join(",")]
+    .concat(currentRows().map(e => rowValues(e).map(q).join(","))).join("\r\n");
+}
+function toast(msg){
+  const t = document.getElementById("toast");
+  t.textContent = msg;
+  clearTimeout(toast._t); toast._t = setTimeout(()=>{ t.textContent=""; }, 4000);
+}
+document.getElementById("copySheets").addEventListener("click", async () => {
+  if (!picked.size) return toast("Select some shows first.");
+  const text = buildTSV();
+  try {
+    await navigator.clipboard.writeText(text);
+    toast("Copied — paste straight into Google Sheets.");
+  } catch (e) {
+    // Clipboard can be blocked inside an embedded page; fall back to a manual copy.
+    const ta = document.createElement("textarea");
+    ta.value = text; ta.style.cssText = "position:fixed;top:0;left:0;opacity:0";
+    document.body.appendChild(ta); ta.focus(); ta.select();
+    let ok = false; try { ok = document.execCommand("copy"); } catch (e2) {}
+    ta.remove();
+    toast(ok ? "Copied — paste straight into Google Sheets."
+             : "Copy blocked here — use Download CSV instead.");
+  }
+});
+document.getElementById("downloadCsv").addEventListener("click", () => {
+  if (!picked.size) return toast("Select some shows first.");
+  const blob = new Blob(["﻿" + buildCSV()], { type: "text/csv;charset=utf-8" });
+  const a = document.createElement("a");
+  a.href = URL.createObjectURL(blob);
+  a.download = `shows-${new Date().toISOString().slice(0,10)}.csv`;
+  document.body.appendChild(a); a.click();
+  setTimeout(()=>{ URL.revokeObjectURL(a.href); a.remove(); }, 1000);
+  toast("CSV downloaded — open it in Google Sheets with File → Import.");
+});
+
+/* ---------- colours ---------- */
+function buildColorEditor(){
+  const grid = document.getElementById("colorgrid");
+  grid.innerHTML = "";
+  Object.keys(VENUE_META).sort().forEach(name => {
+    const row = document.createElement("div");
+    row.className = "colorrow";
+    const input = document.createElement("input");
+    input.type = "color"; input.value = venueColor(name);
+    input.addEventListener("input", () => {
+      colorOverrides[name] = input.value;
+      save(LS_COLORS, colorOverrides);
+      buildVenueButtons(); render(); writeColorList();
+    });
+    const label = document.createElement("span");
+    label.textContent = name;
+    row.append(input, label);
+    grid.appendChild(row);
+  });
+  writeColorList();
+}
+function writeColorList(){
+  document.getElementById("colorout").value =
+    Object.keys(VENUE_META).sort().map(n => `${n}: ${venueColor(n)}`).join("\n");
+}
+document.getElementById("toggleColors").addEventListener("click", () => {
+  document.getElementById("colorpanel").classList.toggle("open");
+});
+document.getElementById("resetColors").addEventListener("click", () => {
+  colorOverrides = {}; save(LS_COLORS, {});
+  buildColorEditor(); buildVenueButtons(); render();
+});
+document.getElementById("copyColors").addEventListener("click", async () => {
+  const box = document.getElementById("colorout");
+  try { await navigator.clipboard.writeText(box.value); }
+  catch (e) { box.focus(); box.select(); try { document.execCommand("copy"); } catch (e2) {} }
+});
+
+/* ---------- filter pills ---------- */
+function makePill(container, label, isActive, onClick, color){
   const b = document.createElement("button");
-  b.textContent = label;
+  if (color){
+    const dot = document.createElement("span");
+    dot.className = "dot"; dot.style.background = color;
+    b.appendChild(dot);
+    if (isActive){ b.style.background = color; b.style.color = textOn(color); }
+  }
+  b.appendChild(document.createTextNode(label));
   if (isActive) b.classList.add("on");
-  b.onclick = () => { onClick(b); };
+  b.onclick = () => onClick(b);
   container.appendChild(b);
 }
-
 function buildVenueButtons(){
   const box = document.getElementById("venues"); box.innerHTML = "";
   const venues = [...new Set(base().map(e=>e.venue))].sort();
-  venues.forEach(v => makePill(box, v, activeVenues.has(v), (b)=>{
-    activeVenues.has(v) ? activeVenues.delete(v) : activeVenues.add(v);
-    b.classList.toggle("on"); render();
-  }));
+  venues.forEach(v => {
+    const col = venueColor(v);
+    makePill(box, v, activeVenues.has(v), (b)=>{
+      if (activeVenues.has(v)) activeVenues.delete(v); else activeVenues.add(v);
+      buildVenueButtons(); render();
+    }, col);
+  });
 }
-
 function buildGenreButtons(){
   const box = document.getElementById("genres"); box.innerHTML = "";
-  const genres = [...new Set(base().map(e=>e.genre||"Live Music"))].sort();
-  genres.forEach(g => makePill(box, g, activeGenres.has(g), (b)=>{
-    activeGenres.has(g) ? activeGenres.delete(g) : activeGenres.add(g);
-    b.classList.toggle("on"); render();
-  }));
+  [...new Set(base().map(e=>e.genre||"Live Music"))].sort().forEach(g =>
+    makePill(box, g, activeGenres.has(g), (b)=>{
+      if (activeGenres.has(g)) activeGenres.delete(g); else activeGenres.add(g);
+      b.classList.toggle("on"); render();
+    })
+  );
 }
 
+/* ---------- tabs ---------- */
 function selectTab(name){
   currentList = name;
   activeVenues.clear(); activeGenres.clear();
   document.querySelectorAll("#tabs button").forEach(b => b.classList.toggle("on", b.dataset.list === name));
-  buildVenueButtons(); buildGenreButtons(); render();
+  const basket = inSelectedTab();
+  document.getElementById("filters").style.display = basket ? "none" : "";
+  document.getElementById("exportbar").style.display = basket ? "flex" : "none";
+  if (!basket){ buildVenueButtons(); buildGenreButtons(); }
+  render();
 }
-
 function buildTabs(){
   const box = document.getElementById("tabs");
-  const tabs = (LISTS && LISTS.length) ? LISTS : [...new Set(ALL.map(e=>e.list).filter(Boolean))];
-  // With a ?list= lock, or 0/1 tabs, don't show a tab bar.
-  if (lockedList) { currentList = lockedList; box.style.display = "none"; return; }
-  if (tabs.length < 2) { currentList = null; box.style.display = "none"; return; }
-  box.style.display = "flex";
+  const tabs = (LISTS && LISTS.length) ? LISTS.slice()
+             : [...new Set(ALL.map(e=>e.list).filter(Boolean))];
   box.innerHTML = "";
-  tabs.forEach(name => {
+  const add = (name, label, badge) => {
     const b = document.createElement("button");
-    b.textContent = name; b.dataset.list = name;
+    b.dataset.list = name;
+    b.textContent = label;
+    if (badge){ const s = document.createElement("span"); s.className="badge"; s.textContent="0"; b.appendChild(s); }
     b.onclick = () => selectTab(name);
     box.appendChild(b);
-  });
-  // Default to the first tab that actually has shows, else the first tab.
-  const withShows = tabs.find(t => ALL.some(e => (e.list||"") === t));
-  selectTab(withShows || tabs[0]);
+  };
+  if (lockedList){ tabs.length = 0; tabs.push(lockedList); }
+  tabs.forEach(t => add(t, t));
+  add(SELECTED_TAB, "Selected", true);
+  const start = lockedList || tabs.find(t => ALL.some(e => (e.list||"") === t)) || tabs[0];
+  selectTab(start);
 }
 
-// ---- date presets ----
+/* ---------- wiring ---------- */
+document.querySelectorAll("th[data-key]").forEach(th => th.onclick = () => {
+  const k = th.dataset.key;
+  if (sortKey===k) sortDir*=-1; else { sortKey=k; sortDir=1; }
+  render();
+});
+document.getElementById("search").addEventListener("input", render);
+
 function fmt(d){ const y=d.getFullYear(),m=String(d.getMonth()+1).padStart(2,"0"),day=String(d.getDate()).padStart(2,"0"); return `${y}-${m}-${day}`; }
 function clearPresetHighlight(){ document.querySelectorAll("#presets button").forEach(b=>b.classList.remove("on")); }
 function applyPreset(name, btn){
@@ -308,13 +572,6 @@ function applyPreset(name, btn){
   document.getElementById("to").value=fmt(to);
   clearPresetHighlight(); btn.classList.add("on"); render();
 }
-
-document.querySelectorAll("th").forEach(th => th.onclick = () => {
-  const k = th.dataset.key;
-  if (sortKey===k) sortDir*=-1; else { sortKey=k; sortDir=1; }
-  render();
-});
-document.getElementById("search").addEventListener("input", render);
 document.getElementById("from").addEventListener("change", ()=>{ clearPresetHighlight(); render(); });
 document.getElementById("to").addEventListener("change", ()=>{ clearPresetHighlight(); render(); });
 document.getElementById("clearDates").addEventListener("click", ()=>{
@@ -328,15 +585,21 @@ fetch("../data/events.json")
   .then(data=>{
     ALL = data.events || [];
     LISTS = data.lists || [];
+    (data.venues || []).forEach(v => VENUE_META[v.name] = v);
+    ALL.forEach(e => { if (!VENUE_META[e.venue]) VENUE_META[e.venue] = { name: e.venue, color: "" }; });
+
+    colorOverrides = load(LS_COLORS, {}) || {};
+    picked = new Set(load(LS_PICKED, []) || []);
+
     const param = new URLSearchParams(location.search).get("list");
-    if (param && (LISTS.includes(param))) lockedList = param;
+    if (param && LISTS.includes(param)) lockedList = param;
+
     const when = new Date(data.generated_at);
     document.getElementById("updated").textContent =
       `${ALL.length} shows · last updated ${when.toLocaleString("en-US",{dateStyle:"medium",timeStyle:"short"})}`;
+
+    buildColorEditor();
     buildTabs();
-    buildVenueButtons();
-    buildGenreButtons();
-    render();
   })
   .catch(err=>{ document.getElementById("updated").textContent="Could not load data."; console.error(err); });
 </script>

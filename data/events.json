@@ -1,472 +1,52 @@
 {
-  "generated_at": "2026-07-14T07:45:53Z",
+  "generated_at": "2026-07-31T00:35:20Z",
   "lists": [
     "Local",
     "Off Angle"
   ],
+  "venues": [
+    {
+      "name": "Red Rocks",
+      "list": "Off Angle",
+      "color": "#e05252"
+    },
+    {
+      "name": "Bill Graham Civic",
+      "list": "Off Angle",
+      "color": "#f0a63a"
+    },
+    {
+      "name": "Under the K Bridge",
+      "list": "Off Angle",
+      "color": "#38bdf8"
+    },
+    {
+      "name": "The Concourse Project",
+      "list": "Local",
+      "color": "#a855f7"
+    },
+    {
+      "name": "Kingdom",
+      "list": "Local",
+      "color": "#22c55e"
+    },
+    {
+      "name": "Emo's",
+      "list": "Local",
+      "color": "#ec4899"
+    },
+    {
+      "name": "Silo Dallas",
+      "list": "Local",
+      "color": "#6d5efc"
+    },
+    {
+      "name": "Silo Houston",
+      "list": "Local",
+      "color": "#14b8a6"
+    }
+  ],
   "events": [
-    {
-      "id": "red-rocks-2026-07-14-kaleo",
-      "venue": "Red Rocks",
-      "list": "Off Angle",
-      "date": "2026-07-14",
-      "time": "7:30 PM",
-      "artist": "KALEO",
-      "support": "Elle King",
-      "genre": "Live Music",
-      "url": "https://www.redrocksonline.com/events/kaleo-with-very-special-guest-elle-king-1287812/"
-    },
-    {
-      "id": "red-rocks-2026-07-15-the-head-and-the-heart-with-the-colorado-symphony-orchestra",
-      "venue": "Red Rocks",
-      "list": "Off Angle",
-      "date": "2026-07-15",
-      "time": "7:30 PM",
-      "artist": "The Head And The Heart with the Colorado Symphony Orchestra",
-      "support": "",
-      "genre": "Live Music",
-      "url": "https://www.redrocksonline.com/events/the-head-and-the-heart-with-the-colorado-symphony-1216455/"
-    },
-    {
-      "id": "kingdom-2026-07-16-hot-summer-nights",
-      "venue": "Kingdom",
-      "list": "Local",
-      "date": "2026-07-16",
-      "time": "10:00 PM",
-      "artist": "Hot Summer Nights",
-      "support": "",
-      "genre": "Live Music",
-      "url": "https://kingdomnightclub.com/event/hot-summer-nights/kingdom-nightclub/austin-texas/"
-    },
-    {
-      "id": "red-rocks-2026-07-16-the-head-and-the-heart",
-      "venue": "Red Rocks",
-      "list": "Off Angle",
-      "date": "2026-07-16",
-      "time": "7:30 PM",
-      "artist": "The Head And The Heart",
-      "support": "Wilderado",
-      "genre": "Live Music",
-      "url": "https://www.redrocksonline.com/events/the-head-and-the-heart-1216462/"
-    },
-    {
-      "id": "silo-dallas-2026-07-16-craze-x-dieselboy",
-      "venue": "Silo Dallas",
-      "list": "Local",
-      "date": "2026-07-16",
-      "time": "9:00 PM",
-      "artist": "Craze x Dieselboy",
-      "support": "",
-      "genre": "EDM",
-      "url": "https://wl.eventim.us/event/Craze-x-Dieselboy-DALLAS/690401?afflky=DiscoPresents-Ductwork"
-    },
-    {
-      "id": "kingdom-2026-07-17-hot-summer-nights",
-      "venue": "Kingdom",
-      "list": "Local",
-      "date": "2026-07-17",
-      "time": "10:00 PM",
-      "artist": "Hot Summer Nights",
-      "support": "",
-      "genre": "Live Music",
-      "url": "https://kingdomnightclub.com/event/hot-summer-nights-2/kingdom-nightclub/austin-texas/"
-    },
-    {
-      "id": "red-rocks-2026-07-17-the-string-cheese-incident",
-      "venue": "Red Rocks",
-      "list": "Off Angle",
-      "date": "2026-07-17",
-      "time": "6:00 PM",
-      "artist": "The String Cheese Incident",
-      "support": "Clay Street Unit",
-      "genre": "Live Music",
-      "url": "https://www.redrocksonline.com/events/the-string-cheese-incident-1249068/"
-    },
-    {
-      "id": "under-the-k-bridge-2026-07-17-breakaway-festival-ft-tiesto",
-      "venue": "Under the K Bridge",
-      "list": "Off Angle",
-      "date": "2026-07-17",
-      "time": "6:00 PM",
-      "artist": "Breakaway Festival ft. Tiësto",
-      "support": "D.O.D, Lilly Palmer, Camoufly, DJ Mandy, Oppidan, Arlo, Wes Mills, Daniel Lerman, Griffen Haas, Jivan Calderone",
-      "genre": "EDM",
-      "url": "https://underthekbridge.org/events/detail?event_id=1372373"
-    },
-    {
-      "id": "emo-s-2026-07-17-club-90s-presents-off-campus-night",
-      "venue": "Emo's",
-      "list": "Local",
-      "date": "2026-07-17",
-      "time": "8:30 PM",
-      "artist": "Club 90s Presents Off Campus Night",
-      "support": "",
-      "genre": "Live Music",
-      "url": "https://www.ticketmaster.com/club-90s-presents-off-campus-night-austin-texas-07-17-2026/event/3A0064D4BA15B5B8"
-    },
-    {
-      "id": "silo-dallas-2026-07-17-ghengar",
-      "venue": "Silo Dallas",
-      "list": "Local",
-      "date": "2026-07-17",
-      "time": "9:00 PM",
-      "artist": "Ghengar",
-      "support": "",
-      "genre": "EDM",
-      "url": "https://wl.eventim.us/event/GHENGAR-DALLAS/690089?afflky=SILO"
-    },
-    {
-      "id": "the-concourse-project-2026-07-17-free-with-rsvp-reggaeton-rave",
-      "venue": "The Concourse Project",
-      "list": "Local",
-      "date": "2026-07-17",
-      "time": "9:00 PM",
-      "artist": "FREE with RSVP: Reggaeton Rave",
-      "support": "",
-      "genre": "EDM",
-      "url": "https://wl.seetickets.us/event/FREE-with-RSVP-Reggaeton-Rave-at-The-Concourse-Project/698474?afflky=TheConcourseProject"
-    },
-    {
-      "id": "kingdom-2026-07-18-hot-summer-nights",
-      "venue": "Kingdom",
-      "list": "Local",
-      "date": "2026-07-18",
-      "time": "10:00 PM",
-      "artist": "Hot Summer Nights",
-      "support": "",
-      "genre": "Live Music",
-      "url": "https://kingdomnightclub.com/event/hot-summer-nights-3/kingdom-nightclub/austin-texas/"
-    },
-    {
-      "id": "red-rocks-2026-07-18-yoga-on-the-rocks",
-      "venue": "Red Rocks",
-      "list": "Off Angle",
-      "date": "2026-07-18",
-      "time": "7:00 AM",
-      "artist": "Yoga on the Rocks",
-      "support": "",
-      "genre": "Live Music",
-      "url": "https://www.redrocksonline.com/events/yoga-on-the-rocks-2026-1415123-6/"
-    },
-    {
-      "id": "red-rocks-2026-07-18-the-string-cheese-incident",
-      "venue": "Red Rocks",
-      "list": "Off Angle",
-      "date": "2026-07-18",
-      "time": "7:00 PM",
-      "artist": "The String Cheese Incident",
-      "support": "Three Sets Of Cheese",
-      "genre": "Live Music",
-      "url": "https://www.redrocksonline.com/events/the-string-cheese-incident-1249298/"
-    },
-    {
-      "id": "bill-graham-civic-2026-07-18-ella-mai",
-      "venue": "Bill Graham Civic",
-      "list": "Off Angle",
-      "date": "2026-07-18",
-      "time": "8:00 PM",
-      "artist": "Ella Mai",
-      "support": "AMA, Girlfriend",
-      "genre": "Live Music",
-      "url": "https://billgrahamcivic.com/events/ella-mai-260718"
-    },
-    {
-      "id": "silo-dallas-2026-07-18-wax-motif",
-      "venue": "Silo Dallas",
-      "list": "Local",
-      "date": "2026-07-18",
-      "time": "9:00 PM",
-      "artist": "Wax Motif",
-      "support": "",
-      "genre": "EDM",
-      "url": "https://wl.eventim.us/event/Wax-Motif-DALLAS/687113?afflky=SILO"
-    },
-    {
-      "id": "the-concourse-project-2026-07-18-infected-mushroom-hybrid-set",
-      "venue": "The Concourse Project",
-      "list": "Local",
-      "date": "2026-07-18",
-      "time": "9:00 PM",
-      "artist": "Infected Mushroom (Hybrid Set)",
-      "support": "Madison Palmer",
-      "genre": "EDM",
-      "url": "https://wl.seetickets.us/event/Infected-Mushroom-Hybrid-Set-at-The-Concourse-Project/687779?afflky=TheConcourseProject"
-    },
-    {
-      "id": "silo-dallas-2026-07-19-fleetmac-wood",
-      "venue": "Silo Dallas",
-      "list": "Local",
-      "date": "2026-07-19",
-      "time": "5:00 PM",
-      "artist": "Fleetmac Wood",
-      "support": "",
-      "genre": "EDM",
-      "url": "https://wl.eventim.us/event/Fleetmac-Wood-DALLAS/691352?afflky=DiscoPresents-Ductwork"
-    },
-    {
-      "id": "red-rocks-2026-07-19-maren-morris-with-the-colorado-symphony-joined-by-the-highwomen",
-      "venue": "Red Rocks",
-      "list": "Off Angle",
-      "date": "2026-07-19",
-      "time": "7:00 PM",
-      "artist": "Maren Morris with the Colorado Symphony – joined by The Highwomen",
-      "support": "",
-      "genre": "Live Music",
-      "url": "https://www.redrocksonline.com/events/maren-morris-with-the-colorado-symphony-joined-by-the-highwomen-1355603/"
-    },
-    {
-      "id": "emo-s-2026-07-20-tomahawk",
-      "venue": "Emo's",
-      "list": "Local",
-      "date": "2026-07-20",
-      "time": "7:00 PM",
-      "artist": "Tomahawk",
-      "support": "",
-      "genre": "Live Music",
-      "url": "https://www.ticketmaster.com/tomahawk-austin-texas-07-20-2026/event/3A006452B54F2AFE"
-    },
-    {
-      "id": "red-rocks-2026-07-20-hilary-duff",
-      "venue": "Red Rocks",
-      "list": "Off Angle",
-      "date": "2026-07-20",
-      "time": "7:00 PM",
-      "artist": "Hilary Duff",
-      "support": "La Roux, Jade LeMac",
-      "genre": "Live Music",
-      "url": "https://www.redrocksonline.com/events/hilary-duff-1328065/"
-    },
-    {
-      "id": "red-rocks-2026-07-21-the-colorado-symphony-performs-the-music-of-hans-zimmer-john-williams",
-      "venue": "Red Rocks",
-      "list": "Off Angle",
-      "date": "2026-07-21",
-      "time": "7:30 PM",
-      "artist": "The Colorado Symphony performs the Music of Hans Zimmer & John Williams",
-      "support": "",
-      "genre": "Live Music",
-      "url": "https://www.redrocksonline.com/events/the-colorado-symphony-performs-the-music-of-hans-zimmer-john-williams-1467314/"
-    },
-    {
-      "id": "red-rocks-2026-07-22-the-strokes-reality-awaits-north-america",
-      "venue": "Red Rocks",
-      "list": "Off Angle",
-      "date": "2026-07-22",
-      "time": "7:00 PM",
-      "artist": "The Strokes – Reality Awaits North America",
-      "support": "Hamilton Leithauser, ÖLÜM",
-      "genre": "Live Music",
-      "url": "https://www.redrocksonline.com/events/the-strokes-reality-awaits-north-america-1407661/"
-    },
-    {
-      "id": "red-rocks-2026-07-23-the-strokes-reality-awaits-north-america",
-      "venue": "Red Rocks",
-      "list": "Off Angle",
-      "date": "2026-07-23",
-      "time": "7:00 PM",
-      "artist": "The Strokes – Reality Awaits North America",
-      "support": "Hamilton Leithauser, ÖLÜM",
-      "genre": "Live Music",
-      "url": "https://www.redrocksonline.com/events/the-strokes-reality-awaits-north-america-1407666/"
-    },
-    {
-      "id": "silo-dallas-2026-07-23-hostage-situation",
-      "venue": "Silo Dallas",
-      "list": "Local",
-      "date": "2026-07-23",
-      "time": "9:00 PM",
-      "artist": "Hostage Situation",
-      "support": "",
-      "genre": "EDM",
-      "url": "https://wl.eventim.us/event/Hostage-Situation-DALLAS/691197?afflky=DiscoPresents-Ductwork"
-    },
-    {
-      "id": "the-concourse-project-2026-07-23-free-with-rsvp-ac-slater",
-      "venue": "The Concourse Project",
-      "list": "Local",
-      "date": "2026-07-23",
-      "time": "9:00 PM",
-      "artist": "FREE with RSVP: AC Slater",
-      "support": "",
-      "genre": "EDM",
-      "url": "https://wl.seetickets.us/event/FREE-with-RSVP-AC-Slater-at-The-Concourse-Project/695041?afflky=TheConcourseProject"
-    },
-    {
-      "id": "kingdom-2026-07-24-sonic-connection-an-immersive-date-night-experience",
-      "venue": "Kingdom",
-      "list": "Local",
-      "date": "2026-07-24",
-      "time": "6:30 PM",
-      "artist": "Sonic Connection: An Immersive Date Night Experience",
-      "support": "",
-      "genre": "EDM",
-      "url": "https://kingdomnightclub.com/event/sonic-connection-an-immersive-date-night-experience/kingdom-nightclub/austin-texas/"
-    },
-    {
-      "id": "red-rocks-2026-07-24-cross-canadian-ragweed",
-      "venue": "Red Rocks",
-      "list": "Off Angle",
-      "date": "2026-07-24",
-      "time": "6:30 PM",
-      "artist": "Cross Canadian Ragweed",
-      "support": "The Smokin Oaks, Waves in April",
-      "genre": "Live Music",
-      "url": "https://www.redrocksonline.com/events/cross-canadian-ragweed-1322110/"
-    },
-    {
-      "id": "emo-s-2026-07-24-the-marvelous-miss-gender-starring-bosco",
-      "venue": "Emo's",
-      "list": "Local",
-      "date": "2026-07-24",
-      "time": "7:00 PM",
-      "artist": "The Marvelous Miss Gender starring BOSCO",
-      "support": "",
-      "genre": "Live Music",
-      "url": "https://www.ticketmaster.com/the-marvelous-miss-gender-starring-bosco-austin-texas-07-24-2026/event/3A006462EB9EEE15"
-    },
-    {
-      "id": "silo-dallas-2026-07-24-mita-gami",
-      "venue": "Silo Dallas",
-      "list": "Local",
-      "date": "2026-07-24",
-      "time": "9:00 PM",
-      "artist": "Mita Gami",
-      "support": "",
-      "genre": "EDM",
-      "url": "https://wl.eventim.us/event/MITA-GAMI-DALLAS/685102?afflky=SILO"
-    },
-    {
-      "id": "the-concourse-project-2026-07-24-adam-ten-darco",
-      "venue": "The Concourse Project",
-      "list": "Local",
-      "date": "2026-07-24",
-      "time": "9:00 PM",
-      "artist": "Adam Ten + Darco",
-      "support": "Adam Ten, Darco",
-      "genre": "EDM",
-      "url": "https://wl.seetickets.us/event/Adam-Ten-Darco-at-The-Concourse-Project/691667?afflky=TheConcourseProject"
-    },
-    {
-      "id": "kingdom-2026-07-25-sonic-connection-an-immersive-date-night-experience",
-      "venue": "Kingdom",
-      "list": "Local",
-      "date": "2026-07-25",
-      "time": "6:30 PM",
-      "artist": "Sonic Connection: An Immersive Date Night Experience",
-      "support": "",
-      "genre": "EDM",
-      "url": "https://kingdomnightclub.com/event/sonic-connection-an-immersive-date-night-experience-2/kingdom-nightclub/austin-texas/"
-    },
-    {
-      "id": "red-rocks-2026-07-25-yoga-on-the-rocks",
-      "venue": "Red Rocks",
-      "list": "Off Angle",
-      "date": "2026-07-25",
-      "time": "7:00 AM",
-      "artist": "Yoga on the Rocks",
-      "support": "",
-      "genre": "Live Music",
-      "url": "https://www.redrocksonline.com/events/yoga-on-the-rocks-2026-1415123-1/"
-    },
-    {
-      "id": "red-rocks-2026-07-25-darius-rucker-songs-of-summer-tour-2026",
-      "venue": "Red Rocks",
-      "list": "Off Angle",
-      "date": "2026-07-25",
-      "time": "7:00 PM",
-      "artist": "Darius Rucker: Songs of Summer Tour 2026",
-      "support": "Old Crow Medicine Show, Austin Williams",
-      "genre": "Live Music",
-      "url": "https://www.redrocksonline.com/events/darius-rucker-songs-of-summer-tour-2026-1342740/"
-    },
-    {
-      "id": "kingdom-2026-07-25-amped-austin",
-      "venue": "Kingdom",
-      "list": "Local",
-      "date": "2026-07-25",
-      "time": "9:00 PM",
-      "artist": "AMPED: AUSTIN",
-      "support": "",
-      "genre": "Live Music",
-      "url": "https://kingdomnightclub.com/event/amped-austin/kingdom-nightclub/austin-texas/"
-    },
-    {
-      "id": "silo-dallas-2026-07-25-walker-royce",
-      "venue": "Silo Dallas",
-      "list": "Local",
-      "date": "2026-07-25",
-      "time": "9:00 PM",
-      "artist": "Walker & Royce",
-      "support": "",
-      "genre": "EDM",
-      "url": "https://wl.eventim.us/event/Walker-and-Royce-DALLAS/668682?afflky=SILO"
-    },
-    {
-      "id": "the-concourse-project-2026-07-25-deep-dish-extended-set",
-      "venue": "The Concourse Project",
-      "list": "Local",
-      "date": "2026-07-25",
-      "time": "9:00 PM",
-      "artist": "Deep Dish (Extended Set)",
-      "support": "",
-      "genre": "EDM",
-      "url": "https://wl.seetickets.us/event/Deep-Dish-Extended-Set-at-The-Concourse-Project/691616?afflky=TheConcourseProject"
-    },
-    {
-      "id": "silo-dallas-2026-07-26-eli-fur",
-      "venue": "Silo Dallas",
-      "list": "Local",
-      "date": "2026-07-26",
-      "time": "5:00 PM",
-      "artist": "Eli & Fur",
-      "support": "",
-      "genre": "EDM",
-      "url": "https://wl.eventim.us/event/Eli-and-Fur-DALLAS/688567?afflky=DiscoPresents-Ductwork"
-    },
-    {
-      "id": "red-rocks-2026-07-26-sombr",
-      "venue": "Red Rocks",
-      "list": "Off Angle",
-      "date": "2026-07-26",
-      "time": "7:30 PM",
-      "artist": "SOMBR",
-      "support": "King Princess",
-      "genre": "Live Music",
-      "url": "https://www.redrocksonline.com/events/sombr-1407560/"
-    },
-    {
-      "id": "red-rocks-2026-07-27-sombr",
-      "venue": "Red Rocks",
-      "list": "Off Angle",
-      "date": "2026-07-27",
-      "time": "7:30 PM",
-      "artist": "SOMBR",
-      "support": "King Princess",
-      "genre": "Live Music",
-      "url": "https://www.redrocksonline.com/events/sombr-1407680/"
-    },
-    {
-      "id": "red-rocks-2026-07-28-sarah-mclachlan",
-      "venue": "Red Rocks",
-      "list": "Off Angle",
-      "date": "2026-07-28",
-      "time": "7:30 PM",
-      "artist": "Sarah McLachlan",
-      "support": "Allison Russell",
-      "genre": "Live Music",
-      "url": "https://www.redrocksonline.com/events/sarah-mclachlan-1326881/"
-    },
-    {
-      "id": "red-rocks-2026-07-29-parker-mccollum",
-      "venue": "Red Rocks",
-      "list": "Off Angle",
-      "date": "2026-07-29",
-      "time": "7:30 PM",
-      "artist": "Parker McCollum",
-      "support": "Gary Allan, Josh Abbott Band",
-      "genre": "Live Music",
-      "url": "https://www.redrocksonline.com/events/parker-mccollum-1216490/"
-    },
     {
       "id": "emo-s-2026-07-30-water-boyz-presents-chris-travis-performing-live-the-prefix-tour",
       "venue": "Emo's",
@@ -499,6 +79,17 @@
       "support": "",
       "genre": "EDM",
       "url": "https://wl.eventim.us/event/Blastoyz-DALLAS/688689?afflky=DiscoPresents-Ductwork"
+    },
+    {
+      "id": "kingdom-2026-07-31-late-service",
+      "venue": "Kingdom",
+      "list": "Local",
+      "date": "2026-07-31",
+      "time": "10:00 PM",
+      "artist": "Late Service",
+      "support": "",
+      "genre": "Live Music",
+      "url": "https://kingdomnightclub.com/event/late-service/kingdom-nightclub/austin-texas/"
     },
     {
       "id": "kingdom-2026-07-31-sonic-connection-an-immersive-date-night-experience",
@@ -562,7 +153,7 @@
       "date": "2026-07-31",
       "time": "9:00 PM",
       "artist": "salute",
-      "support": "",
+      "support": "VRGL, ThatHitMaKer",
       "genre": "EDM",
       "url": "https://wl.seetickets.us/event/salute-at-The-Concourse-Project/685401?afflky=TheConcourseProject"
     },
@@ -586,7 +177,7 @@
       "artist": "Yoga on the Rocks",
       "support": "",
       "genre": "Live Music",
-      "url": "https://www.redrocksonline.com/events/yoga-on-the-rocks-2026-1415123-2/"
+      "url": "https://www.redrocksonline.com/events/yoga-on-the-rocks-2026-1415123-4/"
     },
     {
       "id": "red-rocks-2026-08-01-tedeschi-trucks-band",
@@ -628,7 +219,7 @@
       "date": "2026-08-01",
       "time": "9:00 PM",
       "artist": "Matroda (Extended Set)",
-      "support": "",
+      "support": "Andrew Parsons, 45AM",
       "genre": "EDM",
       "url": "https://wl.seetickets.us/event/Matroda-Extended-Set-at-The-Concourse-Project/691662?afflky=TheConcourseProject"
     },
@@ -780,7 +371,7 @@
       "venue": "Red Rocks",
       "list": "Off Angle",
       "date": "2026-08-08",
-      "time": "6:30 PM",
+      "time": "6:00 PM",
       "artist": "Slightly Stoopid",
       "support": "The Movement, Pepper, Slum Beach Posse (ft. DENM, Landon McNamara, Jesse James Pariah)",
       "genre": "Live Music",
@@ -795,7 +386,7 @@
       "artist": "Yoga on the Rocks",
       "support": "",
       "genre": "Live Music",
-      "url": "https://www.redrocksonline.com/events/yoga-on-the-rocks-2026-1415123-3/"
+      "url": "https://www.redrocksonline.com/events/yoga-on-the-rocks-2026-1415123-1/"
     },
     {
       "id": "under-the-k-bridge-2026-08-08-charlotte-de-witte-b2b-yousuke-yukimatsu-u-uk-uk1mat-u",
@@ -850,7 +441,7 @@
       "artist": "Dash Berlin",
       "support": "",
       "genre": "EDM",
-      "url": "https://silodallas.com/events/dash-berlin-58317654824"
+      "url": "https://wl.eventim.us/event/Dash-Berlin-DALLAS/698851?afflky=DiscoPresents-Ductwork"
     },
     {
       "id": "red-rocks-2026-08-10-film-on-the-rocks-jurassic-park",
@@ -985,6 +576,17 @@
       "url": "https://wl.seetickets.us/event/Audien-w-TELYKAST-Amel-at-The-Concourse-Project/689789?afflky=TheConcourseProject"
     },
     {
+      "id": "the-concourse-project-2026-08-15-pulse-pilates",
+      "venue": "The Concourse Project",
+      "list": "Local",
+      "date": "2026-08-15",
+      "time": "10:30 AM",
+      "artist": "Pulse Pilates",
+      "support": "Saint Stratus, Cartfish",
+      "genre": "EDM",
+      "url": "https://wl.seetickets.us/event/Pulse-Pilates-at-The-Concourse-Project/699830?afflky=TheConcourseProject"
+    },
+    {
       "id": "red-rocks-2026-08-15-yoga-on-the-rocks",
       "venue": "Red Rocks",
       "list": "Off Angle",
@@ -993,7 +595,7 @@
       "artist": "Yoga on the Rocks",
       "support": "",
       "genre": "Live Music",
-      "url": "https://www.redrocksonline.com/events/yoga-on-the-rocks-2026-1415123-4/"
+      "url": "https://www.redrocksonline.com/events/yoga-on-the-rocks-2026-1415123-2/"
     },
     {
       "id": "emo-s-2026-08-15-noname",
@@ -1046,7 +648,7 @@
       "date": "2026-08-15",
       "time": "9:00 PM",
       "artist": "ACRAZE",
-      "support": "",
+      "support": "Rello",
       "genre": "EDM",
       "url": "https://wl.seetickets.us/event/ACRAZE-at-The-Concourse-Project/690073?afflky=TheConcourseProject"
     },
@@ -1090,7 +692,7 @@
       "date": "2026-08-18",
       "time": "8:00 PM",
       "artist": "Nathaniel Rateliff with The Colorado Symphony",
-      "support": "",
+      "support": "Lucius",
       "genre": "Live Music",
       "url": "https://www.redrocksonline.com/events/nathaniel-rateliff-with-the-colorado-symphony-orchestra-1397027/"
     },
@@ -1137,6 +739,17 @@
       "support": "",
       "genre": "EDM",
       "url": "https://wl.eventim.us/event/REBUKE-DALLAS/691745?afflky=DiscoPresents-Ductwork"
+    },
+    {
+      "id": "kingdom-2026-08-21-mat-zo",
+      "venue": "Kingdom",
+      "list": "Local",
+      "date": "2026-08-21",
+      "time": "10:00 PM",
+      "artist": "Mat Zo",
+      "support": "",
+      "genre": "Live Music",
+      "url": "https://kingdomnightclub.com/event/mat-zo-2/kingdom-nightclub/austin-texas/"
     },
     {
       "id": "emo-s-2026-08-21-st-lucia",
@@ -1403,6 +1016,17 @@
       "url": "https://wl.seetickets.us/event/Kayzo-presents-The-Cage-at-The-Concourse-Project/695945?afflky=TheConcourseProject"
     },
     {
+      "id": "the-concourse-project-2026-08-28-westend",
+      "venue": "The Concourse Project",
+      "list": "Local",
+      "date": "2026-08-28",
+      "time": "9:00 PM",
+      "artist": "Westend",
+      "support": "",
+      "genre": "EDM",
+      "url": "https://wl.seetickets.us/event/Westend-at-The-Concourse-Project-The-Hangar/698729?afflky=TheConcourseProject"
+    },
+    {
       "id": "red-rocks-2026-08-29-yoga-on-the-rocks",
       "venue": "Red Rocks",
       "list": "Off Angle",
@@ -1411,7 +1035,7 @@
       "artist": "Yoga on the Rocks",
       "support": "",
       "genre": "Live Music",
-      "url": "https://www.redrocksonline.com/events/yoga-on-the-rocks-2026-1415123-5/"
+      "url": "https://www.redrocksonline.com/events/yoga-on-the-rocks-2026-1415123-3/"
     },
     {
       "id": "under-the-k-bridge-2026-08-29-mochakk",
@@ -1464,7 +1088,7 @@
       "date": "2026-08-29",
       "time": "9:00 PM",
       "artist": "Indo Warehouse",
-      "support": "",
+      "support": "Deer Jade, Ferno",
       "genre": "EDM",
       "url": "https://wl.seetickets.us/event/Indo-Warehouse-at-The-Concourse-Project/694384?afflky=TheConcourseProject"
     },
@@ -1473,7 +1097,7 @@
       "venue": "Silo Dallas",
       "list": "Local",
       "date": "2026-08-30",
-      "time": "7:00 PM",
+      "time": "5:00 PM",
       "artist": "Desert Hearts",
       "support": "",
       "genre": "EDM",
@@ -1579,6 +1203,17 @@
       "url": "https://wl.seetickets.us/event/FREE-with-RSVP-Jamback-at-The-Concourse-Project/687516?afflky=TheConcourseProject"
     },
     {
+      "id": "kingdom-2026-09-04-horse-meat-disco-atx-sweat-labor-day-weekend",
+      "venue": "Kingdom",
+      "list": "Local",
+      "date": "2026-09-04",
+      "time": "10:00 PM",
+      "artist": "HORSE MEAT DISCO ATX SWEAT LABOR DAY WEEKEND",
+      "support": "",
+      "genre": "Live Music",
+      "url": "https://kingdomnightclub.com/event/horse-meat-disco-atx-sweat-labor-day-weekend/kingdom-nightclub/austin-texas/"
+    },
+    {
       "id": "red-rocks-2026-09-04-mana",
       "venue": "Red Rocks",
       "list": "Off Angle",
@@ -1623,6 +1258,17 @@
       "url": "https://wl.seetickets.us/event/Lilly-Palmer-Extended-Set-at-The-Concourse-Project/691625?afflky=TheConcourseProject"
     },
     {
+      "id": "kingdom-2026-09-05-tuff-atx-sweat-labor-day-weekend",
+      "venue": "Kingdom",
+      "list": "Local",
+      "date": "2026-09-05",
+      "time": "10:00 PM",
+      "artist": "TUFF ATX SWEAT LABOR DAY WEEKEND",
+      "support": "",
+      "genre": "Live Music",
+      "url": "https://kingdomnightclub.com/event/tuff-atx-sweat-labor-day-weekend/kingdom-nightclub/austin-texas/"
+    },
+    {
       "id": "red-rocks-2026-09-05-mana",
       "venue": "Red Rocks",
       "list": "Off Angle",
@@ -1656,6 +1302,17 @@
       "url": "https://wl.eventim.us/event/BELTRAN-HOUSTON/698122?afflky=DuctworkHouston"
     },
     {
+      "id": "the-concourse-project-2026-09-05-whomadewho-hybrid-dj-set",
+      "venue": "The Concourse Project",
+      "list": "Local",
+      "date": "2026-09-05",
+      "time": "9:00 PM",
+      "artist": "WhoMadeWho (Hybrid DJ Set)",
+      "support": "",
+      "genre": "EDM",
+      "url": "https://wl.seetickets.us/event/WhoMadeWho-Hybrid-DJ-Set-at-The-Concourse-Project/692640?afflky=TheConcourseProject"
+    },
+    {
       "id": "red-rocks-2026-09-06-gregory-alan-isakov-with-the-colorado-symphony",
       "venue": "Red Rocks",
       "list": "Off Angle",
@@ -1676,6 +1333,28 @@
       "support": "",
       "genre": "EDM",
       "url": "https://wl.eventim.us/event/Galantis-DALLAS/698482?afflky=SILO"
+    },
+    {
+      "id": "silo-houston-2026-09-06-don-diablo",
+      "venue": "Silo Houston",
+      "list": "Local",
+      "date": "2026-09-06",
+      "time": "9:00 PM",
+      "artist": "Don Diablo",
+      "support": "",
+      "genre": "EDM",
+      "url": "https://wl.eventim.us/event/DON-DIABLO-HOUSTON/700243?afflky=DuctworkHouston"
+    },
+    {
+      "id": "the-concourse-project-2026-09-06-alignment-peterblue",
+      "venue": "The Concourse Project",
+      "list": "Local",
+      "date": "2026-09-06",
+      "time": "9:00 PM",
+      "artist": "Alignment + PETERBLUE",
+      "support": "Alignment, PETERBLUE",
+      "genre": "EDM",
+      "url": "https://wl.seetickets.us/event/Alignment-PETERBLUE-at-The-Concourse-Project/687517?afflky=TheConcourseProject"
     },
     {
       "id": "red-rocks-2026-09-07-gregory-alan-isakov-with-the-colorado-symphony",
@@ -1766,6 +1445,17 @@
       "url": "https://wl.eventim.us/event/Calcium-DALLAS/694650?afflky=DiscoPresents-Ductwork"
     },
     {
+      "id": "the-concourse-project-2026-09-11-zeds-dead-at-germania-insurance-amphitheater",
+      "venue": "The Concourse Project",
+      "list": "Local",
+      "date": "2026-09-11",
+      "time": "7:00 PM",
+      "artist": "Zeds Dead at Germania Insurance Amphitheater",
+      "support": "Daily Bread",
+      "genre": "EDM",
+      "url": "https://www.ticketmaster.com/event/3A00645787918635?utm_campaign=Adv-3536119&utm_source=realmusic+events&utm_medium=other_med_ln_digital"
+    },
+    {
       "id": "red-rocks-2026-09-11-brandi-carlile",
       "venue": "Red Rocks",
       "list": "Off Angle",
@@ -1799,6 +1489,17 @@
       "url": "https://wl.eventim.us/event/LSRCITY-X-by-Gareth-Emery-DALLAS/690277?afflky=SILO"
     },
     {
+      "id": "silo-houston-2026-09-11-bonnie-x-clyde",
+      "venue": "Silo Houston",
+      "list": "Local",
+      "date": "2026-09-11",
+      "time": "9:00 PM",
+      "artist": "Bonnie X Clyde",
+      "support": "",
+      "genre": "EDM",
+      "url": "https://wl.eventim.us/event/BONNIE-X-CLYDE-HOUSTON/700500?afflky=DuctworkHouston"
+    },
+    {
       "id": "emo-s-2026-09-12-sex-pistols-steve-jones-paul-cook-glen-matlock-feat-frank-carter",
       "venue": "Emo's",
       "list": "Local",
@@ -1830,6 +1531,17 @@
       "support": "",
       "genre": "EDM",
       "url": "https://wl.eventim.us/event/INDO-WAREHOUSE-DALLAS/695177?afflky=SILO"
+    },
+    {
+      "id": "silo-houston-2026-09-12-flosstradamus",
+      "venue": "Silo Houston",
+      "list": "Local",
+      "date": "2026-09-12",
+      "time": "9:00 PM",
+      "artist": "Flosstradamus",
+      "support": "",
+      "genre": "EDM",
+      "url": "https://wl.eventim.us/event/FLOSSTRADAMUS-HOUSTON/700584?afflky=DuctworkHouston"
     },
     {
       "id": "red-rocks-2026-09-13-brandi-carlile",
@@ -2030,6 +1742,28 @@
       "url": "https://wl.eventim.us/event/TroyBoi-Hear2Move-DALLAS/697913?afflky=SILO"
     },
     {
+      "id": "silo-houston-2026-09-19-dj-diesel",
+      "venue": "Silo Houston",
+      "list": "Local",
+      "date": "2026-09-19",
+      "time": "9:00 PM",
+      "artist": "DJ Diesel",
+      "support": "",
+      "genre": "EDM",
+      "url": "https://wl.eventim.us/event/DJ-DIESEL-HOUSTON/699112?afflky=DuctworkHouston"
+    },
+    {
+      "id": "silo-dallas-2026-09-20-dj-diesel",
+      "venue": "Silo Dallas",
+      "list": "Local",
+      "date": "2026-09-20",
+      "time": "7:00 PM",
+      "artist": "DJ Diesel",
+      "support": "",
+      "genre": "EDM",
+      "url": "https://wl.eventim.us/event/DJ-Diesel-aka-SHAQ-DALLAS/699111?afflky=SILO"
+    },
+    {
       "id": "red-rocks-2026-09-20-andrea-bocelli",
       "venue": "Red Rocks",
       "list": "Off Angle",
@@ -2151,6 +1885,17 @@
       "url": "https://wl.eventim.us/event/Holy-Priest-DALLAS/694030?afflky=SILO"
     },
     {
+      "id": "kingdom-2026-09-25-ahmed-spins",
+      "venue": "Kingdom",
+      "list": "Local",
+      "date": "2026-09-25",
+      "time": "10:00 PM",
+      "artist": "Ahmed Spins",
+      "support": "",
+      "genre": "Live Music",
+      "url": "https://kingdomnightclub.com/event/ahmed-spins/kingdom-nightclub/austin-texas/"
+    },
+    {
       "id": "under-the-k-bridge-2026-09-25-the-prodigy",
       "venue": "Under the K Bridge",
       "list": "Off Angle",
@@ -2239,6 +1984,17 @@
       "url": "https://www.ticketmaster.com/judah-the-lion-austin-texas-09-27-2026/event/3A0064CA993CA0F2"
     },
     {
+      "id": "silo-dallas-2026-09-27-inquisitive",
+      "venue": "Silo Dallas",
+      "list": "Local",
+      "date": "2026-09-27",
+      "time": "7:00 PM",
+      "artist": "Inquisitive",
+      "support": "",
+      "genre": "EDM",
+      "url": "https://wl.eventim.us/event/Inquisitive-DALLAS/700366?afflky=DiscoPresents-Ductwork"
+    },
+    {
       "id": "red-rocks-2026-09-27-jungle",
       "venue": "Red Rocks",
       "list": "Off Angle",
@@ -2305,6 +2061,17 @@
       "url": "https://www.redrocksonline.com/events/beck-ride-lonesome-tour-1407922/"
     },
     {
+      "id": "silo-dallas-2026-10-01-hybrid-minds",
+      "venue": "Silo Dallas",
+      "list": "Local",
+      "date": "2026-10-01",
+      "time": "9:00 PM",
+      "artist": "Hybrid Minds",
+      "support": "",
+      "genre": "EDM",
+      "url": "https://wl.eventim.us/event/Hybrid-Minds-DALLAS/699781?afflky=DiscoPresents-Ductwork"
+    },
+    {
       "id": "red-rocks-2026-10-02-levity-presents-levi-rocks-the-volcano",
       "venue": "Red Rocks",
       "list": "Off Angle",
@@ -2349,6 +2116,17 @@
       "url": "https://www.redrocksonline.com/events/rezz-rocks-viii-1303156/"
     },
     {
+      "id": "red-rocks-2026-10-03-deorro",
+      "venue": "Red Rocks",
+      "list": "Off Angle",
+      "date": "2026-10-03",
+      "time": "7:30 PM",
+      "artist": "Deorro",
+      "support": "",
+      "genre": "Live Music",
+      "url": "https://www.redrocksonline.com/events/deorro-1514786/"
+    },
+    {
       "id": "silo-dallas-2026-10-03-sasha-john-digweed",
       "venue": "Silo Dallas",
       "list": "Local",
@@ -2388,7 +2166,7 @@
       "date": "2026-10-06",
       "time": "7:30 PM",
       "artist": "Big Thief",
-      "support": "",
+      "support": "Iris DeMent",
       "genre": "Live Music",
       "url": "https://www.redrocksonline.com/events/big-thief-1364342/"
     },
@@ -2520,9 +2298,20 @@
       "date": "2026-10-12",
       "time": "7:00 PM",
       "artist": "Rise Against",
-      "support": "Teen Mortgage, Alkaline Trio",
+      "support": "Alkaline Trio, Teen Mortgage",
       "genre": "Live Music",
       "url": "https://www.redrocksonline.com/events/rise-against-ricochet-2026-1366745/"
+    },
+    {
+      "id": "emo-s-2026-10-13-quadeca",
+      "venue": "Emo's",
+      "list": "Local",
+      "date": "2026-10-13",
+      "time": "7:00 PM",
+      "artist": "Quadeca",
+      "support": "",
+      "genre": "Live Music",
+      "url": "https://www.ticketmaster.com/quadeca-austin-texas-10-13-2026/event/3A0064EEB0058ECA"
     },
     {
       "id": "red-rocks-2026-10-13-shaboozey",
@@ -2624,6 +2413,28 @@
       "url": "https://billgrahamcivic.com/events/sara-bareilles-261016"
     },
     {
+      "id": "silo-dallas-2026-10-16-bob-moses",
+      "venue": "Silo Dallas",
+      "list": "Local",
+      "date": "2026-10-16",
+      "time": "9:00 PM",
+      "artist": "Bob Moses",
+      "support": "",
+      "genre": "EDM",
+      "url": "https://wl.eventim.us/event/Bob-Moses-club-set-DALLAS/700129?afflky=SILO"
+    },
+    {
+      "id": "silo-houston-2026-10-16-sabai-x-hoang",
+      "venue": "Silo Houston",
+      "list": "Local",
+      "date": "2026-10-16",
+      "time": "9:00 PM",
+      "artist": "SABAI x HOANG",
+      "support": "",
+      "genre": "EDM",
+      "url": "https://wl.eventim.us/event/SABAI-x-HOANG-HOUSTON/699331?afflky=DuctworkHouston&eventpass=CHANCE"
+    },
+    {
       "id": "under-the-k-bridge-2026-10-17-gryffin",
       "venue": "Under the K Bridge",
       "list": "Off Angle",
@@ -2712,6 +2523,28 @@
       "url": "https://www.redrocksonline.com/events/zac-brown-band-1307879/"
     },
     {
+      "id": "emo-s-2026-10-21-marilyn-manson-2-day-ticket-10-21-26-10-22-26",
+      "venue": "Emo's",
+      "list": "Local",
+      "date": "2026-10-21",
+      "time": "12:00 AM",
+      "artist": "Marilyn Manson - 2 Day Ticket (10/21/26 + 10/22/26)",
+      "support": "",
+      "genre": "Live Music",
+      "url": "https://www.ticketmaster.com/marilyn-manson-2-day-ticket-102126-austin-texas-10-21-2026/event/3A0064ED8E754D7B"
+    },
+    {
+      "id": "emo-s-2026-10-21-marilyn-manson",
+      "venue": "Emo's",
+      "list": "Local",
+      "date": "2026-10-21",
+      "time": "8:00 PM",
+      "artist": "Marilyn Manson",
+      "support": "",
+      "genre": "Live Music",
+      "url": "https://www.ticketmaster.com/marilyn-manson-austin-texas-10-21-2026/event/3A0064ED8C38495C"
+    },
+    {
       "id": "red-rocks-2026-10-21-muna",
       "venue": "Red Rocks",
       "list": "Off Angle",
@@ -2745,13 +2578,35 @@
       "url": "https://billgrahamcivic.com/events/monsta-x-261022"
     },
     {
+      "id": "emo-s-2026-10-22-marilyn-manson",
+      "venue": "Emo's",
+      "list": "Local",
+      "date": "2026-10-22",
+      "time": "8:00 PM",
+      "artist": "Marilyn Manson",
+      "support": "",
+      "genre": "Live Music",
+      "url": "https://www.ticketmaster.com/marilyn-manson-austin-texas-10-22-2026/event/3A0064ED8C8749CB"
+    },
+    {
+      "id": "silo-dallas-2026-10-22-gorilla-t",
+      "venue": "Silo Dallas",
+      "list": "Local",
+      "date": "2026-10-22",
+      "time": "9:00 PM",
+      "artist": "Gorilla T",
+      "support": "",
+      "genre": "EDM",
+      "url": "https://wl.eventim.us/event/GorillaT-DALLAS/700117?afflky=DiscoPresents-Ductwork"
+    },
+    {
       "id": "red-rocks-2026-10-23-mersiv-two-sets",
       "venue": "Red Rocks",
       "list": "Off Angle",
       "date": "2026-10-23",
       "time": "5:00 PM",
       "artist": "Mersiv (Two Sets)",
-      "support": "Know Good, Jaenga, Phrva, Dr. Ushuu, SLOWDOWN, Vyhara",
+      "support": "Know Good, Jaenga, Phrva, Dr. Ushuu, Vyhara",
       "genre": "EDM",
       "url": "https://www.redrocksonline.com/events/mersiv-1247239/"
     },
@@ -2943,17 +2798,6 @@
       "url": "https://wl.eventim.us/event/Gorgon-City-DALLAS/695778?afflky=SILO"
     },
     {
-      "id": "emo-s-2026-11-01-hazlett",
-      "venue": "Emo's",
-      "list": "Local",
-      "date": "2026-11-01",
-      "time": "7:00 PM",
-      "artist": "Hazlett",
-      "support": "",
-      "genre": "Live Music",
-      "url": "https://www.ticketmaster.com/hazlett-austin-texas-11-01-2026/event/3A0064CAED7A4FB8"
-    },
-    {
       "id": "silo-dallas-2026-11-01-pan-pot",
       "venue": "Silo Dallas",
       "list": "Local",
@@ -3053,6 +2897,28 @@
       "url": "https://www.redrocksonline.com/events/clipse-j-i-d-1439908/"
     },
     {
+      "id": "silo-dallas-2026-11-12-tisoki",
+      "venue": "Silo Dallas",
+      "list": "Local",
+      "date": "2026-11-12",
+      "time": "9:00 PM",
+      "artist": "Tisoki",
+      "support": "",
+      "genre": "EDM",
+      "url": "https://silodallas.com/events/tisoki-59416867981"
+    },
+    {
+      "id": "kingdom-2026-11-13-com-truise-dj-set",
+      "venue": "Kingdom",
+      "list": "Local",
+      "date": "2026-11-13",
+      "time": "10:00 PM",
+      "artist": "Com Truise – DJ Set",
+      "support": "",
+      "genre": "Live Music",
+      "url": "https://kingdomnightclub.com/event/com-truise-dj-set/kingdom-nightclub/austin-texas/"
+    },
+    {
       "id": "red-rocks-2026-11-13-gryffin",
       "venue": "Red Rocks",
       "list": "Off Angle",
@@ -3064,15 +2930,15 @@
       "url": "https://www.redrocksonline.com/events/gryffin-1394914/"
     },
     {
-      "id": "red-rocks-2026-11-14-mike",
-      "venue": "Red Rocks",
+      "id": "bill-graham-civic-2026-11-13-tyla",
+      "venue": "Bill Graham Civic",
       "list": "Off Angle",
-      "date": "2026-11-14",
-      "time": "5:30 PM",
-      "artist": "mike.",
-      "support": "closing DJ set from Stevie Daniels",
+      "date": "2026-11-13",
+      "time": "8:00 PM",
+      "artist": "Tyla",
+      "support": "",
       "genre": "Live Music",
-      "url": "https://www.redrocksonline.com/events/mike-1239116/"
+      "url": "https://billgrahamcivic.com/events/tyla-261113"
     },
     {
       "id": "bill-graham-civic-2026-11-14-worship",
@@ -3084,6 +2950,17 @@
       "support": "Sub Focus, Dimension, Culture Shock, 1991",
       "genre": "EDM",
       "url": "https://billgrahamcivic.com/events/worship-261114"
+    },
+    {
+      "id": "red-rocks-2026-11-14-mike",
+      "venue": "Red Rocks",
+      "list": "Off Angle",
+      "date": "2026-11-14",
+      "time": "7:30 PM",
+      "artist": "mike.",
+      "support": "closing DJ set from Stevie Daniels",
+      "genre": "Live Music",
+      "url": "https://www.redrocksonline.com/events/mike-1239116/"
     },
     {
       "id": "silo-dallas-2026-11-14-zhu",
@@ -3149,7 +3026,7 @@
       "artist": "Crankdat",
       "support": "",
       "genre": "EDM",
-      "url": "https://www.eventim.us/event/CRANKDAT-HOUSTON/696675?eventpass=crankitup"
+      "url": "https://wl.eventim.us/event/Deorro-HOUSTON/699784?afflky=DuctworkHouston"
     },
     {
       "id": "silo-dallas-2026-11-25-virtual-riot-blanke",
@@ -3161,6 +3038,50 @@
       "support": "",
       "genre": "EDM",
       "url": "https://wl.eventim.us/event/Virtual-Riot-and-Blanke-DALLAS/695833?afflky=SILO"
+    },
+    {
+      "id": "silo-dallas-2026-11-27-deathpact",
+      "venue": "Silo Dallas",
+      "list": "Local",
+      "date": "2026-11-27",
+      "time": "9:00 PM",
+      "artist": "Deathpact",
+      "support": "",
+      "genre": "EDM",
+      "url": "https://wl.eventim.us/event/DEATHPACT-DALLAS/700256?afflky=SILO&eventpass=light"
+    },
+    {
+      "id": "silo-houston-2026-11-27-deorro",
+      "venue": "Silo Houston",
+      "list": "Local",
+      "date": "2026-11-27",
+      "time": "9:00 PM",
+      "artist": "Deorro",
+      "support": "",
+      "genre": "EDM",
+      "url": "https://wl.eventim.us/event/Deorro-HOUSTON/699784?afflky=DuctworkHouston"
+    },
+    {
+      "id": "silo-dallas-2026-11-28-deorro",
+      "venue": "Silo Dallas",
+      "list": "Local",
+      "date": "2026-11-28",
+      "time": "9:00 PM",
+      "artist": "Deorro",
+      "support": "",
+      "genre": "EDM",
+      "url": "https://silodallas.com/events/deorro-59457299369"
+    },
+    {
+      "id": "silo-houston-2026-11-28-deathpact",
+      "venue": "Silo Houston",
+      "list": "Local",
+      "date": "2026-11-28",
+      "time": "9:00 PM",
+      "artist": "Deathpact",
+      "support": "",
+      "genre": "EDM",
+      "url": "https://wl.eventim.us/event/DEATHPACT-DALLAS/700256?afflky=SILO&eventpass=light"
     },
     {
       "id": "bill-graham-civic-2026-12-02-the-neighbourhood",
@@ -3183,6 +3104,28 @@
       "support": "",
       "genre": "EDM",
       "url": "https://wl.eventim.us/event/SampliFire-DALLAS/693792?afflky=DiscoPresents-Ductwork"
+    },
+    {
+      "id": "silo-houston-2026-12-11-sidepiece",
+      "venue": "Silo Houston",
+      "list": "Local",
+      "date": "2026-12-11",
+      "time": "9:00 PM",
+      "artist": "SIDEPIECE",
+      "support": "",
+      "genre": "EDM",
+      "url": "https://wl.eventim.us/event/SIDEPIECE-HOUSTON/699511?afflky=DuctworkHouston"
+    },
+    {
+      "id": "silo-dallas-2026-12-13-sam-wolfe",
+      "venue": "Silo Dallas",
+      "list": "Local",
+      "date": "2026-12-13",
+      "time": "7:00 PM",
+      "artist": "Sam WOLFE",
+      "support": "",
+      "genre": "EDM",
+      "url": "https://wl.eventim.us/event/Sam-Wolfe-DALLAS/699785?afflky=DiscoPresents-Ductwork"
     },
     {
       "id": "silo-dallas-2026-12-18-due-to-circumstances-beyond-control-the-dillstradamus-dillon-francis-b2b-flosstradamus-event-orig",

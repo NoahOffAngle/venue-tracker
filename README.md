@@ -34,6 +34,25 @@ site/index.html    (the filterable viewer, embedded in Squarespace)
    - `MAIL_TO` – where alerts should go
    If these aren't set, the tracker still works — it just skips the email.
 
+## Using the viewer
+
+- **Tabs** — one per list in `venues.json`, plus **Selected**.
+- **Selected** — tick the box beside any show to drop it in this basket. It spans every
+  tab, survives closing the browser, and has two export buttons:
+  - *Copy for Google Sheets* — paste straight into a sheet (tab-separated).
+  - *Download CSV* — for `File → Import` in Google Sheets, or Excel.
+- **Colours** — each venue has a colour (its dot, tag and the stripe down the left of
+  each row). Click **Colours** to change them live; to make a change permanent on every
+  device, copy the list it shows into `venues.json` as each venue's `"color"`.
+
+The embed needs `allow="clipboard-write"` for the copy button to work inside Squarespace:
+
+```html
+<iframe src="https://noahoffangle.github.io/venue-tracker/site/index.html"
+        style="width:100%; height:900px; border:0;"
+        allow="clipboard-write" title="Show Tracker" loading="lazy"></iframe>
+```
+
 ## Adding or removing a venue
 
 Edit `scraper/venues.json`. To add a venue that uses a website we already support,

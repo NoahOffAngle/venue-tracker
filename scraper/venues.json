@@ -1,5 +1,5 @@
 {
-  "_comment": "'lists' defines your tabs (order matters). Each venue's 'list' says which tab it appears in. To add a venue that uses a scraper we already support, copy a block and change name/url/list. A brand-new website layout needs a new 'parser' added to scrape.py first. 'rank' controls ordering within a tab.",
+  "_comment": "'lists' defines your tabs (order matters). Each venue's 'list' says which tab it appears in, and 'color' is its highlight colour in the viewer (any hex code). To add a venue that uses a scraper we already support, copy a block and change name/url/list. A brand-new website layout needs a new 'parser' added to scrape.py first. 'rank' controls ordering within a tab.",
   "lists": [
     "Local",
     "Off Angle"
@@ -10,14 +10,16 @@
       "name": "Red Rocks",
       "list": "Off Angle",
       "parser": "redrocks",
-      "url": "https://www.redrocksonline.com/events/"
+      "url": "https://www.redrocksonline.com/events/",
+      "color": "#e05252"
     },
     {
       "rank": 2,
       "name": "Bill Graham Civic",
       "list": "Off Angle",
       "parser": "billgraham",
-      "url": "https://billgrahamcivic.com/event-listing/"
+      "url": "https://billgrahamcivic.com/event-listing/",
+      "color": "#f0a63a"
     },
     {
       "rank": 3,
@@ -25,28 +27,32 @@
       "list": "Off Angle",
       "parser": "aeg_json",
       "url": "https://aegwebprod.blob.core.windows.net/json/events/360/events.json",
-      "site_url": "https://underthekbridge.org"
+      "site_url": "https://underthekbridge.org",
+      "color": "#38bdf8"
     },
     {
       "rank": 4,
       "name": "The Concourse Project",
       "list": "Local",
       "parser": "seetickets",
-      "url": "https://concourseproject.com/calendar/"
+      "url": "https://concourseproject.com/calendar/",
+      "color": "#a855f7"
     },
     {
       "rank": 5,
       "name": "Kingdom",
       "list": "Local",
       "parser": "rockhouse",
-      "url": "https://kingdomnightclub.com/events/"
+      "url": "https://kingdomnightclub.com/events/",
+      "color": "#22c55e"
     },
     {
       "rank": 6,
       "name": "Emo's",
       "list": "Local",
       "parser": "jsonld",
-      "url": "https://www.emosaustin.com/shows"
+      "url": "https://www.emosaustin.com/shows",
+      "color": "#ec4899"
     },
     {
       "rank": 7,
@@ -54,7 +60,8 @@
       "list": "Local",
       "parser": "silodallas",
       "url": "https://silodallas.com/events",
-      "genre": "EDM"
+      "genre": "EDM",
+      "color": "#6d5efc"
     },
     {
       "rank": 8,
@@ -62,7 +69,8 @@
       "list": "Local",
       "parser": "festistack",
       "url": "https://silohouston.com/",
-      "genre": "EDM"
+      "genre": "EDM",
+      "color": "#14b8a6"
     }
   ]
 }

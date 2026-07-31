@@ -638,6 +638,10 @@ def main():
         "generated_at": datetime.datetime.now(datetime.timezone.utc)
                         .strftime("%Y-%m-%dT%H:%M:%SZ"),
         "lists": config.get("lists", []),
+        "venues": [
+            {"name": v["name"], "list": v.get("list", ""), "color": v.get("color", "")}
+            for v in venues
+        ],
         "events": sorted(current.values(), key=lambda e: (e["date"], e["time"], e["venue"])),
     }
     DATA_FILE.parent.mkdir(parents=True, exist_ok=True)
