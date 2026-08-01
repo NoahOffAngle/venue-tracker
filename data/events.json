@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-01T07:55:13Z",
+  "generated_at": "2026-08-01T15:43:49Z",
   "lists": [
     "Local",
     "Off Angle"
@@ -48,28 +48,6 @@
   ],
   "events": [
     {
-      "id": "kingdom-2026-07-31-late-service",
-      "venue": "Kingdom",
-      "list": "Local",
-      "date": "2026-07-31",
-      "time": "10:00 PM",
-      "artist": "Late Service",
-      "support": "",
-      "genre": "Live Music",
-      "url": "https://kingdomnightclub.com/event/late-service/kingdom-nightclub/austin-texas/"
-    },
-    {
-      "id": "the-concourse-project-2026-07-31-salute",
-      "venue": "The Concourse Project",
-      "list": "Local",
-      "date": "2026-07-31",
-      "time": "9:00 PM",
-      "artist": "salute",
-      "support": "VRGL, ThatHitMaKer",
-      "genre": "EDM",
-      "url": "https://wl.seetickets.us/event/salute-at-The-Concourse-Project/685401?afflky=TheConcourseProject"
-    },
-    {
       "id": "kingdom-2026-08-01-gabss",
       "venue": "Kingdom",
       "list": "Local",
@@ -79,17 +57,6 @@
       "support": "",
       "genre": "Live Music",
       "url": "https://kingdomnightclub.com/event/gabss/kingdom-nightclub/austin-texas/"
-    },
-    {
-      "id": "kingdom-2026-08-01-friday-night-after-hours",
-      "venue": "Kingdom",
-      "list": "Local",
-      "date": "2026-08-01",
-      "time": "2:10 AM",
-      "artist": "Friday Night After Hours",
-      "support": "",
-      "genre": "Live Music",
-      "url": "https://kingdomnightclub.com/event/friday-night-after-hours-4/kingdom-nightclub/austin-texas/"
     },
     {
       "id": "red-rocks-2026-08-01-yoga-on-the-rocks",
@@ -1465,6 +1432,17 @@
       "support": "",
       "genre": "EDM",
       "url": "https://wl.eventim.us/event/FLOSSTRADAMUS-HOUSTON/700584?afflky=DuctworkHouston"
+    },
+    {
+      "id": "the-concourse-project-2026-09-12-lsr-city-x-by-gareth-emery",
+      "venue": "The Concourse Project",
+      "list": "Local",
+      "date": "2026-09-12",
+      "time": "9:00 PM",
+      "artist": "LSR/CITY X by Gareth Emery",
+      "support": "LSR/CITY, Gareth Emery",
+      "genre": "EDM",
+      "url": "https://wl.seetickets.us/event/LSRCITY-X-by-Gareth-Emery-at-The-Concourse-Project/690066?afflky=TheConcourseProject"
     },
     {
       "id": "red-rocks-2026-09-13-brandi-carlile",
