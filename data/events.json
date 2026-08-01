@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-31T21:48:53Z",
+  "generated_at": "2026-08-01T07:55:13Z",
   "lists": [
     "Local",
     "Off Angle"
@@ -59,61 +59,6 @@
       "url": "https://kingdomnightclub.com/event/late-service/kingdom-nightclub/austin-texas/"
     },
     {
-      "id": "kingdom-2026-07-31-sonic-connection-an-immersive-date-night-experience",
-      "venue": "Kingdom",
-      "list": "Local",
-      "date": "2026-07-31",
-      "time": "6:30 PM",
-      "artist": "Sonic Connection: An Immersive Date Night Experience",
-      "support": "",
-      "genre": "EDM",
-      "url": "https://kingdomnightclub.com/event/sonic-connection-an-immersive-date-night-experience-3/kingdom-nightclub/austin-texas/"
-    },
-    {
-      "id": "emo-s-2026-07-31-chance-pena",
-      "venue": "Emo's",
-      "list": "Local",
-      "date": "2026-07-31",
-      "time": "7:00 PM",
-      "artist": "Chance Peña",
-      "support": "",
-      "genre": "Live Music",
-      "url": "https://www.ticketmaster.com/chance-pena-austin-texas-07-31-2026/event/3A006378EDF8C2CB"
-    },
-    {
-      "id": "red-rocks-2026-07-31-tedeschi-trucks-band",
-      "venue": "Red Rocks",
-      "list": "Off Angle",
-      "date": "2026-07-31",
-      "time": "7:00 PM",
-      "artist": "Tedeschi Trucks Band",
-      "support": "Lukas Nelson",
-      "genre": "Live Music",
-      "url": "https://www.redrocksonline.com/events/tedeschi-trucks-band-1303195/"
-    },
-    {
-      "id": "under-the-k-bridge-2026-07-31-sara-landry",
-      "venue": "Under the K Bridge",
-      "list": "Off Angle",
-      "date": "2026-07-31",
-      "time": "7:00 PM",
-      "artist": "Sara Landry",
-      "support": "Hannah Laing, Alt8 b2b Diøn",
-      "genre": "EDM",
-      "url": "https://underthekbridge.org/events/detail?event_id=1321258"
-    },
-    {
-      "id": "silo-dallas-2026-07-31-maceo-plex",
-      "venue": "Silo Dallas",
-      "list": "Local",
-      "date": "2026-07-31",
-      "time": "9:00 PM",
-      "artist": "Maceo Plex",
-      "support": "",
-      "genre": "EDM",
-      "url": "https://wl.eventim.us/event/Maceo-Plex-DALLAS/687869?afflky=SILO"
-    },
-    {
       "id": "the-concourse-project-2026-07-31-salute",
       "venue": "The Concourse Project",
       "list": "Local",
@@ -134,6 +79,17 @@
       "support": "",
       "genre": "Live Music",
       "url": "https://kingdomnightclub.com/event/gabss/kingdom-nightclub/austin-texas/"
+    },
+    {
+      "id": "kingdom-2026-08-01-friday-night-after-hours",
+      "venue": "Kingdom",
+      "list": "Local",
+      "date": "2026-08-01",
+      "time": "2:10 AM",
+      "artist": "Friday Night After Hours",
+      "support": "",
+      "genre": "Live Music",
+      "url": "https://kingdomnightclub.com/event/friday-night-after-hours-4/kingdom-nightclub/austin-texas/"
     },
     {
       "id": "red-rocks-2026-08-01-yoga-on-the-rocks",
@@ -2807,6 +2763,17 @@
       "support": "",
       "genre": "Live Music",
       "url": "https://www.redrocksonline.com/events/yandel-sinfonico-1434572/"
+    },
+    {
+      "id": "emo-s-2026-11-03-knox",
+      "venue": "Emo's",
+      "list": "Local",
+      "date": "2026-11-03",
+      "time": "6:30 PM",
+      "artist": "Knox",
+      "support": "",
+      "genre": "Live Music",
+      "url": "https://www.ticketmaster.com/knox-austin-texas-11-03-2026/event/3A0064E6DE9ABC7D"
     },
     {
       "id": "red-rocks-2026-11-04-joshua-slone",
