@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-01T20:38:56Z",
+  "generated_at": "2026-08-02T07:56:59Z",
   "lists": [
     "Local",
     "Off Angle"
@@ -57,50 +57,6 @@
       "support": "",
       "genre": "Live Music",
       "url": "https://kingdomnightclub.com/event/gabss/kingdom-nightclub/austin-texas/"
-    },
-    {
-      "id": "red-rocks-2026-08-01-tedeschi-trucks-band",
-      "venue": "Red Rocks",
-      "list": "Off Angle",
-      "date": "2026-08-01",
-      "time": "7:00 PM",
-      "artist": "Tedeschi Trucks Band",
-      "support": "Lukas Nelson",
-      "genre": "Live Music",
-      "url": "https://www.redrocksonline.com/events/tedeschi-trucks-band-1303204/"
-    },
-    {
-      "id": "under-the-k-bridge-2026-08-01-sara-landry",
-      "venue": "Under the K Bridge",
-      "list": "Off Angle",
-      "date": "2026-08-01",
-      "time": "7:00 PM",
-      "artist": "Sara Landry",
-      "support": "Boys Noize, Godtripper (live), Jenna Shaw",
-      "genre": "EDM",
-      "url": "https://underthekbridge.org/events/detail?event_id=1322106"
-    },
-    {
-      "id": "silo-dallas-2026-08-01-amelie-lens",
-      "venue": "Silo Dallas",
-      "list": "Local",
-      "date": "2026-08-01",
-      "time": "9:00 PM",
-      "artist": "Amelie Lens",
-      "support": "",
-      "genre": "EDM",
-      "url": "https://wl.eventim.us/event/Amelie-Lens-DALLAS/688471?afflky=SILO"
-    },
-    {
-      "id": "the-concourse-project-2026-08-01-matroda-extended-set",
-      "venue": "The Concourse Project",
-      "list": "Local",
-      "date": "2026-08-01",
-      "time": "9:00 PM",
-      "artist": "Matroda (Extended Set)",
-      "support": "Andrew Parsons, 45AM",
-      "genre": "EDM",
-      "url": "https://wl.seetickets.us/event/Matroda-Extended-Set-at-The-Concourse-Project/691662?afflky=TheConcourseProject"
     },
     {
       "id": "red-rocks-2026-08-02-wynonna-judd-melissa-etheridge-with-the-colorado-symphony",
@@ -1421,6 +1377,17 @@
       "support": "",
       "genre": "EDM",
       "url": "https://wl.eventim.us/event/FLOSSTRADAMUS-HOUSTON/700584?afflky=DuctworkHouston"
+    },
+    {
+      "id": "the-concourse-project-2026-09-12-natte-visstick",
+      "venue": "The Concourse Project",
+      "list": "Local",
+      "date": "2026-09-12",
+      "time": "9:00 PM",
+      "artist": "Natte Visstick",
+      "support": "",
+      "genre": "EDM",
+      "url": "https://wl.seetickets.us/event/Natte-Visstick-at-The-Concourse-Project-The-Hangar/699829?afflky=TheConcourseProject"
     },
     {
       "id": "the-concourse-project-2026-09-12-lsr-city-x-by-gareth-emery",
