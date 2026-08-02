@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-02T07:56:59Z",
+  "generated_at": "2026-08-02T15:48:35Z",
   "lists": [
     "Local",
     "Off Angle"
@@ -47,17 +47,6 @@
     }
   ],
   "events": [
-    {
-      "id": "kingdom-2026-08-01-gabss",
-      "venue": "Kingdom",
-      "list": "Local",
-      "date": "2026-08-01",
-      "time": "10:00 PM",
-      "artist": "Gabss",
-      "support": "",
-      "genre": "Live Music",
-      "url": "https://kingdomnightclub.com/event/gabss/kingdom-nightclub/austin-texas/"
-    },
     {
       "id": "red-rocks-2026-08-02-wynonna-judd-melissa-etheridge-with-the-colorado-symphony",
       "venue": "Red Rocks",
@@ -221,7 +210,7 @@
       "artist": "Yoga on the Rocks",
       "support": "",
       "genre": "Live Music",
-      "url": "https://www.redrocksonline.com/events/yoga-on-the-rocks-2026-1415123-1/"
+      "url": "https://www.redrocksonline.com/events/yoga-on-the-rocks-2026-1415123-3/"
     },
     {
       "id": "under-the-k-bridge-2026-08-08-charlotte-de-witte-b2b-yousuke-yukimatsu-u-uk-uk1mat-u",
@@ -430,7 +419,7 @@
       "artist": "Yoga on the Rocks",
       "support": "",
       "genre": "Live Music",
-      "url": "https://www.redrocksonline.com/events/yoga-on-the-rocks-2026-1415123-2/"
+      "url": "https://www.redrocksonline.com/events/yoga-on-the-rocks-2026-1415123-1/"
     },
     {
       "id": "emo-s-2026-08-15-noname",
@@ -870,7 +859,7 @@
       "artist": "Yoga on the Rocks",
       "support": "",
       "genre": "Live Music",
-      "url": "https://www.redrocksonline.com/events/yoga-on-the-rocks-2026-1415123-3/"
+      "url": "https://www.redrocksonline.com/events/yoga-on-the-rocks-2026-1415123-2/"
     },
     {
       "id": "under-the-k-bridge-2026-08-29-mochakk",
