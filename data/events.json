@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-02T21:13:56Z",
+  "generated_at": "2026-08-03T12:41:59Z",
   "lists": [
     "Local",
     "Off Angle"
@@ -47,17 +47,6 @@
     }
   ],
   "events": [
-    {
-      "id": "red-rocks-2026-08-02-wynonna-judd-melissa-etheridge-with-the-colorado-symphony",
-      "venue": "Red Rocks",
-      "list": "Off Angle",
-      "date": "2026-08-02",
-      "time": "7:00 PM",
-      "artist": "Wynonna Judd & Melissa Etheridge with the Colorado Symphony",
-      "support": "",
-      "genre": "Live Music",
-      "url": "https://www.redrocksonline.com/events/wynonna-judd-melissa-etheridge-with-the-colorado-symphony-1351174/"
-    },
     {
       "id": "red-rocks-2026-08-03-nasa-artemis-ii-crew-event",
       "venue": "Red Rocks",
