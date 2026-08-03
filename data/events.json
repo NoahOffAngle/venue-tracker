@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-03T12:41:59Z",
+  "generated_at": "2026-08-03T21:53:25Z",
   "lists": [
     "Local",
     "Off Angle"
@@ -47,17 +47,6 @@
     }
   ],
   "events": [
-    {
-      "id": "red-rocks-2026-08-03-nasa-artemis-ii-crew-event",
-      "venue": "Red Rocks",
-      "list": "Off Angle",
-      "date": "2026-08-03",
-      "time": "8:00 AM",
-      "artist": "NASA Artemis II Crew Event",
-      "support": "",
-      "genre": "Live Music",
-      "url": "https://www.redrocksonline.com/events/nasa-artemis-ii-crew-event-1513226/"
-    },
     {
       "id": "red-rocks-2026-08-03-film-on-the-rocks-bridesmaids",
       "venue": "Red Rocks",
@@ -131,9 +120,20 @@
       "date": "2026-08-06",
       "time": "9:00 PM",
       "artist": "FREE with RSVP: GUDFELLA",
-      "support": "",
+      "support": "Alec Michael, OOMANO",
       "genre": "EDM",
       "url": "https://wl.seetickets.us/event/FREE-with-RSVP-GUDFELLA-at-The-Concourse-Project/698349?afflky=TheConcourseProject"
+    },
+    {
+      "id": "kingdom-2026-08-07-face-melter",
+      "venue": "Kingdom",
+      "list": "Local",
+      "date": "2026-08-07",
+      "time": "10:00 PM",
+      "artist": "Face Melter",
+      "support": "",
+      "genre": "Live Music",
+      "url": "https://kingdomnightclub.com/event/face-melter/kingdom-nightclub/austin-texas/"
     },
     {
       "id": "red-rocks-2026-08-07-beabadoobee",
@@ -175,7 +175,7 @@
       "date": "2026-08-07",
       "time": "9:00 PM",
       "artist": "DILLSTRADAMUS (Dillon Francis + Flosstradamus) in Austin",
-      "support": "Dillon Francis, Flosstradamus, Viperactive",
+      "support": "Dillon Francis, Flosstradamus, Viperactive, Koss, Saladbar",
       "genre": "EDM",
       "url": "https://wl.seetickets.us/event/DILLSTRADAMUS-Dillon-Francis-Flosstradamus-in-Austin/687621?afflky=TheConcourseProject"
     },
@@ -1566,6 +1566,17 @@
       "url": "https://underthekbridge.org/events/detail?event_id=1444032"
     },
     {
+      "id": "red-rocks-2026-09-19-snowshape-fitness-series-presented-by-toyota",
+      "venue": "Red Rocks",
+      "list": "Off Angle",
+      "date": "2026-09-19",
+      "time": "8:00 AM",
+      "artist": "SnowShape – Fitness Series – Presented by Toyota",
+      "support": "",
+      "genre": "Live Music",
+      "url": "https://www.redrocksonline.com/events/snowshape-fitness-series-presented-by-toyota-1541348/"
+    },
+    {
       "id": "silo-dallas-2026-09-19-troyboi",
       "venue": "Silo Dallas",
       "list": "Local",
@@ -1797,6 +1808,17 @@
       "url": "https://www.redrocksonline.com/events/big-gigantic-1354232/"
     },
     {
+      "id": "red-rocks-2026-09-26-snowshape-fitness-series-presented-by-toyota",
+      "venue": "Red Rocks",
+      "list": "Off Angle",
+      "date": "2026-09-26",
+      "time": "8:00 AM",
+      "artist": "SnowShape – Fitness Series – Presented by Toyota",
+      "support": "",
+      "genre": "Live Music",
+      "url": "https://www.redrocksonline.com/events/snowshape-fitness-series-presented-by-toyota-1541353/"
+    },
+    {
       "id": "silo-dallas-2026-09-26-zack-fox",
       "venue": "Silo Dallas",
       "list": "Local",
@@ -1940,6 +1962,17 @@
       "url": "https://wl.eventim.us/event/ELI-BROWN-DALLAS/696655?afflky=SILO"
     },
     {
+      "id": "silo-houston-2026-10-02-gorgon-city",
+      "venue": "Silo Houston",
+      "list": "Local",
+      "date": "2026-10-02",
+      "time": "9:00 PM",
+      "artist": "Gorgon City",
+      "support": "",
+      "genre": "EDM",
+      "url": "https://wl.eventim.us/event/ODDMOB-HOUSTON/701002?afflky=DuctworkHouston"
+    },
+    {
       "id": "red-rocks-2026-10-03-canceled-rezz-rocks-viii",
       "venue": "Red Rocks",
       "list": "Off Angle",
@@ -1960,6 +1993,17 @@
       "support": "",
       "genre": "Live Music",
       "url": "https://www.redrocksonline.com/events/deorro-1514786/"
+    },
+    {
+      "id": "red-rocks-2026-10-03-snowshape-fitness-series-presented-by-toyota",
+      "venue": "Red Rocks",
+      "list": "Off Angle",
+      "date": "2026-10-03",
+      "time": "8:00 AM",
+      "artist": "SnowShape – Fitness Series – Presented by Toyota",
+      "support": "",
+      "genre": "Live Music",
+      "url": "https://www.redrocksonline.com/events/snowshape-fitness-series-presented-by-toyota-1541354/"
     },
     {
       "id": "silo-dallas-2026-10-03-sasha-john-digweed",
@@ -2081,6 +2125,17 @@
       "support": "Jon Cleary & The Absolute Monster Gentlemen",
       "genre": "Live Music",
       "url": "https://billgrahamcivic.com/events/bonnie-raitt-261010"
+    },
+    {
+      "id": "red-rocks-2026-10-10-snowshape-fitness-series-presented-by-toyota",
+      "venue": "Red Rocks",
+      "list": "Off Angle",
+      "date": "2026-10-10",
+      "time": "8:00 AM",
+      "artist": "SnowShape – Fitness Series – Presented by Toyota",
+      "support": "",
+      "genre": "Live Music",
+      "url": "https://www.redrocksonline.com/events/snowshape-fitness-series-presented-by-toyota-1541355/"
     },
     {
       "id": "red-rocks-2026-10-11-cement-gardens",
@@ -2520,7 +2575,7 @@
       "artist": "Odd Mob",
       "support": "",
       "genre": "EDM",
-      "url": "https://wl.eventim.us/event/LSRCITY-X-by-Gareth-Emery-HOUSTON/697705?afflky=DuctworkHouston&EVENTPASS=LCGAX"
+      "url": "https://wl.eventim.us/event/ODDMOB-HOUSTON/701002?afflky=DuctworkHouston"
     },
     {
       "id": "emo-s-2026-10-25-mom-jeans",
@@ -2949,7 +3004,7 @@
       "artist": "Deathpact",
       "support": "",
       "genre": "EDM",
-      "url": "https://wl.eventim.us/event/DEATHPACT-DALLAS/700256?afflky=SILO&eventpass=light"
+      "url": "https://wl.eventim.us/event/DEATHPACT-FROM-DARKNESS-COMES-LIGHT-ECLIPSED-HOUSTON/700387?afflky=DuctworkHouston"
     },
     {
       "id": "bill-graham-civic-2026-12-02-the-neighbourhood",
