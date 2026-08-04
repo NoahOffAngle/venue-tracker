@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-04T10:17:02Z",
+  "generated_at": "2026-08-04T18:15:49Z",
   "lists": [
     "Local",
     "Off Angle"
@@ -274,7 +274,7 @@
       "date": "2026-08-12",
       "time": "7:30 PM",
       "artist": "Sierra Ferrell",
-      "support": "The Brudi Brothers",
+      "support": "The Brudi Brothers, Aurelia Anne Cohen",
       "genre": "Live Music",
       "url": "https://www.redrocksonline.com/events/sierra-ferrell-1471958/"
     },
@@ -376,6 +376,17 @@
       "support": "Audien, TELYKast, Amel",
       "genre": "EDM",
       "url": "https://wl.seetickets.us/event/Audien-w-TELYKAST-Amel-at-The-Concourse-Project/689789?afflky=TheConcourseProject"
+    },
+    {
+      "id": "kingdom-2026-08-15-untitled-fest",
+      "venue": "Kingdom",
+      "list": "Local",
+      "date": "2026-08-15",
+      "time": "10:00 PM",
+      "artist": "Untitled Fest",
+      "support": "",
+      "genre": "Live Music",
+      "url": "https://kingdomnightclub.com/event/untitled-fest-2/kingdom-nightclub/austin-texas/"
     },
     {
       "id": "the-concourse-project-2026-08-15-pulse-pilates",
@@ -1902,7 +1913,7 @@
       "date": "2026-10-01",
       "time": "8:00 PM",
       "artist": "Beck: Ride Lonesome Tour",
-      "support": "Diana Silvers",
+      "support": "Ioanna Gika",
       "genre": "Live Music",
       "url": "https://www.redrocksonline.com/events/beck-ride-lonesome-tour-1407922/"
     },
@@ -2070,6 +2081,17 @@
       "support": "PEEKABOO, Flava D, XaeboR, Jiqui",
       "genre": "EDM",
       "url": "https://www.redrocksonline.com/events/tape-b-presents-hallow-rocks-1315398/"
+    },
+    {
+      "id": "silo-dallas-2026-10-08-hvdes",
+      "venue": "Silo Dallas",
+      "list": "Local",
+      "date": "2026-10-08",
+      "time": "9:00 PM",
+      "artist": "HVDES",
+      "support": "",
+      "genre": "EDM",
+      "url": "https://silodallas.com/events/hvdes-59729804350"
     },
     {
       "id": "red-rocks-2026-10-09-tape-b-presents-hallow-rocks",
@@ -2267,7 +2289,7 @@
       "artist": "Tokyo Machine",
       "support": "",
       "genre": "EDM",
-      "url": "https://silodallas.com/events/tokyo-machine-59729925179"
+      "url": "https://wl.eventim.us/event/Tokyo-Machine-DALLAS/700425?afflky=DiscoPresents-Ductwork"
     },
     {
       "id": "kingdom-2026-10-16-twin-diplomacy",
