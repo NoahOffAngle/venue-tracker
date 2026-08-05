@@ -41,6 +41,10 @@ site/index.html    (the filterable viewer, embedded in Squarespace)
   tab, survives closing the browser, and has two export buttons:
   - *Copy for Google Sheets* — paste straight into a sheet (tab-separated).
   - *Download CSV* — for `File → Import` in Google Sheets, or Excel.
+
+  Both export these columns: Date, Day, Time, Artist, Supporting Artists, Genre, Venue,
+  Link, **Exported** — the last one being the day you pulled the list, so batches pasted
+  into the same sheet on different days stay tellable apart.
 - **Colours** — each venue has a colour (its dot, tag and the stripe down the left of
   each row). Click **Colours** to change them live; to make a change permanent on every
   device, copy the list it shows into `venues.json` as each venue's `"color"`.

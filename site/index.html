@@ -397,20 +397,22 @@ function updateTabBadge(){
 }
 
 /* ---------- export ---------- */
-const COLUMNS = ["Date","Day","Time","Artist","Supporting Artists","Genre","Venue","Link"];
-function rowValues(e){
+const COLUMNS = ["Date","Day","Time","Artist","Supporting Artists","Genre","Venue","Link","Exported"];
+function rowValues(e, stamp){
   return [e.date, dayOfWeek(e.date), e.time || "", e.artist, e.support || "",
-          e.genre || "Live Music", e.venue, e.url || ""];
+          e.genre || "Live Music", e.venue, e.url || "", stamp];
 }
 function buildTSV(){
+  const stamp = fmt(new Date());          // same date on every row of this export
   const clean = v => String(v).replace(/[\t\r\n]+/g, " ").trim();
   return [COLUMNS.join("\t")]
-    .concat(currentRows().map(e => rowValues(e).map(clean).join("\t"))).join("\n");
+    .concat(currentRows().map(e => rowValues(e, stamp).map(clean).join("\t"))).join("\n");
 }
 function buildCSV(){
+  const stamp = fmt(new Date());
   const q = v => `"${String(v).replace(/"/g,'""').replace(/[\r\n]+/g," ").trim()}"`;
   return [COLUMNS.map(q).join(",")]
-    .concat(currentRows().map(e => rowValues(e).map(q).join(","))).join("\r\n");
+    .concat(currentRows().map(e => rowValues(e, stamp).map(q).join(","))).join("\r\n");
 }
 function toast(msg){
   const t = document.getElementById("toast");
