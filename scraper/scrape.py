@@ -85,10 +85,12 @@ def tidy_support(support):
 
 
 def detect_genre(artist, support):
-    """Two buckets: 'EDM' if any known EDM name/keyword matches, else 'Live Music'."""
+    """Two buckets: 'EDM' if any known EDM name/keyword matches, else 'Live Music'.
+    Matching is whole-word, so 'griz' doesn't match 'Grizzly Bear' and 'rave'
+    doesn't match 'Ravel'."""
     text = f" {artist} {support} ".lower()
     for kw in EDM_KEYWORDS:
-        if kw in text:
+        if re.search(rf"(?<![a-z0-9]){re.escape(kw)}(?![a-z0-9])", text):
             return "EDM"
     return "Live Music"
 
@@ -98,7 +100,8 @@ def make_event(venue, date, time, artist, support, url, genre_hint=None):
     return {
         "id": make_id(venue, date, artist),
         "venue": venue,
-        "list": "",            # which tab/group this venue belongs to (set in main)
+        "list": "",            # which tab this venue belongs to (set in main)
+        "group": "",           # optional sub-tab within that tab (set in main)
         "date": date,          # "YYYY-MM-DD"
         "time": time,          # "7:30 PM"
         "artist": artist,
@@ -122,8 +125,14 @@ def clean(text):
     return html.unescape((text or "").strip())
 
 
-def fetch_html(url):
-    r = requests.get(url, headers=HEADERS, timeout=TIMEOUT)
+def fetch_html(url, user_agent=None):
+    """Fetch a page. Some sites run security plugins that reject unfamiliar
+    User-Agent strings even though their robots.txt allows crawling; those
+    venues can set "user_agent" in venues.json."""
+    headers = dict(HEADERS)
+    if user_agent:
+        headers["User-Agent"] = user_agent
+    r = requests.get(url, headers=headers, timeout=TIMEOUT)
     r.raise_for_status()
     return r.text
 
@@ -174,7 +183,7 @@ def parse_aeg_json(venue, cfg):
 
 # ---- Parser 2: Red Rocks (static HTML cards) ---------------------------------
 def parse_redrocks(venue, cfg):
-    soup = BeautifulSoup(fetch_html(cfg["url"]), "html.parser")
+    soup = BeautifulSoup(fetch_html(cfg["url"], cfg.get("user_agent")), "html.parser")
     out, seen = [], set()
     for card in soup.select("div.card.card-event"):
         title_el = card.select_one(".card-title")
@@ -210,7 +219,7 @@ def parse_redrocks(venue, cfg):
 
 # ---- Parser 3: Bill Graham Civic / Another Planet (static HTML) --------------
 def parse_billgraham(venue, cfg):
-    soup = BeautifulSoup(fetch_html(cfg["url"]), "html.parser")
+    soup = BeautifulSoup(fetch_html(cfg["url"], cfg.get("user_agent")), "html.parser")
     out, seen = [], set()
     for show in soup.select("h2.show-title"):
         artist = clean(show.get_text(" ", strip=True))
@@ -244,7 +253,7 @@ def parse_billgraham(venue, cfg):
 
 # ---- Parser 4: SeeTickets list widget (The Concourse Project etc.) -----------
 def parse_seetickets(venue, cfg):
-    soup = BeautifulSoup(fetch_html(cfg["url"]), "html.parser")
+    soup = BeautifulSoup(fetch_html(cfg["url"], cfg.get("user_agent")), "html.parser")
     out, seen = [], set()
     for card in soup.select(".seetickets-list-event-container"):
         t = card.select_one(".event-title a")
@@ -289,7 +298,7 @@ def parse_seetickets(venue, cfg):
 
 # ---- Parser 5: Rockhouse/Etix widget (Kingdom etc.) ---------------------------
 def parse_rockhouse(venue, cfg):
-    soup = BeautifulSoup(fetch_html(cfg["url"]), "html.parser")
+    soup = BeautifulSoup(fetch_html(cfg["url"], cfg.get("user_agent")), "html.parser")
     out, seen = [], set()
     for w in soup.select(".eventWrapper"):
         t = w.select_one("a#eventTitle") or w.select_one("a.url[title]")
@@ -323,7 +332,7 @@ def parse_rockhouse(venue, cfg):
 
 # ---- Parser 6: schema.org JSON-LD Event blocks (Emo's / Live Nation sites) ----
 def parse_jsonld(venue, cfg):
-    html_text = fetch_html(cfg["url"])
+    html_text = fetch_html(cfg["url"], cfg.get("user_agent"))
     out, seen = [], set()
     for block in re.findall(r"<script[^>]*application/ld\+json[^>]*>(.*?)</script>",
                             html_text, re.S):
@@ -364,7 +373,7 @@ def parse_jsonld(venue, cfg):
 
 # ---- Parser 7: Festistack WordPress (Silo Houston / Ductwork) -----------------
 def parse_festistack(venue, cfg):
-    soup = BeautifulSoup(fetch_html(cfg["url"]), "html.parser")
+    soup = BeautifulSoup(fetch_html(cfg["url"], cfg.get("user_agent")), "html.parser")
     out, seen = [], set()
     for h in soup.select("h2"):
         artist = clean(h.get_text(" ", strip=True))
@@ -524,8 +533,52 @@ def parse_silodallas(venue, cfg):
     return out
 
 
+# ---- Parser 9: DoStuff aggregator venue pages (DoTheBay -> The Midway) -------
+def parse_dostuff(venue, cfg):
+    """Some venues block automated access to their own site. Where a public
+    listings site publishes the same shows and allows crawling, we read it from
+    there instead. Pages use schema.org microdata, so the fields are exact."""
+    from urllib.parse import urljoin
+    soup = BeautifulSoup(fetch_html(cfg["url"], cfg.get("user_agent")), "html.parser")
+    want = (cfg.get("match_venue") or venue).lower()
+    out, seen = [], set()
+    for card in soup.select(".ds-listing"):
+        title_el = card.select_one(".ds-listing-event-title-text")
+        start = card.select_one('meta[itemprop="startDate"]')
+        if not (title_el and start):
+            continue
+        # A venue page can also surface nearby shows — keep only this venue's.
+        vname = card.select_one(".ds-venue-name")
+        if vname and want not in vname.get_text(" ", strip=True).lower():
+            continue
+
+        iso = start.get("content") or start.get("datetime") or ""
+        try:
+            dt = datetime.datetime.fromisoformat(iso)
+        except ValueError:
+            continue
+        date, time = dt.strftime("%Y-%m-%d"), dt.strftime("%-I:%M %p")
+
+        raw = clean(title_el.get_text(" ", strip=True))
+        artist, support = raw, ""
+        parts = re.split(r"\s+(?:w/|w\.|with)\s+", raw, maxsplit=1, flags=re.I)
+        if len(parts) == 2:
+            artist, support = parts[0].strip(), parts[1].strip()
+
+        link = card.select_one("a.ds-listing-event-title")
+        url = urljoin(cfg["url"], link.get("href")) if link and link.get("href") else cfg["url"]
+
+        ev = make_event(venue, date, time, artist, support, url)
+        if ev["id"] in seen:
+            continue
+        seen.add(ev["id"])
+        out.append(ev)
+    return out
+
+
 PARSERS = {
     "aeg_json": parse_aeg_json,
+    "dostuff": parse_dostuff,
     "redrocks": parse_redrocks,
     "billgraham": parse_billgraham,
     "seetickets": parse_seetickets,
@@ -600,7 +653,11 @@ def main():
     config = json.loads(CONFIG_FILE.read_text(encoding="utf-8"))
     venues = sorted(config["venues"], key=lambda v: v.get("rank", 999))
 
-    previous = load_previous()
+    # Only ever track upcoming shows. Some venues leave old listings on their
+    # site; filtering both sides of the comparison means a show that has simply
+    # happened quietly drops off instead of being reported as "removed".
+    today = datetime.date.today().isoformat()
+    previous = {i: e for i, e in load_previous().items() if e.get("date", "") >= today}
     first_run = len(previous) == 0
 
     scraped, errors, ok_venues = [], [], set()
@@ -615,6 +672,7 @@ def main():
                 raise ValueError("0 events found (site layout may have changed)")
             for e in events:
                 e["list"] = v.get("list", "")
+                e["group"] = v.get("group", "")
                 if v.get("genre"):          # venue-wide genre override (e.g. EDM clubs)
                     e["genre"] = v["genre"]
             print(f"  {v['name']}: {len(events)} events")
@@ -631,7 +689,7 @@ def main():
         if e["venue"] in configured and e["venue"] not in ok_venues:
             scraped.append(e)
 
-    current = {e["id"]: e for e in scraped}
+    current = {e["id"]: e for e in scraped if e.get("date", "") >= today}
     added, removed, changed = compare(previous, current)
 
     out = {
@@ -639,7 +697,8 @@ def main():
                         .strftime("%Y-%m-%dT%H:%M:%SZ"),
         "lists": config.get("lists", []),
         "venues": [
-            {"name": v["name"], "list": v.get("list", ""), "color": v.get("color", "")}
+            {"name": v["name"], "list": v.get("list", ""),
+             "group": v.get("group", ""), "color": v.get("color", "")}
             for v in venues
         ],
         "events": sorted(current.values(), key=lambda e: (e["date"], e["time"], e["venue"])),

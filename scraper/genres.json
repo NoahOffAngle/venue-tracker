@@ -1,5 +1,5 @@
 {
-  "_comment": "Any event whose artist or supporting acts contain one of these words/names (case-insensitive) is tagged 'EDM'. Everything else is 'Live Music'. To fix a wrong label, add the artist's name here (for EDM) or remove a word that's causing a false match. Keep entries lowercase.",
+  "_comment": "Any event whose artist or supporting acts contain one of these words/names is tagged 'EDM'; everything else is 'Live Music'. Matching is whole-word and case-insensitive, so short entries are safe. To fix a wrong label, add the artist's name here (for EDM) or remove an entry causing a false match. Keep entries lowercase.",
   "edm": [
     "b2b",
     "tiesto",
@@ -54,6 +54,16 @@
     "camoufly",
     "dj mandy",
     "oppidan",
-    "breakaway"
+    "breakaway",
+    "rave",
+    "dj set",
+    "techno",
+    "trance",
+    "dubstep",
+    "drum & bass",
+    "drum and bass",
+    "edm",
+    "house music",
+    "tech house"
   ]
 }

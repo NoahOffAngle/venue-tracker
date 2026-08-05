@@ -37,6 +37,8 @@ site/index.html    (the filterable viewer, embedded in Squarespace)
 ## Using the viewer
 
 - **Tabs** — one per list in `venues.json`, plus **Selected**.
+- **Sub-tabs** — give venues an optional `"group"` and that tab gains a second row
+  (`All` + one per group). A tab with fewer than two groups shows no sub-tabs.
 - **Selected** — tick the box beside any show to drop it in this basket. It spans every
   tab, survives closing the browser, and has two export buttons:
   - *Copy for Google Sheets* — paste straight into a sheet (tab-separated).
@@ -64,9 +66,17 @@ copy a block and change the `name`/`url`. Supported `parser` values:
 
 | parser | works for | url to use |
 |--------|-----------|------------|
-| `aeg_json`  | AEG / Bowery Presents venues | the venue's `aegwebprod…/events/<id>/events.json` feed |
+| `aeg_json`  | AEG / AXS venues (K Bridge, Regency Ballroom) | the venue's `aegwebprod…/events/<id>/events.json` feed — find it in the page source as `data-file="…"` |
 | `redrocks`  | Red Rocks | the `/events/` page |
 | `billgraham`| Another Planet (Bill Graham Civic) | the `/event-listing/` page |
+| `jsonld`    | Sites publishing schema.org Events (Emo's, Cow Palace) | the listing page |
+| `seetickets`| See Tickets list widget (Concourse Project) | the calendar page |
+| `rockhouse` | Etix / Rockhouse venues (Kingdom) | the `/events/` page |
+| `festistack`| Festistack WordPress (Silo Houston) | the homepage |
+| `silodallas`| Silo Dallas only (needs a headless browser) | the `/events` page |
+
+A venue can also set `"user_agent"` if its host rejects unfamiliar clients, and
+`"genre": "EDM"` to tag everything it hosts.
 
 A brand-new website layout needs a new parser added to `scrape.py` first.
 

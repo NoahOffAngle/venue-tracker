@@ -82,7 +82,8 @@
   .pills button .dot { width: 9px; height: 9px; border-radius: 50%; flex: none; }
   .pills button.on { border-color: transparent; }
   .pills button.on .dot { display: none; }
-  #genres button.on, #presets button.on {
+  .subtabs { margin: -4px 0 16px; }
+  #genres button.on, #presets button.on, #subtabs button.on {
     color: #fff; background: linear-gradient(135deg, var(--accent), var(--accent-2));
     box-shadow: 0 4px 16px rgba(109,94,252,0.4);
   }
@@ -170,6 +171,7 @@
   </div>
 
   <div class="tabs" id="tabs"></div>
+  <div class="pills subtabs" id="subtabs" style="display:none"></div>
 
   <p class="count" id="updated">Loading…</p>
 
@@ -252,8 +254,8 @@ const LS_COLORS = "showtracker_colors_v1";
 const LS_PICKED = "showtracker_selected_v1";
 const FALLBACK = ["#6d5efc","#38bdf8","#22c55e","#ec4899","#f0a63a","#e05252","#14b8a6","#a855f7"];
 
-let ALL = [], LISTS = [], VENUE_META = {};
-let currentList = null, lockedList = null;
+let ALL = [], LISTS = [], VENUE_META = {}, VENUES_ARR = [];
+let currentList = null, lockedList = null, currentGroup = null;
 let activeVenues = new Set(), activeGenres = new Set();
 let colorOverrides = {}, picked = new Set();
 let sortKey = "date", sortDir = 1;
@@ -294,7 +296,21 @@ function tint(hex, alpha){
 function inSelectedTab(){ return currentList === SELECTED_TAB; }
 function base(){
   if (inSelectedTab()) return ALL.filter(e => picked.has(e.id));
-  return ALL.filter(e => !currentList || (e.list||"") === currentList);
+  return ALL.filter(e => (!currentList || (e.list||"") === currentList)
+                      && (!currentGroup || (e.group||"") === currentGroup));
+}
+// Sub-tabs come from the venue config, keeping its order; only shown when a
+// tab actually has more than one group.
+function groupsFor(list){
+  const seen = [];
+  const src = VENUES_ARR.length ? VENUES_ARR
+            : ALL.map(e => ({list: e.list, group: e.group}));
+  src.forEach(v => {
+    if ((v.list||"") !== list) return;
+    const g = v.group || "";
+    if (g && !seen.includes(g)) seen.push(g);
+  });
+  return seen;
 }
 
 function currentRows(){
@@ -521,13 +537,36 @@ function buildGenreButtons(){
 }
 
 /* ---------- tabs ---------- */
+function buildSubTabs(){
+  const box = document.getElementById("subtabs");
+  box.innerHTML = "";
+  const groups = inSelectedTab() ? [] : groupsFor(currentList);
+  if (groups.length < 2){ box.style.display = "none"; currentGroup = null; return; }
+  box.style.display = "flex";
+  const add = (label, value) => {
+    const b = document.createElement("button");
+    b.textContent = label;
+    if ((currentGroup || null) === value) b.classList.add("on");
+    b.onclick = () => {
+      currentGroup = value;
+      activeVenues.clear(); activeGenres.clear();
+      buildSubTabs(); buildVenueButtons(); buildGenreButtons(); render();
+    };
+    box.appendChild(b);
+  };
+  add("All", null);
+  groups.forEach(g => add(g, g));
+}
+
 function selectTab(name){
   currentList = name;
+  currentGroup = null;
   activeVenues.clear(); activeGenres.clear();
   document.querySelectorAll("#tabs button").forEach(b => b.classList.toggle("on", b.dataset.list === name));
   const basket = inSelectedTab();
   document.getElementById("filters").style.display = basket ? "none" : "";
   document.getElementById("exportbar").style.display = basket ? "flex" : "none";
+  buildSubTabs();
   if (!basket){ buildVenueButtons(); buildGenreButtons(); }
   render();
 }
@@ -582,12 +621,15 @@ document.getElementById("clearDates").addEventListener("click", ()=>{
 });
 document.querySelectorAll("#presets button").forEach(b => b.addEventListener("click", ()=>applyPreset(b.dataset.preset,b)));
 
-fetch("../data/events.json")
+// Cache-buster: the scraper rewrites this file 4x a day, and without it a
+// browser (or GitHub's CDN) can keep serving yesterday's shows.
+fetch(`../data/events.json?t=${Date.now()}`, { cache: "no-store" })
   .then(r=>r.json())
   .then(data=>{
     ALL = data.events || [];
     LISTS = data.lists || [];
-    (data.venues || []).forEach(v => VENUE_META[v.name] = v);
+    VENUES_ARR = data.venues || [];
+    VENUES_ARR.forEach(v => VENUE_META[v.name] = v);
     ALL.forEach(e => { if (!VENUE_META[e.venue]) VENUE_META[e.venue] = { name: e.venue, color: "" }; });
 
     colorOverrides = load(LS_COLORS, {}) || {};

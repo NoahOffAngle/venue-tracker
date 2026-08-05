@@ -1,5 +1,5 @@
 {
-  "_comment": "'lists' defines your tabs (order matters). Each venue's 'list' says which tab it appears in, and 'color' is its highlight colour in the viewer (any hex code). To add a venue that uses a scraper we already support, copy a block and change name/url/list. A brand-new website layout needs a new 'parser' added to scrape.py first. 'rank' controls ordering within a tab.",
+  "_comment": "'lists' defines your tabs (order matters). Each venue's 'list' says which tab it appears in; the optional 'group' adds a sub-tab within that tab (sub-tabs only appear when a tab has two or more groups). 'color' is its highlight colour in the viewer (any hex code). To add a venue that uses a scraper we already support, copy a block and change name/url/list. A brand-new website layout needs a new 'parser' added to scrape.py first. 'rank' controls ordering.",
   "lists": [
     "Local",
     "Off Angle"
@@ -7,31 +7,66 @@
   "venues": [
     {
       "rank": 1,
-      "name": "Red Rocks",
-      "list": "Off Angle",
-      "parser": "redrocks",
-      "url": "https://www.redrocksonline.com/events/",
-      "color": "#e05252"
-    },
-    {
-      "rank": 2,
       "name": "Bill Graham Civic",
       "list": "Off Angle",
       "parser": "billgraham",
       "url": "https://billgrahamcivic.com/event-listing/",
-      "color": "#f0a63a"
+      "color": "#f0a63a",
+      "group": "San Francisco"
+    },
+    {
+      "rank": 2,
+      "name": "The Regency Ballroom",
+      "list": "Off Angle",
+      "group": "San Francisco",
+      "parser": "aeg_json",
+      "url": "https://aegwebprod.blob.core.windows.net/json/events/9/events.json",
+      "site_url": "https://www.theregencyballroom.com",
+      "color": "#f472b6"
     },
     {
       "rank": 3,
+      "name": "Cow Palace",
+      "list": "Off Angle",
+      "group": "San Francisco",
+      "parser": "jsonld",
+      "url": "https://www.cowpalace.com/cow-palace-arena-event-center/upcoming-events/",
+      "color": "#facc15",
+      "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36"
+    },
+    {
+      "rank": 4,
+      "name": "The Midway",
+      "list": "Off Angle",
+      "group": "San Francisco",
+      "parser": "dostuff",
+      "url": "https://dothebay.com/venues/the-midway",
+      "match_venue": "The Midway",
+      "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36",
+      "color": "#2dd4bf",
+      "_note": "themidwaysf.com blocks automated access, so we read the same shows from DoTheBay, whose robots.txt permits /venues/."
+    },
+    {
+      "rank": 5,
+      "name": "Red Rocks",
+      "list": "Off Angle",
+      "parser": "redrocks",
+      "url": "https://www.redrocksonline.com/events/",
+      "color": "#e05252",
+      "group": "Out of State"
+    },
+    {
+      "rank": 6,
       "name": "Under the K Bridge",
       "list": "Off Angle",
       "parser": "aeg_json",
       "url": "https://aegwebprod.blob.core.windows.net/json/events/360/events.json",
       "site_url": "https://underthekbridge.org",
-      "color": "#38bdf8"
+      "color": "#38bdf8",
+      "group": "Out of State"
     },
     {
-      "rank": 4,
+      "rank": 7,
       "name": "The Concourse Project",
       "list": "Local",
       "parser": "seetickets",
@@ -39,7 +74,7 @@
       "color": "#a855f7"
     },
     {
-      "rank": 5,
+      "rank": 8,
       "name": "Kingdom",
       "list": "Local",
       "parser": "rockhouse",
@@ -47,7 +82,7 @@
       "color": "#22c55e"
     },
     {
-      "rank": 6,
+      "rank": 9,
       "name": "Emo's",
       "list": "Local",
       "parser": "jsonld",
@@ -55,7 +90,7 @@
       "color": "#ec4899"
     },
     {
-      "rank": 7,
+      "rank": 10,
       "name": "Silo Dallas",
       "list": "Local",
       "parser": "silodallas",
@@ -64,7 +99,7 @@
       "color": "#6d5efc"
     },
     {
-      "rank": 8,
+      "rank": 11,
       "name": "Silo Houston",
       "list": "Local",
       "parser": "festistack",
