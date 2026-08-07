@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-05T01:21:34Z",
+  "generated_at": "2026-08-07T04:16:27Z",
   "lists": [
     "Local",
     "Off Angle"
@@ -73,102 +73,6 @@
     }
   ],
   "events": [
-    {
-      "id": "red-rocks-2026-08-04-k-love-live-at-red-rocks",
-      "venue": "Red Rocks",
-      "list": "Off Angle",
-      "group": "Out of State",
-      "date": "2026-08-04",
-      "time": "7:00 PM",
-      "artist": "K-LOVE Live at Red Rocks",
-      "support": "Chris Tomlin, Matthew West, Colton Dixon, Pat Barrett, Jamie MacDonald *lineup subject to change",
-      "genre": "Live Music",
-      "url": "https://www.redrocksonline.com/events/k-love-live-at-red-rocks-1360441/"
-    },
-    {
-      "id": "the-regency-ballroom-2026-08-04-charles-wesley-godwin",
-      "venue": "The Regency Ballroom",
-      "list": "Off Angle",
-      "group": "San Francisco",
-      "date": "2026-08-04",
-      "time": "8:00 PM",
-      "artist": "Charles Wesley Godwin",
-      "support": "Lily Fitts",
-      "genre": "Live Music",
-      "url": "https://www.theregencyballroom.com/events/detail?event_id=1450896"
-    },
-    {
-      "id": "emo-s-2026-08-05-john-cameron-mitchell-hedwig-25th-anniversary-movie-tour",
-      "venue": "Emo's",
-      "list": "Local",
-      "group": "",
-      "date": "2026-08-05",
-      "time": "6:00 PM",
-      "artist": "John Cameron Mitchell: Hedwig 25th Anniversary Movie Tour",
-      "support": "",
-      "genre": "Live Music",
-      "url": "https://www.ticketmaster.com/john-cameron-mitchell-hedwig-25th-anniversary-austin-texas-08-05-2026/event/3A00645BA3B0C6F4"
-    },
-    {
-      "id": "red-rocks-2026-08-05-k-love-live-at-red-rocks",
-      "venue": "Red Rocks",
-      "list": "Off Angle",
-      "group": "Out of State",
-      "date": "2026-08-05",
-      "time": "7:00 PM",
-      "artist": "K-LOVE Live at Red Rocks",
-      "support": "Mercy Me, Katy Nichole, Jon Reddick, Leanna Crawford, Benjamin William Hastings *lineup subject to change",
-      "genre": "Live Music",
-      "url": "https://www.redrocksonline.com/events/k-love-live-at-red-rocks-1360448/"
-    },
-    {
-      "id": "the-regency-ballroom-2026-08-05-zack-fox",
-      "venue": "The Regency Ballroom",
-      "list": "Off Angle",
-      "group": "San Francisco",
-      "date": "2026-08-05",
-      "time": "8:00 PM",
-      "artist": "Zack Fox",
-      "support": "",
-      "genre": "Live Music",
-      "url": "https://www.theregencyballroom.com/events/detail?event_id=1446039"
-    },
-    {
-      "id": "red-rocks-2026-08-06-of-monsters-and-men",
-      "venue": "Red Rocks",
-      "list": "Off Angle",
-      "group": "Out of State",
-      "date": "2026-08-06",
-      "time": "8:00 PM",
-      "artist": "Of Monsters and Men",
-      "support": "Gordi",
-      "genre": "Live Music",
-      "url": "https://www.redrocksonline.com/events/of-monsters-and-men-1389158/"
-    },
-    {
-      "id": "silo-dallas-2026-08-06-meso",
-      "venue": "Silo Dallas",
-      "list": "Local",
-      "group": "",
-      "date": "2026-08-06",
-      "time": "9:00 PM",
-      "artist": "MeSo",
-      "support": "",
-      "genre": "EDM",
-      "url": "https://wl.eventim.us/event/MeSo-DALLAS/698570?afflky=DiscoPresents-Ductwork"
-    },
-    {
-      "id": "the-concourse-project-2026-08-06-free-with-rsvp-gudfella",
-      "venue": "The Concourse Project",
-      "list": "Local",
-      "group": "",
-      "date": "2026-08-06",
-      "time": "9:00 PM",
-      "artist": "FREE with RSVP: GUDFELLA",
-      "support": "Alec Michael, OOMANO",
-      "genre": "EDM",
-      "url": "https://wl.seetickets.us/event/FREE-with-RSVP-GUDFELLA-at-The-Concourse-Project/698349?afflky=TheConcourseProject"
-    },
     {
       "id": "kingdom-2026-08-07-face-melter",
       "venue": "Kingdom",
@@ -398,18 +302,6 @@
       "url": "https://www.redrocksonline.com/events/sierra-ferrell-1471958/"
     },
     {
-      "id": "bill-graham-civic-2026-08-13-yeat",
-      "venue": "Bill Graham Civic",
-      "list": "Off Angle",
-      "group": "San Francisco",
-      "date": "2026-08-13",
-      "time": "7:00 PM",
-      "artist": "Yeat",
-      "support": "Sheck Wes, Zukenee",
-      "genre": "Live Music",
-      "url": "https://billgrahamcivic.com/events/yeat-260813"
-    },
-    {
       "id": "emo-s-2026-08-13-magic-men-australia",
       "venue": "Emo's",
       "list": "Local",
@@ -432,6 +324,18 @@
       "support": "Leif Vollebekk",
       "genre": "Live Music",
       "url": "https://www.redrocksonline.com/events/mt-joy-1232801/"
+    },
+    {
+      "id": "bill-graham-civic-2026-08-13-yeat",
+      "venue": "Bill Graham Civic",
+      "list": "Off Angle",
+      "group": "San Francisco",
+      "date": "2026-08-13",
+      "time": "7:30 PM",
+      "artist": "Yeat",
+      "support": "Sheck Wes, Zukenee",
+      "genre": "Live Music",
+      "url": "https://billgrahamcivic.com/events/yeat-260813"
     },
     {
       "id": "silo-dallas-2026-08-13-gravedgr",
@@ -643,7 +547,7 @@
       "list": "Off Angle",
       "group": "Out of State",
       "date": "2026-08-16",
-      "time": "7:00 PM",
+      "time": "6:30 PM",
       "artist": "LCD Soundsystem",
       "support": "Feist, Victoryland",
       "genre": "Live Music",
@@ -837,7 +741,7 @@
       "date": "2026-08-21",
       "time": "8:00 PM",
       "artist": "anees",
-      "support": "Michael Minelli",
+      "support": "Michael Minelli, Sammy Shiblaq",
       "genre": "Live Music",
       "url": "https://www.theregencyballroom.com/events/detail?event_id=1443716"
     },
@@ -2462,6 +2366,18 @@
       "url": "https://wl.eventim.us/event/Holy-Priest-DALLAS/693204?afflky=SILO"
     },
     {
+      "id": "silo-houston-2026-09-25-zack-fox",
+      "venue": "Silo Houston",
+      "list": "Local",
+      "group": "",
+      "date": "2026-09-25",
+      "time": "9:00 PM",
+      "artist": "Zack Fox",
+      "support": "",
+      "genre": "EDM",
+      "url": "https://wl.eventim.us/event/GORGON-CITY-HOUSTON/701070?afflky=DuctworkHouston&EVENTPASS=CONTACT"
+    },
+    {
       "id": "under-the-k-bridge-2026-09-26-cbgb-festival",
       "venue": "Under the K Bridge",
       "list": "Off Angle",
@@ -2735,7 +2651,7 @@
       "artist": "Gorgon City",
       "support": "",
       "genre": "EDM",
-      "url": "https://wl.eventim.us/event/ODDMOB-HOUSTON/701002?afflky=DuctworkHouston"
+      "url": "https://wl.eventim.us/event/GORGON-CITY-HOUSTON/701070?afflky=DuctworkHouston&EVENTPASS=CONTACT"
     },
     {
       "id": "cow-palace-2026-10-03-women-of-rodeo",
@@ -2891,7 +2807,7 @@
       "artist": "HVDES",
       "support": "",
       "genre": "EDM",
-      "url": "https://silodallas.com/events/hvdes-59729804350"
+      "url": "https://wl.eventim.us/event/HVDES-DALLAS/701103?afflky=DiscoPresents-Ductwork&EVENTPASS=CHIMERA"
     },
     {
       "id": "cow-palace-2026-10-09-rodeo-tea-tails",
@@ -2952,6 +2868,18 @@
       "support": "",
       "genre": "Live Music",
       "url": "https://billgrahamcivic.com/events/holy-priest-261009"
+    },
+    {
+      "id": "silo-dallas-2026-10-09-steve-angello",
+      "venue": "Silo Dallas",
+      "list": "Local",
+      "group": "",
+      "date": "2026-10-09",
+      "time": "9:00 PM",
+      "artist": "Steve Angello",
+      "support": "",
+      "genre": "EDM",
+      "url": "https://wl.eventim.us/event/Steve-Angello-DALLAS/701338?afflky=SILO"
     },
     {
       "id": "cow-palace-2026-10-10-grand-national-rodeo-2",
@@ -3852,6 +3780,18 @@
       "support": "",
       "genre": "Live Music",
       "url": "https://www.ticketmaster.com/knox-austin-texas-11-03-2026/event/3A0064E6DE9ABC7D"
+    },
+    {
+      "id": "emo-s-2026-11-04-slow-pulp",
+      "venue": "Emo's",
+      "list": "Local",
+      "group": "",
+      "date": "2026-11-04",
+      "time": "7:00 PM",
+      "artist": "Slow Pulp",
+      "support": "",
+      "genre": "Live Music",
+      "url": "https://www.ticketmaster.com/slow-pulp-austin-texas-11-04-2026/event/3A0064A58FC6812F"
     },
     {
       "id": "red-rocks-2026-11-04-joshua-slone",
