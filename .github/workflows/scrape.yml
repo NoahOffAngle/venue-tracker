@@ -5,7 +5,10 @@ name: Scrape venues
 #  - Whenever you click "Run workflow" in the Actions tab (manual test).
 on:
   schedule:
-    - cron: "0 0,6,12,18 * * *"   # 00:00, 06:00, 12:00, 18:00 UTC
+    # Deliberately NOT on the hour. GitHub queues every scheduled job in the
+    # world at :00, and under load a free-tier run can sit unassigned until it
+    # is dropped. An odd offset gets picked up far more reliably.
+    - cron: "23 1,7,13,19 * * *"   # 01:23, 07:23, 13:23, 19:23 UTC
   workflow_dispatch:
 
 # Let the job commit the updated data file back to the repo.
@@ -15,6 +18,9 @@ permissions:
 jobs:
   scrape:
     runs-on: ubuntu-latest
+    # A healthy run takes ~2 minutes. If something hangs, stop rather than sit
+    # there — the next run is only six hours away.
+    timeout-minutes: 20
     steps:
       - name: Get the code
         uses: actions/checkout@v4
