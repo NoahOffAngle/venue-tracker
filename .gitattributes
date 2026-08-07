@@ -1,10 +1,10 @@
 # Auto detect text files and perform LF normalization
 * text=auto
 
-# data/events.json is written by the scraper 4x a day, so your copy and
-# GitHub's copy will almost always differ. There's nothing to merge — the next
-# scrape rewrites the whole file — so always keep your own version instead of
-# stopping with a conflict. (Needs this one-time setup per computer:
-#   git config merge.keep-mine.driver true
+# data/events.json belongs to the scraper bot, which rewrites it 4x a day, so
+# your copy and GitHub's will almost always differ. On a pull, always take
+# GITHUB'S version — your local copy is a leftover from testing and keeping it
+# would overwrite fresher show data. (One-time setup per computer:
+#   git config merge.keep-remote.driver 'cp %B %A'
 # Without it git just falls back to asking, which is harmless.)
-data/events.json merge=keep-mine
+data/events.json merge=keep-remote
