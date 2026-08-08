@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-07T21:24:17Z",
+  "generated_at": "2026-08-08T04:40:43Z",
   "lists": [
     "Local",
     "Off Angle"
@@ -73,90 +73,6 @@
     }
   ],
   "events": [
-    {
-      "id": "kingdom-2026-08-07-face-melter",
-      "venue": "Kingdom",
-      "list": "Local",
-      "group": "",
-      "date": "2026-08-07",
-      "time": "10:00 PM",
-      "artist": "Face Melter",
-      "support": "",
-      "genre": "Live Music",
-      "url": "https://kingdomnightclub.com/event/face-melter/kingdom-nightclub/austin-texas/"
-    },
-    {
-      "id": "the-midway-2026-08-07-project-52-wrap-party",
-      "venue": "The Midway",
-      "list": "Off Angle",
-      "group": "San Francisco",
-      "date": "2026-08-07",
-      "time": "7:00 PM",
-      "artist": "Project 52 Wrap Party",
-      "support": "Anjali Asha",
-      "genre": "Live Music",
-      "url": "https://dothebay.com/events/2026/8/7/project-52-wrap-party-w-anjali-asha-tickets"
-    },
-    {
-      "id": "red-rocks-2026-08-07-beabadoobee",
-      "venue": "Red Rocks",
-      "list": "Off Angle",
-      "group": "Out of State",
-      "date": "2026-08-07",
-      "time": "7:30 PM",
-      "artist": "beabadoobee",
-      "support": "Wisp, Been Stellar",
-      "genre": "Live Music",
-      "url": "https://www.redrocksonline.com/events/beabadoobee-1430974/"
-    },
-    {
-      "id": "emo-s-2026-08-07-cumbiatron-the-cumbia-rave",
-      "venue": "Emo's",
-      "list": "Local",
-      "group": "",
-      "date": "2026-08-07",
-      "time": "9:00 PM",
-      "artist": "Cumbiatron - The Cumbia Rave",
-      "support": "",
-      "genre": "EDM",
-      "url": "https://www.ticketmaster.com/cumbiatron-the-cumbia-rave-austin-texas-08-07-2026/event/3A006490AF93B3C2"
-    },
-    {
-      "id": "silo-dallas-2026-08-07-noizu",
-      "venue": "Silo Dallas",
-      "list": "Local",
-      "group": "",
-      "date": "2026-08-07",
-      "time": "9:00 PM",
-      "artist": "Noizu",
-      "support": "",
-      "genre": "EDM",
-      "url": "https://wl.eventim.us/event/Noizu-DALLAS/688163?afflky=SILO"
-    },
-    {
-      "id": "the-concourse-project-2026-08-07-dillstradamus-dillon-francis-flosstradamus-in-austin",
-      "venue": "The Concourse Project",
-      "list": "Local",
-      "group": "",
-      "date": "2026-08-07",
-      "time": "9:00 PM",
-      "artist": "DILLSTRADAMUS (Dillon Francis + Flosstradamus) in Austin",
-      "support": "Dillon Francis, Flosstradamus, Viperactive, Koss, Saladbar",
-      "genre": "EDM",
-      "url": "https://wl.seetickets.us/event/DILLSTRADAMUS-Dillon-Francis-Flosstradamus-in-Austin/687621?afflky=TheConcourseProject"
-    },
-    {
-      "id": "the-midway-2026-08-07-circus-ternus",
-      "venue": "The Midway",
-      "list": "Off Angle",
-      "group": "San Francisco",
-      "date": "2026-08-07",
-      "time": "9:00 PM",
-      "artist": "Circus Æternus",
-      "support": "",
-      "genre": "Live Music",
-      "url": "https://dothebay.com/events/2026/8/7/circus-aeternus-tickets"
-    },
     {
       "id": "the-midway-2026-08-08-dmc-usa-finals-2026-san-francisco",
       "venue": "The Midway",
@@ -636,18 +552,6 @@
       "support": "Red Fang, Spoon Benders",
       "genre": "Live Music",
       "url": "https://www.theregencyballroom.com/events/detail?event_id=1415121"
-    },
-    {
-      "id": "emo-s-2026-08-20-boundless-live-with-ben-greenfield",
-      "venue": "Emo's",
-      "list": "Local",
-      "group": "",
-      "date": "2026-08-20",
-      "time": "5:00 PM",
-      "artist": "Boundless Live with Ben Greenfield",
-      "support": "",
-      "genre": "Live Music",
-      "url": "https://www.ticketmaster.com/boundless-live-with-ben-greenfield-austin-texas-08-20-2026/event/3A0064D3A7B3E07B"
     },
     {
       "id": "red-rocks-2026-08-20-tori-amos-in-times-of-dragons-tour",
@@ -3816,6 +3720,18 @@
       "support": "Jake Minch",
       "genre": "Live Music",
       "url": "https://www.redrocksonline.com/events/joshua-slone-1392035/"
+    },
+    {
+      "id": "emo-s-2026-11-05-bonobo-distance-in-static-live-north-american-tour",
+      "venue": "Emo's",
+      "list": "Local",
+      "group": "",
+      "date": "2026-11-05",
+      "time": "7:00 PM",
+      "artist": "Bonobo: Distance in Static Live North American Tour",
+      "support": "",
+      "genre": "Live Music",
+      "url": "https://www.ticketmaster.com/bonobo-distance-in-static-live-north-austin-texas-11-05-2026/event/3A0064C1E068D3A4"
     },
     {
       "id": "the-regency-ballroom-2026-11-05-the-black-angels",
