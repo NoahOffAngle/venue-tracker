@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-08T09:23:02Z",
+  "generated_at": "2026-08-08T15:00:10Z",
   "lists": [
     "Local",
     "Off Angle"
@@ -1910,6 +1910,18 @@
       "url": "https://www.redrocksonline.com/events/get-the-led-out-1165966/"
     },
     {
+      "id": "the-concourse-project-2026-09-17-isoxo-pres-hardcore-diva-night-2",
+      "venue": "The Concourse Project",
+      "list": "Local",
+      "group": "",
+      "date": "2026-09-17",
+      "time": "8:00 PM",
+      "artist": "ISOxo pres: Hardcore Diva (Night 2)",
+      "support": "pluko, ALEKO",
+      "genre": "EDM",
+      "url": "https://wl.seetickets.us/event/ISOxo-pres-Hardcore-Diva-Night-2-at-The-Concourse-Project/690919?afflky=TheConcourseProject"
+    },
+    {
       "id": "silo-dallas-2026-09-17-bassjackers",
       "venue": "Silo Dallas",
       "list": "Local",
@@ -2076,6 +2088,18 @@
       "support": "",
       "genre": "EDM",
       "url": "https://wl.eventim.us/event/DJ-DIESEL-HOUSTON/699112?afflky=DuctworkHouston"
+    },
+    {
+      "id": "the-midway-2026-09-19-juelz",
+      "venue": "The Midway",
+      "list": "Off Angle",
+      "group": "San Francisco",
+      "date": "2026-09-19",
+      "time": "9:00 PM",
+      "artist": "Juelz",
+      "support": "",
+      "genre": "Live Music",
+      "url": "https://dothebay.com/events/2026/9/19/juelz-tickets"
     },
     {
       "id": "silo-dallas-2026-09-20-dj-diesel",
@@ -2568,6 +2592,18 @@
       "support": "",
       "genre": "EDM",
       "url": "https://wl.eventim.us/event/GORGON-CITY-HOUSTON/701070?afflky=DuctworkHouston&EVENTPASS=CONTACT"
+    },
+    {
+      "id": "the-midway-2026-10-02-taiwan-golden-melody-night",
+      "venue": "The Midway",
+      "list": "Off Angle",
+      "group": "San Francisco",
+      "date": "2026-10-02",
+      "time": "9:00 PM",
+      "artist": "Taiwan Golden Melody Night",
+      "support": "",
+      "genre": "Live Music",
+      "url": "https://dothebay.com/events/2026/10/2/taiwan-golden-melody-night-tickets"
     },
     {
       "id": "cow-palace-2026-10-03-women-of-rodeo",
