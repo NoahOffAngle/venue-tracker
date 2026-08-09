@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-08T20:59:57Z",
+  "generated_at": "2026-08-09T05:19:11Z",
   "lists": [
     "Local",
     "Off Angle"
@@ -74,64 +74,16 @@
   ],
   "events": [
     {
-      "id": "the-midway-2026-08-08-dmc-usa-finals-2026-san-francisco",
-      "venue": "The Midway",
-      "list": "Off Angle",
-      "group": "San Francisco",
-      "date": "2026-08-08",
-      "time": "4:00 PM",
-      "artist": "Dmc Usa Finals 2026   San Francisco",
-      "support": "",
-      "genre": "Live Music",
-      "url": "https://dothebay.com/events/2026/8/8/dmc-usa-finals-2026-san-francisco-tickets"
-    },
-    {
-      "id": "red-rocks-2026-08-08-slightly-stoopid",
-      "venue": "Red Rocks",
-      "list": "Off Angle",
-      "group": "Out of State",
-      "date": "2026-08-08",
-      "time": "6:00 PM",
-      "artist": "Slightly Stoopid",
-      "support": "The Movement, Pepper, Slum Beach Posse (ft. DENM, Landon McNamara, Jesse James Pariah)",
-      "genre": "Live Music",
-      "url": "https://www.redrocksonline.com/events/slightly-stoopid-1266239/"
-    },
-    {
-      "id": "under-the-k-bridge-2026-08-08-charlotte-de-witte-b2b-yousuke-yukimatsu-u-uk-uk1mat-u",
-      "venue": "Under the K Bridge",
-      "list": "Off Angle",
-      "group": "Out of State",
-      "date": "2026-08-08",
-      "time": "7:00 PM",
-      "artist": "Charlotte de Witte b2b Yousuke Yukimatsu (¥ØU$UK€ ¥UK1MAT$U)",
-      "support": "",
-      "genre": "EDM",
-      "url": "https://underthekbridge.org/events/detail?event_id=1396969"
-    },
-    {
-      "id": "silo-dallas-2026-08-08-dj-pauly-d",
-      "venue": "Silo Dallas",
+      "id": "kingdom-2026-08-09-saturday-night-after-hours",
+      "venue": "Kingdom",
       "list": "Local",
       "group": "",
-      "date": "2026-08-08",
-      "time": "9:00 PM",
-      "artist": "DJ Pauly D",
+      "date": "2026-08-09",
+      "time": "12:30 AM",
+      "artist": "Saturday Night After Hours",
       "support": "",
-      "genre": "EDM",
-      "url": "https://wl.eventim.us/event/DJ-Pauly-D-DALLAS/689157?afflky=SILO"
-    },
-    {
-      "id": "the-concourse-project-2026-08-08-sidequest",
-      "venue": "The Concourse Project",
-      "list": "Local",
-      "group": "",
-      "date": "2026-08-08",
-      "time": "9:00 PM",
-      "artist": "SIDEQUEST",
-      "support": "Austin Ashtin, Aymira.Esca",
-      "genre": "EDM",
-      "url": "https://wl.seetickets.us/event/SIDEQUEST-at-The-Concourse-Project/695042?afflky=TheConcourseProject"
+      "genre": "Live Music",
+      "url": "https://kingdomnightclub.com/event/saturday-night-after-hours-5/kingdom-nightclub/austin-texas/"
     },
     {
       "id": "the-midway-2026-08-09-ohgeesy-dj-set",
