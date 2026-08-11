@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-10T21:28:46Z",
+  "generated_at": "2026-08-11T05:36:55Z",
   "lists": [
     "Local",
     "Off Angle"
@@ -74,18 +74,6 @@
   ],
   "events": [
     {
-      "id": "red-rocks-2026-08-10-film-on-the-rocks-jurassic-park",
-      "venue": "Red Rocks",
-      "list": "Off Angle",
-      "group": "Out of State",
-      "date": "2026-08-10",
-      "time": "8:30 PM",
-      "artist": "Film on the Rocks: Jurassic Park",
-      "support": "",
-      "genre": "Live Music",
-      "url": "https://www.redrocksonline.com/events/jurassic-park-1420362/"
-    },
-    {
       "id": "red-rocks-2026-08-11-empire-of-the-sun-ask-that-god-afterlife-north-american-tour",
       "venue": "Red Rocks",
       "list": "Off Angle",
@@ -94,7 +82,8 @@
       "time": "7:30 PM",
       "artist": "EMPIRE OF THE SUN – Ask That God: Afterlife North American Tour",
       "support": "",
-      "genre": "Live Music",
+      "genre": "EDM",
+      "genre_source": "musicbrainz",
       "url": "https://www.redrocksonline.com/events/empire-of-the-sun-ask-that-god-afterlife-north-american-tour-1367724/"
     },
     {
@@ -107,6 +96,7 @@
       "artist": "Sierra Ferrell",
       "support": "The Brudi Brothers, Aurelia Anne Cohen",
       "genre": "Live Music",
+      "genre_source": "musicbrainz",
       "url": "https://www.redrocksonline.com/events/sierra-ferrell-1471958/"
     },
     {
@@ -119,6 +109,7 @@
       "artist": "Mt. Joy",
       "support": "Leif Vollebekk",
       "genre": "Live Music",
+      "genre_source": "musicbrainz",
       "url": "https://www.redrocksonline.com/events/mt-joy-1232801/"
     },
     {
@@ -131,6 +122,7 @@
       "artist": "Yeat",
       "support": "Sheck Wes, Zukenee",
       "genre": "Live Music",
+      "genre_source": "musicbrainz",
       "url": "https://billgrahamcivic.com/events/yeat-260813"
     },
     {
@@ -143,6 +135,7 @@
       "artist": "GRAVEDGR",
       "support": "",
       "genre": "EDM",
+      "genre_source": "venue",
       "url": "https://wl.eventim.us/event/GRAVEDGR-DALLAS/693876?afflky=DiscoPresents-Ductwork"
     },
     {
@@ -155,7 +148,21 @@
       "artist": "FREE with RSVP: Craze x Dieselboy",
       "support": "Craze, Dieselboy, Duhrdy, M:Luna",
       "genre": "EDM",
+      "genre_source": "site",
       "url": "https://wl.seetickets.us/event/FREE-with-RSVP-Craze-x-Dieselboy-at-The-Concourse-Project/695114?afflky=TheConcourseProject"
+    },
+    {
+      "id": "kingdom-2026-08-14-groove-theory",
+      "venue": "Kingdom",
+      "list": "Local",
+      "group": "",
+      "date": "2026-08-14",
+      "time": "10:00 PM",
+      "artist": "Groove Theory",
+      "support": "",
+      "genre": "EDM",
+      "genre_source": "venue leaning",
+      "url": "https://kingdomnightclub.com/event/groove-theory/kingdom-nightclub/austin-texas/"
     },
     {
       "id": "the-midway-2026-08-14-reggaeton-rave",
@@ -167,6 +174,7 @@
       "artist": "Reggaeton Rave",
       "support": "",
       "genre": "EDM",
+      "genre_source": "keyword",
       "url": "https://dothebay.com/events/2026/8/14/reggaeton-rave-tickets"
     },
     {
@@ -179,6 +187,7 @@
       "artist": "Little Stranger",
       "support": "",
       "genre": "Live Music",
+      "genre_source": "default",
       "url": "https://www.ticketmaster.com/little-stranger-austin-texas-08-14-2026/event/3A006487D2061C61"
     },
     {
@@ -191,6 +200,7 @@
       "artist": "Mt. Joy",
       "support": "Arcy Drive",
       "genre": "Live Music",
+      "genre_source": "musicbrainz",
       "url": "https://www.redrocksonline.com/events/mt-joy-1232806/"
     },
     {
@@ -203,6 +213,7 @@
       "artist": "Black Tiger Sex Machine",
       "support": "",
       "genre": "EDM",
+      "genre_source": "venue",
       "url": "https://wl.eventim.us/event/Black-Tiger-Sex-Machine-DALLAS/688827?afflky=SILO"
     },
     {
@@ -215,6 +226,7 @@
       "artist": "Audien w/ TELYKAST + Amel",
       "support": "Audien, TELYKast, Amel",
       "genre": "EDM",
+      "genre_source": "site",
       "url": "https://wl.seetickets.us/event/Audien-w-TELYKAST-Amel-at-The-Concourse-Project/689789?afflky=TheConcourseProject"
     },
     {
@@ -226,7 +238,8 @@
       "time": "10:00 PM",
       "artist": "Untitled Fest",
       "support": "",
-      "genre": "Live Music",
+      "genre": "EDM",
+      "genre_source": "venue leaning",
       "url": "https://kingdomnightclub.com/event/untitled-fest-2/kingdom-nightclub/austin-texas/"
     },
     {
@@ -239,6 +252,7 @@
       "artist": "Pulse Pilates",
       "support": "Saint Stratus, Cartfish",
       "genre": "EDM",
+      "genre_source": "site",
       "url": "https://wl.seetickets.us/event/Pulse-Pilates-at-The-Concourse-Project/699830?afflky=TheConcourseProject"
     },
     {
@@ -251,6 +265,7 @@
       "artist": "Yoga on the Rocks",
       "support": "",
       "genre": "Live Music",
+      "genre_source": "default",
       "url": "https://www.redrocksonline.com/events/yoga-on-the-rocks-2026-1415123-2/"
     },
     {
@@ -263,6 +278,7 @@
       "artist": "Noname",
       "support": "",
       "genre": "Live Music",
+      "genre_source": "musicbrainz",
       "url": "https://www.ticketmaster.com/noname-austin-texas-08-15-2026/event/3A0064C49D0A8401"
     },
     {
@@ -274,7 +290,8 @@
       "time": "7:00 PM",
       "artist": "LCD Soundsystem",
       "support": "Feist, Victoryland",
-      "genre": "Live Music",
+      "genre": "EDM",
+      "genre_source": "musicbrainz",
       "url": "https://www.redrocksonline.com/events/lcd-soundsystem-1423003/"
     },
     {
@@ -287,6 +304,7 @@
       "artist": "CORTIS",
       "support": "",
       "genre": "Live Music",
+      "genre_source": "default",
       "url": "https://billgrahamcivic.com/events/cortis-260815"
     },
     {
@@ -299,6 +317,7 @@
       "artist": "Audien",
       "support": "",
       "genre": "EDM",
+      "genre_source": "venue",
       "url": "https://wl.eventim.us/event/PROGRESSIVE-HOUSE-NEVER-DIED-AUDIEN-DALLAS/690226?afflky=SILO"
     },
     {
@@ -311,6 +330,7 @@
       "artist": "ACRAZE",
       "support": "Rello, Phamstar",
       "genre": "EDM",
+      "genre_source": "site",
       "url": "https://wl.seetickets.us/event/ACRAZE-at-The-Concourse-Project/690073?afflky=TheConcourseProject"
     },
     {
@@ -323,6 +343,7 @@
       "artist": "2000's Rave",
       "support": "",
       "genre": "EDM",
+      "genre_source": "keyword",
       "url": "https://dothebay.com/events/2026/8/15/2000-s-rave-tickets"
     },
     {
@@ -334,7 +355,8 @@
       "time": "2:00 PM",
       "artist": "Caravan Oasis",
       "support": "",
-      "genre": "Live Music",
+      "genre": "EDM",
+      "genre_source": "venue leaning",
       "url": "https://dothebay.com/events/2026/8/16/caravan-oasis-tickets"
     },
     {
@@ -346,7 +368,8 @@
       "time": "6:30 PM",
       "artist": "LCD Soundsystem",
       "support": "Feist, Victoryland",
-      "genre": "Live Music",
+      "genre": "EDM",
+      "genre_source": "musicbrainz",
       "url": "https://www.redrocksonline.com/events/lcd-soundsystem-1423008/"
     },
     {
@@ -359,6 +382,7 @@
       "artist": "CORTIS",
       "support": "",
       "genre": "Live Music",
+      "genre_source": "default",
       "url": "https://billgrahamcivic.com/events/cortis-260816"
     },
     {
@@ -371,6 +395,7 @@
       "artist": "Train – Drops of Jupiter: 25 years in the Atmosphere",
       "support": "",
       "genre": "Live Music",
+      "genre_source": "musicbrainz",
       "url": "https://www.redrocksonline.com/events/train-drops-of-jupiter-25-years-in-the-atmosphere-1216432/"
     },
     {
@@ -382,7 +407,8 @@
       "time": "8:00 PM",
       "artist": "Tangerine Dream",
       "support": "",
-      "genre": "Live Music",
+      "genre": "EDM",
+      "genre_source": "musicbrainz",
       "url": "https://www.theregencyballroom.com/events/detail?event_id=1454991"
     },
     {
@@ -395,6 +421,7 @@
       "artist": "Nathaniel Rateliff with The Colorado Symphony",
       "support": "Lucius",
       "genre": "Live Music",
+      "genre_source": "musicbrainz",
       "url": "https://www.redrocksonline.com/events/nathaniel-rateliff-with-the-colorado-symphony-orchestra-1397027/"
     },
     {
@@ -407,6 +434,7 @@
       "artist": "Los Mirlos",
       "support": "Discodelica",
       "genre": "Live Music",
+      "genre_source": "musicbrainz",
       "url": "https://www.theregencyballroom.com/events/detail?event_id=1443870"
     },
     {
@@ -419,6 +447,7 @@
       "artist": "ILLENIUM",
       "support": "",
       "genre": "EDM",
+      "genre_source": "musicbrainz",
       "url": "https://www.redrocksonline.com/events/illenium-1511360/"
     },
     {
@@ -431,6 +460,7 @@
       "artist": "The Sword",
       "support": "Red Fang, Spoon Benders",
       "genre": "Live Music",
+      "genre_source": "musicbrainz",
       "url": "https://www.theregencyballroom.com/events/detail?event_id=1415121"
     },
     {
@@ -443,6 +473,7 @@
       "artist": "Tori Amos – In Times of Dragons Tour",
       "support": "Bartees Strange",
       "genre": "Live Music",
+      "genre_source": "musicbrainz",
       "url": "https://www.redrocksonline.com/events/tori-amos-in-times-of-dragons-tour-1273581/"
     },
     {
@@ -454,7 +485,8 @@
       "time": "8:00 PM",
       "artist": "SILK & The Midway present: DJ SWISHA",
       "support": "",
-      "genre": "Live Music",
+      "genre": "EDM",
+      "genre_source": "venue leaning",
       "url": "https://dothebay.com/events/2026/8/20/silk-the-midway-present-dj-swisha-tickets"
     },
     {
@@ -467,6 +499,7 @@
       "artist": "Rebūke",
       "support": "",
       "genre": "EDM",
+      "genre_source": "venue",
       "url": "https://wl.eventim.us/event/REBUKE-DALLAS/691745?afflky=DiscoPresents-Ductwork"
     },
     {
@@ -478,7 +511,8 @@
       "time": "10:00 PM",
       "artist": "Mat Zo",
       "support": "",
-      "genre": "Live Music",
+      "genre": "EDM",
+      "genre_source": "musicbrainz",
       "url": "https://kingdomnightclub.com/event/mat-zo-2/kingdom-nightclub/austin-texas/"
     },
     {
@@ -490,7 +524,8 @@
       "time": "10:00 PM",
       "artist": "THANK U NEXT (Ariana Grande Dance Night)",
       "support": "",
-      "genre": "Live Music",
+      "genre": "EDM",
+      "genre_source": "venue leaning",
       "url": "https://dothebay.com/events/2026/8/21/thank-u-next-ariana-grande-dance-night-tickets"
     },
     {
@@ -503,6 +538,7 @@
       "artist": "St. Lucia",
       "support": "",
       "genre": "Live Music",
+      "genre_source": "default",
       "url": "https://www.ticketmaster.com/st-lucia-austin-texas-08-21-2026/event/3A00649DC7278903"
     },
     {
@@ -515,6 +551,7 @@
       "artist": "Grupo Frontera – Triste Pero Bien C*bron Tour",
       "support": "",
       "genre": "Live Music",
+      "genre_source": "musicbrainz",
       "url": "https://www.redrocksonline.com/events/grupo-frontera-1357846/"
     },
     {
@@ -527,6 +564,7 @@
       "artist": "anees",
       "support": "Michael Minelli, Sammy Shiblaq",
       "genre": "Live Music",
+      "genre_source": "musicbrainz",
       "url": "https://www.theregencyballroom.com/events/detail?event_id=1443716"
     },
     {
@@ -539,6 +577,7 @@
       "artist": "NGHTMRE",
       "support": "",
       "genre": "EDM",
+      "genre_source": "venue",
       "url": "https://wl.eventim.us/event/NGHTMRE-DALLAS/689703?afflky=SILO"
     },
     {
@@ -551,6 +590,7 @@
       "artist": "Azzecca (Extended Set) + William Kiss | Austin",
       "support": "Azzecca, William Kiss",
       "genre": "EDM",
+      "genre_source": "site",
       "url": "https://wl.seetickets.us/event/Azzecca-Extended-Set-William-Kiss-Austin/690783?afflky=TheConcourseProject"
     },
     {
@@ -563,6 +603,7 @@
       "artist": "Banda Rave",
       "support": "",
       "genre": "EDM",
+      "genre_source": "keyword",
       "url": "https://dothebay.com/events/2026/8/21/perreo-electrico-presents-banda-rave-tickets"
     },
     {
@@ -574,7 +615,8 @@
       "time": "10:00 PM",
       "artist": "Patrick Topping",
       "support": "",
-      "genre": "Live Music",
+      "genre": "EDM",
+      "genre_source": "venue leaning",
       "url": "https://kingdomnightclub.com/event/patrick-topping/kingdom-nightclub/austin-texas/"
     },
     {
@@ -586,7 +628,8 @@
       "time": "10:00 PM",
       "artist": "Discip",
       "support": "",
-      "genre": "Live Music",
+      "genre": "EDM",
+      "genre_source": "venue leaning",
       "url": "https://dothebay.com/events/2026/8/22/discip-tickets"
     },
     {
@@ -599,6 +642,7 @@
       "artist": "Reggae on the Rocks",
       "support": "Rebelution, MAOLI, Skip Marley, Third World, Etana, Judge Roughneck",
       "genre": "Live Music",
+      "genre_source": "default",
       "url": "https://www.redrocksonline.com/events/reggae-on-the-rocks-2026-1313694/"
     },
     {
@@ -611,6 +655,7 @@
       "artist": "Hayla",
       "support": "",
       "genre": "Live Music",
+      "genre_source": "default",
       "url": "https://www.ticketmaster.com/hayla-austin-texas-08-22-2026/event/3A006497334F9BB8"
     },
     {
@@ -623,6 +668,7 @@
       "artist": "Levity & Tape B",
       "support": "Solo sets from Levity & Tape B + closing LEVITAPE b2b set, Effin",
       "genre": "EDM",
+      "genre_source": "keyword",
       "url": "https://underthekbridge.org/events/detail?event_id=1289467"
     },
     {
@@ -635,6 +681,7 @@
       "artist": "Eazybaked + Distinct Motive with Special Guests | Austin",
       "support": "EAZYBAKED, Distinct Motive, Richard Finger, Mindset, Day n Knight",
       "genre": "EDM",
+      "genre_source": "site",
       "url": "https://wl.seetickets.us/event/Eazybaked-Distinct-Motive-with-Special-Guests-Austin/689665?afflky=TheConcourseProject"
     },
     {
@@ -647,6 +694,7 @@
       "artist": "Dr. Fresch",
       "support": "",
       "genre": "EDM",
+      "genre_source": "venue",
       "url": "https://wl.eventim.us/event/DR-FRESCH-PRESENTS-THE-BASS-OPERATION-DALLAS/667517?afflky=SILO"
     },
     {
@@ -658,7 +706,8 @@
       "time": "3:00 PM",
       "artist": "5th Annual Green Party",
       "support": "",
-      "genre": "Live Music",
+      "genre": "EDM",
+      "genre_source": "venue leaning",
       "url": "https://dothebay.com/events/2026/8/23/5th-annual-green-party-tickets"
     },
     {
@@ -671,6 +720,7 @@
       "artist": "Morgan Page",
       "support": "",
       "genre": "EDM",
+      "genre_source": "venue",
       "url": "https://wl.eventim.us/event/Morgan-Page-DALLAS/692381?afflky=DiscoPresents-Ductwork"
     },
     {
@@ -683,6 +733,7 @@
       "artist": "King Gizzard & the Lizard Wizard",
       "support": ".VRIL",
       "genre": "Live Music",
+      "genre_source": "musicbrainz",
       "url": "https://underthekbridge.org/events/detail?event_id=1511343"
     },
     {
@@ -695,6 +746,7 @@
       "artist": "Joe Bonamassa",
       "support": "",
       "genre": "Live Music",
+      "genre_source": "musicbrainz",
       "url": "https://www.redrocksonline.com/events/joe-bonamassa-1240606/"
     },
     {
@@ -707,6 +759,7 @@
       "artist": "Santana – Oneness Tour 2026",
       "support": "",
       "genre": "Live Music",
+      "genre_source": "musicbrainz",
       "url": "https://www.redrocksonline.com/events/santana-oneness-tour-2026-1471220/"
     },
     {
@@ -719,6 +772,7 @@
       "artist": "Ian Munsick",
       "support": "ERNEST, Ned LeDoux",
       "genre": "Live Music",
+      "genre_source": "musicbrainz",
       "url": "https://www.redrocksonline.com/events/ian-munsick-1294402/"
     },
     {
@@ -730,7 +784,8 @@
       "time": "7:30 PM",
       "artist": "Molly Santana X North West Kimokawaii Tour",
       "support": "",
-      "genre": "Live Music",
+      "genre": "EDM",
+      "genre_source": "venue leaning",
       "url": "https://dothebay.com/events/2026/8/25/molly-santana-x-north-west-kimokawaii-tour-tickets"
     },
     {
@@ -743,6 +798,7 @@
       "artist": "Ray LaMontagne",
       "support": "The Weather Station",
       "genre": "Live Music",
+      "genre_source": "musicbrainz",
       "url": "https://www.redrocksonline.com/events/ray-lamontagne-841147/"
     },
     {
@@ -755,6 +811,7 @@
       "artist": "An Evening With Goose",
       "support": "",
       "genre": "Live Music",
+      "genre_source": "default",
       "url": "https://www.redrocksonline.com/events/an-evening-with-goose-1305340/"
     },
     {
@@ -767,6 +824,7 @@
       "artist": "Feed Me",
       "support": "",
       "genre": "EDM",
+      "genre_source": "venue",
       "url": "https://wl.eventim.us/event/Feed-Me-DALLAS/693234?afflky=DiscoPresents-Ductwork"
     },
     {
@@ -779,6 +837,7 @@
       "artist": "FREE with RSVP: Tony Romera + ESSEL",
       "support": "Tony Romera, ESSEL",
       "genre": "EDM",
+      "genre_source": "site",
       "url": "https://wl.seetickets.us/event/FREE-with-RSVP-Tony-Romera-ESSEL-at-The-Concourse-Project/696710?afflky=TheConcourseProject"
     },
     {
@@ -790,7 +849,8 @@
       "time": "10:00 PM",
       "artist": "Sam Gellaitry",
       "support": "",
-      "genre": "Live Music",
+      "genre": "EDM",
+      "genre_source": "musicbrainz",
       "url": "https://kingdomnightclub.com/event/sam-gellaitry/kingdom-nightclub/austin-texas/"
     },
     {
@@ -803,6 +863,7 @@
       "artist": "An Evening With Goose",
       "support": "",
       "genre": "Live Music",
+      "genre_source": "default",
       "url": "https://www.redrocksonline.com/events/an-evening-with-goose-1307890/"
     },
     {
@@ -815,6 +876,7 @@
       "artist": "it's murph",
       "support": "Tchami, Close Friends Only, JEV.",
       "genre": "EDM",
+      "genre_source": "keyword",
       "url": "https://underthekbridge.org/events/detail?event_id=1419449"
     },
     {
@@ -827,6 +889,7 @@
       "artist": "ATLiens",
       "support": "",
       "genre": "EDM",
+      "genre_source": "venue",
       "url": "https://wl.eventim.us/event/ATLiens-DALLAS/693872?afflky=SILO"
     },
     {
@@ -839,6 +902,7 @@
       "artist": "Kayzo presents The Cage",
       "support": "hhunter, Zerosum",
       "genre": "EDM",
+      "genre_source": "site",
       "url": "https://wl.seetickets.us/event/Kayzo-presents-The-Cage-at-The-Concourse-Project/695945?afflky=TheConcourseProject"
     },
     {
@@ -851,6 +915,7 @@
       "artist": "Westend",
       "support": "",
       "genre": "EDM",
+      "genre_source": "site",
       "url": "https://wl.seetickets.us/event/Westend-at-The-Concourse-Project-The-Hangar/698729?afflky=TheConcourseProject"
     },
     {
@@ -862,7 +927,8 @@
       "time": "9:00 PM",
       "artist": "Feed Me",
       "support": "",
-      "genre": "Live Music",
+      "genre": "EDM",
+      "genre_source": "same artist elsewhere",
       "url": "https://dothebay.com/events/2026/8/28/feed-me-tickets"
     },
     {
@@ -874,7 +940,8 @@
       "time": "10:00 PM",
       "artist": "AMPED: AUSTIN",
       "support": "",
-      "genre": "Live Music",
+      "genre": "EDM",
+      "genre_source": "venue leaning",
       "url": "https://kingdomnightclub.com/event/amped-austin-2/kingdom-nightclub/austin-texas/"
     },
     {
@@ -887,6 +954,7 @@
       "artist": "Yoga on the Rocks",
       "support": "",
       "genre": "Live Music",
+      "genre_source": "default",
       "url": "https://www.redrocksonline.com/events/yoga-on-the-rocks-2026-1415123-1/"
     },
     {
@@ -899,6 +967,7 @@
       "artist": "Mochakk",
       "support": "DJ Minx b2b DJ Holographic, Anastazja",
       "genre": "EDM",
+      "genre_source": "keyword",
       "url": "https://underthekbridge.org/events/detail?event_id=1328068"
     },
     {
@@ -911,6 +980,7 @@
       "artist": "Bryson Tiller Presents: The Neo Trapsoul Tour",
       "support": "Majid Jordan, Ty Dolla $ign, Austin Millz",
       "genre": "Live Music",
+      "genre_source": "default",
       "url": "https://www.redrocksonline.com/events/bryson-tiller-presents-the-neo-trapsoul-tour-1464366/"
     },
     {
@@ -923,6 +993,7 @@
       "artist": "Bop To The Top",
       "support": "",
       "genre": "Live Music",
+      "genre_source": "default",
       "url": "https://www.ticketmaster.com/bop-to-the-top-austin-texas-08-29-2026/event/3A006496ED9E77BD"
     },
     {
@@ -934,7 +1005,8 @@
       "time": "8:00 PM",
       "artist": "Madvktm   Amalgamation",
       "support": "",
-      "genre": "Live Music",
+      "genre": "EDM",
+      "genre_source": "venue leaning",
       "url": "https://dothebay.com/events/2026/8/29/madvktm-amalgamation-tickets"
     },
     {
@@ -947,6 +1019,7 @@
       "artist": "ACRAZE",
       "support": "",
       "genre": "EDM",
+      "genre_source": "venue",
       "url": "https://wl.eventim.us/event/ACRAZE-DALLAS/691230?afflky=SILO"
     },
     {
@@ -959,6 +1032,7 @@
       "artist": "Indo Warehouse",
       "support": "Deer Jade, Ferno",
       "genre": "EDM",
+      "genre_source": "site",
       "url": "https://wl.seetickets.us/event/Indo-Warehouse-at-The-Concourse-Project/694384?afflky=TheConcourseProject"
     },
     {
@@ -970,7 +1044,8 @@
       "time": "3:00 PM",
       "artist": "KASBO Labyrinth Tour",
       "support": "",
-      "genre": "Live Music",
+      "genre": "EDM",
+      "genre_source": "venue leaning",
       "url": "https://dothebay.com/events/2026/8/30/kasbo-labyrinth-tour-tickets"
     },
     {
@@ -983,6 +1058,7 @@
       "artist": "Desert Hearts",
       "support": "",
       "genre": "EDM",
+      "genre_source": "venue",
       "url": "https://wl.eventim.us/event/Desert-Hearts-DALLAS/692383?afflky=DiscoPresents-Ductwork"
     },
     {
@@ -995,6 +1071,7 @@
       "artist": "Ty Myers",
       "support": "Brent Cobb, Benny G",
       "genre": "Live Music",
+      "genre_source": "default",
       "url": "https://www.redrocksonline.com/events/ty-myers-1356326/"
     },
     {
@@ -1007,6 +1084,7 @@
       "artist": "Black Veil Brides: Vindicatour US 2026",
       "support": "",
       "genre": "Live Music",
+      "genre_source": "musicbrainz",
       "url": "https://www.ticketmaster.com/black-veil-brides-vindicatour-us-2026-austin-texas-08-31-2026/event/3A0064A7AE35CE12"
     },
     {
@@ -1019,6 +1097,7 @@
       "artist": "John Fogerty",
       "support": "Hearty Har",
       "genre": "Live Music",
+      "genre_source": "musicbrainz",
       "url": "https://www.redrocksonline.com/events/john-fogerty-1382141/"
     },
     {
@@ -1031,6 +1110,7 @@
       "artist": "An Evening With Goose",
       "support": "",
       "genre": "Live Music",
+      "genre_source": "default",
       "url": "https://www.redrocksonline.com/events/an-evening-with-goose-1489889/"
     },
     {
@@ -1043,6 +1123,7 @@
       "artist": "GRiZ",
       "support": "",
       "genre": "EDM",
+      "genre_source": "musicbrainz",
       "url": "https://www.redrocksonline.com/events/griz-1489047/"
     },
     {
@@ -1054,7 +1135,8 @@
       "time": "7:00 PM",
       "artist": "Channel Tres - The Enigma Tour",
       "support": "",
-      "genre": "Live Music",
+      "genre": "EDM",
+      "genre_source": "musicbrainz",
       "url": "https://www.ticketmaster.com/channel-tres-the-enigma-tour-austin-texas-09-02-2026/event/3A00649DC4DD7DCF"
     },
     {
@@ -1067,6 +1149,7 @@
       "artist": "Noname",
       "support": "",
       "genre": "Live Music",
+      "genre_source": "musicbrainz",
       "url": "https://www.theregencyballroom.com/events/detail?event_id=1477932"
     },
     {
@@ -1079,6 +1162,7 @@
       "artist": "GRiZ",
       "support": "",
       "genre": "EDM",
+      "genre_source": "musicbrainz",
       "url": "https://www.redrocksonline.com/events/griz-1489049/"
     },
     {
@@ -1091,6 +1175,7 @@
       "artist": "HAYLA",
       "support": "Ella Rosa",
       "genre": "Live Music",
+      "genre_source": "default",
       "url": "https://www.theregencyballroom.com/events/detail?event_id=1423202"
     },
     {
@@ -1103,6 +1188,7 @@
       "artist": "Infekt",
       "support": "",
       "genre": "EDM",
+      "genre_source": "venue",
       "url": "https://wl.eventim.us/event/INFEKT-DALLAS/693880?afflky=DiscoPresents-Ductwork"
     },
     {
@@ -1115,6 +1201,7 @@
       "artist": "FREE with RSVP: Jamback",
       "support": "",
       "genre": "EDM",
+      "genre_source": "site",
       "url": "https://wl.seetickets.us/event/FREE-with-RSVP-Jamback-at-The-Concourse-Project/687516?afflky=TheConcourseProject"
     },
     {
@@ -1126,7 +1213,8 @@
       "time": "10:00 PM",
       "artist": "HORSE MEAT DISCO ATX SWEAT LABOR DAY WEEKEND",
       "support": "",
-      "genre": "Live Music",
+      "genre": "EDM",
+      "genre_source": "venue leaning",
       "url": "https://kingdomnightclub.com/event/horse-meat-disco-atx-sweat-labor-day-weekend/kingdom-nightclub/austin-texas/"
     },
     {
@@ -1138,7 +1226,8 @@
       "time": "6:00 PM",
       "artist": "Black Tiger Sex Machine & Kai Wachi Block Party",
       "support": "",
-      "genre": "Live Music",
+      "genre": "EDM",
+      "genre_source": "same artist elsewhere",
       "url": "https://dothebay.com/events/2026/9/4/black-tiger-sex-machine-kai-wachi-block-party-tickets"
     },
     {
@@ -1150,7 +1239,8 @@
       "time": "8:00 PM",
       "artist": "Nitzer Ebb",
       "support": "Lead Into Gold (Paul Barker)",
-      "genre": "Live Music",
+      "genre": "EDM",
+      "genre_source": "musicbrainz",
       "url": "https://www.theregencyballroom.com/events/detail?event_id=1423284"
     },
     {
@@ -1163,6 +1253,7 @@
       "artist": "MANÁ",
       "support": "",
       "genre": "Live Music",
+      "genre_source": "musicbrainz",
       "url": "https://www.redrocksonline.com/events/mana-1240795/"
     },
     {
@@ -1175,6 +1266,7 @@
       "artist": "I Hate Models",
       "support": "",
       "genre": "EDM",
+      "genre_source": "venue",
       "url": "https://wl.eventim.us/event/I-Hate-Models-DALLAS/691508?afflky=SILO"
     },
     {
@@ -1187,6 +1279,7 @@
       "artist": "LSR/CITY X by Gareth Emery",
       "support": "",
       "genre": "EDM",
+      "genre_source": "venue",
       "url": "https://wl.eventim.us/event/LSRCITY-X-by-Gareth-Emery-HOUSTON/697705?afflky=DuctworkHouston&EVENTPASS=LCGAX"
     },
     {
@@ -1199,6 +1292,7 @@
       "artist": "Lilly Palmer (Extended Set)",
       "support": "",
       "genre": "EDM",
+      "genre_source": "site",
       "url": "https://wl.seetickets.us/event/Lilly-Palmer-Extended-Set-at-The-Concourse-Project/691625?afflky=TheConcourseProject"
     },
     {
@@ -1222,7 +1316,8 @@
       "time": "10:00 PM",
       "artist": "TUFF ATX SWEAT LABOR DAY WEEKEND",
       "support": "",
-      "genre": "Live Music",
+      "genre": "EDM",
+      "genre_source": "venue leaning",
       "url": "https://kingdomnightclub.com/event/tuff-atx-sweat-labor-day-weekend/kingdom-nightclub/austin-texas/"
     },
     {
@@ -1234,7 +1329,8 @@
       "time": "3:00 PM",
       "artist": "Electroluxx Block Party: Purple Disco Machine, RuPaul + MORE",
       "support": "",
-      "genre": "Live Music",
+      "genre": "EDM",
+      "genre_source": "venue leaning",
       "url": "https://dothebay.com/events/2026/9/5/electroluxx-block-party-purple-disco-machine-rupaul-more-tickets"
     },
     {
@@ -1247,6 +1343,7 @@
       "artist": "MANÁ",
       "support": "",
       "genre": "Live Music",
+      "genre_source": "musicbrainz",
       "url": "https://www.redrocksonline.com/events/mana-1240807/"
     },
     {
@@ -1259,6 +1356,7 @@
       "artist": "Ian Asher",
       "support": "",
       "genre": "EDM",
+      "genre_source": "venue",
       "url": "https://wl.eventim.us/event/Ian-Asher-DALLAS/691856?afflky=SILO"
     },
     {
@@ -1271,6 +1369,7 @@
       "artist": "Beltran",
       "support": "",
       "genre": "EDM",
+      "genre_source": "venue",
       "url": "https://wl.eventim.us/event/BELTRAN-HOUSTON/698122?afflky=DuctworkHouston"
     },
     {
@@ -1283,6 +1382,7 @@
       "artist": "WhoMadeWho (Hybrid DJ Set)",
       "support": "",
       "genre": "EDM",
+      "genre_source": "site",
       "url": "https://wl.seetickets.us/event/WhoMadeWho-Hybrid-DJ-Set-at-The-Concourse-Project/692640?afflky=TheConcourseProject"
     },
     {
@@ -1294,7 +1394,8 @@
       "time": "2:00 PM",
       "artist": "R&B and RIBS Block Party",
       "support": "Lloyd, Keri Hilson, Soulja Boy + Jenevieve",
-      "genre": "Live Music",
+      "genre": "EDM",
+      "genre_source": "venue leaning",
       "url": "https://dothebay.com/events/2026/9/6/r-b-and-ribs-block-party-with-lloyd-keri-hilson-soulja-boy-tickets"
     },
     {
@@ -1307,6 +1408,7 @@
       "artist": "Gregory Alan Isakov with the Colorado Symphony",
       "support": "the Colorado Symphony",
       "genre": "Live Music",
+      "genre_source": "musicbrainz",
       "url": "https://www.redrocksonline.com/events/gregory-alan-isakov-1216931/"
     },
     {
@@ -1319,6 +1421,7 @@
       "artist": "Galantis",
       "support": "",
       "genre": "EDM",
+      "genre_source": "venue",
       "url": "https://wl.eventim.us/event/Galantis-DALLAS/698482?afflky=SILO"
     },
     {
@@ -1331,6 +1434,7 @@
       "artist": "Don Diablo",
       "support": "",
       "genre": "EDM",
+      "genre_source": "venue",
       "url": "https://wl.eventim.us/event/DON-DIABLO-HOUSTON/700243?afflky=DuctworkHouston"
     },
     {
@@ -1343,6 +1447,7 @@
       "artist": "Alignment + PETERBLUE",
       "support": "Alignment, PETERBLUE",
       "genre": "EDM",
+      "genre_source": "site",
       "url": "https://wl.seetickets.us/event/Alignment-PETERBLUE-at-The-Concourse-Project/687517?afflky=TheConcourseProject"
     },
     {
@@ -1354,7 +1459,8 @@
       "time": "2:00 PM",
       "artist": "Hiero Day",
       "support": "",
-      "genre": "Live Music",
+      "genre": "EDM",
+      "genre_source": "venue leaning",
       "url": "https://dothebay.com/events/2026/9/7/hiero-day-tickets"
     },
     {
@@ -1367,6 +1473,7 @@
       "artist": "Gregory Alan Isakov with the Colorado Symphony",
       "support": "the Colorado Symphony",
       "genre": "Live Music",
+      "genre_source": "musicbrainz",
       "url": "https://www.redrocksonline.com/events/gregory-alan-isakov-1217861/"
     },
     {
@@ -1379,6 +1486,7 @@
       "artist": "JUTES - Smile You're on Tour",
       "support": "",
       "genre": "Live Music",
+      "genre_source": "musicbrainz",
       "url": "https://www.ticketmaster.com/jutes-smile-youre-on-tour-austin-texas-09-08-2026/event/3A006481BE48E0E5"
     },
     {
@@ -1391,6 +1499,7 @@
       "artist": "Five Finger Death Punch",
       "support": "Cody Jinks, Eva Under Fire",
       "genre": "Live Music",
+      "genre_source": "musicbrainz",
       "url": "https://www.redrocksonline.com/events/five-finger-death-punch-1286674/"
     },
     {
@@ -1402,7 +1511,8 @@
       "time": "8:00 PM",
       "artist": "Slayyyter",
       "support": "Pearly Drops",
-      "genre": "Live Music",
+      "genre": "EDM",
+      "genre_source": "musicbrainz",
       "url": "https://www.theregencyballroom.com/events/detail?event_id=1373060"
     },
     {
@@ -1415,6 +1525,7 @@
       "artist": "wave to earth",
       "support": "",
       "genre": "Live Music",
+      "genre_source": "default",
       "url": "https://billgrahamcivic.com/events/wave-to-earth-260908"
     },
     {
@@ -1427,6 +1538,7 @@
       "artist": "Citizen",
       "support": "",
       "genre": "Live Music",
+      "genre_source": "musicbrainz",
       "url": "https://www.ticketmaster.com/citizen-austin-texas-09-09-2026/event/3A006494DF16280F"
     },
     {
@@ -1439,6 +1551,7 @@
       "artist": "Cole Swindell",
       "support": "BlackHawk, Zach John King",
       "genre": "Live Music",
+      "genre_source": "musicbrainz",
       "url": "https://www.redrocksonline.com/events/cole-swindell-1336373/"
     },
     {
@@ -1451,6 +1564,7 @@
       "artist": "SOFI TUKKER",
       "support": "",
       "genre": "EDM",
+      "genre_source": "musicbrainz",
       "url": "https://www.redrocksonline.com/events/sofi-tukker-1468129/"
     },
     {
@@ -1463,6 +1577,7 @@
       "artist": "Calcium",
       "support": "",
       "genre": "EDM",
+      "genre_source": "venue",
       "url": "https://wl.eventim.us/event/Calcium-DALLAS/694650?afflky=DiscoPresents-Ductwork"
     },
     {
@@ -1474,7 +1589,8 @@
       "time": "10:00 PM",
       "artist": "PROMISCUOUS: A 2000's CLUB BANGERS THROWBACKS PARTY",
       "support": "",
-      "genre": "Live Music",
+      "genre": "EDM",
+      "genre_source": "venue leaning",
       "url": "https://dothebay.com/events/2026/9/11/promiscuous-a-2000-s-club-bangers-throwbacks-party-tickets"
     },
     {
@@ -1487,6 +1603,7 @@
       "artist": "Zeds Dead at Germania Insurance Amphitheater",
       "support": "Daily Bread",
       "genre": "EDM",
+      "genre_source": "site",
       "url": "https://www.ticketmaster.com/event/3A00645787918635?utm_campaign=Adv-3536119&utm_source=realmusic+events&utm_medium=other_med_ln_digital"
     },
     {
@@ -1499,6 +1616,7 @@
       "artist": "Brandi Carlile",
       "support": "Stephen Wilson Jr.",
       "genre": "Live Music",
+      "genre_source": "musicbrainz",
       "url": "https://www.redrocksonline.com/events/brandi-carlile-1360444/"
     },
     {
@@ -1511,6 +1629,7 @@
       "artist": "9/11 Stair Climb",
       "support": "",
       "genre": "Live Music",
+      "genre_source": "default",
       "url": "https://www.redrocksonline.com/events/colorado-911-stair-climb-1/"
     },
     {
@@ -1523,6 +1642,7 @@
       "artist": "Altın Gün",
       "support": "Alex Maas",
       "genre": "Live Music",
+      "genre_source": "default",
       "url": "https://www.theregencyballroom.com/events/detail?event_id=1352783"
     },
     {
@@ -1535,6 +1655,7 @@
       "artist": "LSR/CITY X by Gareth Emery",
       "support": "",
       "genre": "EDM",
+      "genre_source": "venue",
       "url": "https://wl.eventim.us/event/LSRCITY-X-by-Gareth-Emery-DALLAS/690277?afflky=SILO"
     },
     {
@@ -1547,6 +1668,7 @@
       "artist": "Bonnie X Clyde",
       "support": "",
       "genre": "EDM",
+      "genre_source": "venue",
       "url": "https://wl.eventim.us/event/BONNIE-X-CLYDE-HOUSTON/700500?afflky=DuctworkHouston"
     },
     {
@@ -1558,7 +1680,8 @@
       "time": "9:00 PM",
       "artist": "Flux Pavilion",
       "support": "",
-      "genre": "Live Music",
+      "genre": "EDM",
+      "genre_source": "musicbrainz",
       "url": "https://dothebay.com/events/2026/9/11/flux-pavilion-tickets"
     },
     {
@@ -1571,6 +1694,7 @@
       "artist": "Chai & Beats: San Francisco",
       "support": "",
       "genre": "Live Music",
+      "genre_source": "musicbrainz",
       "url": "https://dothebay.com/events/2026/9/12/chai-beats-san-francisco-tickets"
     },
     {
@@ -1583,6 +1707,7 @@
       "artist": "Moms Feelin' Themselves",
       "support": "",
       "genre": "Live Music",
+      "genre_source": "default",
       "url": "https://www.theregencyballroom.com/events/detail?event_id=1435108"
     },
     {
@@ -1595,6 +1720,7 @@
       "artist": "Sex Pistols (Steve Jones, Paul Cook, Glen Matlock) feat. Frank Carter",
       "support": "",
       "genre": "Live Music",
+      "genre_source": "default",
       "url": "https://www.ticketmaster.com/sex-pistols-steve-jones-paul-cook-austin-texas-09-12-2026/event/3A006458E061F58F"
     },
     {
@@ -1607,6 +1733,7 @@
       "artist": "Brandi Carlile",
       "support": "Stephen Wilson Jr.",
       "genre": "Live Music",
+      "genre_source": "musicbrainz",
       "url": "https://www.redrocksonline.com/events/brandi-carlile-1360445/"
     },
     {
@@ -1619,6 +1746,7 @@
       "artist": "Indo Warehouse",
       "support": "",
       "genre": "EDM",
+      "genre_source": "venue",
       "url": "https://wl.eventim.us/event/INDO-WAREHOUSE-DALLAS/695177?afflky=SILO"
     },
     {
@@ -1631,6 +1759,7 @@
       "artist": "Flosstradamus",
       "support": "",
       "genre": "EDM",
+      "genre_source": "venue",
       "url": "https://wl.eventim.us/event/FLOSSTRADAMUS-HOUSTON/700584?afflky=DuctworkHouston"
     },
     {
@@ -1643,6 +1772,7 @@
       "artist": "Natte Visstick",
       "support": "",
       "genre": "EDM",
+      "genre_source": "site",
       "url": "https://wl.seetickets.us/event/Natte-Visstick-at-The-Concourse-Project-The-Hangar/699829?afflky=TheConcourseProject"
     },
     {
@@ -1655,6 +1785,7 @@
       "artist": "LSR/CITY X by Gareth Emery",
       "support": "LSR/CITY, Gareth Emery",
       "genre": "EDM",
+      "genre_source": "site",
       "url": "https://wl.seetickets.us/event/LSRCITY-X-by-Gareth-Emery-at-The-Concourse-Project/690066?afflky=TheConcourseProject"
     },
     {
@@ -1667,6 +1798,7 @@
       "artist": "Brandi Carlile",
       "support": "Stephen Wilson Jr.",
       "genre": "Live Music",
+      "genre_source": "musicbrainz",
       "url": "https://www.redrocksonline.com/events/brandi-carlile-1360450/"
     },
     {
@@ -1679,6 +1811,7 @@
       "artist": "Wooden Wisdom: Elijah Wood & Zach Cowie",
       "support": "",
       "genre": "EDM",
+      "genre_source": "venue",
       "url": "https://wl.eventim.us/event/WOODEN-WISDOM-Elijah-Wood-Zach-Cowie-DALLAS/682118?afflky=DiscoPresents-Ductwork"
     },
     {
@@ -1691,6 +1824,7 @@
       "artist": "NEEDTOBREATHE",
       "support": "Drew & Ellie Holcomb",
       "genre": "Live Music",
+      "genre_source": "default",
       "url": "https://www.redrocksonline.com/events/needtobreathe-1370134/"
     },
     {
@@ -1702,7 +1836,8 @@
       "time": "7:00 PM",
       "artist": "Kelela - new avatar live",
       "support": "",
-      "genre": "Live Music",
+      "genre": "EDM",
+      "genre_source": "musicbrainz",
       "url": "https://www.ticketmaster.com/kelela-new-avatar-live-austin-texas-09-15-2026/event/3A0064BAAF7E96B3"
     },
     {
@@ -1715,6 +1850,7 @@
       "artist": "Acid Bath & Ministry",
       "support": "Twin Tribes, Windhand",
       "genre": "Live Music",
+      "genre_source": "musicbrainz",
       "url": "https://www.redrocksonline.com/events/acid-bath-ministry-1483173/"
     },
     {
@@ -1727,6 +1863,7 @@
       "artist": "Starbomb featuring DJ Commander Meouch",
       "support": "Epic Rap Battles of History",
       "genre": "Live Music",
+      "genre_source": "default",
       "url": "https://www.theregencyballroom.com/events/detail?event_id=1447644"
     },
     {
@@ -1739,6 +1876,7 @@
       "artist": "W.A.S.P. - 1984 TO HEADLESS",
       "support": "",
       "genre": "Live Music",
+      "genre_source": "default",
       "url": "https://www.ticketmaster.com/wasp-1984-to-headless-austin-texas-09-16-2026/event/3A006437C485C483"
     },
     {
@@ -1751,6 +1889,7 @@
       "artist": "Role Model Presents: Chuck On Tour",
       "support": "Samia",
       "genre": "Live Music",
+      "genre_source": "default",
       "url": "https://www.redrocksonline.com/events/role-model-presents-chuck-on-tour-1493696/"
     },
     {
@@ -1763,6 +1902,7 @@
       "artist": "ISOxo pres: Hardcore Diva (Night 1)",
       "support": "pluko, ALEKO",
       "genre": "EDM",
+      "genre_source": "site",
       "url": "https://wl.seetickets.us/event/ISOxo-pres-Hardcore-Diva-Night-1-at-The-Concourse-Project/690917?afflky=TheConcourseProject"
     },
     {
@@ -1774,7 +1914,8 @@
       "time": "7:00 PM",
       "artist": "Slayyyter: WOR$T GIRL IN THE WORLD TOUR",
       "support": "",
-      "genre": "Live Music",
+      "genre": "EDM",
+      "genre_source": "musicbrainz",
       "url": "https://www.ticketmaster.com/slayyyter-wort-girl-in-the-world-austin-texas-09-17-2026/event/3A006472B841B5EA"
     },
     {
@@ -1787,6 +1928,7 @@
       "artist": "Get The Led Out",
       "support": "",
       "genre": "Live Music",
+      "genre_source": "musicbrainz",
       "url": "https://www.redrocksonline.com/events/get-the-led-out-1165966/"
     },
     {
@@ -1799,6 +1941,7 @@
       "artist": "ISOxo pres: Hardcore Diva (Night 2)",
       "support": "pluko, ALEKO",
       "genre": "EDM",
+      "genre_source": "site",
       "url": "https://wl.seetickets.us/event/ISOxo-pres-Hardcore-Diva-Night-2-at-The-Concourse-Project/690919?afflky=TheConcourseProject"
     },
     {
@@ -1811,6 +1954,7 @@
       "artist": "Bassjackers",
       "support": "",
       "genre": "EDM",
+      "genre_source": "venue",
       "url": "https://wl.eventim.us/event/BASSJACKERS-DALLAS/694795?afflky=DiscoPresents-Ductwork"
     },
     {
@@ -1823,6 +1967,7 @@
       "artist": "camoufly",
       "support": "",
       "genre": "EDM",
+      "genre_source": "musicbrainz",
       "url": "https://kingdomnightclub.com/event/camoufly/kingdom-nightclub/austin-texas/"
     },
     {
@@ -1835,6 +1980,7 @@
       "artist": "Citizen",
       "support": "Hotline TNT, Anxious, Cryogeyser",
       "genre": "Live Music",
+      "genre_source": "musicbrainz",
       "url": "https://www.theregencyballroom.com/events/detail?event_id=1423291"
     },
     {
@@ -1847,6 +1993,7 @@
       "artist": "Lily Allen Performs West End Girl",
       "support": "",
       "genre": "Live Music",
+      "genre_source": "default",
       "url": "https://www.redrocksonline.com/events/lily-allen-performs-west-end-girl-1383332/"
     },
     {
@@ -1859,6 +2006,7 @@
       "artist": "Swimming Paul",
       "support": "",
       "genre": "EDM",
+      "genre_source": "venue",
       "url": "https://wl.eventim.us/event/Swimming-Paul-DALLAS/695230?afflky=SILO"
     },
     {
@@ -1871,6 +2019,7 @@
       "artist": "TroyBoi",
       "support": "",
       "genre": "EDM",
+      "genre_source": "site",
       "url": "https://wl.seetickets.us/event/TroyBoi-at-The-Concourse-Project/694386?afflky=TheConcourseProject"
     },
     {
@@ -1882,7 +2031,8 @@
       "time": "9:00 PM",
       "artist": "K Motionz",
       "support": "",
-      "genre": "Live Music",
+      "genre": "EDM",
+      "genre_source": "musicbrainz",
       "url": "https://dothebay.com/events/2026/9/18/k-motionz-tickets"
     },
     {
@@ -1894,7 +2044,8 @@
       "time": "2:00 PM",
       "artist": "Satin Jackets",
       "support": "",
-      "genre": "Live Music",
+      "genre": "EDM",
+      "genre_source": "musicbrainz",
       "url": "https://dothebay.com/events/2026/9/19/satin-jackets-tickets"
     },
     {
@@ -1907,6 +2058,7 @@
       "artist": "Steve Aoki",
       "support": "Timmy Trumpet, Riot Ten, HIGHSOCIETY",
       "genre": "EDM",
+      "genre_source": "musicbrainz",
       "url": "https://billgrahamcivic.com/events/steve-aoki-260220"
     },
     {
@@ -1919,6 +2071,7 @@
       "artist": "ISAIAH RASHAD: Lil Sunny's Awful Road Trip",
       "support": "",
       "genre": "Live Music",
+      "genre_source": "musicbrainz",
       "url": "https://www.ticketmaster.com/isaiah-rashad-lil-sunnys-awful-road-austin-texas-09-19-2026/event/3A0064CCB837D46A"
     },
     {
@@ -1931,6 +2084,7 @@
       "artist": "Atmosphere & FRIENDS: COLORADO",
       "support": "",
       "genre": "Live Music",
+      "genre_source": "musicbrainz",
       "url": "https://www.redrocksonline.com/events/atmosphere-friends-colorado-1438401/"
     },
     {
@@ -1942,7 +2096,8 @@
       "time": "7:30 PM",
       "artist": "Tove Lo",
       "support": "COBRAH, Mallrat",
-      "genre": "Live Music",
+      "genre": "EDM",
+      "genre_source": "musicbrainz",
       "url": "https://underthekbridge.org/events/detail?event_id=1444032"
     },
     {
@@ -1955,6 +2110,7 @@
       "artist": "SnowShape – Fitness Series – Presented by Toyota",
       "support": "",
       "genre": "Live Music",
+      "genre_source": "default",
       "url": "https://www.redrocksonline.com/events/snowshape-fitness-series-presented-by-toyota-1541348/"
     },
     {
@@ -1967,6 +2123,7 @@
       "artist": "TroyBoi",
       "support": "",
       "genre": "EDM",
+      "genre_source": "venue",
       "url": "https://wl.eventim.us/event/TroyBoi-Hear2Move-DALLAS/697913?afflky=SILO"
     },
     {
@@ -1979,6 +2136,7 @@
       "artist": "DJ Diesel",
       "support": "",
       "genre": "EDM",
+      "genre_source": "venue",
       "url": "https://wl.eventim.us/event/DJ-DIESEL-HOUSTON/699112?afflky=DuctworkHouston"
     },
     {
@@ -1991,6 +2149,7 @@
       "artist": "Juelz",
       "support": "",
       "genre": "Live Music",
+      "genre_source": "musicbrainz",
       "url": "https://dothebay.com/events/2026/9/19/juelz-tickets"
     },
     {
@@ -2003,6 +2162,7 @@
       "artist": "DJ Diesel",
       "support": "",
       "genre": "EDM",
+      "genre_source": "venue",
       "url": "https://wl.eventim.us/event/DJ-Diesel-aka-SHAQ-DALLAS/699111?afflky=SILO"
     },
     {
@@ -2015,6 +2175,7 @@
       "artist": "Andrea Bocelli",
       "support": "",
       "genre": "Live Music",
+      "genre_source": "musicbrainz",
       "url": "https://www.redrocksonline.com/events/andrea-bocelli-1304787/"
     },
     {
@@ -2027,6 +2188,7 @@
       "artist": "Andrea Bocelli",
       "support": "",
       "genre": "Live Music",
+      "genre_source": "musicbrainz",
       "url": "https://www.redrocksonline.com/events/andrea-bocelli-1304810/"
     },
     {
@@ -2039,6 +2201,7 @@
       "artist": "Uncle Acid & the Deadbeats",
       "support": "Messa",
       "genre": "Live Music",
+      "genre_source": "musicbrainz",
       "url": "https://www.theregencyballroom.com/events/detail?event_id=1470840"
     },
     {
@@ -2051,6 +2214,7 @@
       "artist": "Jay Park with special guest LNGSHOT",
       "support": "",
       "genre": "Live Music",
+      "genre_source": "musicbrainz",
       "url": "https://billgrahamcivic.com/events/jay-park-260922"
     },
     {
@@ -2062,7 +2226,8 @@
       "time": "8:00 PM",
       "artist": "Foster The People: Good Mourning Sunshine Tour",
       "support": "The Beaches",
-      "genre": "Live Music",
+      "genre": "EDM",
+      "genre_source": "musicbrainz",
       "url": "https://www.redrocksonline.com/events/foster-the-people-good-mourning-sunshine-tour-1425598/"
     },
     {
@@ -2075,6 +2240,7 @@
       "artist": "ISAIAH FALLS PRESENTS: LVRS PARADISE - SIDE B TOUR",
       "support": "",
       "genre": "Live Music",
+      "genre_source": "musicbrainz",
       "url": "https://www.ticketmaster.com/isaiah-falls-presents-lvrs-paradise-side-austin-texas-09-23-2026/event/3A0064CA309ABE15"
     },
     {
@@ -2087,6 +2253,7 @@
       "artist": "Ken Carson",
       "support": "xaviersobased, prettifun, DJ Moon",
       "genre": "Live Music",
+      "genre_source": "musicbrainz",
       "url": "https://billgrahamcivic.com/events/ken-carson-260923"
     },
     {
@@ -2099,6 +2266,7 @@
       "artist": "Bleachers",
       "support": "American Football",
       "genre": "Live Music",
+      "genre_source": "musicbrainz",
       "url": "https://www.redrocksonline.com/events/bleachers-forever-1366035/"
     },
     {
@@ -2111,6 +2279,7 @@
       "artist": "ADÉLA: The Red Bottoms Tour",
       "support": "",
       "genre": "Live Music",
+      "genre_source": "default",
       "url": "https://www.ticketmaster.com/adela-the-red-bottoms-tour-austin-texas-09-24-2026/event/3A0064B69E279B47"
     },
     {
@@ -2123,6 +2292,7 @@
       "artist": "Hasan Minhaj & Ronny Chieng",
       "support": "Hasan Minhaj, Ronny Chieng",
       "genre": "Live Music",
+      "genre_source": "default",
       "url": "https://www.redrocksonline.com/events/hasan-hates-ronny-ronny-hates-hasan-1479450/"
     },
     {
@@ -2135,6 +2305,7 @@
       "artist": "JACK WHITE",
       "support": "",
       "genre": "Live Music",
+      "genre_source": "musicbrainz",
       "url": "https://billgrahamcivic.com/events/jack-white-260924"
     },
     {
@@ -2147,6 +2318,7 @@
       "artist": "Holy Priest",
       "support": "",
       "genre": "EDM",
+      "genre_source": "venue",
       "url": "https://wl.eventim.us/event/Holy-Priest-DALLAS/694030?afflky=SILO"
     },
     {
@@ -2158,7 +2330,8 @@
       "time": "10:00 PM",
       "artist": "Ahmed Spins",
       "support": "",
-      "genre": "Live Music",
+      "genre": "EDM",
+      "genre_source": "venue leaning",
       "url": "https://kingdomnightclub.com/event/ahmed-spins/kingdom-nightclub/austin-texas/"
     },
     {
@@ -2171,6 +2344,7 @@
       "artist": "The Prodigy",
       "support": "Brutalismus 3000, Sextile, Lip Critic",
       "genre": "EDM",
+      "genre_source": "musicbrainz",
       "url": "https://underthekbridge.org/events/detail?event_id=1444155"
     },
     {
@@ -2183,6 +2357,7 @@
       "artist": "The Revivalists",
       "support": "Ax and the Hatchetmen",
       "genre": "Live Music",
+      "genre_source": "default",
       "url": "https://www.redrocksonline.com/events/the-revivalists-1342115/"
     },
     {
@@ -2195,6 +2370,7 @@
       "artist": "Holy Priest",
       "support": "",
       "genre": "EDM",
+      "genre_source": "venue",
       "url": "https://wl.eventim.us/event/Holy-Priest-DALLAS/693204?afflky=SILO"
     },
     {
@@ -2207,6 +2383,7 @@
       "artist": "Zack Fox",
       "support": "",
       "genre": "EDM",
+      "genre_source": "venue",
       "url": "https://wl.eventim.us/event/ZACK-FOX-HOUSTON/701561?afflky=DuctworkHouston"
     },
     {
@@ -2219,6 +2396,7 @@
       "artist": "CBGB Festival",
       "support": "Morrissey, Patti Smith, Interpol, Sex Pistols (Steve Jones, Paul Cook, Glen Matlock) featuring Frank Carter, Bikini Kill, Agnostic Front, Bad Nerves, Buzzcocks, Circle Jerks, Haywire, High Vis, Mannequin Pussy, Militarie Gun, Panic Shack, A Ramones tribute band with Carrie Brownstein & Corin Tucker of Sleater-Kinney + Fred Armisen as The Return of Jackie and Judy, UPCHUCK, Violet Grohl",
       "genre": "Live Music",
+      "genre_source": "default",
       "url": "https://underthekbridge.org/events/detail?event_id=1415116"
     },
     {
@@ -2231,6 +2409,7 @@
       "artist": "The Menzingers: Everything I Ever Saw North American Tour",
       "support": "",
       "genre": "Live Music",
+      "genre_source": "musicbrainz",
       "url": "https://www.ticketmaster.com/the-menzingers-everything-i-ever-saw-austin-texas-09-26-2026/event/3A006494E8D53AAE"
     },
     {
@@ -2243,6 +2422,7 @@
       "artist": "Big Gigantic",
       "support": "The Funk Hunters, Motifv, Drew Birch",
       "genre": "EDM",
+      "genre_source": "musicbrainz",
       "url": "https://www.redrocksonline.com/events/big-gigantic-1354232/"
     },
     {
@@ -2255,6 +2435,7 @@
       "artist": "SnowShape – Fitness Series – Presented by Toyota",
       "support": "",
       "genre": "Live Music",
+      "genre_source": "default",
       "url": "https://www.redrocksonline.com/events/snowshape-fitness-series-presented-by-toyota-1541353/"
     },
     {
@@ -2267,6 +2448,7 @@
       "artist": "Zack Fox",
       "support": "",
       "genre": "EDM",
+      "genre_source": "venue",
       "url": "https://wl.eventim.us/event/Zack-Fox-DALLAS/693394?afflky=SILO"
     },
     {
@@ -2279,6 +2461,7 @@
       "artist": "Judah & the Lion",
       "support": "",
       "genre": "Live Music",
+      "genre_source": "default",
       "url": "https://www.ticketmaster.com/judah-the-lion-austin-texas-09-27-2026/event/3A0064CA993CA0F2"
     },
     {
@@ -2291,6 +2474,7 @@
       "artist": "Inquisitive",
       "support": "",
       "genre": "EDM",
+      "genre_source": "venue",
       "url": "https://wl.eventim.us/event/Inquisitive-DALLAS/700366?afflky=DiscoPresents-Ductwork"
     },
     {
@@ -2303,6 +2487,7 @@
       "artist": "JUNGLE",
       "support": "RIO KOSTA",
       "genre": "Live Music",
+      "genre_source": "default",
       "url": "https://www.redrocksonline.com/events/jungle-1371047/"
     },
     {
@@ -2315,6 +2500,7 @@
       "artist": "Bravo The Bagchaser & Peysoh",
       "support": "Sounds by DJ Trill",
       "genre": "Live Music",
+      "genre_source": "default",
       "url": "https://www.theregencyballroom.com/events/detail?event_id=1520023"
     },
     {
@@ -2327,6 +2513,7 @@
       "artist": "JUNGLE",
       "support": "RIO KOSTA",
       "genre": "Live Music",
+      "genre_source": "default",
       "url": "https://www.redrocksonline.com/events/jungle-1371056/"
     },
     {
@@ -2339,6 +2526,7 @@
       "artist": "Coheed and Cambria: Neverender Rocks",
       "support": "Turnover, The Home Team",
       "genre": "Live Music",
+      "genre_source": "musicbrainz",
       "url": "https://www.redrocksonline.com/events/coheed-and-cambria-neverender-rocks-1408794/"
     },
     {
@@ -2351,6 +2539,7 @@
       "artist": "CupcakKe",
       "support": "",
       "genre": "Live Music",
+      "genre_source": "musicbrainz",
       "url": "https://www.theregencyballroom.com/events/detail?event_id=1541578"
     },
     {
@@ -2363,6 +2552,7 @@
       "artist": "Tinlicker North America 2026",
       "support": "",
       "genre": "Live Music",
+      "genre_source": "default",
       "url": "https://www.ticketmaster.com/tinlicker-north-america-2026-austin-texas-09-30-2026/event/3A006479ED454C87"
     },
     {
@@ -2375,6 +2565,7 @@
       "artist": "The Backseat Lovers",
       "support": "Friko",
       "genre": "Live Music",
+      "genre_source": "musicbrainz",
       "url": "https://www.redrocksonline.com/events/the-backseat-lovers-1491841/"
     },
     {
@@ -2387,6 +2578,7 @@
       "artist": "Chat Pile",
       "support": "Soul Glo, Virga",
       "genre": "Live Music",
+      "genre_source": "musicbrainz",
       "url": "https://www.theregencyballroom.com/events/detail?event_id=1477938"
     },
     {
@@ -2399,6 +2591,7 @@
       "artist": "Beck: Ride Lonesome Tour",
       "support": "Ioanna Gika",
       "genre": "Live Music",
+      "genre_source": "default",
       "url": "https://www.redrocksonline.com/events/beck-ride-lonesome-tour-1407922/"
     },
     {
@@ -2410,7 +2603,8 @@
       "time": "8:00 PM",
       "artist": "POiSON GiRL FRiEND",
       "support": "",
-      "genre": "Live Music",
+      "genre": "EDM",
+      "genre_source": "musicbrainz",
       "url": "https://www.theregencyballroom.com/events/detail?event_id=1497640"
     },
     {
@@ -2423,6 +2617,7 @@
       "artist": "Hybrid Minds",
       "support": "",
       "genre": "EDM",
+      "genre_source": "venue",
       "url": "https://wl.eventim.us/event/Hybrid-Minds-DALLAS/699781?afflky=DiscoPresents-Ductwork"
     },
     {
@@ -2435,6 +2630,7 @@
       "artist": "Levity presents LEVI-ROCKS: THE VOLCANO",
       "support": "",
       "genre": "EDM",
+      "genre_source": "keyword",
       "url": "https://www.redrocksonline.com/events/levity-1351306/"
     },
     {
@@ -2447,6 +2643,7 @@
       "artist": "Madeon",
       "support": "",
       "genre": "EDM",
+      "genre_source": "musicbrainz",
       "url": "https://billgrahamcivic.com/events/madeon-261002"
     },
     {
@@ -2459,6 +2656,7 @@
       "artist": "Hamdi FC vs. San Francisco",
       "support": "Flava D b2b Cesco",
       "genre": "EDM",
+      "genre_source": "keyword",
       "url": "https://www.theregencyballroom.com/events/detail?event_id=1527433"
     },
     {
@@ -2471,6 +2669,7 @@
       "artist": "Eli Brown",
       "support": "",
       "genre": "EDM",
+      "genre_source": "venue",
       "url": "https://wl.eventim.us/event/ELI-BROWN-DALLAS/696655?afflky=SILO"
     },
     {
@@ -2483,6 +2682,7 @@
       "artist": "Gorgon City",
       "support": "",
       "genre": "EDM",
+      "genre_source": "venue",
       "url": "https://wl.eventim.us/event/GORGON-CITY-HOUSTON/701070?afflky=DuctworkHouston&EVENTPASS=CONTACT"
     },
     {
@@ -2494,7 +2694,8 @@
       "time": "9:00 PM",
       "artist": "Taiwan Golden Melody Night",
       "support": "",
-      "genre": "Live Music",
+      "genre": "EDM",
+      "genre_source": "venue leaning",
       "url": "https://dothebay.com/events/2026/10/2/taiwan-golden-melody-night-tickets"
     },
     {
@@ -2519,6 +2720,7 @@
       "artist": "Canceled: REZZ ROCKS VIII",
       "support": "Frost Children, Kavari, Izzy Camina, Sakr",
       "genre": "EDM",
+      "genre_source": "keyword",
       "url": "https://www.redrocksonline.com/events/rezz-rocks-viii-1303156/"
     },
     {
@@ -2530,7 +2732,8 @@
       "time": "7:30 PM",
       "artist": "Deorro",
       "support": "",
-      "genre": "Live Music",
+      "genre": "EDM",
+      "genre_source": "same artist elsewhere",
       "url": "https://www.redrocksonline.com/events/deorro-1514786/"
     },
     {
@@ -2543,6 +2746,7 @@
       "artist": "SnowShape – Fitness Series – Presented by Toyota",
       "support": "",
       "genre": "Live Music",
+      "genre_source": "default",
       "url": "https://www.redrocksonline.com/events/snowshape-fitness-series-presented-by-toyota-1541354/"
     },
     {
@@ -2555,6 +2759,7 @@
       "artist": "Hamdi FC vs. San Francisco",
       "support": "Conducta, Sam Binga",
       "genre": "Live Music",
+      "genre_source": "default",
       "url": "https://www.theregencyballroom.com/events/detail?event_id=1528354"
     },
     {
@@ -2567,6 +2772,7 @@
       "artist": "Sasha & John Digweed",
       "support": "",
       "genre": "EDM",
+      "genre_source": "venue",
       "url": "https://wl.eventim.us/event/Sasha-and-John-Digweed-SILO-2-Year-Anniversary-DALLAS/692671?afflky=SILO"
     },
     {
@@ -2579,6 +2785,7 @@
       "artist": "Eli Brown",
       "support": "",
       "genre": "EDM",
+      "genre_source": "venue",
       "url": "https://wl.eventim.us/event/ELI-BROWN-HOUSTON/697000?afflky=DuctworkHouston&EVENTPASS=ELIBROWN"
     },
     {
@@ -2590,7 +2797,8 @@
       "time": "9:00 PM",
       "artist": "Elephante",
       "support": "",
-      "genre": "Live Music",
+      "genre": "EDM",
+      "genre_source": "venue leaning",
       "url": "https://dothebay.com/events/2026/10/3/elephante-tickets"
     },
     {
@@ -2603,6 +2811,7 @@
       "artist": "for KING + COUNTRY",
       "support": "",
       "genre": "Live Music",
+      "genre_source": "default",
       "url": "https://www.redrocksonline.com/events/for-king-country-1451922/"
     },
     {
@@ -2615,6 +2824,7 @@
       "artist": "Big Thief",
       "support": "Iris DeMent",
       "genre": "Live Music",
+      "genre_source": "musicbrainz",
       "url": "https://www.redrocksonline.com/events/big-thief-1364342/"
     },
     {
@@ -2627,6 +2837,7 @@
       "artist": "The Neighbourhood",
       "support": "After, Noise Dept.",
       "genre": "Live Music",
+      "genre_source": "default",
       "url": "https://billgrahamcivic.com/events/the-neighbourhood-261007"
     },
     {
@@ -2639,6 +2850,7 @@
       "artist": "Ella Langley",
       "support": "Kameron Marlowe, Gabriella Rose",
       "genre": "Live Music",
+      "genre_source": "musicbrainz",
       "url": "https://www.redrocksonline.com/events/ella-langley-1496217/"
     },
     {
@@ -2651,6 +2863,7 @@
       "artist": "Tape B Presents: Hallow Rocks",
       "support": "PEEKABOO, Flava D, XaeboR, Jiqui",
       "genre": "EDM",
+      "genre_source": "musicbrainz",
       "url": "https://www.redrocksonline.com/events/tape-b-presents-hallow-rocks-1315398/"
     },
     {
@@ -2663,6 +2876,7 @@
       "artist": "HVDES",
       "support": "",
       "genre": "EDM",
+      "genre_source": "venue",
       "url": "https://wl.eventim.us/event/HVDES-DALLAS/701103?afflky=DiscoPresents-Ductwork"
     },
     {
@@ -2674,7 +2888,8 @@
       "time": "10:00 PM",
       "artist": "Whipped Cream",
       "support": "",
-      "genre": "Live Music",
+      "genre": "EDM",
+      "genre_source": "musicbrainz",
       "url": "https://dothebay.com/events/2026/10/9/whipped-cream-tickets"
     },
     {
@@ -2711,6 +2926,7 @@
       "artist": "Tape B Presents: Hallow Rocks",
       "support": "Jykl & Hyde, Gentlemens Club, Oliverse, Cozy Kev",
       "genre": "EDM",
+      "genre_source": "musicbrainz",
       "url": "https://www.redrocksonline.com/events/tape-b-presents-hallow-rocks-1315400/"
     },
     {
@@ -2723,6 +2939,7 @@
       "artist": "Dead Kennedys",
       "support": "Flipper",
       "genre": "Live Music",
+      "genre_source": "musicbrainz",
       "url": "https://www.theregencyballroom.com/events/detail?event_id=1542188"
     },
     {
@@ -2734,7 +2951,8 @@
       "time": "8:00 PM",
       "artist": "HOLY PRIEST",
       "support": "",
-      "genre": "Live Music",
+      "genre": "EDM",
+      "genre_source": "same artist elsewhere",
       "url": "https://billgrahamcivic.com/events/holy-priest-261009"
     },
     {
@@ -2747,6 +2965,7 @@
       "artist": "Steve Angello",
       "support": "",
       "genre": "EDM",
+      "genre_source": "venue",
       "url": "https://wl.eventim.us/event/Steve-Angello-DALLAS/701338?afflky=SILO"
     },
     {
@@ -2771,6 +2990,7 @@
       "artist": "Sara Landry",
       "support": "Pendulum, Supergloss, Lorely Mur",
       "genre": "EDM",
+      "genre_source": "keyword",
       "url": "https://www.redrocksonline.com/events/sara-landry-1430978/"
     },
     {
@@ -2783,6 +3003,7 @@
       "artist": "Bonnie Raitt",
       "support": "Jon Cleary & The Absolute Monster Gentlemen",
       "genre": "Live Music",
+      "genre_source": "musicbrainz",
       "url": "https://billgrahamcivic.com/events/bonnie-raitt-261010"
     },
     {
@@ -2795,6 +3016,7 @@
       "artist": "SnowShape – Fitness Series – Presented by Toyota",
       "support": "",
       "genre": "Live Music",
+      "genre_source": "default",
       "url": "https://www.redrocksonline.com/events/snowshape-fitness-series-presented-by-toyota-1541355/"
     },
     {
@@ -2807,6 +3029,7 @@
       "artist": "Cement Gardens",
       "support": "Pouya, Paleface Swiss, Freddie Dredd, Ramirez, PeelingFlesh, Kxllswxtch, Fat Nick, Druidess",
       "genre": "Live Music",
+      "genre_source": "default",
       "url": "https://www.redrocksonline.com/events/cement-gardens-1438515/"
     },
     {
@@ -2819,6 +3042,7 @@
       "artist": "Run the Rocks 2026",
       "support": "",
       "genre": "Live Music",
+      "genre_source": "default",
       "url": "https://www.redrocksonline.com/events/run-the-rocks-2026/"
     },
     {
@@ -2831,6 +3055,7 @@
       "artist": "BIJOU",
       "support": "",
       "genre": "EDM",
+      "genre_source": "venue",
       "url": "https://wl.eventim.us/event/BIJOU-DALLAS/696657?afflky=DiscoPresents-Ductwork"
     },
     {
@@ -2843,6 +3068,7 @@
       "artist": "L7: The Last Hurrah Tour 2026",
       "support": "",
       "genre": "Live Music",
+      "genre_source": "musicbrainz",
       "url": "https://www.ticketmaster.com/l7-the-last-hurrah-tour-2026-austin-texas-10-12-2026/event/3A0064A1BAC8373A"
     },
     {
@@ -2855,6 +3081,7 @@
       "artist": "Rise Against",
       "support": "Alkaline Trio, Teen Mortgage",
       "genre": "Live Music",
+      "genre_source": "default",
       "url": "https://www.redrocksonline.com/events/rise-against-ricochet-2026-1366745/"
     },
     {
@@ -2867,6 +3094,7 @@
       "artist": "Quadeca",
       "support": "",
       "genre": "Live Music",
+      "genre_source": "default",
       "url": "https://www.ticketmaster.com/quadeca-austin-texas-10-13-2026/event/3A0064EEB0058ECA"
     },
     {
@@ -2879,6 +3107,7 @@
       "artist": "Shaboozey",
       "support": "Noah Cyrus and Kashus Culpepper",
       "genre": "Live Music",
+      "genre_source": "musicbrainz",
       "url": "https://www.redrocksonline.com/events/shaboozey-1423295/"
     },
     {
@@ -2891,6 +3120,7 @@
       "artist": "MICO",
       "support": "Will Linley",
       "genre": "Live Music",
+      "genre_source": "default",
       "url": "https://www.theregencyballroom.com/events/detail?event_id=1451142"
     },
     {
@@ -2903,6 +3133,7 @@
       "artist": "Ravyn Lenae Presents: Blue Island",
       "support": "",
       "genre": "Live Music",
+      "genre_source": "musicbrainz",
       "url": "https://www.ticketmaster.com/ravyn-lenae-presents-blue-island-austin-texas-10-14-2026/event/3A0064C9AC35BF7E"
     },
     {
@@ -2915,6 +3146,7 @@
       "artist": "Taking Back Sunday – Louder Now Live",
       "support": "Thrice, Saves The Day",
       "genre": "Live Music",
+      "genre_source": "musicbrainz",
       "url": "https://www.redrocksonline.com/events/taking-back-sunday-louder-now-live-1413579/"
     },
     {
@@ -2927,6 +3159,7 @@
       "artist": "DYING FETUS & SANGUISUGABOGG",
       "support": "",
       "genre": "Live Music",
+      "genre_source": "musicbrainz",
       "url": "https://www.ticketmaster.com/dying-fetus-sanguisugabogg-austin-texas-10-15-2026/event/3A006491A0EDBA8B"
     },
     {
@@ -2939,6 +3172,7 @@
       "artist": "Charles Wesley Godwin",
       "support": "Michael Marcagi, Noeline Hofmann",
       "genre": "Live Music",
+      "genre_source": "musicbrainz",
       "url": "https://www.redrocksonline.com/events/charles-wesley-godwin-1474943/"
     },
     {
@@ -2951,6 +3185,7 @@
       "artist": "RAWAYANA",
       "support": "",
       "genre": "Live Music",
+      "genre_source": "default",
       "url": "https://billgrahamcivic.com/events/rawayana-261015"
     },
     {
@@ -2963,6 +3198,7 @@
       "artist": "The Blasting Company",
       "support": "",
       "genre": "Live Music",
+      "genre_source": "default",
       "url": "https://www.theregencyballroom.com/events/detail?event_id=1496238"
     },
     {
@@ -2975,6 +3211,7 @@
       "artist": "Tokyo Machine",
       "support": "",
       "genre": "EDM",
+      "genre_source": "venue",
       "url": "https://wl.eventim.us/event/Tokyo-Machine-DALLAS/700425?afflky=DiscoPresents-Ductwork"
     },
     {
@@ -2986,7 +3223,8 @@
       "time": "10:00 PM",
       "artist": "Twin Diplomacy",
       "support": "",
-      "genre": "Live Music",
+      "genre": "EDM",
+      "genre_source": "venue leaning",
       "url": "https://kingdomnightclub.com/event/twin-diplomacy/kingdom-nightclub/austin-texas/"
     },
     {
@@ -2999,6 +3237,7 @@
       "artist": "Sammy Virji",
       "support": "Confidence Man (DJ Set), Oppidan, Sam Alfred",
       "genre": "EDM",
+      "genre_source": "musicbrainz",
       "url": "https://www.redrocksonline.com/events/sammy-virji-1330899/"
     },
     {
@@ -3011,6 +3250,7 @@
       "artist": "Sara Bareilles",
       "support": "",
       "genre": "Live Music",
+      "genre_source": "default",
       "url": "https://billgrahamcivic.com/events/sara-bareilles-261016"
     },
     {
@@ -3035,6 +3275,7 @@
       "artist": "An Evening With moe.",
       "support": "",
       "genre": "Live Music",
+      "genre_source": "default",
       "url": "https://www.theregencyballroom.com/events/detail?event_id=1468095"
     },
     {
@@ -3047,6 +3288,7 @@
       "artist": "Bob Moses",
       "support": "",
       "genre": "EDM",
+      "genre_source": "venue",
       "url": "https://wl.eventim.us/event/Bob-Moses-club-set-DALLAS/700129?afflky=SILO"
     },
     {
@@ -3059,6 +3301,7 @@
       "artist": "SABAI x HOANG",
       "support": "",
       "genre": "EDM",
+      "genre_source": "venue",
       "url": "https://wl.eventim.us/event/SABAI-x-HOANG-HOUSTON/699331?afflky=DuctworkHouston&eventpass=CHANCE"
     },
     {
@@ -3071,6 +3314,7 @@
       "artist": "GRYFFIN",
       "support": "Łaszewo, AR/CO",
       "genre": "EDM",
+      "genre_source": "musicbrainz",
       "url": "https://underthekbridge.org/events/detail?event_id=1364819"
     },
     {
@@ -3083,6 +3327,7 @@
       "artist": "Chelsea Wolfe: THE DARK World Tour",
       "support": "",
       "genre": "Live Music",
+      "genre_source": "musicbrainz",
       "url": "https://www.ticketmaster.com/chelsea-wolfe-the-dark-world-tour-austin-texas-10-17-2026/event/3A0064CFCC37D954"
     },
     {
@@ -3095,6 +3340,7 @@
       "artist": "Sara Bareilles",
       "support": "",
       "genre": "Live Music",
+      "genre_source": "default",
       "url": "https://billgrahamcivic.com/events/sara-bareilles-261017"
     },
     {
@@ -3107,6 +3353,7 @@
       "artist": "Dermot Kennedy: The Weight of the Woods Tour",
       "support": "Jonah Kagen",
       "genre": "Live Music",
+      "genre_source": "default",
       "url": "https://www.redrocksonline.com/events/dermot-kennedy-the-weight-of-the-woods-tour-1386297/"
     },
     {
@@ -3119,6 +3366,7 @@
       "artist": "NOTD",
       "support": "",
       "genre": "Live Music",
+      "genre_source": "default",
       "url": "https://www.theregencyballroom.com/events/detail?event_id=1527108"
     },
     {
@@ -3131,6 +3379,7 @@
       "artist": "Odd Mob",
       "support": "",
       "genre": "EDM",
+      "genre_source": "venue",
       "url": "https://wl.eventim.us/event/ODD-MOB-DALLAS/694826?afflky=SILO"
     },
     {
@@ -3143,6 +3392,7 @@
       "artist": "Matt Rife – Stay Golden World Tour",
       "support": "",
       "genre": "Live Music",
+      "genre_source": "default",
       "url": "https://www.redrocksonline.com/events/matt-rife-stay-golden-world-tour-1216495/"
     },
     {
@@ -3155,6 +3405,7 @@
       "artist": "She Wants Revenge",
       "support": "",
       "genre": "Live Music",
+      "genre_source": "musicbrainz",
       "url": "https://www.theregencyballroom.com/events/detail?event_id=1442682"
     },
     {
@@ -3167,6 +3418,7 @@
       "artist": "Zac Brown Band",
       "support": "Grace Potter",
       "genre": "Live Music",
+      "genre_source": "musicbrainz",
       "url": "https://www.redrocksonline.com/events/zac-brown-band-1307876/"
     },
     {
@@ -3179,6 +3431,7 @@
       "artist": "Zac Brown Band",
       "support": "Grace Potter",
       "genre": "Live Music",
+      "genre_source": "musicbrainz",
       "url": "https://www.redrocksonline.com/events/zac-brown-band-1307879/"
     },
     {
@@ -3191,6 +3444,7 @@
       "artist": "ARTMS",
       "support": "",
       "genre": "Live Music",
+      "genre_source": "default",
       "url": "https://www.theregencyballroom.com/events/detail?event_id=1516673"
     },
     {
@@ -3203,6 +3457,7 @@
       "artist": "Marilyn Manson - 2 Day Ticket (10/21/26 + 10/22/26)",
       "support": "",
       "genre": "Live Music",
+      "genre_source": "musicbrainz",
       "url": "https://www.ticketmaster.com/marilyn-manson-2-day-ticket-102126-austin-texas-10-21-2026/event/3A0064ED8E754D7B"
     },
     {
@@ -3215,6 +3470,7 @@
       "artist": "Marilyn Manson",
       "support": "",
       "genre": "Live Music",
+      "genre_source": "musicbrainz",
       "url": "https://www.ticketmaster.com/marilyn-manson-austin-texas-10-21-2026/event/3A0064ED8C38495C"
     },
     {
@@ -3227,6 +3483,7 @@
       "artist": "MUNA",
       "support": "hemlocke springs",
       "genre": "Live Music",
+      "genre_source": "musicbrainz",
       "url": "https://www.redrocksonline.com/events/muna-1434014/"
     },
     {
@@ -3239,6 +3496,7 @@
       "artist": "Macklemore",
       "support": "",
       "genre": "Live Music",
+      "genre_source": "musicbrainz",
       "url": "https://www.redrocksonline.com/events/macklemore-1336380/"
     },
     {
@@ -3251,6 +3509,7 @@
       "artist": "The Aquabats!",
       "support": "Mariachi El Bronx, Mrs. Magician",
       "genre": "Live Music",
+      "genre_source": "musicbrainz",
       "url": "https://www.theregencyballroom.com/events/detail?event_id=1513757"
     },
     {
@@ -3263,6 +3522,7 @@
       "artist": "MONSTA X",
       "support": "",
       "genre": "Live Music",
+      "genre_source": "default",
       "url": "https://billgrahamcivic.com/events/monsta-x-261022"
     },
     {
@@ -3275,6 +3535,7 @@
       "artist": "Marilyn Manson",
       "support": "",
       "genre": "Live Music",
+      "genre_source": "musicbrainz",
       "url": "https://www.ticketmaster.com/marilyn-manson-austin-texas-10-22-2026/event/3A0064ED8C8749CB"
     },
     {
@@ -3287,6 +3548,7 @@
       "artist": "Gorilla T",
       "support": "",
       "genre": "EDM",
+      "genre_source": "venue",
       "url": "https://wl.eventim.us/event/GorillaT-DALLAS/700117?afflky=DiscoPresents-Ductwork"
     },
     {
@@ -3299,6 +3561,7 @@
       "artist": "Mersiv (Two Sets)",
       "support": "Know Good, Jaenga, Phrva, Dr. Ushuu, Vyhara",
       "genre": "EDM",
+      "genre_source": "keyword",
       "url": "https://www.redrocksonline.com/events/mersiv-1247239/"
     },
     {
@@ -3311,6 +3574,7 @@
       "artist": "GLAIVE - GOD SAVE THE THREE TOUR",
       "support": "",
       "genre": "Live Music",
+      "genre_source": "default",
       "url": "https://www.ticketmaster.com/glaive-god-save-the-three-tour-austin-texas-10-23-2026/event/3A0064A6A1E3C66F"
     },
     {
@@ -3323,6 +3587,7 @@
       "artist": "Kettama",
       "support": "",
       "genre": "EDM",
+      "genre_source": "venue",
       "url": "https://wl.eventim.us/event/KETTAMA-DALLAS/691502?afflky=SILO"
     },
     {
@@ -3335,6 +3600,7 @@
       "artist": "Jade Cicada & Mickman",
       "support": "Resonant Language, Schmoop, Petals",
       "genre": "EDM",
+      "genre_source": "musicbrainz",
       "url": "https://www.redrocksonline.com/events/jade-cicada-mickman-1371058/"
     },
     {
@@ -3347,6 +3613,7 @@
       "artist": "Culture Wars",
       "support": "",
       "genre": "Live Music",
+      "genre_source": "default",
       "url": "https://www.ticketmaster.com/culture-wars-austin-texas-10-24-2026/event/3A0064829B18E66A"
     },
     {
@@ -3359,6 +3626,7 @@
       "artist": "Dermot Kennedy",
       "support": "Jonah Kagen",
       "genre": "Live Music",
+      "genre_source": "default",
       "url": "https://billgrahamcivic.com/events/dermot-kennedy-261024"
     },
     {
@@ -3382,7 +3650,8 @@
       "time": "8:00 PM",
       "artist": "Jai Wolf",
       "support": "Koastle",
-      "genre": "Live Music",
+      "genre": "EDM",
+      "genre_source": "musicbrainz",
       "url": "https://www.theregencyballroom.com/events/detail?event_id=1496243"
     },
     {
@@ -3395,6 +3664,7 @@
       "artist": "San Holo",
       "support": "",
       "genre": "EDM",
+      "genre_source": "venue",
       "url": "https://wl.eventim.us/event/San-Holo-DALLAS/694651?afflky=SILO"
     },
     {
@@ -3407,6 +3677,7 @@
       "artist": "Odd Mob",
       "support": "",
       "genre": "EDM",
+      "genre_source": "venue",
       "url": "https://wl.eventim.us/event/ODDMOB-HOUSTON/701002?afflky=DuctworkHouston"
     },
     {
@@ -3419,6 +3690,7 @@
       "artist": "Mom Jeans",
       "support": "",
       "genre": "Live Music",
+      "genre_source": "musicbrainz",
       "url": "https://www.ticketmaster.com/mom-jeans-austin-texas-10-25-2026/event/3A0064A58E8B7BFE"
     },
     {
@@ -3431,6 +3703,7 @@
       "artist": "Stardew Valley: Symphony of Seasons",
       "support": "",
       "genre": "Live Music",
+      "genre_source": "default",
       "url": "https://www.redrocksonline.com/events/stardew-valley-symphony-of-seasons-1341018/"
     },
     {
@@ -3443,6 +3716,7 @@
       "artist": "Evanescence",
       "support": "K. Flay",
       "genre": "Live Music",
+      "genre_source": "musicbrainz",
       "url": "https://www.redrocksonline.com/events/evanescence-1240978/"
     },
     {
@@ -3455,6 +3729,7 @@
       "artist": "Tucker Wetmore",
       "support": "",
       "genre": "Live Music",
+      "genre_source": "musicbrainz",
       "url": "https://www.redrocksonline.com/events/tucker-wetmore-1331803/"
     },
     {
@@ -3467,6 +3742,7 @@
       "artist": "Koe Wetzel",
       "support": "Wade Bowen, Kolby Cooper",
       "genre": "Live Music",
+      "genre_source": "musicbrainz",
       "url": "https://www.redrocksonline.com/events/koe-wetzel-1345452/"
     },
     {
@@ -3479,6 +3755,7 @@
       "artist": "Shyne",
       "support": "Barrington Levy, Lil' Cease",
       "genre": "Live Music",
+      "genre_source": "musicbrainz",
       "url": "https://www.theregencyballroom.com/events/detail?event_id=1528366"
     },
     {
@@ -3490,7 +3767,8 @@
       "time": "6:00 PM",
       "artist": "Cypress Hill & Method Man & Redman: Haunted Rocks",
       "support": "",
-      "genre": "Live Music",
+      "genre": "EDM",
+      "genre_source": "musicbrainz",
       "url": "https://www.redrocksonline.com/events/cypress-hill-method-man-redman-haunted-rocks-1286404/"
     },
     {
@@ -3503,6 +3781,7 @@
       "artist": "Massano",
       "support": "",
       "genre": "EDM",
+      "genre_source": "venue",
       "url": "https://wl.eventim.us/event/Massano-DALLAS/698170?afflky=DiscoPresents-Ductwork"
     },
     {
@@ -3514,7 +3793,8 @@
       "time": "10:00 PM",
       "artist": "Dennis Ferrer",
       "support": "",
-      "genre": "Live Music",
+      "genre": "EDM",
+      "genre_source": "venue leaning",
       "url": "https://kingdomnightclub.com/event/dennis-ferrer/kingdom-nightclub/austin-texas/"
     },
     {
@@ -3527,6 +3807,7 @@
       "artist": "Cholos vs. Vampires",
       "support": "",
       "genre": "Live Music",
+      "genre_source": "default",
       "url": "https://www.theregencyballroom.com/events/detail?event_id=1528369"
     },
     {
@@ -3539,6 +3820,7 @@
       "artist": "deadmau5",
       "support": "",
       "genre": "EDM",
+      "genre_source": "musicbrainz",
       "url": "https://www.redrocksonline.com/events/deadmau5-1407690/"
     },
     {
@@ -3551,6 +3833,7 @@
       "artist": "Adriatique",
       "support": "",
       "genre": "EDM",
+      "genre_source": "venue",
       "url": "https://wl.eventim.us/event/Adriatique-DALLAS/695269?afflky=SILO"
     },
     {
@@ -3575,6 +3858,7 @@
       "artist": "deadmau5",
       "support": "",
       "genre": "EDM",
+      "genre_source": "musicbrainz",
       "url": "https://www.redrocksonline.com/events/deadmau5-1407699/"
     },
     {
@@ -3587,6 +3871,7 @@
       "artist": "Medium Build",
       "support": "The Scratch",
       "genre": "Live Music",
+      "genre_source": "default",
       "url": "https://www.theregencyballroom.com/events/detail?event_id=1494104"
     },
     {
@@ -3599,6 +3884,7 @@
       "artist": "Gorgon City",
       "support": "",
       "genre": "EDM",
+      "genre_source": "venue",
       "url": "https://wl.eventim.us/event/Gorgon-City-DALLAS/695778?afflky=SILO"
     },
     {
@@ -3611,6 +3897,7 @@
       "artist": "Hazlett",
       "support": "",
       "genre": "Live Music",
+      "genre_source": "musicbrainz",
       "url": "https://www.ticketmaster.com/hazlett-austin-texas-11-01-2026/event/3A0064CAED7A4FB8"
     },
     {
@@ -3623,6 +3910,7 @@
       "artist": "PAN-POT",
       "support": "",
       "genre": "EDM",
+      "genre_source": "venue",
       "url": "https://wl.eventim.us/event/Pan-Pot-DALLAS/697462?afflky=DiscoPresents-Ductwork"
     },
     {
@@ -3635,6 +3923,7 @@
       "artist": "The Musical Box",
       "support": "",
       "genre": "Live Music",
+      "genre_source": "default",
       "url": "https://www.theregencyballroom.com/events/detail?event_id=1434571"
     },
     {
@@ -3647,6 +3936,7 @@
       "artist": "Yandel – SINFÓNICO",
       "support": "",
       "genre": "Live Music",
+      "genre_source": "musicbrainz",
       "url": "https://www.redrocksonline.com/events/yandel-sinfonico-1434572/"
     },
     {
@@ -3659,6 +3949,7 @@
       "artist": "Fuerza Regida: – This Is Our Dream Tour 2026",
       "support": "",
       "genre": "Live Music",
+      "genre_source": "default",
       "url": "https://www.redrocksonline.com/events/fuerza-regida-this-is-our-dream-tour-2026-1551452/"
     },
     {
@@ -3671,6 +3962,7 @@
       "artist": "Knox",
       "support": "",
       "genre": "Live Music",
+      "genre_source": "musicbrainz",
       "url": "https://www.ticketmaster.com/knox-austin-texas-11-03-2026/event/3A0064E6DE9ABC7D"
     },
     {
@@ -3683,6 +3975,7 @@
       "artist": "Slow Pulp",
       "support": "",
       "genre": "Live Music",
+      "genre_source": "musicbrainz",
       "url": "https://www.ticketmaster.com/slow-pulp-austin-texas-11-04-2026/event/3A0064A58FC6812F"
     },
     {
@@ -3695,6 +3988,7 @@
       "artist": "Joshua Slone",
       "support": "Jake Minch",
       "genre": "Live Music",
+      "genre_source": "default",
       "url": "https://www.redrocksonline.com/events/joshua-slone-1392035/"
     },
     {
@@ -3706,7 +4000,8 @@
       "time": "7:00 PM",
       "artist": "Bonobo: Distance in Static Live North American Tour",
       "support": "",
-      "genre": "Live Music",
+      "genre": "EDM",
+      "genre_source": "musicbrainz",
       "url": "https://www.ticketmaster.com/bonobo-distance-in-static-live-north-austin-texas-11-05-2026/event/3A0064C1E068D3A4"
     },
     {
@@ -3719,6 +4014,7 @@
       "artist": "The Black Angels",
       "support": "GHOSTWOMAN",
       "genre": "Live Music",
+      "genre_source": "musicbrainz",
       "url": "https://www.theregencyballroom.com/events/detail?event_id=1408471"
     },
     {
@@ -3731,6 +4027,7 @@
       "artist": "TWO NIGHTS WITH THEY MIGHT BE GIANTS - 2 Day Ticket(11/6/26 + 11/7/26)",
       "support": "",
       "genre": "Live Music",
+      "genre_source": "default",
       "url": "https://www.ticketmaster.com/two-nights-with-they-might-be-austin-texas-11-06-2026/event/3A0064E7CDEA9A03"
     },
     {
@@ -3743,6 +4040,7 @@
       "artist": "Dabin",
       "support": "",
       "genre": "EDM",
+      "genre_source": "musicbrainz",
       "url": "https://www.redrocksonline.com/events/dabin-1479059/"
     },
     {
@@ -3755,6 +4053,7 @@
       "artist": "TWO NIGHTS WITH THEY MIGHT BE GIANTS",
       "support": "",
       "genre": "Live Music",
+      "genre_source": "default",
       "url": "https://www.ticketmaster.com/two-nights-with-they-might-be-austin-texas-11-06-2026/event/3A006487D8DA2D98"
     },
     {
@@ -3767,6 +4066,7 @@
       "artist": "ATLiens",
       "support": "",
       "genre": "EDM",
+      "genre_source": "same artist elsewhere",
       "url": "https://www.redrocksonline.com/events/atliens-1467439/"
     },
     {
@@ -3779,6 +4079,7 @@
       "artist": "Jessica Audiffred",
       "support": "",
       "genre": "EDM",
+      "genre_source": "venue",
       "url": "https://wl.eventim.us/event/Jessica-Audiffred-DALLAS/695931?afflky=SILO"
     },
     {
@@ -3791,6 +4092,7 @@
       "artist": "Face Vocal Band: 25th Anniversary Concert",
       "support": "",
       "genre": "Live Music",
+      "genre_source": "default",
       "url": "https://www.redrocksonline.com/events/face-vocal-band-25th-anniversary-concert-1400703/"
     },
     {
@@ -3803,6 +4105,7 @@
       "artist": "Yuki Chiba",
       "support": "",
       "genre": "Live Music",
+      "genre_source": "default",
       "url": "https://www.theregencyballroom.com/events/detail?event_id=1528365"
     },
     {
@@ -3815,6 +4118,7 @@
       "artist": "Brand New",
       "support": "",
       "genre": "Live Music",
+      "genre_source": "musicbrainz",
       "url": "https://billgrahamcivic.com/events/brand-new-261111"
     },
     {
@@ -3826,7 +4130,8 @@
       "time": "8:00 PM",
       "artist": "Soft Cell",
       "support": "",
-      "genre": "Live Music",
+      "genre": "EDM",
+      "genre_source": "musicbrainz",
       "url": "https://www.theregencyballroom.com/events/detail?event_id=1527107"
     },
     {
@@ -3839,6 +4144,7 @@
       "artist": "Clipse & J.I.D",
       "support": "Samara Cyn",
       "genre": "Live Music",
+      "genre_source": "musicbrainz",
       "url": "https://www.redrocksonline.com/events/clipse-j-i-d-1439908/"
     },
     {
@@ -3851,6 +4157,7 @@
       "artist": "An Evening With Band of Horses",
       "support": "",
       "genre": "Live Music",
+      "genre_source": "default",
       "url": "https://www.theregencyballroom.com/events/detail?event_id=1444971"
     },
     {
@@ -3863,6 +4170,7 @@
       "artist": "Tisoki",
       "support": "",
       "genre": "EDM",
+      "genre_source": "venue",
       "url": "https://wl.eventim.us/event/Tisoki-DALLAS/700493?afflky=DiscoPresents-Ductwork"
     },
     {
@@ -3875,6 +4183,7 @@
       "artist": "Com Truise – DJ Set",
       "support": "",
       "genre": "EDM",
+      "genre_source": "musicbrainz",
       "url": "https://kingdomnightclub.com/event/com-truise-dj-set/kingdom-nightclub/austin-texas/"
     },
     {
@@ -3887,6 +4196,7 @@
       "artist": "GRYFFIN",
       "support": "Oliver Heldens, AR/CO",
       "genre": "EDM",
+      "genre_source": "musicbrainz",
       "url": "https://www.redrocksonline.com/events/gryffin-1394914/"
     },
     {
@@ -3899,6 +4209,7 @@
       "artist": "Tyla",
       "support": "",
       "genre": "Live Music",
+      "genre_source": "default",
       "url": "https://billgrahamcivic.com/events/tyla-261113"
     },
     {
@@ -3923,6 +4234,7 @@
       "artist": "L7",
       "support": "",
       "genre": "Live Music",
+      "genre_source": "musicbrainz",
       "url": "https://www.theregencyballroom.com/events/detail?event_id=1435452"
     },
     {
@@ -3934,7 +4246,8 @@
       "time": "7:00 PM",
       "artist": "WORSHIP",
       "support": "Sub Focus, Dimension, Culture Shock, 1991",
-      "genre": "EDM",
+      "genre": "Live Music",
+      "genre_source": "musicbrainz",
       "url": "https://billgrahamcivic.com/events/worship-261114"
     },
     {
@@ -3946,7 +4259,8 @@
       "time": "7:30 PM",
       "artist": "mike.",
       "support": "closing DJ set from Stevie Daniels",
-      "genre": "EDM",
+      "genre": "Live Music",
+      "genre_source": "musicbrainz",
       "url": "https://www.redrocksonline.com/events/mike-1239116/"
     },
     {
@@ -3959,6 +4273,7 @@
       "artist": "Headache",
       "support": "",
       "genre": "Live Music",
+      "genre_source": "musicbrainz",
       "url": "https://www.theregencyballroom.com/events/detail?event_id=1447645"
     },
     {
@@ -3971,6 +4286,7 @@
       "artist": "ZHU",
       "support": "",
       "genre": "EDM",
+      "genre_source": "venue",
       "url": "https://wl.eventim.us/event/ZHU-ON-THE-MOVE-DALLAS/689492?afflky=SILO"
     },
     {
@@ -3983,6 +4299,7 @@
       "artist": "mike.",
       "support": "opening set from DJ Stevie Daniels",
       "genre": "Live Music",
+      "genre_source": "musicbrainz",
       "url": "https://www.redrocksonline.com/events/mike-with-opening-set-from-dj-stevie-daniels-1261297/"
     },
     {
@@ -3995,6 +4312,7 @@
       "artist": "Manic Street Preachers",
       "support": "",
       "genre": "Live Music",
+      "genre_source": "musicbrainz",
       "url": "https://www.theregencyballroom.com/events/detail?event_id=1463683"
     },
     {
@@ -4007,6 +4325,7 @@
       "artist": "Layton Giordani",
       "support": "",
       "genre": "Live Music",
+      "genre_source": "default",
       "url": "https://www.theregencyballroom.com/events/detail?event_id=1464359"
     },
     {
@@ -4019,6 +4338,7 @@
       "artist": "Crankdat",
       "support": "",
       "genre": "EDM",
+      "genre_source": "venue",
       "url": "https://wl.eventim.us/event/CRANKDAT-DALLAS/696315?afflky=SILO"
     },
     {
@@ -4031,6 +4351,7 @@
       "artist": "Afrojack",
       "support": "",
       "genre": "EDM",
+      "genre_source": "venue",
       "url": "https://wl.eventim.us/event/AFROJACK-HOUSTON/696967?afflky=DuctworkHouston"
     },
     {
@@ -4043,6 +4364,7 @@
       "artist": "Afrojack",
       "support": "",
       "genre": "EDM",
+      "genre_source": "venue",
       "url": "https://wl.eventim.us/event/AFROJACK-DALLAS/695826?afflky=SILO"
     },
     {
@@ -4055,6 +4377,7 @@
       "artist": "Crankdat",
       "support": "",
       "genre": "EDM",
+      "genre_source": "venue",
       "url": "https://wl.eventim.us/event/Deorro-HOUSTON/699784?afflky=DuctworkHouston"
     },
     {
@@ -4066,7 +4389,8 @@
       "time": "8:00 PM",
       "artist": "Gary Numan",
       "support": "TREMOURS",
-      "genre": "Live Music",
+      "genre": "EDM",
+      "genre_source": "musicbrainz",
       "url": "https://www.theregencyballroom.com/events/detail?event_id=1423298"
     },
     {
@@ -4079,6 +4403,7 @@
       "artist": "The Amity Affliction",
       "support": "blessthefall, Orthodox, Buried In Spring",
       "genre": "Live Music",
+      "genre_source": "default",
       "url": "https://www.theregencyballroom.com/events/detail?event_id=1516665"
     },
     {
@@ -4091,6 +4416,7 @@
       "artist": "The Wrecks",
       "support": "Worry Club, Kid Sistr",
       "genre": "Live Music",
+      "genre_source": "musicbrainz",
       "url": "https://www.theregencyballroom.com/events/detail?event_id=1474827"
     },
     {
@@ -4103,6 +4429,7 @@
       "artist": "Virtual Riot & Blanke",
       "support": "",
       "genre": "EDM",
+      "genre_source": "venue",
       "url": "https://wl.eventim.us/event/Virtual-Riot-and-Blanke-DALLAS/695833?afflky=SILO"
     },
     {
@@ -4115,6 +4442,7 @@
       "artist": "Deathpact",
       "support": "",
       "genre": "EDM",
+      "genre_source": "venue",
       "url": "https://wl.eventim.us/event/DEATHPACT-FROM-DARKNESS-COMES-LIGHT-ECLIPSED-DALLAS/700256?afflky=SILO"
     },
     {
@@ -4127,6 +4455,7 @@
       "artist": "Deorro",
       "support": "",
       "genre": "EDM",
+      "genre_source": "venue",
       "url": "https://wl.eventim.us/event/Deorro-HOUSTON/699784?afflky=DuctworkHouston"
     },
     {
@@ -4139,6 +4468,7 @@
       "artist": "Deorro",
       "support": "",
       "genre": "EDM",
+      "genre_source": "venue",
       "url": "https://wl.eventim.us/event/DEORRO-DALLAS/700877?afflky=SILO"
     },
     {
@@ -4151,6 +4481,7 @@
       "artist": "Deathpact",
       "support": "",
       "genre": "EDM",
+      "genre_source": "venue",
       "url": "https://wl.eventim.us/event/DEATHPACT-FROM-DARKNESS-COMES-LIGHT-ECLIPSED-HOUSTON/700387?afflky=DuctworkHouston"
     },
     {
@@ -4163,6 +4494,7 @@
       "artist": "Devault",
       "support": "",
       "genre": "Live Music",
+      "genre_source": "default",
       "url": "https://www.theregencyballroom.com/events/detail?event_id=1497641"
     },
     {
@@ -4175,6 +4507,7 @@
       "artist": "The Neighbourhood",
       "support": "Nessa Barrett, Noise Dept.",
       "genre": "Live Music",
+      "genre_source": "default",
       "url": "https://billgrahamcivic.com/events/the-neighbourhood-261202"
     },
     {
@@ -4187,6 +4520,7 @@
       "artist": "SampliFire",
       "support": "",
       "genre": "EDM",
+      "genre_source": "venue",
       "url": "https://wl.eventim.us/event/SampliFire-DALLAS/693792?afflky=DiscoPresents-Ductwork"
     },
     {
@@ -4199,6 +4533,7 @@
       "artist": "SIDEPIECE",
       "support": "",
       "genre": "EDM",
+      "genre_source": "venue",
       "url": "https://wl.eventim.us/event/SIDEPIECE-HOUSTON/699511?afflky=DuctworkHouston"
     },
     {
@@ -4211,6 +4546,7 @@
       "artist": "Sam WOLFE",
       "support": "",
       "genre": "EDM",
+      "genre_source": "venue",
       "url": "https://wl.eventim.us/event/Sam-Wolfe-DALLAS/699785?afflky=DiscoPresents-Ductwork"
     },
     {
@@ -4223,6 +4559,7 @@
       "artist": "Due to circumstances beyond control, the DILLSTRADAMUS (Dillon Francis b2b Flosstradamus) event originally scheduled for Fri, July 10th has been rescheduled to Fri, December 18th. All tickets will automatically transfer to the new date, no further action is required. For questions, please email contact@silodallas.com.",
       "support": "",
       "genre": "EDM",
+      "genre_source": "venue",
       "url": "https://wl.eventim.us/event/DILLSTRADAMUS-Dillon-Francis-b2b-Flosstradamus-DALLAS/687625?afflky=SILO"
     },
     {
@@ -4235,6 +4572,7 @@
       "artist": "Valentino Khan",
       "support": "",
       "genre": "EDM",
+      "genre_source": "venue",
       "url": "https://wl.eventim.us/event/Valentino-Khan-presents-EXTRAMANIA-DALLAS/693688?afflky=SILO"
     },
     {
@@ -4247,6 +4585,7 @@
       "artist": "Blue October",
       "support": "",
       "genre": "Live Music",
+      "genre_source": "musicbrainz",
       "url": "https://www.theregencyballroom.com/events/detail?event_id=1442684"
     },
     {
@@ -4259,6 +4598,7 @@
       "artist": "Rod Stewart",
       "support": "",
       "genre": "Live Music",
+      "genre_source": "default",
       "url": "https://www.redrocksonline.com/events/rod-stewart-1215549/"
     },
     {
@@ -4271,6 +4611,7 @@
       "artist": "Rod Stewart",
       "support": "",
       "genre": "Live Music",
+      "genre_source": "default",
       "url": "https://www.redrocksonline.com/events/rod-stewart-one-last-time-1216092/"
     }
   ]
