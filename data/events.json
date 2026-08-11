@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-11T16:30:19Z",
+  "generated_at": "2026-08-11T21:33:35Z",
   "lists": [
     "Local",
     "Off Angle"
@@ -224,7 +224,7 @@
       "date": "2026-08-14",
       "time": "9:00 PM",
       "artist": "Audien w/ TELYKAST + Amel",
-      "support": "Audien, TELYKast, Amel",
+      "support": "Audien, TELYKast, Amel, Friendzone",
       "genre": "EDM",
       "genre_source": "site",
       "url": "https://wl.seetickets.us/event/Audien-w-TELYKAST-Amel-at-The-Concourse-Project/689789?afflky=TheConcourseProject"
@@ -2453,6 +2453,19 @@
       "url": "https://wl.eventim.us/event/Zack-Fox-DALLAS/693394?afflky=SILO"
     },
     {
+      "id": "silo-houston-2026-09-26-william-black",
+      "venue": "Silo Houston",
+      "list": "Local",
+      "group": "",
+      "date": "2026-09-26",
+      "time": "9:00 PM",
+      "artist": "William Black",
+      "support": "",
+      "genre": "EDM",
+      "genre_source": "venue",
+      "url": "https://wl.eventim.us/event/LSRCITY-X-by-Gareth-Emery-HOUSTON/697705?afflky=DuctworkHouston&EVENTPASS=LCGAX"
+    },
+    {
       "id": "emo-s-2026-09-27-judah-the-lion",
       "venue": "Emo's",
       "list": "Local",
@@ -4533,6 +4546,19 @@
       "url": "https://wl.eventim.us/event/SampliFire-DALLAS/693792?afflky=DiscoPresents-Ductwork"
     },
     {
+      "id": "bill-graham-civic-2026-12-05-its-murph",
+      "venue": "Bill Graham Civic",
+      "list": "Off Angle",
+      "group": "San Francisco",
+      "date": "2026-12-05",
+      "time": "8:00 PM",
+      "artist": "it’s murph",
+      "support": "Tobiahs",
+      "genre": "Live Music",
+      "genre_source": "default",
+      "url": "https://billgrahamcivic.com/events/its-murph-261205"
+    },
+    {
       "id": "silo-houston-2026-12-11-sidepiece",
       "venue": "Silo Houston",
       "list": "Local",
@@ -4596,6 +4622,19 @@
       "genre": "Live Music",
       "genre_source": "musicbrainz",
       "url": "https://www.theregencyballroom.com/events/detail?event_id=1442684"
+    },
+    {
+      "id": "the-regency-ballroom-2027-04-27-mass-of-the-fermenting-dregs",
+      "venue": "The Regency Ballroom",
+      "list": "Off Angle",
+      "group": "San Francisco",
+      "date": "2027-04-27",
+      "time": "8:00 PM",
+      "artist": "MASS OF THE FERMENTING DREGS",
+      "support": "",
+      "genre": "Live Music",
+      "genre_source": "default",
+      "url": "https://www.theregencyballroom.com/events/detail?event_id=1551450"
     },
     {
       "id": "red-rocks-2027-09-02-rod-stewart",
