@@ -44,7 +44,8 @@
       "match_venue": "The Midway",
       "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36",
       "color": "#2dd4bf",
-      "_note": "themidwaysf.com blocks automated access, so we read the same shows from DoTheBay, whose robots.txt permits /venues/."
+      "_note": "themidwaysf.com blocks automated access, so we read the same shows from DoTheBay, whose robots.txt permits /venues/.",
+      "genre_default": "EDM"
     },
     {
       "rank": 5,
@@ -79,7 +80,8 @@
       "list": "Local",
       "parser": "rockhouse",
       "url": "https://kingdomnightclub.com/events/",
-      "color": "#22c55e"
+      "color": "#22c55e",
+      "genre_default": "EDM"
     },
     {
       "rank": 9,

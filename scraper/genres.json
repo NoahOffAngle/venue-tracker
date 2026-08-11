@@ -1,5 +1,7 @@
 {
-  "_comment": "Any event whose artist or supporting acts contain one of these words/names is tagged 'EDM'; everything else is 'Live Music'. Matching is whole-word and case-insensitive, so short entries are safe. To fix a wrong label, add the artist's name here (for EDM) or remove an entry causing a false match. Keep entries lowercase.",
+  "_comment": "Genre settings. 'always_edm' / 'always_live' are YOUR final word — put an artist name in one of these and it is labelled that way everywhere, overriding everything else. 'edm' is a keyword list used only when no stronger signal exists (matching is whole-word and case-insensitive). Automatic sources, strongest first: your lists -> the venue's own genre label or a single-genre venue -> the same artist's genre at another venue -> MusicBrainz -> these keywords -> the venue's usual leaning.",
+  "always_edm": [],
+  "always_live": [],
   "edm": [
     "b2b",
     "tiesto",

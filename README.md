@@ -59,6 +59,27 @@ The embed needs `allow="clipboard-write"` for the copy button to work inside Squ
         allow="clipboard-write" title="Show Tracker" loading="lazy"></iframe>
 ```
 
+## How a show gets labelled EDM or Live Music
+
+Strongest signal wins:
+
+1. **Your own list** — `always_edm` / `always_live` in `scraper/genres.json`. Put a name
+   in one of those and it sticks everywhere, overriding everything below. This is how you
+   correct any mistake permanently.
+2. **The venue told us** — either the venue's site publishes a genre, or the venue is
+   single-genre (`"genre": "EDM"` in `venues.json`).
+3. **The same artist at another venue** — if an act is known EDM at one venue, it's EDM
+   everywhere.
+4. **MusicBrainz** — the artist's tags are looked up in the open music database and
+   scored electronic-vs-band. Results are cached in `scraper/artist_genres.json` so each
+   artist is only looked up once.
+5. **Keywords** — the `edm` list in `genres.json` (whole-word matching).
+6. **The venue's usual leaning** — `"genre_default"` in `venues.json`, for places that are
+   mostly one thing but not exclusively (e.g. a nightclub).
+7. Otherwise, Live Music.
+
+To fix a wrong label, add the artist to `always_edm` or `always_live` — that's it.
+
 ## Adding or removing a venue
 
 Edit `scraper/venues.json`. To add a venue that uses a website we already support,

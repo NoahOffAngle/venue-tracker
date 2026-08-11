@@ -19,6 +19,7 @@ import html
 import pathlib
 import datetime
 import unicodedata
+import time as time_mod          # 'time' is used as a variable name below
 
 import requests
 from bs4 import BeautifulSoup
@@ -49,11 +50,51 @@ def make_id(venue, date, artist):
     return f"{slugify(venue)}-{date}-{slugify(artist)}"[:120]
 
 
-# EDM keyword list, loaded from scraper/genres.json (edit that file to fix labels).
+# Genre settings, loaded from scraper/genres.json.
 try:
-    EDM_KEYWORDS = [k.lower() for k in json.loads(GENRES_FILE.read_text(encoding="utf-8"))["edm"]]
+    _G = json.loads(GENRES_FILE.read_text(encoding="utf-8"))
 except Exception:
-    EDM_KEYWORDS = []
+    _G = {}
+EDM_KEYWORDS = [k.lower() for k in _G.get("edm", [])]
+MANUAL_EDM = {a.lower() for a in _G.get("always_edm", [])}
+MANUAL_LIVE = {a.lower() for a in _G.get("always_live", [])}
+
+# Tags used to judge an artist looked up in MusicBrainz.
+ELECTRONIC_TAGS = {
+    "electronic", "edm", "electronica", "house", "deep house", "tech house",
+    "progressive house", "electro house", "future house", "techno", "minimal techno",
+    "trance", "psytrance", "dubstep", "brostep", "riddim", "drum and bass",
+    "drum'n'bass", "dnb", "jungle", "bass music", "future bass", "electro",
+    "big room", "hardstyle", "hardcore techno", "breakbeat", "breaks", "idm",
+    "downtempo", "trip hop", "uk garage", "2-step", "grime", "moombahton",
+    "dance", "dance-pop", "eurodance", "club", "rave", "acid house", "disco house",
+}
+BAND_TAGS = {
+    "rock", "indie rock", "alternative rock", "hard rock", "classic rock",
+    "punk", "punk rock", "post-punk", "metal", "heavy metal", "death metal",
+    "folk", "folk rock", "americana", "country", "bluegrass", "blues",
+    "blues rock", "jazz", "soul", "funk", "r&b", "reggae", "ska", "pop rock",
+    "singer-songwriter", "indie pop", "indie folk", "emo", "hardcore punk",
+    "post-rock", "psychedelic rock", "shoegaze", "grunge", "hip hop", "rap",
+    "classical", "orchestral", "gospel", "latin", "salsa", "cumbia", "mariachi",
+}
+
+ARTISTS_FILE = ROOT / "scraper" / "artist_genres.json"
+MB_ENDPOINT = "https://musicbrainz.org/ws/2/artist/"
+MB_UA = "ShowTracker/1.0 (+https://github.com/NoahOffAngle/venue-tracker)"
+MB_MAX_LOOKUPS = 120        # per run; the cache fills in over a few runs
+
+
+def artist_key(name):
+    """Normalise a billing line down to something worth looking up.
+    'Tape B Presents: Hallow Rocks' -> 'tape b';  'OhGeesy (DJ SET)' -> 'ohgeesy'
+    """
+    s = (name or "").lower()
+    s = re.sub(r"\([^)]*\)", " ", s)               # drop "(DJ Set)", "(21+)" etc.
+    s = re.split(r"\s+presents\s*:?|\s*:\s|\s+–\s+|\s+-\s+", s)[0]
+    s = re.split(r"\s+(?:b2b|&|\+|x|vs\.?|with|w/)\s+", s)[0]
+    s = re.sub(r"[^a-z0-9'\s]", " ", s)
+    return re.sub(r"\s+", " ", s).strip()
 
 
 # Phrases that mean the "supporting" text is really a description, not opening acts.
@@ -84,15 +125,15 @@ def tidy_support(support):
     return s
 
 
-def detect_genre(artist, support):
-    """Two buckets: 'EDM' if any known EDM name/keyword matches, else 'Live Music'.
+def detect_genre_keywords(artist, support):
+    """'EDM' if a known EDM name/keyword appears, else None (no opinion).
     Matching is whole-word, so 'griz' doesn't match 'Grizzly Bear' and 'rave'
     doesn't match 'Ravel'."""
     text = f" {artist} {support} ".lower()
     for kw in EDM_KEYWORDS:
         if re.search(rf"(?<![a-z0-9]){re.escape(kw)}(?![a-z0-9])", text):
             return "EDM"
-    return "Live Music"
+    return None
 
 
 def make_event(venue, date, time, artist, support, url, genre_hint=None):
@@ -106,9 +147,117 @@ def make_event(venue, date, time, artist, support, url, genre_hint=None):
         "time": time,          # "7:30 PM"
         "artist": artist,
         "support": support,
-        "genre": genre_hint or detect_genre(artist, support),
+        # Genre is finalised later by classify_all(); a hint here means the
+        # venue's own site told us the genre, which we trust.
+        "genre": genre_hint or "",
+        "genre_source": "site" if genre_hint else "",
         "url": url,
     }
+
+
+# ---- Genre classification ----------------------------------------------------
+def load_artist_cache():
+    try:
+        return json.loads(ARTISTS_FILE.read_text(encoding="utf-8"))
+    except Exception:
+        return {}
+
+
+def musicbrainz_genre(name):
+    """Ask MusicBrainz what an artist plays. Returns 'EDM', 'Live Music' or None.
+    Their guideline is one request per second, which we respect."""
+    try:
+        r = requests.get(MB_ENDPOINT,
+                         params={"query": f'artist:"{name}"', "fmt": "json", "limit": 1},
+                         headers={"User-Agent": MB_UA}, timeout=TIMEOUT)
+        r.raise_for_status()
+        artists = r.json().get("artists") or []
+    except Exception:
+        return None
+    if not artists or artists[0].get("score", 0) < 90:
+        return None
+    tags = [(t.get("name") or "").lower() for t in (artists[0].get("tags") or [])]
+    if not tags:
+        return None
+    electronic = sum(1 for t in tags if t in ELECTRONIC_TAGS)
+    band = sum(1 for t in tags if t in BAND_TAGS)
+    if electronic and electronic >= band:
+        return "EDM"
+    if band:
+        return "Live Music"
+    return None
+
+
+def classify_all(events, venue_by_name):
+    """Decide EDM vs Live Music using the strongest signal available, in order:
+    your manual list -> the venue's own genre label / single-genre venue ->
+    the same artist's genre at another venue -> MusicBrainz -> keywords ->
+    the venue's usual leaning -> Live Music."""
+    cache = load_artist_cache()
+    cache_dirty = False
+
+    # 1. Your manual list always wins.
+    for e in events:
+        key = artist_key(e["artist"])
+        if key in MANUAL_EDM or e["artist"].lower() in MANUAL_EDM:
+            e["genre"], e["genre_source"] = "EDM", "manual"
+        elif key in MANUAL_LIVE or e["artist"].lower() in MANUAL_LIVE:
+            e["genre"], e["genre_source"] = "Live Music", "manual"
+
+    # 2. Anything already decided by a trusted source seeds the artist map, so
+    #    an act known at one venue is labelled the same everywhere.
+    known = {}
+    for e in events:
+        if e.get("genre") and e.get("genre_source") in ("manual", "venue", "site"):
+            known.setdefault(artist_key(e["artist"]), set()).add(e["genre"])
+    for e in events:
+        if e.get("genre"):
+            continue
+        found = known.get(artist_key(e["artist"]))
+        if found and len(found) == 1:
+            e["genre"], e["genre_source"] = next(iter(found)), "same artist elsewhere"
+
+    # 3. MusicBrainz for artists we still don't know (cached between runs).
+    lookups = 0
+    for e in events:
+        if e.get("genre"):
+            continue
+        key = artist_key(e["artist"])
+        if not key:
+            continue
+        if key in cache:
+            if cache[key].get("genre"):
+                e["genre"], e["genre_source"] = cache[key]["genre"], "musicbrainz"
+            continue
+        if lookups >= MB_MAX_LOOKUPS:
+            continue
+        genre = musicbrainz_genre(key)
+        lookups += 1
+        time_mod.sleep(1.1)                      # be polite
+        cache[key] = {"genre": genre, "checked": datetime.date.today().isoformat()}
+        cache_dirty = True
+        if genre:
+            e["genre"], e["genre_source"] = genre, "musicbrainz"
+
+    # 4. Keyword list, then the venue's usual leaning, then the default.
+    for e in events:
+        if e.get("genre"):
+            continue
+        kw = detect_genre_keywords(e["artist"], e["support"])
+        if kw:
+            e["genre"], e["genre_source"] = kw, "keyword"
+            continue
+        lean = (venue_by_name.get(e["venue"]) or {}).get("genre_default")
+        if lean:
+            e["genre"], e["genre_source"] = lean, "venue leaning"
+        else:
+            e["genre"], e["genre_source"] = "Live Music", "default"
+
+    if cache_dirty:
+        ARTISTS_FILE.write_text(
+            json.dumps(dict(sorted(cache.items())), indent=2, ensure_ascii=False) + "\n",
+            encoding="utf-8")
+    return lookups
 
 
 def genre_from_site_label(label):
@@ -673,8 +822,8 @@ def main():
             for e in events:
                 e["list"] = v.get("list", "")
                 e["group"] = v.get("group", "")
-                if v.get("genre"):          # venue-wide genre override (e.g. EDM clubs)
-                    e["genre"] = v["genre"]
+                if v.get("genre"):          # single-genre venue (e.g. an EDM club)
+                    e["genre"], e["genre_source"] = v["genre"], "venue"
             print(f"  {v['name']}: {len(events)} events")
             scraped.extend(events)
             ok_venues.add(v["name"])
@@ -688,6 +837,11 @@ def main():
     for e in previous.values():
         if e["venue"] in configured and e["venue"] not in ok_venues:
             scraped.append(e)
+
+    venue_by_name = {v["name"]: v for v in venues}
+    lookups = classify_all(scraped, venue_by_name)
+    if lookups:
+        print(f"\n  (looked up {lookups} new artists in MusicBrainz)")
 
     current = {e["id"]: e for e in scraped if e.get("date", "") >= today}
     added, removed, changed = compare(previous, current)
