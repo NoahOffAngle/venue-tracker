@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-11T05:36:55Z",
+  "generated_at": "2026-08-11T10:29:15Z",
   "lists": [
     "Local",
     "Off Angle"
@@ -1305,6 +1305,7 @@
       "artist": "CARD SHOW CON",
       "support": "",
       "genre": "Live Music",
+      "genre_source": "default",
       "url": "https://www.cowpalace.com/event/sf-card-collectible-show-2026/"
     },
     {
@@ -2708,6 +2709,7 @@
       "artist": "Women of Rodeo",
       "support": "",
       "genre": "Live Music",
+      "genre_source": "default",
       "url": "https://www.cowpalace.com/event/women-of-rodeo-2/"
     },
     {
@@ -2902,6 +2904,7 @@
       "artist": "Rodeo Tea & Tails",
       "support": "",
       "genre": "Live Music",
+      "genre_source": "default",
       "url": "https://www.cowpalace.com/event/rodeo-tea-tails-2/"
     },
     {
@@ -2914,6 +2917,7 @@
       "artist": "Grand National Rodeo #1",
       "support": "",
       "genre": "Live Music",
+      "genre_source": "default",
       "url": "https://www.cowpalace.com/event/grand-national-rodeo-1/"
     },
     {
@@ -2978,6 +2982,7 @@
       "artist": "Grand National Rodeo #2",
       "support": "",
       "genre": "Live Music",
+      "genre_source": "default",
       "url": "https://www.cowpalace.com/event/grand-national-rodeo-2/"
     },
     {
@@ -3263,6 +3268,7 @@
       "artist": "DOM DOLLA",
       "support": "",
       "genre": "Live Music",
+      "genre_source": "default",
       "url": "https://www.cowpalace.com/event/dom-dolla/"
     },
     {
@@ -3639,6 +3645,7 @@
       "artist": "SOFI TUKKER",
       "support": "",
       "genre": "EDM",
+      "genre_source": "musicbrainz",
       "url": "https://www.cowpalace.com/event/sofi-tukker/"
     },
     {
@@ -3846,6 +3853,7 @@
       "artist": "Knocked Loose",
       "support": "",
       "genre": "Live Music",
+      "genre_source": "musicbrainz",
       "url": "https://www.cowpalace.com/event/knocked-loose/"
     },
     {
@@ -4222,6 +4230,7 @@
       "artist": "Sammy Virji",
       "support": "",
       "genre": "EDM",
+      "genre_source": "musicbrainz",
       "url": "https://www.cowpalace.com/event/sammy-virji/"
     },
     {
