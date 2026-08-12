@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-12T16:32:56Z",
+  "generated_at": "2026-08-12T21:32:29Z",
   "lists": [
     "Local",
     "Off Angle"
@@ -711,13 +711,13 @@
       "url": "https://wl.eventim.us/event/Morgan-Page-DALLAS/692381?afflky=DiscoPresents-Ductwork"
     },
     {
-      "id": "under-the-k-bridge-2026-08-23-king-gizzard-the-lizard-wizard",
+      "id": "under-the-k-bridge-2026-08-23-king-gizzard-the-lizard-wizard-rave-show",
       "venue": "Under the K Bridge",
       "list": "Off Angle",
       "group": "Out of State",
       "date": "2026-08-23",
       "time": "5:30 PM",
-      "artist": "King Gizzard & the Lizard Wizard",
+      "artist": "King Gizzard & the Lizard Wizard (Rave Show)",
       "support": ".VRIL",
       "genre": "Live Music",
       "genre_source": "musicbrainz",
@@ -3708,7 +3708,7 @@
       "date": "2026-10-25",
       "time": "7:30 PM",
       "artist": "Stardew Valley: Symphony of Seasons",
-      "support": "",
+      "support": "ConcernedApe",
       "genre": "Live Music",
       "genre_source": "default",
       "url": "https://www.redrocksonline.com/events/stardew-valley-symphony-of-seasons-1341018/"
