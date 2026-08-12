@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-12T10:45:54Z",
+  "generated_at": "2026-08-12T16:32:56Z",
   "lists": [
     "Local",
     "Off Angle"
@@ -2450,7 +2450,7 @@
       "support": "",
       "genre": "EDM",
       "genre_source": "venue",
-      "url": "https://wl.eventim.us/event/LSRCITY-X-by-Gareth-Emery-HOUSTON/697705?afflky=DuctworkHouston&EVENTPASS=LCGAX"
+      "url": "https://wl.eventim.us/event/William-Black-HOUSTON/702024?afflky=DuctworkHouston"
     },
     {
       "id": "emo-s-2026-09-27-judah-the-lion",
@@ -4117,6 +4117,19 @@
       "url": "https://billgrahamcivic.com/events/brand-new-261111"
     },
     {
+      "id": "red-rocks-2026-11-11-steve-lacy-oh-yeah-tour",
+      "venue": "Red Rocks",
+      "list": "Off Angle",
+      "group": "Out of State",
+      "date": "2026-11-11",
+      "time": "8:00 PM",
+      "artist": "Steve Lacy: Oh yeah? Tour",
+      "support": "",
+      "genre": "Live Music",
+      "genre_source": "musicbrainz",
+      "url": "https://www.redrocksonline.com/events/steve-lacy-oh-yeahy-tour-1542697/"
+    },
+    {
       "id": "the-regency-ballroom-2026-11-11-soft-cell",
       "venue": "The Regency Ballroom",
       "list": "Off Angle",
@@ -4401,6 +4414,19 @@
       "genre": "Live Music",
       "genre_source": "default",
       "url": "https://www.theregencyballroom.com/events/detail?event_id=1516665"
+    },
+    {
+      "id": "bill-graham-civic-2026-11-24-steve-lacy",
+      "venue": "Bill Graham Civic",
+      "list": "Off Angle",
+      "group": "San Francisco",
+      "date": "2026-11-24",
+      "time": "8:00 PM",
+      "artist": "Steve Lacy",
+      "support": "",
+      "genre": "Live Music",
+      "genre_source": "musicbrainz",
+      "url": "https://billgrahamcivic.com/events/steve-lacy-261124"
     },
     {
       "id": "the-regency-ballroom-2026-11-25-the-wrecks",
