@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-11T21:33:35Z",
+  "generated_at": "2026-08-12T06:07:05Z",
   "lists": [
     "Local",
     "Off Angle"
@@ -73,19 +73,6 @@
     }
   ],
   "events": [
-    {
-      "id": "red-rocks-2026-08-11-empire-of-the-sun-ask-that-god-afterlife-north-american-tour",
-      "venue": "Red Rocks",
-      "list": "Off Angle",
-      "group": "Out of State",
-      "date": "2026-08-11",
-      "time": "7:30 PM",
-      "artist": "EMPIRE OF THE SUN – Ask That God: Afterlife North American Tour",
-      "support": "",
-      "genre": "EDM",
-      "genre_source": "musicbrainz",
-      "url": "https://www.redrocksonline.com/events/empire-of-the-sun-ask-that-god-afterlife-north-american-tour-1367724/"
-    },
     {
       "id": "red-rocks-2026-08-12-sierra-ferrell",
       "venue": "Red Rocks",
@@ -3803,19 +3790,6 @@
       "genre": "EDM",
       "genre_source": "venue",
       "url": "https://wl.eventim.us/event/Massano-DALLAS/698170?afflky=DiscoPresents-Ductwork"
-    },
-    {
-      "id": "kingdom-2026-10-30-dennis-ferrer",
-      "venue": "Kingdom",
-      "list": "Local",
-      "group": "",
-      "date": "2026-10-30",
-      "time": "10:00 PM",
-      "artist": "Dennis Ferrer",
-      "support": "",
-      "genre": "EDM",
-      "genre_source": "venue leaning",
-      "url": "https://kingdomnightclub.com/event/dennis-ferrer/kingdom-nightclub/austin-texas/"
     },
     {
       "id": "the-regency-ballroom-2026-10-30-cholos-vs-vampires",
