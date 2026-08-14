@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-13T20:03:15Z",
+  "generated_at": "2026-08-14T03:33:01Z",
   "lists": [
     "Local",
     "Off Angle"
@@ -73,58 +73,6 @@
     }
   ],
   "events": [
-    {
-      "id": "red-rocks-2026-08-13-mt-joy",
-      "venue": "Red Rocks",
-      "list": "Off Angle",
-      "group": "Out of State",
-      "date": "2026-08-13",
-      "time": "7:00 PM",
-      "artist": "Mt. Joy",
-      "support": "Leif Vollebekk",
-      "genre": "Live Music",
-      "genre_source": "musicbrainz",
-      "url": "https://www.redrocksonline.com/events/mt-joy-1232801/"
-    },
-    {
-      "id": "bill-graham-civic-2026-08-13-yeat",
-      "venue": "Bill Graham Civic",
-      "list": "Off Angle",
-      "group": "San Francisco",
-      "date": "2026-08-13",
-      "time": "7:30 PM",
-      "artist": "Yeat",
-      "support": "Sheck Wes, Zukenee",
-      "genre": "Live Music",
-      "genre_source": "musicbrainz",
-      "url": "https://billgrahamcivic.com/events/yeat-260813"
-    },
-    {
-      "id": "silo-dallas-2026-08-13-gravedgr",
-      "venue": "Silo Dallas",
-      "list": "Local",
-      "group": "",
-      "date": "2026-08-13",
-      "time": "9:00 PM",
-      "artist": "GRAVEDGR",
-      "support": "",
-      "genre": "EDM",
-      "genre_source": "venue",
-      "url": "https://wl.eventim.us/event/GRAVEDGR-DALLAS/693876?afflky=DiscoPresents-Ductwork"
-    },
-    {
-      "id": "the-concourse-project-2026-08-13-free-with-rsvp-craze-x-dieselboy",
-      "venue": "The Concourse Project",
-      "list": "Local",
-      "group": "",
-      "date": "2026-08-13",
-      "time": "9:00 PM",
-      "artist": "FREE with RSVP: Craze x Dieselboy",
-      "support": "Craze, Dieselboy, Duhrdy, M:Luna",
-      "genre": "EDM",
-      "genre_source": "site",
-      "url": "https://wl.seetickets.us/event/FREE-with-RSVP-Craze-x-Dieselboy-at-The-Concourse-Project/695114?afflky=TheConcourseProject"
-    },
     {
       "id": "kingdom-2026-08-14-groove-theory",
       "venue": "Kingdom",
@@ -1372,6 +1320,19 @@
       "genre": "EDM",
       "genre_source": "site",
       "url": "https://wl.seetickets.us/event/WhoMadeWho-Hybrid-DJ-Set-at-The-Concourse-Project/692640?afflky=TheConcourseProject"
+    },
+    {
+      "id": "kingdom-2026-09-06-dillon-nathaniel",
+      "venue": "Kingdom",
+      "list": "Local",
+      "group": "",
+      "date": "2026-09-06",
+      "time": "10:00 PM",
+      "artist": "Dillon Nathaniel",
+      "support": "",
+      "genre": "EDM",
+      "genre_source": "venue leaning",
+      "url": "https://kingdomnightclub.com/event/dillon-nathaniel/kingdom-nightclub/austin-texas/"
     },
     {
       "id": "the-midway-2026-09-06-r-b-and-ribs-block-party",
@@ -3045,7 +3006,7 @@
       "date": "2026-10-11",
       "time": "4:50 PM",
       "artist": "Cement Gardens",
-      "support": "Pouya, Paleface Swiss, Freddie Dredd, Ramirez, PeelingFlesh, Kxllswxtch, Fat Nick, Druidess",
+      "support": "Pouya, Paleface Swiss, Freddie Dredd, Ramirez, PeelingFlesh, Terror Reid, Kxllswxtch, Fat Nick, Druidess",
       "genre": "Live Music",
       "genre_source": "default",
       "url": "https://www.redrocksonline.com/events/cement-gardens-1438515/"
