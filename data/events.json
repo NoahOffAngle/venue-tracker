@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-14T14:29:13Z",
+  "generated_at": "2026-08-14T20:00:55Z",
   "lists": [
     "Local",
     "Off Angle"
@@ -1972,6 +1972,19 @@
       "url": "https://wl.eventim.us/event/Swimming-Paul-DALLAS/695230?afflky=SILO"
     },
     {
+      "id": "silo-houston-2026-09-18-james-hype",
+      "venue": "Silo Houston",
+      "list": "Local",
+      "group": "",
+      "date": "2026-09-18",
+      "time": "9:00 PM",
+      "artist": "James Hype",
+      "support": "",
+      "genre": "EDM",
+      "genre_source": "venue",
+      "url": "https://wl.eventim.us/event/LSRCITY-X-by-Gareth-Emery-HOUSTON/697705?afflky=DuctworkHouston&EVENTPASS=LCGAX"
+    },
+    {
       "id": "the-concourse-project-2026-09-18-troyboi",
       "venue": "The Concourse Project",
       "list": "Local",
@@ -3022,7 +3035,7 @@
       "support": "",
       "genre": "EDM",
       "genre_source": "venue",
-      "url": "https://wl.eventim.us/event/PROSPA-DALLAS/702146?afflky=SILO&EVENTPASS=FREEYOURMIND"
+      "url": "https://wl.eventim.us/event/PROSPA-DALLAS/702146?afflky=SILO"
     },
     {
       "id": "red-rocks-2026-10-11-cement-gardens",
