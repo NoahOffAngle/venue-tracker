@@ -43,9 +43,29 @@ jobs:
         run: |
           git config user.name  "show-tracker-bot"
           git config user.email "actions@github.com"
+          # These files are regenerated in full every run, so if this run races
+          # another push, keep the copy this run just produced.
+          git config merge.keep-remote.driver 'cp %B %A'
+
           git add data/events.json scraper/artist_genres.json
-          git commit -m "Update shows ($(date -u '+%Y-%m-%d %H:%M UTC'))" || echo "Nothing to commit"
-          git push
+          if ! git commit -m "Update shows ($(date -u '+%Y-%m-%d %H:%M UTC'))"; then
+            echo "Nothing to commit."
+            exit 0
+          fi
+
+          # A push can lose a race or hit a transient network error. Don't throw
+          # away a good scrape over it — re-sync and try again.
+          for attempt in 1 2 3; do
+            if git push; then
+              echo "Pushed on attempt $attempt."
+              exit 0
+            fi
+            echo "Push failed (attempt $attempt) — re-syncing and retrying."
+            git pull --rebase origin main || git rebase --abort || true
+            sleep 5
+          done
+          echo "Could not push after 3 attempts."
+          exit 1
 
       # Emails you ONLY when shows were added / changed / removed.
       # Requires the MAIL_* secrets to be set (see README). If they aren't set,
