@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-14T03:33:01Z",
+  "generated_at": "2026-08-14T08:41:44Z",
   "lists": [
     "Local",
     "Off Angle"
@@ -1528,6 +1528,19 @@
       "genre": "EDM",
       "genre_source": "venue",
       "url": "https://wl.eventim.us/event/Calcium-DALLAS/694650?afflky=DiscoPresents-Ductwork"
+    },
+    {
+      "id": "cow-palace-2026-09-11-just-between-friends-consignment-sale",
+      "venue": "Cow Palace",
+      "list": "Off Angle",
+      "group": "San Francisco",
+      "date": "2026-09-11",
+      "time": "10:00 AM",
+      "artist": "Just Between Friends Consignment Sale",
+      "support": "",
+      "genre": "Live Music",
+      "genre_source": "default",
+      "url": "https://www.cowpalace.com/event/just-between-friends-consignment-sale-5/"
     },
     {
       "id": "the-midway-2026-09-11-promiscuous-a-2000-s-club-bangers-throwbacks-party",
