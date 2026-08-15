@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-15T07:48:49Z",
+  "generated_at": "2026-08-15T13:48:09Z",
   "lists": [
     "Local",
     "Off Angle"
@@ -2258,6 +2258,19 @@
       "url": "https://underthekbridge.org/events/detail?event_id=1444155"
     },
     {
+      "id": "the-concourse-project-2026-09-25-deorro-pres-botas-y-rave",
+      "venue": "The Concourse Project",
+      "list": "Local",
+      "group": "",
+      "date": "2026-09-25",
+      "time": "7:00 PM",
+      "artist": "Deorro pres Botas Y Rave",
+      "support": "",
+      "genre": "EDM",
+      "genre_source": "site",
+      "url": "https://wl.seetickets.us/event/Deorro-pres-Botas-Y-Rave-at-The-Concourse-Project-Outdoors/689339?afflky=TheConcourseProject"
+    },
+    {
       "id": "red-rocks-2026-09-25-the-revivalists",
       "venue": "Red Rocks",
       "list": "Off Angle",
@@ -2906,6 +2919,19 @@
       "genre": "EDM",
       "genre_source": "venue",
       "url": "https://wl.eventim.us/event/Steve-Angello-DALLAS/701338?afflky=SILO"
+    },
+    {
+      "id": "the-midway-2026-10-10-polo-pan",
+      "venue": "The Midway",
+      "list": "Off Angle",
+      "group": "San Francisco",
+      "date": "2026-10-10",
+      "time": "3:00 PM",
+      "artist": "Polo & Pan",
+      "support": "",
+      "genre": "EDM",
+      "genre_source": "venue leaning",
+      "url": "https://dothebay.com/events/2026/10/10/polo-pan-americas-tour-block-party-tickets"
     },
     {
       "id": "cow-palace-2026-10-10-grand-national-rodeo-2",
@@ -4440,6 +4466,19 @@
       "genre": "Live Music",
       "genre_source": "musicbrainz",
       "url": "https://www.theregencyballroom.com/events/detail?event_id=1474827"
+    },
+    {
+      "id": "bill-graham-civic-2026-11-25-steve-lacy",
+      "venue": "Bill Graham Civic",
+      "list": "Off Angle",
+      "group": "San Francisco",
+      "date": "2026-11-25",
+      "time": "8:00 PM",
+      "artist": "Steve Lacy",
+      "support": "",
+      "genre": "Live Music",
+      "genre_source": "musicbrainz",
+      "url": "https://billgrahamcivic.com/events/steve-lacy-261125"
     },
     {
       "id": "silo-dallas-2026-11-25-virtual-riot-blanke",
