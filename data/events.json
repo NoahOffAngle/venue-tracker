@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-14T20:00:55Z",
+  "generated_at": "2026-08-15T02:29:12Z",
   "lists": [
     "Local",
     "Off Angle"
@@ -73,84 +73,6 @@
     }
   ],
   "events": [
-    {
-      "id": "kingdom-2026-08-14-groove-theory",
-      "venue": "Kingdom",
-      "list": "Local",
-      "group": "",
-      "date": "2026-08-14",
-      "time": "10:00 PM",
-      "artist": "Groove Theory",
-      "support": "",
-      "genre": "EDM",
-      "genre_source": "venue leaning",
-      "url": "https://kingdomnightclub.com/event/groove-theory/kingdom-nightclub/austin-texas/"
-    },
-    {
-      "id": "the-midway-2026-08-14-reggaeton-rave",
-      "venue": "The Midway",
-      "list": "Off Angle",
-      "group": "San Francisco",
-      "date": "2026-08-14",
-      "time": "10:00 PM",
-      "artist": "Reggaeton Rave",
-      "support": "",
-      "genre": "EDM",
-      "genre_source": "keyword",
-      "url": "https://dothebay.com/events/2026/8/14/reggaeton-rave-tickets"
-    },
-    {
-      "id": "emo-s-2026-08-14-little-stranger",
-      "venue": "Emo's",
-      "list": "Local",
-      "group": "",
-      "date": "2026-08-14",
-      "time": "7:00 PM",
-      "artist": "Little Stranger",
-      "support": "",
-      "genre": "Live Music",
-      "genre_source": "default",
-      "url": "https://www.ticketmaster.com/little-stranger-austin-texas-08-14-2026/event/3A006487D2061C61"
-    },
-    {
-      "id": "red-rocks-2026-08-14-mt-joy",
-      "venue": "Red Rocks",
-      "list": "Off Angle",
-      "group": "Out of State",
-      "date": "2026-08-14",
-      "time": "7:00 PM",
-      "artist": "Mt. Joy",
-      "support": "Arcy Drive",
-      "genre": "Live Music",
-      "genre_source": "musicbrainz",
-      "url": "https://www.redrocksonline.com/events/mt-joy-1232806/"
-    },
-    {
-      "id": "silo-dallas-2026-08-14-black-tiger-sex-machine",
-      "venue": "Silo Dallas",
-      "list": "Local",
-      "group": "",
-      "date": "2026-08-14",
-      "time": "9:00 PM",
-      "artist": "Black Tiger Sex Machine",
-      "support": "",
-      "genre": "EDM",
-      "genre_source": "venue",
-      "url": "https://wl.eventim.us/event/Black-Tiger-Sex-Machine-DALLAS/688827?afflky=SILO"
-    },
-    {
-      "id": "the-concourse-project-2026-08-14-audien-w-telykast-amel",
-      "venue": "The Concourse Project",
-      "list": "Local",
-      "group": "",
-      "date": "2026-08-14",
-      "time": "9:00 PM",
-      "artist": "Audien w/ TELYKAST + Amel",
-      "support": "Audien, TELYKast, Amel, Friendzone",
-      "genre": "EDM",
-      "genre_source": "site",
-      "url": "https://wl.seetickets.us/event/Audien-w-TELYKAST-Amel-at-The-Concourse-Project/689789?afflky=TheConcourseProject"
-    },
     {
       "id": "kingdom-2026-08-15-untitled-fest",
       "venue": "Kingdom",
@@ -2373,6 +2295,19 @@
       "genre": "EDM",
       "genre_source": "venue",
       "url": "https://wl.eventim.us/event/ZACK-FOX-HOUSTON/701561?afflky=DuctworkHouston"
+    },
+    {
+      "id": "kingdom-2026-09-26-space-92",
+      "venue": "Kingdom",
+      "list": "Local",
+      "group": "",
+      "date": "2026-09-26",
+      "time": "10:00 PM",
+      "artist": "Space 92",
+      "support": "",
+      "genre": "EDM",
+      "genre_source": "musicbrainz",
+      "url": "https://kingdomnightclub.com/event/space-92-2/kingdom-nightclub/austin-texas/"
     },
     {
       "id": "under-the-k-bridge-2026-09-26-cbgb-festival",
