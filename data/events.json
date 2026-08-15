@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-15T13:48:09Z",
+  "generated_at": "2026-08-15T19:40:59Z",
   "lists": [
     "Local",
     "Off Angle"
@@ -98,19 +98,6 @@
       "genre": "EDM",
       "genre_source": "site",
       "url": "https://wl.seetickets.us/event/Pulse-Pilates-at-The-Concourse-Project/699830?afflky=TheConcourseProject"
-    },
-    {
-      "id": "red-rocks-2026-08-15-yoga-on-the-rocks",
-      "venue": "Red Rocks",
-      "list": "Off Angle",
-      "group": "Out of State",
-      "date": "2026-08-15",
-      "time": "7:00 AM",
-      "artist": "Yoga on the Rocks",
-      "support": "",
-      "genre": "Live Music",
-      "genre_source": "default",
-      "url": "https://www.redrocksonline.com/events/yoga-on-the-rocks-2026-1415123-2/"
     },
     {
       "id": "emo-s-2026-08-15-noname",
