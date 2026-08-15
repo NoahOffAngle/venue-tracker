@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-15T02:29:12Z",
+  "generated_at": "2026-08-15T07:48:49Z",
   "lists": [
     "Local",
     "Off Angle"
@@ -1084,7 +1084,7 @@
       "artist": "Black Tiger Sex Machine & Kai Wachi Block Party",
       "support": "",
       "genre": "EDM",
-      "genre_source": "same artist elsewhere",
+      "genre_source": "musicbrainz",
       "url": "https://dothebay.com/events/2026/9/4/black-tiger-sex-machine-kai-wachi-block-party-tickets"
     },
     {
@@ -4037,6 +4037,19 @@
       "genre": "EDM",
       "genre_source": "same artist elsewhere",
       "url": "https://www.redrocksonline.com/events/atliens-1467439/"
+    },
+    {
+      "id": "emo-s-2026-11-07-two-nights-with-they-might-be-giants",
+      "venue": "Emo's",
+      "list": "Local",
+      "group": "",
+      "date": "2026-11-07",
+      "time": "7:00 PM",
+      "artist": "TWO NIGHTS WITH THEY MIGHT BE GIANTS",
+      "support": "",
+      "genre": "Live Music",
+      "genre_source": "default",
+      "url": "https://www.ticketmaster.com/two-nights-with-they-might-be-austin-texas-11-07-2026/event/3A006487D9252E5F"
     },
     {
       "id": "silo-dallas-2026-11-07-jessica-audiffred",
