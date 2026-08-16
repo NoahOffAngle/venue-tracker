@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-15T19:40:59Z",
+  "generated_at": "2026-08-16T02:37:30Z",
   "lists": [
     "Local",
     "Off Angle"
@@ -73,110 +73,6 @@
     }
   ],
   "events": [
-    {
-      "id": "kingdom-2026-08-15-untitled-fest",
-      "venue": "Kingdom",
-      "list": "Local",
-      "group": "",
-      "date": "2026-08-15",
-      "time": "10:00 PM",
-      "artist": "Untitled Fest",
-      "support": "",
-      "genre": "EDM",
-      "genre_source": "venue leaning",
-      "url": "https://kingdomnightclub.com/event/untitled-fest-2/kingdom-nightclub/austin-texas/"
-    },
-    {
-      "id": "the-concourse-project-2026-08-15-pulse-pilates",
-      "venue": "The Concourse Project",
-      "list": "Local",
-      "group": "",
-      "date": "2026-08-15",
-      "time": "10:30 AM",
-      "artist": "Pulse Pilates",
-      "support": "Saint Stratus, Cartfish",
-      "genre": "EDM",
-      "genre_source": "site",
-      "url": "https://wl.seetickets.us/event/Pulse-Pilates-at-The-Concourse-Project/699830?afflky=TheConcourseProject"
-    },
-    {
-      "id": "emo-s-2026-08-15-noname",
-      "venue": "Emo's",
-      "list": "Local",
-      "group": "",
-      "date": "2026-08-15",
-      "time": "7:00 PM",
-      "artist": "Noname",
-      "support": "",
-      "genre": "Live Music",
-      "genre_source": "musicbrainz",
-      "url": "https://www.ticketmaster.com/noname-austin-texas-08-15-2026/event/3A0064C49D0A8401"
-    },
-    {
-      "id": "red-rocks-2026-08-15-lcd-soundsystem",
-      "venue": "Red Rocks",
-      "list": "Off Angle",
-      "group": "Out of State",
-      "date": "2026-08-15",
-      "time": "7:00 PM",
-      "artist": "LCD Soundsystem",
-      "support": "Feist, Victoryland",
-      "genre": "EDM",
-      "genre_source": "musicbrainz",
-      "url": "https://www.redrocksonline.com/events/lcd-soundsystem-1423003/"
-    },
-    {
-      "id": "bill-graham-civic-2026-08-15-cortis",
-      "venue": "Bill Graham Civic",
-      "list": "Off Angle",
-      "group": "San Francisco",
-      "date": "2026-08-15",
-      "time": "8:00 PM",
-      "artist": "CORTIS",
-      "support": "",
-      "genre": "Live Music",
-      "genre_source": "default",
-      "url": "https://billgrahamcivic.com/events/cortis-260815"
-    },
-    {
-      "id": "silo-dallas-2026-08-15-audien",
-      "venue": "Silo Dallas",
-      "list": "Local",
-      "group": "",
-      "date": "2026-08-15",
-      "time": "9:00 PM",
-      "artist": "Audien",
-      "support": "",
-      "genre": "EDM",
-      "genre_source": "venue",
-      "url": "https://wl.eventim.us/event/PROGRESSIVE-HOUSE-NEVER-DIED-AUDIEN-DALLAS/690226?afflky=SILO"
-    },
-    {
-      "id": "the-concourse-project-2026-08-15-acraze",
-      "venue": "The Concourse Project",
-      "list": "Local",
-      "group": "",
-      "date": "2026-08-15",
-      "time": "9:00 PM",
-      "artist": "ACRAZE",
-      "support": "Rello, Phamstar",
-      "genre": "EDM",
-      "genre_source": "site",
-      "url": "https://wl.seetickets.us/event/ACRAZE-at-The-Concourse-Project/690073?afflky=TheConcourseProject"
-    },
-    {
-      "id": "the-midway-2026-08-15-2000-s-rave",
-      "venue": "The Midway",
-      "list": "Off Angle",
-      "group": "San Francisco",
-      "date": "2026-08-15",
-      "time": "9:00 PM",
-      "artist": "2000's Rave",
-      "support": "",
-      "genre": "EDM",
-      "genre_source": "keyword",
-      "url": "https://dothebay.com/events/2026/8/15/2000-s-rave-tickets"
-    },
     {
       "id": "the-midway-2026-08-16-caravan-oasis",
       "venue": "The Midway",
@@ -2269,6 +2165,19 @@
       "genre": "Live Music",
       "genre_source": "default",
       "url": "https://www.redrocksonline.com/events/the-revivalists-1342115/"
+    },
+    {
+      "id": "the-concourse-project-2026-09-25-ben-sterling-open-to-close",
+      "venue": "The Concourse Project",
+      "list": "Local",
+      "group": "",
+      "date": "2026-09-25",
+      "time": "8:30 PM",
+      "artist": "Ben Sterling (Open to Close)",
+      "support": "",
+      "genre": "Live Music",
+      "genre_source": "site",
+      "url": "https://wl.seetickets.us/event/Ben-Sterling-Open-to-Close-at-The-Concourse-Project/687789?afflky=TheConcourseProject"
     },
     {
       "id": "silo-dallas-2026-09-25-holy-priest",
