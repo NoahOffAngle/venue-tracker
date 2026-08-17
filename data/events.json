@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-17T08:05:51Z",
+  "generated_at": "2026-08-17T13:57:31Z",
   "lists": [
     "Local",
     "Off Angle"
@@ -3439,6 +3439,19 @@
       "genre": "Live Music",
       "genre_source": "default",
       "url": "https://www.ticketmaster.com/glaive-god-save-the-three-tour-austin-texas-10-23-2026/event/3A0064A6A1E3C66F"
+    },
+    {
+      "id": "the-midway-2026-10-23-chief-keef",
+      "venue": "The Midway",
+      "list": "Off Angle",
+      "group": "San Francisco",
+      "date": "2026-10-23",
+      "time": "8:30 PM",
+      "artist": "Chief Keef",
+      "support": "",
+      "genre": "Live Music",
+      "genre_source": "musicbrainz",
+      "url": "https://dothebay.com/events/2026/10/23/chief-keef-midway-sf-tickets"
     },
     {
       "id": "silo-dallas-2026-10-23-kettama",
