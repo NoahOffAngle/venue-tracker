@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-17T13:57:31Z",
+  "generated_at": "2026-08-17T19:47:45Z",
   "lists": [
     "Local",
     "Off Angle"
@@ -1748,7 +1748,7 @@
       "support": "",
       "genre": "EDM",
       "genre_source": "venue",
-      "url": "https://wl.eventim.us/event/LSRCITY-X-by-Gareth-Emery-HOUSTON/697705?afflky=DuctworkHouston&EVENTPASS=LCGAX"
+      "url": "https://wl.eventim.us/event/James-Hype-HOUSTON/702434?afflky=DuctworkHouston"
     },
     {
       "id": "the-concourse-project-2026-09-18-troyboi",
@@ -2789,6 +2789,19 @@
       "genre": "EDM",
       "genre_source": "venue",
       "url": "https://wl.eventim.us/event/Steve-Angello-DALLAS/701338?afflky=SILO"
+    },
+    {
+      "id": "silo-houston-2026-10-09-walker-royce",
+      "venue": "Silo Houston",
+      "list": "Local",
+      "group": "",
+      "date": "2026-10-09",
+      "time": "9:00 PM",
+      "artist": "Walker & Royce",
+      "support": "",
+      "genre": "EDM",
+      "genre_source": "venue",
+      "url": "https://wl.eventim.us/event/James-Hype-HOUSTON/702434?afflky=DuctworkHouston"
     },
     {
       "id": "the-midway-2026-10-10-polo-pan",
@@ -3974,6 +3987,19 @@
       "url": "https://www.ticketmaster.com/two-nights-with-they-might-be-austin-texas-11-07-2026/event/3A006487D9252E5F"
     },
     {
+      "id": "the-regency-ballroom-2026-11-07-lucy-bedroque",
+      "venue": "The Regency Ballroom",
+      "list": "Off Angle",
+      "group": "San Francisco",
+      "date": "2026-11-07",
+      "time": "8:00 PM",
+      "artist": "Lucy Bedroque",
+      "support": "pinponpanpon",
+      "genre": "Live Music",
+      "genre_source": "default",
+      "url": "https://www.theregencyballroom.com/events/detail?event_id=1547252"
+    },
+    {
       "id": "silo-dallas-2026-11-07-jessica-audiffred",
       "venue": "Silo Dallas",
       "list": "Local",
@@ -4182,6 +4208,19 @@
       "url": "https://www.theregencyballroom.com/events/detail?event_id=1435452"
     },
     {
+      "id": "silo-dallas-2026-11-13-ben-nicky-vini-vici",
+      "venue": "Silo Dallas",
+      "list": "Local",
+      "group": "",
+      "date": "2026-11-13",
+      "time": "9:00 PM",
+      "artist": "Ben Nicky + Vini Vici",
+      "support": "",
+      "genre": "EDM",
+      "genre_source": "venue",
+      "url": "https://wl.eventim.us/event/Ben-Nicky-Vini-Vici-DALLAS/702306?afflky=SILO"
+    },
+    {
       "id": "bill-graham-civic-2026-11-14-worship",
       "venue": "Bill Graham Civic",
       "list": "Off Angle",
@@ -4377,19 +4416,6 @@
       "url": "https://www.theregencyballroom.com/events/detail?event_id=1474827"
     },
     {
-      "id": "bill-graham-civic-2026-11-25-steve-lacy",
-      "venue": "Bill Graham Civic",
-      "list": "Off Angle",
-      "group": "San Francisco",
-      "date": "2026-11-25",
-      "time": "8:00 PM",
-      "artist": "Steve Lacy",
-      "support": "",
-      "genre": "Live Music",
-      "genre_source": "musicbrainz",
-      "url": "https://billgrahamcivic.com/events/steve-lacy-261125"
-    },
-    {
       "id": "silo-dallas-2026-11-25-virtual-riot-blanke",
       "venue": "Silo Dallas",
       "list": "Local",
@@ -4492,6 +4518,19 @@
       "genre": "EDM",
       "genre_source": "venue",
       "url": "https://wl.eventim.us/event/SampliFire-DALLAS/693792?afflky=DiscoPresents-Ductwork"
+    },
+    {
+      "id": "silo-dallas-2026-12-04-rl-grime",
+      "venue": "Silo Dallas",
+      "list": "Local",
+      "group": "",
+      "date": "2026-12-04",
+      "time": "9:00 PM",
+      "artist": "RL Grime",
+      "support": "",
+      "genre": "EDM",
+      "genre_source": "venue",
+      "url": "https://silodallas.com/events/rl-grime-60254327400"
     },
     {
       "id": "bill-graham-civic-2026-12-05-its-murph",
