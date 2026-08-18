@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-18T07:58:48Z",
+  "generated_at": "2026-08-18T14:02:39Z",
   "lists": [
     "Local",
     "Off Angle"
@@ -4336,6 +4336,19 @@
       "genre": "EDM",
       "genre_source": "venue",
       "url": "https://wl.eventim.us/event/Deorro-HOUSTON/699784?afflky=DuctworkHouston"
+    },
+    {
+      "id": "silo-dallas-2026-11-22-josh-fawaz",
+      "venue": "Silo Dallas",
+      "list": "Local",
+      "group": "",
+      "date": "2026-11-22",
+      "time": "7:00 PM",
+      "artist": "Josh Fawaz",
+      "support": "",
+      "genre": "EDM",
+      "genre_source": "venue",
+      "url": "https://silodallas.com/events/josh-fawaz-60384467503"
     },
     {
       "id": "the-regency-ballroom-2026-11-23-gary-numan",
