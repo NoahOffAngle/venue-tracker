@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-18T14:02:39Z",
+  "generated_at": "2026-08-18T19:46:22Z",
   "lists": [
     "Local",
     "Off Angle"
@@ -1771,7 +1771,7 @@
       "date": "2026-09-19",
       "time": "7:00 PM",
       "artist": "Steve Aoki",
-      "support": "Timmy Trumpet, Riot Ten, HIGHSOCIETY",
+      "support": "FARUKKO, Riot Ten, HIGHSOCIETY",
       "genre": "EDM",
       "genre_source": "musicbrainz",
       "url": "https://billgrahamcivic.com/events/steve-aoki-260220"
@@ -2037,6 +2037,19 @@
       "url": "https://billgrahamcivic.com/events/jack-white-260924"
     },
     {
+      "id": "the-regency-ballroom-2026-09-24-soulwax",
+      "venue": "The Regency Ballroom",
+      "list": "Off Angle",
+      "group": "San Francisco",
+      "date": "2026-09-24",
+      "time": "8:00 PM",
+      "artist": "Soulwax",
+      "support": "",
+      "genre": "EDM",
+      "genre_source": "musicbrainz",
+      "url": "https://www.theregencyballroom.com/events/detail?event_id=1570048"
+    },
+    {
       "id": "silo-dallas-2026-09-24-holy-priest",
       "venue": "Silo Dallas",
       "list": "Local",
@@ -2152,6 +2165,19 @@
       "genre": "EDM",
       "genre_source": "musicbrainz",
       "url": "https://kingdomnightclub.com/event/space-92-2/kingdom-nightclub/austin-texas/"
+    },
+    {
+      "id": "the-regency-ballroom-2026-09-26-parcels",
+      "venue": "The Regency Ballroom",
+      "list": "Off Angle",
+      "group": "San Francisco",
+      "date": "2026-09-26",
+      "time": "10:00 PM",
+      "artist": "Parcels",
+      "support": "Velvet Trip",
+      "genre": "Live Music",
+      "genre_source": "default",
+      "url": "https://www.theregencyballroom.com/events/detail?event_id=1573671"
     },
     {
       "id": "under-the-k-bridge-2026-09-26-cbgb-festival",
@@ -2375,6 +2401,19 @@
       "url": "https://www.theregencyballroom.com/events/detail?event_id=1477938"
     },
     {
+      "id": "emo-s-2026-10-01-official-2026-acl-nights-palace",
+      "venue": "Emo's",
+      "list": "Local",
+      "group": "",
+      "date": "2026-10-01",
+      "time": "7:00 PM",
+      "artist": "Official 2026 ACL Nights: Palace",
+      "support": "",
+      "genre": "Live Music",
+      "genre_source": "default",
+      "url": "https://www.ticketmaster.com/official-2026-acl-nights-palace-austin-texas-10-01-2026/event/3A0064FBD3B1E691"
+    },
+    {
       "id": "red-rocks-2026-10-01-beck-ride-lonesome-tour",
       "venue": "Red Rocks",
       "list": "Off Angle",
@@ -2451,6 +2490,19 @@
       "genre": "EDM",
       "genre_source": "keyword",
       "url": "https://www.theregencyballroom.com/events/detail?event_id=1527433"
+    },
+    {
+      "id": "emo-s-2026-10-02-official-2026-acl-nights-bunt",
+      "venue": "Emo's",
+      "list": "Local",
+      "group": "",
+      "date": "2026-10-02",
+      "time": "9:00 PM",
+      "artist": "Official 2026 ACL Nights: BUNT.",
+      "support": "",
+      "genre": "Live Music",
+      "genre_source": "default",
+      "url": "https://www.ticketmaster.com/official-2026-acl-nights-bunt-austin-texas-10-02-2026/event/3A0064FBD4C8E83E"
     },
     {
       "id": "silo-dallas-2026-10-02-eli-brown",
@@ -2557,6 +2609,19 @@
       "url": "https://www.theregencyballroom.com/events/detail?event_id=1528354"
     },
     {
+      "id": "emo-s-2026-10-03-official-2026-acl-nights-levity",
+      "venue": "Emo's",
+      "list": "Local",
+      "group": "",
+      "date": "2026-10-03",
+      "time": "9:00 PM",
+      "artist": "Official 2026 ACL Nights: Levity",
+      "support": "",
+      "genre": "EDM",
+      "genre_source": "keyword",
+      "url": "https://www.ticketmaster.com/official-2026-acl-nights-levity-austin-texas-10-03-2026/event/3A0064FBD69EEA69"
+    },
+    {
       "id": "silo-dallas-2026-10-03-sasha-john-digweed",
       "venue": "Silo Dallas",
       "list": "Local",
@@ -2607,6 +2672,19 @@
       "genre": "Live Music",
       "genre_source": "default",
       "url": "https://www.redrocksonline.com/events/for-king-country-1451922/"
+    },
+    {
+      "id": "emo-s-2026-10-04-official-2026-acl-nights-suki-waterhouse",
+      "venue": "Emo's",
+      "list": "Local",
+      "group": "",
+      "date": "2026-10-04",
+      "time": "9:00 PM",
+      "artist": "Official 2026 ACL Nights: Suki Waterhouse",
+      "support": "",
+      "genre": "Live Music",
+      "genre_source": "default",
+      "url": "https://www.ticketmaster.com/official-2026-acl-nights-suki-waterhouse-austin-texas-10-04-2026/event/3A0064FBD862ECD1"
     },
     {
       "id": "red-rocks-2026-10-06-big-thief",
@@ -2752,6 +2830,19 @@
       "url": "https://billgrahamcivic.com/events/holy-priest-261009"
     },
     {
+      "id": "emo-s-2026-10-09-official-2026-acl-nights-rodrigo-y-gabriela",
+      "venue": "Emo's",
+      "list": "Local",
+      "group": "",
+      "date": "2026-10-09",
+      "time": "9:00 PM",
+      "artist": "Official 2026 ACL Nights: Rodrigo y Gabriela",
+      "support": "",
+      "genre": "Live Music",
+      "genre_source": "default",
+      "url": "https://www.ticketmaster.com/official-2026-acl-nights-rodrigo-y-austin-texas-10-09-2026/event/3A0064FBD9A5EE44"
+    },
+    {
       "id": "silo-dallas-2026-10-09-steve-angello",
       "venue": "Silo Dallas",
       "list": "Local",
@@ -2775,7 +2866,7 @@
       "support": "",
       "genre": "EDM",
       "genre_source": "venue",
-      "url": "https://wl.eventim.us/event/James-Hype-HOUSTON/702434?afflky=DuctworkHouston"
+      "url": "https://wl.eventim.us/event/WALKER-and-ROYCE-HOUSTON/702464?afflky=DuctworkHouston"
     },
     {
       "id": "the-midway-2026-10-10-polo-pan",
@@ -3649,6 +3740,19 @@
       "url": "https://wl.eventim.us/event/Massano-DALLAS/698170?afflky=DiscoPresents-Ductwork"
     },
     {
+      "id": "kingdom-2026-10-30-dennis-ferrer",
+      "venue": "Kingdom",
+      "list": "Local",
+      "group": "",
+      "date": "2026-10-30",
+      "time": "10:00 PM",
+      "artist": "Dennis Ferrer",
+      "support": "",
+      "genre": "EDM",
+      "genre_source": "venue leaning",
+      "url": "https://kingdomnightclub.com/event/dennis-ferrer/kingdom-nightclub/austin-texas/"
+    },
+    {
       "id": "the-regency-ballroom-2026-10-30-cholos-vs-vampires",
       "venue": "The Regency Ballroom",
       "list": "Off Angle",
@@ -3857,19 +3961,6 @@
       "url": "https://www.redrocksonline.com/events/joshua-slone-1392035/"
     },
     {
-      "id": "emo-s-2026-11-05-bonobo-distance-in-static-live-north-american-tour",
-      "venue": "Emo's",
-      "list": "Local",
-      "group": "",
-      "date": "2026-11-05",
-      "time": "7:00 PM",
-      "artist": "Bonobo: Distance in Static Live North American Tour",
-      "support": "",
-      "genre": "EDM",
-      "genre_source": "musicbrainz",
-      "url": "https://www.ticketmaster.com/bonobo-distance-in-static-live-north-austin-texas-11-05-2026/event/3A0064C1E068D3A4"
-    },
-    {
       "id": "the-regency-ballroom-2026-11-05-the-black-angels",
       "venue": "The Regency Ballroom",
       "list": "Off Angle",
@@ -3883,19 +3974,6 @@
       "url": "https://www.theregencyballroom.com/events/detail?event_id=1408471"
     },
     {
-      "id": "emo-s-2026-11-06-two-nights-with-they-might-be-giants-2-day-ticket-11-6-26-11-7-26",
-      "venue": "Emo's",
-      "list": "Local",
-      "group": "",
-      "date": "2026-11-06",
-      "time": "12:00 AM",
-      "artist": "TWO NIGHTS WITH THEY MIGHT BE GIANTS - 2 Day Ticket(11/6/26 + 11/7/26)",
-      "support": "",
-      "genre": "Live Music",
-      "genre_source": "default",
-      "url": "https://www.ticketmaster.com/two-nights-with-they-might-be-austin-texas-11-06-2026/event/3A0064E7CDEA9A03"
-    },
-    {
       "id": "red-rocks-2026-11-06-dabin",
       "venue": "Red Rocks",
       "list": "Off Angle",
@@ -3907,19 +3985,6 @@
       "genre": "EDM",
       "genre_source": "musicbrainz",
       "url": "https://www.redrocksonline.com/events/dabin-1479059/"
-    },
-    {
-      "id": "emo-s-2026-11-06-two-nights-with-they-might-be-giants",
-      "venue": "Emo's",
-      "list": "Local",
-      "group": "",
-      "date": "2026-11-06",
-      "time": "7:00 PM",
-      "artist": "TWO NIGHTS WITH THEY MIGHT BE GIANTS",
-      "support": "",
-      "genre": "Live Music",
-      "genre_source": "default",
-      "url": "https://www.ticketmaster.com/two-nights-with-they-might-be-austin-texas-11-06-2026/event/3A006487D8DA2D98"
     },
     {
       "id": "silo-dallas-2026-11-06-eric-prydz",
@@ -3946,19 +4011,6 @@
       "genre": "EDM",
       "genre_source": "same artist elsewhere",
       "url": "https://www.redrocksonline.com/events/atliens-1467439/"
-    },
-    {
-      "id": "emo-s-2026-11-07-two-nights-with-they-might-be-giants",
-      "venue": "Emo's",
-      "list": "Local",
-      "group": "",
-      "date": "2026-11-07",
-      "time": "7:00 PM",
-      "artist": "TWO NIGHTS WITH THEY MIGHT BE GIANTS",
-      "support": "",
-      "genre": "Live Music",
-      "genre_source": "default",
-      "url": "https://www.ticketmaster.com/two-nights-with-they-might-be-austin-texas-11-07-2026/event/3A006487D9252E5F"
     },
     {
       "id": "the-regency-ballroom-2026-11-07-lucy-bedroque",
@@ -4011,19 +4063,6 @@
       "genre": "Live Music",
       "genre_source": "default",
       "url": "https://www.redrocksonline.com/events/face-vocal-band-25th-anniversary-concert-1400703/"
-    },
-    {
-      "id": "emo-s-2026-11-09-rival-sons-domestic-bliss-tour",
-      "venue": "Emo's",
-      "list": "Local",
-      "group": "",
-      "date": "2026-11-09",
-      "time": "7:00 PM",
-      "artist": "Rival Sons - Domestic Bliss Tour",
-      "support": "",
-      "genre": "Live Music",
-      "genre_source": "musicbrainz",
-      "url": "https://www.ticketmaster.com/rival-sons-domestic-bliss-tour-austin-texas-11-09-2026/event/3A0064D0FAA324B2"
     },
     {
       "id": "the-regency-ballroom-2026-11-10-yuki-chiba",
@@ -4517,7 +4556,7 @@
       "support": "",
       "genre": "EDM",
       "genre_source": "venue",
-      "url": "https://silodallas.com/events/rl-grime-60254327400"
+      "url": "https://wl.eventim.us/event/RL-GRIME-DALLAS/702474?afflky=SILO"
     },
     {
       "id": "bill-graham-civic-2026-12-05-its-murph",

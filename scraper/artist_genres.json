@@ -639,9 +639,17 @@
     "genre": "Live Music",
     "checked": "2026-08-06"
   },
+  "official 2026 acl nights": {
+    "genre": null,
+    "checked": "2026-08-18"
+  },
   "ohgeesy": {
     "genre": null,
     "checked": "2026-08-06"
+  },
+  "parcels": {
+    "genre": null,
+    "checked": "2026-08-18"
   },
   "patrick topping": {
     "genre": null,
@@ -786,6 +794,10 @@
   "soft cell": {
     "genre": "EDM",
     "checked": "2026-08-06"
+  },
+  "soulwax": {
+    "genre": "EDM",
+    "checked": "2026-08-18"
   },
   "space 92": {
     "genre": "EDM",
