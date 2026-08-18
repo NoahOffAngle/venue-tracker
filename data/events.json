@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-17T19:47:45Z",
+  "generated_at": "2026-08-18T02:37:09Z",
   "lists": [
     "Local",
     "Off Angle"
@@ -74,32 +74,6 @@
   ],
   "events": [
     {
-      "id": "red-rocks-2026-08-17-train-drops-of-jupiter-25-years-in-the-atmosphere",
-      "venue": "Red Rocks",
-      "list": "Off Angle",
-      "group": "Out of State",
-      "date": "2026-08-17",
-      "time": "6:45 PM",
-      "artist": "Train – Drops of Jupiter: 25 years in the Atmosphere",
-      "support": "",
-      "genre": "Live Music",
-      "genre_source": "musicbrainz",
-      "url": "https://www.redrocksonline.com/events/train-drops-of-jupiter-25-years-in-the-atmosphere-1216432/"
-    },
-    {
-      "id": "the-regency-ballroom-2026-08-17-tangerine-dream",
-      "venue": "The Regency Ballroom",
-      "list": "Off Angle",
-      "group": "San Francisco",
-      "date": "2026-08-17",
-      "time": "8:00 PM",
-      "artist": "Tangerine Dream",
-      "support": "",
-      "genre": "EDM",
-      "genre_source": "musicbrainz",
-      "url": "https://www.theregencyballroom.com/events/detail?event_id=1454991"
-    },
-    {
       "id": "red-rocks-2026-08-18-nathaniel-rateliff-with-the-colorado-symphony",
       "venue": "Red Rocks",
       "list": "Off Angle",
@@ -133,20 +107,20 @@
       "date": "2026-08-19",
       "time": "7:00 PM",
       "artist": "ILLENIUM",
-      "support": "",
+      "support": "Tiffany Day (DJ Set), Caster",
       "genre": "EDM",
       "genre_source": "musicbrainz",
       "url": "https://www.redrocksonline.com/events/illenium-1511360/"
     },
     {
-      "id": "the-regency-ballroom-2026-08-19-the-sword",
+      "id": "the-regency-ballroom-2026-08-19-the-sword-red-fang",
       "venue": "The Regency Ballroom",
       "list": "Off Angle",
       "group": "San Francisco",
       "date": "2026-08-19",
       "time": "7:30 PM",
-      "artist": "The Sword",
-      "support": "Red Fang, Spoon Benders",
+      "artist": "The Sword & Red Fang",
+      "support": "Spoon Benders",
       "genre": "Live Music",
       "genre_source": "musicbrainz",
       "url": "https://www.theregencyballroom.com/events/detail?event_id=1415121"
