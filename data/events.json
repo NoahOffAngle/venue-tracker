@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-18T19:46:22Z",
+  "generated_at": "2026-08-19T02:35:46Z",
   "lists": [
     "Local",
     "Off Angle"
@@ -73,32 +73,6 @@
     }
   ],
   "events": [
-    {
-      "id": "red-rocks-2026-08-18-nathaniel-rateliff-with-the-colorado-symphony",
-      "venue": "Red Rocks",
-      "list": "Off Angle",
-      "group": "Out of State",
-      "date": "2026-08-18",
-      "time": "8:00 PM",
-      "artist": "Nathaniel Rateliff with The Colorado Symphony",
-      "support": "Lucius",
-      "genre": "Live Music",
-      "genre_source": "musicbrainz",
-      "url": "https://www.redrocksonline.com/events/nathaniel-rateliff-with-the-colorado-symphony-orchestra-1397027/"
-    },
-    {
-      "id": "the-regency-ballroom-2026-08-18-los-mirlos",
-      "venue": "The Regency Ballroom",
-      "list": "Off Angle",
-      "group": "San Francisco",
-      "date": "2026-08-18",
-      "time": "8:00 PM",
-      "artist": "Los Mirlos",
-      "support": "Discodelica",
-      "genre": "Live Music",
-      "genre_source": "musicbrainz",
-      "url": "https://www.theregencyballroom.com/events/detail?event_id=1443870"
-    },
     {
       "id": "red-rocks-2026-08-19-illenium",
       "venue": "Red Rocks",
@@ -2115,6 +2089,19 @@
       "url": "https://www.redrocksonline.com/events/the-revivalists-1342115/"
     },
     {
+      "id": "the-regency-ballroom-2026-09-25-channel-tres",
+      "venue": "The Regency Ballroom",
+      "list": "Off Angle",
+      "group": "San Francisco",
+      "date": "2026-09-25",
+      "time": "8:00 PM",
+      "artist": "Channel Tres",
+      "support": "JYOTY, Gelli Haha",
+      "genre": "EDM",
+      "genre_source": "musicbrainz",
+      "url": "https://www.theregencyballroom.com/events/detail?event_id=1573661"
+    },
+    {
       "id": "the-concourse-project-2026-09-25-ben-sterling-open-to-close",
       "venue": "The Concourse Project",
       "list": "Local",
@@ -2269,6 +2256,19 @@
       "genre": "EDM",
       "genre_source": "venue",
       "url": "https://wl.eventim.us/event/William-Black-HOUSTON/702024?afflky=DuctworkHouston"
+    },
+    {
+      "id": "the-midway-2026-09-27-horsegiirl-vtss-mgna-crrrta-dj-set-two-shell",
+      "venue": "The Midway",
+      "list": "Off Angle",
+      "group": "San Francisco",
+      "date": "2026-09-27",
+      "time": "10:00 PM",
+      "artist": "horsegiirL, VTSS, MGNA Crrrta (DJ Set) & Two Shell",
+      "support": "",
+      "genre": "EDM",
+      "genre_source": "keyword",
+      "url": "https://dothebay.com/events/2026/9/27/horsegiirl-vtss-mgna-crrrta-dj-set-two-shell-tickets"
     },
     {
       "id": "emo-s-2026-09-27-judah-the-lion",
@@ -3517,19 +3517,6 @@
       "genre": "Live Music",
       "genre_source": "default",
       "url": "https://www.ticketmaster.com/glaive-god-save-the-three-tour-austin-texas-10-23-2026/event/3A0064A6A1E3C66F"
-    },
-    {
-      "id": "the-midway-2026-10-23-chief-keef",
-      "venue": "The Midway",
-      "list": "Off Angle",
-      "group": "San Francisco",
-      "date": "2026-10-23",
-      "time": "8:30 PM",
-      "artist": "Chief Keef",
-      "support": "",
-      "genre": "Live Music",
-      "genre_source": "musicbrainz",
-      "url": "https://dothebay.com/events/2026/10/23/chief-keef-midway-sf-tickets"
     },
     {
       "id": "silo-dallas-2026-10-23-kettama",
