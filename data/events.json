@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-19T14:03:31Z",
+  "generated_at": "2026-08-20T02:33:12Z",
   "lists": [
     "Local",
     "Off Angle"
@@ -73,32 +73,6 @@
     }
   ],
   "events": [
-    {
-      "id": "red-rocks-2026-08-19-illenium",
-      "venue": "Red Rocks",
-      "list": "Off Angle",
-      "group": "Out of State",
-      "date": "2026-08-19",
-      "time": "7:00 PM",
-      "artist": "ILLENIUM",
-      "support": "Tiffany Day (DJ Set), Caster",
-      "genre": "EDM",
-      "genre_source": "musicbrainz",
-      "url": "https://www.redrocksonline.com/events/illenium-1511360/"
-    },
-    {
-      "id": "the-regency-ballroom-2026-08-19-the-sword-red-fang",
-      "venue": "The Regency Ballroom",
-      "list": "Off Angle",
-      "group": "San Francisco",
-      "date": "2026-08-19",
-      "time": "7:30 PM",
-      "artist": "The Sword & Red Fang",
-      "support": "Spoon Benders",
-      "genre": "Live Music",
-      "genre_source": "musicbrainz",
-      "url": "https://www.theregencyballroom.com/events/detail?event_id=1415121"
-    },
     {
       "id": "kingdom-2026-08-20-hard-rubber-pride-edition",
       "venue": "Kingdom",
@@ -2050,6 +2024,19 @@
       "url": "https://kingdomnightclub.com/event/ahmed-spins/kingdom-nightclub/austin-texas/"
     },
     {
+      "id": "the-midway-2026-09-25-neil-frances-dj-set",
+      "venue": "The Midway",
+      "list": "Off Angle",
+      "group": "San Francisco",
+      "date": "2026-09-25",
+      "time": "10:00 PM",
+      "artist": "NEIL FRANCES (DJ SET)",
+      "support": "",
+      "genre": "EDM",
+      "genre_source": "keyword",
+      "url": "https://dothebay.com/events/2026/9/25/neil-frances-dj-set-tickets"
+    },
+    {
       "id": "under-the-k-bridge-2026-09-25-the-prodigy",
       "venue": "Under the K Bridge",
       "list": "Off Angle",
@@ -2258,13 +2245,13 @@
       "url": "https://wl.eventim.us/event/William-Black-HOUSTON/702024?afflky=DuctworkHouston"
     },
     {
-      "id": "the-midway-2026-09-27-horsegiirl-vtss-mgna-crrrta-dj-set-two-shell",
+      "id": "the-midway-2026-09-27-horsegiirl-vtss-mgna-crrrta-dj-set-two-shell-kavari",
       "venue": "The Midway",
       "list": "Off Angle",
       "group": "San Francisco",
       "date": "2026-09-27",
       "time": "10:00 PM",
-      "artist": "horsegiirL, VTSS, MGNA Crrrta (DJ Set) & Two Shell",
+      "artist": "horsegiirL, VTSS, MGNA Crrrta (DJ Set), Two Shell, Kavari",
       "support": "",
       "genre": "EDM",
       "genre_source": "keyword",
@@ -3231,19 +3218,6 @@
       "genre": "EDM",
       "genre_source": "venue",
       "url": "https://wl.eventim.us/event/SABAI-x-HOANG-HOUSTON/699331?afflky=DuctworkHouston&eventpass=CHANCE"
-    },
-    {
-      "id": "the-midway-2026-10-17-yheti-toadface-present-sleight-of-sound-tour",
-      "venue": "The Midway",
-      "list": "Off Angle",
-      "group": "San Francisco",
-      "date": "2026-10-17",
-      "time": "10:00 PM",
-      "artist": "Yheti & Toadface present Sleight of Sound Tour",
-      "support": "",
-      "genre": "EDM",
-      "genre_source": "musicbrainz",
-      "url": "https://dothebay.com/events/2026/10/17/yheti-toadface-present-sleight-of-sound-tour-tickets"
     },
     {
       "id": "under-the-k-bridge-2026-10-17-gryffin",
@@ -4374,7 +4348,7 @@
       "support": "",
       "genre": "EDM",
       "genre_source": "venue",
-      "url": "https://silodallas.com/events/josh-fawaz-60384467503"
+      "url": "https://wl.eventim.us/event/Josh-Fawaz-DALLAS/702593?afflky=DiscoPresents-Ductwork"
     },
     {
       "id": "the-regency-ballroom-2026-11-23-gary-numan",
@@ -4440,6 +4414,19 @@
       "genre": "EDM",
       "genre_source": "venue",
       "url": "https://wl.eventim.us/event/Virtual-Riot-and-Blanke-DALLAS/695833?afflky=SILO"
+    },
+    {
+      "id": "the-regency-ballroom-2026-11-27-amtrac",
+      "venue": "The Regency Ballroom",
+      "list": "Off Angle",
+      "group": "San Francisco",
+      "date": "2026-11-27",
+      "time": "8:00 PM",
+      "artist": "Amtrac",
+      "support": "",
+      "genre": "EDM",
+      "genre_source": "musicbrainz",
+      "url": "https://www.theregencyballroom.com/events/detail?event_id=1566122"
     },
     {
       "id": "silo-dallas-2026-11-27-deathpact",
