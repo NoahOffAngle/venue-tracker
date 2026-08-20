@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-20T14:05:37Z",
+  "generated_at": "2026-08-20T19:51:23Z",
   "lists": [
     "Local",
     "Off Angle"
@@ -1192,6 +1192,19 @@
       "url": "https://www.redrocksonline.com/events/cole-swindell-1336373/"
     },
     {
+      "id": "kingdom-2026-09-10-deeper-state",
+      "venue": "Kingdom",
+      "list": "Local",
+      "group": "",
+      "date": "2026-09-10",
+      "time": "10:00 PM",
+      "artist": "Deeper State",
+      "support": "",
+      "genre": "EDM",
+      "genre_source": "venue leaning",
+      "url": "https://kingdomnightclub.com/event/deeper-state-3/kingdom-nightclub/austin-texas/"
+    },
+    {
       "id": "red-rocks-2026-09-10-sofi-tukker",
       "venue": "Red Rocks",
       "list": "Off Angle",
@@ -1905,19 +1918,6 @@
       "genre": "EDM",
       "genre_source": "musicbrainz",
       "url": "https://www.redrocksonline.com/events/foster-the-people-good-mourning-sunshine-tour-1425598/"
-    },
-    {
-      "id": "emo-s-2026-09-23-isaiah-falls-presents-lvrs-paradise-side-b-tour",
-      "venue": "Emo's",
-      "list": "Local",
-      "group": "",
-      "date": "2026-09-23",
-      "time": "7:00 PM",
-      "artist": "ISAIAH FALLS PRESENTS: LVRS PARADISE - SIDE B TOUR",
-      "support": "",
-      "genre": "Live Music",
-      "genre_source": "musicbrainz",
-      "url": "https://www.ticketmaster.com/isaiah-falls-presents-lvrs-paradise-side-austin-texas-09-23-2026/event/3A0064CA309ABE15"
     },
     {
       "id": "bill-graham-civic-2026-09-23-ken-carson",
@@ -2934,6 +2934,19 @@
       "url": "https://wl.eventim.us/event/PROSPA-DALLAS/702146?afflky=SILO"
     },
     {
+      "id": "silo-houston-2026-10-10-adventure-club",
+      "venue": "Silo Houston",
+      "list": "Local",
+      "group": "",
+      "date": "2026-10-10",
+      "time": "9:00 PM",
+      "artist": "Adventure Club",
+      "support": "",
+      "genre": "EDM",
+      "genre_source": "venue",
+      "url": "https://wl.eventim.us/event/Eric-Prydz-HOUSTON/701600?afflky=DuctworkHouston&eventpass=PUSSPUSS"
+    },
+    {
       "id": "red-rocks-2026-10-11-cement-gardens",
       "venue": "Red Rocks",
       "list": "Off Angle",
@@ -3688,6 +3701,19 @@
       "url": "https://www.redrocksonline.com/events/cypress-hill-method-man-redman-haunted-rocks-1286404/"
     },
     {
+      "id": "the-regency-ballroom-2026-10-29-bleood",
+      "venue": "The Regency Ballroom",
+      "list": "Off Angle",
+      "group": "San Francisco",
+      "date": "2026-10-29",
+      "time": "8:00 PM",
+      "artist": "bleood",
+      "support": "",
+      "genre": "Live Music",
+      "genre_source": "default",
+      "url": "https://www.theregencyballroom.com/events/detail?event_id=1575409"
+    },
+    {
       "id": "silo-dallas-2026-10-29-massano",
       "venue": "Silo Dallas",
       "list": "Local",
@@ -3922,6 +3948,19 @@
       "url": "https://www.redrocksonline.com/events/joshua-slone-1392035/"
     },
     {
+      "id": "emo-s-2026-11-05-bonobo-distance-in-static-live-north-american-tour",
+      "venue": "Emo's",
+      "list": "Local",
+      "group": "",
+      "date": "2026-11-05",
+      "time": "7:00 PM",
+      "artist": "Bonobo: Distance in Static Live North American Tour",
+      "support": "",
+      "genre": "EDM",
+      "genre_source": "musicbrainz",
+      "url": "https://www.ticketmaster.com/bonobo-distance-in-static-live-north-austin-texas-11-05-2026/event/3A0064C1E068D3A4"
+    },
+    {
       "id": "the-regency-ballroom-2026-11-05-the-black-angels",
       "venue": "The Regency Ballroom",
       "list": "Off Angle",
@@ -3958,7 +3997,7 @@
       "support": "",
       "genre": "EDM",
       "genre_source": "venue",
-      "url": "https://silodallas.com/events/eric-prydz-60169637144"
+      "url": "https://wl.eventim.us/event/ERIC-PRYDZ-DALLAS/701602?afflky=SILO&eventpass=pusspuss"
     },
     {
       "id": "red-rocks-2026-11-07-atliens",
@@ -4010,7 +4049,7 @@
       "support": "",
       "genre": "EDM",
       "genre_source": "venue",
-      "url": "https://wl.eventim.us/event/LSRCITY-X-by-Gareth-Emery-HOUSTON/697705?afflky=DuctworkHouston&EVENTPASS=LCGAX"
+      "url": "https://wl.eventim.us/event/Eric-Prydz-HOUSTON/701600?afflky=DuctworkHouston&eventpass=PUSSPUSS"
     },
     {
       "id": "red-rocks-2026-11-08-face-vocal-band-25th-anniversary-concert",

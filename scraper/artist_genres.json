@@ -87,6 +87,10 @@
     "genre": "Live Music",
     "checked": "2026-08-06"
   },
+  "bleood": {
+    "genre": null,
+    "checked": "2026-08-20"
+  },
   "blue october": {
     "genre": "Live Music",
     "checked": "2026-08-06"
@@ -234,6 +238,10 @@
   "deadmau5": {
     "genre": "EDM",
     "checked": "2026-08-06"
+  },
+  "deeper state": {
+    "genre": null,
+    "checked": "2026-08-20"
   },
   "dennis ferrer": {
     "genre": null,
