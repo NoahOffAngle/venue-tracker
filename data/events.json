@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-21T08:02:20Z",
+  "generated_at": "2026-08-21T14:03:40Z",
   "lists": [
     "Local",
     "Off Angle"
@@ -3181,6 +3181,19 @@
       "url": "https://wl.eventim.us/event/SABAI-x-HOANG-HOUSTON/699331?afflky=DuctworkHouston&eventpass=CHANCE"
     },
     {
+      "id": "the-midway-2026-10-17-yheti-toadface-present-sleight-of-sound-tour",
+      "venue": "The Midway",
+      "list": "Off Angle",
+      "group": "San Francisco",
+      "date": "2026-10-17",
+      "time": "10:00 PM",
+      "artist": "Yheti & Toadface present Sleight of Sound Tour",
+      "support": "",
+      "genre": "EDM",
+      "genre_source": "musicbrainz",
+      "url": "https://dothebay.com/events/2026/10/17/yheti-toadface-present-sleight-of-sound-tour-tickets"
+    },
+    {
       "id": "under-the-k-bridge-2026-10-17-gryffin",
       "venue": "Under the K Bridge",
       "list": "Off Angle",
@@ -4024,6 +4037,19 @@
       "genre": "Live Music",
       "genre_source": "default",
       "url": "https://www.redrocksonline.com/events/face-vocal-band-25th-anniversary-concert-1400703/"
+    },
+    {
+      "id": "the-regency-ballroom-2026-11-08-nia-archives",
+      "venue": "The Regency Ballroom",
+      "list": "Off Angle",
+      "group": "San Francisco",
+      "date": "2026-11-08",
+      "time": "8:00 PM",
+      "artist": "Nia Archives",
+      "support": "",
+      "genre": "EDM",
+      "genre_source": "musicbrainz",
+      "url": "https://www.theregencyballroom.com/events/detail?event_id=1581521"
     },
     {
       "id": "the-regency-ballroom-2026-11-10-yuki-chiba",
