@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-20T19:51:23Z",
+  "generated_at": "2026-08-21T02:39:40Z",
   "lists": [
     "Local",
     "Off Angle"
@@ -73,58 +73,6 @@
     }
   ],
   "events": [
-    {
-      "id": "kingdom-2026-08-20-hard-rubber-pride-edition",
-      "venue": "Kingdom",
-      "list": "Local",
-      "group": "",
-      "date": "2026-08-20",
-      "time": "10:00 PM",
-      "artist": "HARD RUBBER PRIDE EDITION",
-      "support": "",
-      "genre": "EDM",
-      "genre_source": "venue leaning",
-      "url": "https://kingdomnightclub.com/event/hard-rubber-pride-edition/kingdom-nightclub/austin-texas/"
-    },
-    {
-      "id": "red-rocks-2026-08-20-tori-amos-in-times-of-dragons-tour",
-      "venue": "Red Rocks",
-      "list": "Off Angle",
-      "group": "Out of State",
-      "date": "2026-08-20",
-      "time": "8:00 PM",
-      "artist": "Tori Amos – In Times of Dragons Tour",
-      "support": "Bartees Strange",
-      "genre": "Live Music",
-      "genre_source": "musicbrainz",
-      "url": "https://www.redrocksonline.com/events/tori-amos-in-times-of-dragons-tour-1273581/"
-    },
-    {
-      "id": "the-midway-2026-08-20-silk-the-midway-present-dj-swisha",
-      "venue": "The Midway",
-      "list": "Off Angle",
-      "group": "San Francisco",
-      "date": "2026-08-20",
-      "time": "8:00 PM",
-      "artist": "SILK & The Midway present: DJ SWISHA",
-      "support": "",
-      "genre": "EDM",
-      "genre_source": "venue leaning",
-      "url": "https://dothebay.com/events/2026/8/20/silk-the-midway-present-dj-swisha-tickets"
-    },
-    {
-      "id": "silo-dallas-2026-08-20-rebuke",
-      "venue": "Silo Dallas",
-      "list": "Local",
-      "group": "",
-      "date": "2026-08-20",
-      "time": "9:00 PM",
-      "artist": "Rebūke",
-      "support": "",
-      "genre": "EDM",
-      "genre_source": "venue",
-      "url": "https://wl.eventim.us/event/REBUKE-DALLAS/691745?afflky=DiscoPresents-Ductwork"
-    },
     {
       "id": "kingdom-2026-08-21-mat-zo",
       "venue": "Kingdom",
@@ -3985,6 +3933,19 @@
       "genre": "EDM",
       "genre_source": "musicbrainz",
       "url": "https://www.redrocksonline.com/events/dabin-1479059/"
+    },
+    {
+      "id": "the-regency-ballroom-2026-11-06-lucy-bedroque",
+      "venue": "The Regency Ballroom",
+      "list": "Off Angle",
+      "group": "San Francisco",
+      "date": "2026-11-06",
+      "time": "8:00 PM",
+      "artist": "Lucy Bedroque",
+      "support": "pinponpanpon",
+      "genre": "Live Music",
+      "genre_source": "default",
+      "url": "https://www.theregencyballroom.com/events/detail?event_id=1580816"
     },
     {
       "id": "silo-dallas-2026-11-06-eric-prydz",
