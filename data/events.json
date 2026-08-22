@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-22T07:50:46Z",
+  "generated_at": "2026-08-22T13:48:39Z",
   "lists": [
     "Local",
     "Off Angle"
@@ -2284,6 +2284,19 @@
       "url": "https://wl.eventim.us/event/Hybrid-Minds-DALLAS/699781?afflky=DiscoPresents-Ductwork"
     },
     {
+      "id": "the-concourse-project-2026-10-01-official-2026-acl-fest-nights-the-chainsmokers",
+      "venue": "The Concourse Project",
+      "list": "Local",
+      "group": "",
+      "date": "2026-10-01",
+      "time": "9:00 PM",
+      "artist": "Official 2026 ACL Fest Nights: The Chainsmokers",
+      "support": "",
+      "genre": "EDM",
+      "genre_source": "site",
+      "url": "https://wl.seetickets.us/event/Official-2026-ACL-Fest-Nights-The-Chainsmokers/701286?afflky=TheConcourseProject"
+    },
+    {
       "id": "red-rocks-2026-10-02-levity-presents-levi-rocks-the-volcano",
       "venue": "Red Rocks",
       "list": "Off Angle",
@@ -3376,6 +3389,19 @@
       "url": "https://www.ticketmaster.com/glaive-god-save-the-three-tour-austin-texas-10-23-2026/event/3A0064A6A1E3C66F"
     },
     {
+      "id": "the-midway-2026-10-23-chief-keef",
+      "venue": "The Midway",
+      "list": "Off Angle",
+      "group": "San Francisco",
+      "date": "2026-10-23",
+      "time": "8:30 PM",
+      "artist": "Chief Keef",
+      "support": "",
+      "genre": "Live Music",
+      "genre_source": "musicbrainz",
+      "url": "https://dothebay.com/events/2026/10/23/chief-keef-midway-sf-tickets"
+    },
+    {
       "id": "silo-dallas-2026-10-23-kettama",
       "venue": "Silo Dallas",
       "list": "Local",
@@ -3387,6 +3413,19 @@
       "genre": "EDM",
       "genre_source": "venue",
       "url": "https://wl.eventim.us/event/KETTAMA-DALLAS/691502?afflky=SILO"
+    },
+    {
+      "id": "the-midway-2026-10-23-riot-the-machine-world-tour",
+      "venue": "The Midway",
+      "list": "Off Angle",
+      "group": "San Francisco",
+      "date": "2026-10-23",
+      "time": "9:00 PM",
+      "artist": "RIOT - The Machine World Tour",
+      "support": "",
+      "genre": "EDM",
+      "genre_source": "venue leaning",
+      "url": "https://dothebay.com/events/2026/10/23/riot-the-machine-world-tour-tickets"
     },
     {
       "id": "red-rocks-2026-10-24-jade-cicada-mickman",
