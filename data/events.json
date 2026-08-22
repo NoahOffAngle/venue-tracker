@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-21T19:44:04Z",
+  "generated_at": "2026-08-22T02:30:30Z",
   "lists": [
     "Local",
     "Off Angle"
@@ -73,110 +73,6 @@
     }
   ],
   "events": [
-    {
-      "id": "kingdom-2026-08-21-mat-zo",
-      "venue": "Kingdom",
-      "list": "Local",
-      "group": "",
-      "date": "2026-08-21",
-      "time": "10:00 PM",
-      "artist": "Mat Zo",
-      "support": "",
-      "genre": "EDM",
-      "genre_source": "musicbrainz",
-      "url": "https://kingdomnightclub.com/event/mat-zo-2/kingdom-nightclub/austin-texas/"
-    },
-    {
-      "id": "the-midway-2026-08-21-thank-u-next-ariana-grande-dance-night",
-      "venue": "The Midway",
-      "list": "Off Angle",
-      "group": "San Francisco",
-      "date": "2026-08-21",
-      "time": "10:00 PM",
-      "artist": "THANK U NEXT (Ariana Grande Dance Night)",
-      "support": "",
-      "genre": "EDM",
-      "genre_source": "venue leaning",
-      "url": "https://dothebay.com/events/2026/8/21/thank-u-next-ariana-grande-dance-night-tickets"
-    },
-    {
-      "id": "emo-s-2026-08-21-st-lucia",
-      "venue": "Emo's",
-      "list": "Local",
-      "group": "",
-      "date": "2026-08-21",
-      "time": "7:00 PM",
-      "artist": "St. Lucia",
-      "support": "",
-      "genre": "Live Music",
-      "genre_source": "default",
-      "url": "https://www.ticketmaster.com/st-lucia-austin-texas-08-21-2026/event/3A00649DC7278903"
-    },
-    {
-      "id": "red-rocks-2026-08-21-grupo-frontera-triste-pero-bien-c-bron-tour",
-      "venue": "Red Rocks",
-      "list": "Off Angle",
-      "group": "Out of State",
-      "date": "2026-08-21",
-      "time": "7:30 PM",
-      "artist": "Grupo Frontera – Triste Pero Bien C*bron Tour",
-      "support": "",
-      "genre": "Live Music",
-      "genre_source": "musicbrainz",
-      "url": "https://www.redrocksonline.com/events/grupo-frontera-1357846/"
-    },
-    {
-      "id": "the-regency-ballroom-2026-08-21-anees",
-      "venue": "The Regency Ballroom",
-      "list": "Off Angle",
-      "group": "San Francisco",
-      "date": "2026-08-21",
-      "time": "8:00 PM",
-      "artist": "anees",
-      "support": "Michael Minelli, Sammy Shiblaq",
-      "genre": "Live Music",
-      "genre_source": "musicbrainz",
-      "url": "https://www.theregencyballroom.com/events/detail?event_id=1443716"
-    },
-    {
-      "id": "silo-dallas-2026-08-21-nghtmre",
-      "venue": "Silo Dallas",
-      "list": "Local",
-      "group": "",
-      "date": "2026-08-21",
-      "time": "9:00 PM",
-      "artist": "NGHTMRE",
-      "support": "",
-      "genre": "EDM",
-      "genre_source": "venue",
-      "url": "https://wl.eventim.us/event/NGHTMRE-DALLAS/689703?afflky=SILO"
-    },
-    {
-      "id": "the-concourse-project-2026-08-21-azzecca-extended-set-william-kiss-austin",
-      "venue": "The Concourse Project",
-      "list": "Local",
-      "group": "",
-      "date": "2026-08-21",
-      "time": "9:00 PM",
-      "artist": "Azzecca (Extended Set) + William Kiss | Austin",
-      "support": "Azzecca, William Kiss",
-      "genre": "EDM",
-      "genre_source": "site",
-      "url": "https://wl.seetickets.us/event/Azzecca-Extended-Set-William-Kiss-Austin/690783?afflky=TheConcourseProject"
-    },
-    {
-      "id": "the-midway-2026-08-21-banda-rave",
-      "venue": "The Midway",
-      "list": "Off Angle",
-      "group": "San Francisco",
-      "date": "2026-08-21",
-      "time": "9:00 PM",
-      "artist": "Banda Rave",
-      "support": "",
-      "genre": "EDM",
-      "genre_source": "keyword",
-      "url": "https://dothebay.com/events/2026/8/21/perreo-electrico-presents-banda-rave-tickets"
-    },
     {
       "id": "kingdom-2026-08-22-patrick-topping",
       "venue": "Kingdom",
