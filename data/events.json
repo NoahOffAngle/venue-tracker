@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-22T02:30:30Z",
+  "generated_at": "2026-08-22T07:50:46Z",
   "lists": [
     "Local",
     "Off Angle"
@@ -1270,19 +1270,6 @@
       "url": "https://wl.eventim.us/event/FLOSSTRADAMUS-HOUSTON/700584?afflky=DuctworkHouston"
     },
     {
-      "id": "the-concourse-project-2026-09-12-natte-visstick",
-      "venue": "The Concourse Project",
-      "list": "Local",
-      "group": "",
-      "date": "2026-09-12",
-      "time": "9:00 PM",
-      "artist": "Natte Visstick",
-      "support": "",
-      "genre": "EDM",
-      "genre_source": "site",
-      "url": "https://wl.seetickets.us/event/Natte-Visstick-at-The-Concourse-Project-The-Hangar/699829?afflky=TheConcourseProject"
-    },
-    {
       "id": "the-concourse-project-2026-09-12-lsr-city-x-by-gareth-emery",
       "venue": "The Concourse Project",
       "list": "Local",
@@ -1294,6 +1281,19 @@
       "genre": "EDM",
       "genre_source": "site",
       "url": "https://wl.seetickets.us/event/LSRCITY-X-by-Gareth-Emery-at-The-Concourse-Project/690066?afflky=TheConcourseProject"
+    },
+    {
+      "id": "the-concourse-project-2026-09-12-natte-visstick",
+      "venue": "The Concourse Project",
+      "list": "Local",
+      "group": "",
+      "date": "2026-09-12",
+      "time": "9:00 PM",
+      "artist": "Natte Visstick",
+      "support": "",
+      "genre": "EDM",
+      "genre_source": "site",
+      "url": "https://wl.seetickets.us/event/Natte-Visstick-at-The-Concourse-Project-The-Hangar/699829?afflky=TheConcourseProject"
     },
     {
       "id": "red-rocks-2026-09-13-brandi-carlile",
@@ -3855,6 +3855,19 @@
       "genre": "EDM",
       "genre_source": "musicbrainz",
       "url": "https://www.redrocksonline.com/events/dabin-1479059/"
+    },
+    {
+      "id": "emo-s-2026-11-06-two-nights-with-they-might-be-giants",
+      "venue": "Emo's",
+      "list": "Local",
+      "group": "",
+      "date": "2026-11-06",
+      "time": "7:00 PM",
+      "artist": "TWO NIGHTS WITH THEY MIGHT BE GIANTS",
+      "support": "",
+      "genre": "Live Music",
+      "genre_source": "default",
+      "url": "https://www.ticketmaster.com/two-nights-with-they-might-be-austin-texas-11-06-2026/event/3A006487D8DA2D98"
     },
     {
       "id": "the-regency-ballroom-2026-11-06-lucy-bedroque",
