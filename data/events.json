@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-22T19:42:06Z",
+  "generated_at": "2026-08-23T02:39:47Z",
   "lists": [
     "Local",
     "Off Angle"
@@ -73,97 +73,6 @@
     }
   ],
   "events": [
-    {
-      "id": "kingdom-2026-08-22-patrick-topping",
-      "venue": "Kingdom",
-      "list": "Local",
-      "group": "",
-      "date": "2026-08-22",
-      "time": "10:00 PM",
-      "artist": "Patrick Topping",
-      "support": "",
-      "genre": "EDM",
-      "genre_source": "venue leaning",
-      "url": "https://kingdomnightclub.com/event/patrick-topping/kingdom-nightclub/austin-texas/"
-    },
-    {
-      "id": "the-midway-2026-08-22-discip",
-      "venue": "The Midway",
-      "list": "Off Angle",
-      "group": "San Francisco",
-      "date": "2026-08-22",
-      "time": "10:00 PM",
-      "artist": "Discip",
-      "support": "",
-      "genre": "EDM",
-      "genre_source": "venue leaning",
-      "url": "https://dothebay.com/events/2026/8/22/discip-tickets"
-    },
-    {
-      "id": "red-rocks-2026-08-22-reggae-on-the-rocks",
-      "venue": "Red Rocks",
-      "list": "Off Angle",
-      "group": "Out of State",
-      "date": "2026-08-22",
-      "time": "3:00 PM",
-      "artist": "Reggae on the Rocks",
-      "support": "Rebelution, MAOLI, Skip Marley, Third World, Etana, Judge Roughneck",
-      "genre": "Live Music",
-      "genre_source": "default",
-      "url": "https://www.redrocksonline.com/events/reggae-on-the-rocks-2026-1313694/"
-    },
-    {
-      "id": "emo-s-2026-08-22-hayla",
-      "venue": "Emo's",
-      "list": "Local",
-      "group": "",
-      "date": "2026-08-22",
-      "time": "7:00 PM",
-      "artist": "Hayla",
-      "support": "",
-      "genre": "Live Music",
-      "genre_source": "default",
-      "url": "https://www.ticketmaster.com/hayla-austin-texas-08-22-2026/event/3A006497334F9BB8"
-    },
-    {
-      "id": "under-the-k-bridge-2026-08-22-levity-tape-b",
-      "venue": "Under the K Bridge",
-      "list": "Off Angle",
-      "group": "Out of State",
-      "date": "2026-08-22",
-      "time": "7:00 PM",
-      "artist": "Levity & Tape B",
-      "support": "Solo sets from Levity & Tape B + closing LEVITAPE b2b set, Effin",
-      "genre": "EDM",
-      "genre_source": "keyword",
-      "url": "https://underthekbridge.org/events/detail?event_id=1289467"
-    },
-    {
-      "id": "the-concourse-project-2026-08-22-eazybaked-distinct-motive-with-special-guests-austin",
-      "venue": "The Concourse Project",
-      "list": "Local",
-      "group": "",
-      "date": "2026-08-22",
-      "time": "8:00 PM",
-      "artist": "Eazybaked + Distinct Motive with Special Guests | Austin",
-      "support": "EAZYBAKED, Distinct Motive, Richard Finger, Mindset, Day n Knight",
-      "genre": "EDM",
-      "genre_source": "site",
-      "url": "https://wl.seetickets.us/event/Eazybaked-Distinct-Motive-with-Special-Guests-Austin/689665?afflky=TheConcourseProject"
-    },
-    {
-      "id": "silo-dallas-2026-08-22-dr-fresch",
-      "venue": "Silo Dallas",
-      "list": "Local",
-      "group": "",
-      "date": "2026-08-22",
-      "time": "9:00 PM",
-      "artist": "Dr. Fresch",
-      "support": "",
-      "genre": "EDM",
-      "genre_source": "venue",
-      "url": "https://wl.eventim.us/event/DR-FRESCH-PRESENTS-THE-BASS-OPERATION-DALLAS/667517?afflky=SILO"
-    },
     {
       "id": "the-midway-2026-08-23-5th-annual-green-party",
       "venue": "The Midway",
