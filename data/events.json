@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-23T07:52:21Z",
+  "generated_at": "2026-08-23T13:50:20Z",
   "lists": [
     "Local",
     "Off Angle"
@@ -2284,6 +2284,19 @@
       "url": "https://wl.eventim.us/event/GORGON-CITY-HOUSTON/701070?afflky=DuctworkHouston&EVENTPASS=CONTACT"
     },
     {
+      "id": "the-concourse-project-2026-10-02-official-2026-acl-fest-nights-steve-aoki",
+      "venue": "The Concourse Project",
+      "list": "Local",
+      "group": "",
+      "date": "2026-10-02",
+      "time": "9:00 PM",
+      "artist": "Official 2026 ACL Fest Nights: Steve Aoki",
+      "support": "Elephante, Riot Ten",
+      "genre": "EDM",
+      "genre_source": "site",
+      "url": "https://wl.seetickets.us/event/Official-2026-ACL-Fest-Nights-Steve-Aoki/701292?afflky=TheConcourseProject"
+    },
+    {
       "id": "the-midway-2026-10-02-taiwan-golden-melody-night",
       "venue": "The Midway",
       "list": "Off Angle",
@@ -3335,6 +3348,19 @@
       "genre": "EDM",
       "genre_source": "venue leaning",
       "url": "https://dothebay.com/events/2026/10/23/riot-the-machine-world-tour-tickets"
+    },
+    {
+      "id": "the-midway-2026-10-24-marc-rebillet-franc-moody-chromeo",
+      "venue": "The Midway",
+      "list": "Off Angle",
+      "group": "San Francisco",
+      "date": "2026-10-24",
+      "time": "3:00 PM",
+      "artist": "Marc Rebillet, Franc Moody & Chromeo",
+      "support": "",
+      "genre": "EDM",
+      "genre_source": "venue leaning",
+      "url": "https://dothebay.com/events/2026/10/24/marc-rebillet-franc-moody-chromeo-tickets"
     },
     {
       "id": "red-rocks-2026-10-24-jade-cicada-mickman",
