@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-24T08:09:15Z",
+  "generated_at": "2026-08-24T14:08:44Z",
   "lists": [
     "Local",
     "Off Angle"
@@ -3543,6 +3543,19 @@
       "genre": "Live Music",
       "genre_source": "default",
       "url": "https://www.theregencyballroom.com/events/detail?event_id=1528369"
+    },
+    {
+      "id": "the-midway-2026-10-30-lost-in-dreams-block-party",
+      "venue": "The Midway",
+      "list": "Off Angle",
+      "group": "San Francisco",
+      "date": "2026-10-30",
+      "time": "5:00 PM",
+      "artist": "Lost In Dreams Block Party",
+      "support": "Marshmello",
+      "genre": "EDM",
+      "genre_source": "keyword",
+      "url": "https://dothebay.com/events/2026/10/30/lost-in-dreams-block-party-tickets"
     },
     {
       "id": "red-rocks-2026-10-30-deadmau5",
