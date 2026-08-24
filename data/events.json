@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-24T14:08:44Z",
+  "generated_at": "2026-08-24T19:50:00Z",
   "lists": [
     "Local",
     "Off Angle"
@@ -1426,6 +1426,19 @@
       "url": "https://dothebay.com/events/2026/9/19/satin-jackets-tickets"
     },
     {
+      "id": "red-rocks-2026-09-19-atmosphere-friends-colorado",
+      "venue": "Red Rocks",
+      "list": "Off Angle",
+      "group": "Out of State",
+      "date": "2026-09-19",
+      "time": "6:00 PM",
+      "artist": "Atmosphere & FRIENDS: COLORADO",
+      "support": "",
+      "genre": "Live Music",
+      "genre_source": "musicbrainz",
+      "url": "https://www.redrocksonline.com/events/atmosphere-friends-colorado-1438401/"
+    },
+    {
       "id": "bill-graham-civic-2026-09-19-steve-aoki",
       "venue": "Bill Graham Civic",
       "list": "Off Angle",
@@ -1450,19 +1463,6 @@
       "genre": "Live Music",
       "genre_source": "musicbrainz",
       "url": "https://www.ticketmaster.com/isaiah-rashad-lil-sunnys-awful-road-austin-texas-09-19-2026/event/3A0064CCB837D46A"
-    },
-    {
-      "id": "red-rocks-2026-09-19-atmosphere-friends-colorado",
-      "venue": "Red Rocks",
-      "list": "Off Angle",
-      "group": "Out of State",
-      "date": "2026-09-19",
-      "time": "7:00 PM",
-      "artist": "Atmosphere & FRIENDS: COLORADO",
-      "support": "",
-      "genre": "Live Music",
-      "genre_source": "musicbrainz",
-      "url": "https://www.redrocksonline.com/events/atmosphere-friends-colorado-1438401/"
     },
     {
       "id": "under-the-k-bridge-2026-09-19-tove-lo",
@@ -3074,7 +3074,7 @@
       "support": "",
       "genre": "EDM",
       "genre_source": "venue",
-      "url": "https://silodallas.com/events/borgeous-60526018426"
+      "url": "https://wl.eventim.us/event/Borgeous-DALLAS/703105?afflky=DiscoPresents-Ductwork"
     },
     {
       "id": "the-regency-ballroom-2026-10-18-she-wants-revenge",
@@ -3584,6 +3584,19 @@
       "url": "https://wl.eventim.us/event/Adriatique-DALLAS/695269?afflky=SILO"
     },
     {
+      "id": "silo-houston-2026-10-30-nora-en-pure",
+      "venue": "Silo Houston",
+      "list": "Local",
+      "group": "",
+      "date": "2026-10-30",
+      "time": "9:00 PM",
+      "artist": "Nora En Pure",
+      "support": "",
+      "genre": "EDM",
+      "genre_source": "venue",
+      "url": "https://wl.eventim.us/event/LSRCITY-X-by-Gareth-Emery-HOUSTON/697705?afflky=DuctworkHouston&EVENTPASS=LCGAX"
+    },
+    {
       "id": "cow-palace-2026-10-31-knocked-loose",
       "venue": "Cow Palace",
       "list": "Off Angle",
@@ -3738,6 +3751,19 @@
       "genre": "Live Music",
       "genre_source": "default",
       "url": "https://www.redrocksonline.com/events/joshua-slone-1392035/"
+    },
+    {
+      "id": "bill-graham-civic-2026-11-05-moby",
+      "venue": "Bill Graham Civic",
+      "list": "Off Angle",
+      "group": "San Francisco",
+      "date": "2026-11-05",
+      "time": "7:00 PM",
+      "artist": "Moby",
+      "support": "Azzecca, DJ Holographic",
+      "genre": "EDM",
+      "genre_source": "musicbrainz",
+      "url": "https://billgrahamcivic.com/events/moby-261105"
     },
     {
       "id": "emo-s-2026-11-05-bonobo-distance-in-static-live-north-american-tour",
@@ -4440,6 +4466,32 @@
       "genre": "Live Music",
       "genre_source": "default",
       "url": "https://billgrahamcivic.com/events/its-murph-261205"
+    },
+    {
+      "id": "silo-dallas-2026-12-05-rupaul",
+      "venue": "Silo Dallas",
+      "list": "Local",
+      "group": "",
+      "date": "2026-12-05",
+      "time": "9:00 PM",
+      "artist": "RuPaul",
+      "support": "",
+      "genre": "EDM",
+      "genre_source": "venue",
+      "url": "https://silodallas.com/events/rupaul-60526147417"
+    },
+    {
+      "id": "silo-dallas-2026-12-06-awen-hybrid",
+      "venue": "Silo Dallas",
+      "list": "Local",
+      "group": "",
+      "date": "2026-12-06",
+      "time": "7:00 PM",
+      "artist": "AWEN Hybrid",
+      "support": "",
+      "genre": "EDM",
+      "genre_source": "venue",
+      "url": "https://silodallas.com/events/awen-hybrid-60514783027"
     },
     {
       "id": "silo-houston-2026-12-11-sidepiece",
