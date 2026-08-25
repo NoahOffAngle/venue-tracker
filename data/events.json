@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-24T19:50:00Z",
+  "generated_at": "2026-08-25T02:33:52Z",
   "lists": [
     "Local",
     "Off Angle"
@@ -73,19 +73,6 @@
     }
   ],
   "events": [
-    {
-      "id": "red-rocks-2026-08-24-santana-oneness-tour-2026",
-      "venue": "Red Rocks",
-      "list": "Off Angle",
-      "group": "Out of State",
-      "date": "2026-08-24",
-      "time": "7:00 PM",
-      "artist": "Santana – Oneness Tour 2026",
-      "support": "",
-      "genre": "Live Music",
-      "genre_source": "musicbrainz",
-      "url": "https://www.redrocksonline.com/events/santana-oneness-tour-2026-1471220/"
-    },
     {
       "id": "red-rocks-2026-08-25-ian-munsick",
       "venue": "Red Rocks",
@@ -1212,7 +1199,7 @@
       "date": "2026-09-15",
       "time": "7:00 PM",
       "artist": "Acid Bath & Ministry",
-      "support": "Twin Tribes, Windhand",
+      "support": "Twin Tribes, Windhand, Cephalic Carnage",
       "genre": "Live Music",
       "genre_source": "musicbrainz",
       "url": "https://www.redrocksonline.com/events/acid-bath-ministry-1483173/"
