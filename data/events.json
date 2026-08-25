@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-25T08:04:41Z",
+  "generated_at": "2026-08-25T14:10:23Z",
   "lists": [
     "Local",
     "Off Angle"
@@ -3153,6 +3153,19 @@
       "genre": "Live Music",
       "genre_source": "musicbrainz",
       "url": "https://www.redrocksonline.com/events/muna-1434014/"
+    },
+    {
+      "id": "the-regency-ballroom-2026-10-21-ten",
+      "venue": "The Regency Ballroom",
+      "list": "Off Angle",
+      "group": "San Francisco",
+      "date": "2026-10-21",
+      "time": "8:00 PM",
+      "artist": "TEN",
+      "support": "",
+      "genre": "Live Music",
+      "genre_source": "default",
+      "url": "https://www.theregencyballroom.com/events/detail?event_id=1580622"
     },
     {
       "id": "red-rocks-2026-10-22-macklemore",
