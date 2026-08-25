@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-25T14:10:23Z",
+  "generated_at": "2026-08-25T19:51:38Z",
   "lists": [
     "Local",
     "Off Angle"
@@ -146,7 +146,7 @@
       "date": "2026-08-27",
       "time": "9:00 PM",
       "artist": "FREE with RSVP: Tony Romera + ESSEL",
-      "support": "Tony Romera, ESSEL",
+      "support": "Tony Romera, ESSEL, Shep",
       "genre": "EDM",
       "genre_source": "site",
       "url": "https://wl.seetickets.us/event/FREE-with-RSVP-Tony-Romera-ESSEL-at-The-Concourse-Project/696710?afflky=TheConcourseProject"
@@ -211,7 +211,7 @@
       "date": "2026-08-28",
       "time": "9:00 PM",
       "artist": "Kayzo presents The Cage",
-      "support": "hhunter, Zerosum",
+      "support": "hhunter, Zerosum, Juan40",
       "genre": "EDM",
       "genre_source": "site",
       "url": "https://wl.seetickets.us/event/Kayzo-presents-The-Cage-at-The-Concourse-Project/695945?afflky=TheConcourseProject"
@@ -224,7 +224,7 @@
       "date": "2026-08-28",
       "time": "9:00 PM",
       "artist": "Westend",
-      "support": "",
+      "support": "B Side, Doseph",
       "genre": "EDM",
       "genre_source": "site",
       "url": "https://wl.seetickets.us/event/Westend-at-The-Concourse-Project-The-Hangar/698729?afflky=TheConcourseProject"
@@ -2161,7 +2161,7 @@
       "date": "2026-10-02",
       "time": "8:00 PM",
       "artist": "Madeon",
-      "support": "",
+      "support": "Contact Sports",
       "genre": "EDM",
       "genre_source": "musicbrainz",
       "url": "https://billgrahamcivic.com/events/madeon-261002"
@@ -3594,7 +3594,7 @@
       "support": "",
       "genre": "EDM",
       "genre_source": "venue",
-      "url": "https://wl.eventim.us/event/LSRCITY-X-by-Gareth-Emery-HOUSTON/697705?afflky=DuctworkHouston&EVENTPASS=LCGAX"
+      "url": "https://wl.eventim.us/event/Nora-En-Pure-HOUSTON/703288?afflky=DuctworkHouston"
     },
     {
       "id": "cow-palace-2026-10-31-knocked-loose",
@@ -4478,7 +4478,7 @@
       "support": "",
       "genre": "EDM",
       "genre_source": "venue",
-      "url": "https://silodallas.com/events/rupaul-60526147417"
+      "url": "https://wl.eventim.us/event/RUPAUL-DALLAS/703188?afflky=SILO"
     },
     {
       "id": "silo-dallas-2026-12-06-awen-hybrid",
@@ -4491,7 +4491,7 @@
       "support": "",
       "genre": "EDM",
       "genre_source": "venue",
-      "url": "https://silodallas.com/events/awen-hybrid-60514783027"
+      "url": "https://wl.eventim.us/event/AWEN-Hybrid-DALLAS/703198?afflky=DiscoPresents-Ductwork"
     },
     {
       "id": "silo-houston-2026-12-11-sidepiece",
@@ -4544,6 +4544,19 @@
       "genre": "EDM",
       "genre_source": "venue",
       "url": "https://wl.eventim.us/event/Valentino-Khan-presents-EXTRAMANIA-DALLAS/693688?afflky=SILO"
+    },
+    {
+      "id": "silo-houston-2027-01-16-ghengar",
+      "venue": "Silo Houston",
+      "list": "Local",
+      "group": "",
+      "date": "2027-01-16",
+      "time": "9:00 PM",
+      "artist": "Ghengar",
+      "support": "",
+      "genre": "EDM",
+      "genre_source": "venue",
+      "url": "https://wl.eventim.us/event/Nora-En-Pure-HOUSTON/703288?afflky=DuctworkHouston"
     },
     {
       "id": "the-regency-ballroom-2027-02-18-blue-october",
