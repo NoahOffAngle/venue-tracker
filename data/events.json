@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-25T19:51:38Z",
+  "generated_at": "2026-08-26T02:41:53Z",
   "lists": [
     "Local",
     "Off Angle"
@@ -73,32 +73,6 @@
     }
   ],
   "events": [
-    {
-      "id": "red-rocks-2026-08-25-ian-munsick",
-      "venue": "Red Rocks",
-      "list": "Off Angle",
-      "group": "Out of State",
-      "date": "2026-08-25",
-      "time": "6:30 PM",
-      "artist": "Ian Munsick",
-      "support": "ERNEST, Ned LeDoux",
-      "genre": "Live Music",
-      "genre_source": "musicbrainz",
-      "url": "https://www.redrocksonline.com/events/ian-munsick-1294402/"
-    },
-    {
-      "id": "the-midway-2026-08-25-molly-santana-x-north-west-kimokawaii-tour",
-      "venue": "The Midway",
-      "list": "Off Angle",
-      "group": "San Francisco",
-      "date": "2026-08-25",
-      "time": "7:30 PM",
-      "artist": "Molly Santana X North West Kimokawaii Tour",
-      "support": "",
-      "genre": "EDM",
-      "genre_source": "venue leaning",
-      "url": "https://dothebay.com/events/2026/8/25/molly-santana-x-north-west-kimokawaii-tour-tickets"
-    },
     {
       "id": "red-rocks-2026-08-26-ray-lamontagne",
       "venue": "Red Rocks",
