@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-26T08:05:38Z",
+  "generated_at": "2026-08-26T14:10:28Z",
   "lists": [
     "Local",
     "Off Angle"
@@ -3569,6 +3569,19 @@
       "genre": "EDM",
       "genre_source": "venue",
       "url": "https://wl.eventim.us/event/Nora-En-Pure-HOUSTON/703288?afflky=DuctworkHouston"
+    },
+    {
+      "id": "the-midway-2026-10-31-boofoween",
+      "venue": "The Midway",
+      "list": "Off Angle",
+      "group": "San Francisco",
+      "date": "2026-10-31",
+      "time": "10:30 PM",
+      "artist": "Boofoween",
+      "support": "",
+      "genre": "EDM",
+      "genre_source": "venue leaning",
+      "url": "https://dothebay.com/events/2026/10/31/boofoween-tickets"
     },
     {
       "id": "cow-palace-2026-10-31-knocked-loose",
