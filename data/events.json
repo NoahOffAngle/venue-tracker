@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-26T14:10:28Z",
+  "generated_at": "2026-08-26T22:21:32Z",
   "lists": [
     "Local",
     "Off Angle"
@@ -2083,7 +2083,7 @@
       "date": "2026-10-01",
       "time": "8:00 PM",
       "artist": "POiSON GiRL FRiEND",
-      "support": "",
+      "support": "Rip Swirl",
       "genre": "EDM",
       "genre_source": "musicbrainz",
       "url": "https://www.theregencyballroom.com/events/detail?event_id=1497640"
@@ -2347,6 +2347,19 @@
       "genre": "Live Music",
       "genre_source": "default",
       "url": "https://www.redrocksonline.com/events/for-king-country-1451922/"
+    },
+    {
+      "id": "silo-dallas-2026-10-04-joris-voorn",
+      "venue": "Silo Dallas",
+      "list": "Local",
+      "group": "",
+      "date": "2026-10-04",
+      "time": "7:00 PM",
+      "artist": "Joris Voorn",
+      "support": "",
+      "genre": "EDM",
+      "genre_source": "venue",
+      "url": "https://silodallas.com/events/joris-voorn-60804893217"
     },
     {
       "id": "emo-s-2026-10-04-official-2026-acl-nights-suki-waterhouse",
@@ -2739,19 +2752,6 @@
       "url": "https://www.theregencyballroom.com/events/detail?event_id=1451142"
     },
     {
-      "id": "emo-s-2026-10-14-ravyn-lenae-presents-blue-island",
-      "venue": "Emo's",
-      "list": "Local",
-      "group": "",
-      "date": "2026-10-14",
-      "time": "7:00 PM",
-      "artist": "Ravyn Lenae Presents: Blue Island",
-      "support": "",
-      "genre": "Live Music",
-      "genre_source": "musicbrainz",
-      "url": "https://www.ticketmaster.com/ravyn-lenae-presents-blue-island-austin-texas-10-14-2026/event/3A0064C9AC35BF7E"
-    },
-    {
       "id": "red-rocks-2026-10-14-taking-back-sunday-louder-now-live",
       "venue": "Red Rocks",
       "list": "Off Angle",
@@ -2943,7 +2943,7 @@
       "artist": "GRYFFIN",
       "support": "Łaszewo, AR/CO",
       "genre": "EDM",
-      "genre_source": "musicbrainz",
+      "genre_source": "same artist elsewhere",
       "url": "https://underthekbridge.org/events/detail?event_id=1364819"
     },
     {
@@ -3010,6 +3010,19 @@
       "genre": "EDM",
       "genre_source": "venue",
       "url": "https://wl.eventim.us/event/ODD-MOB-DALLAS/694826?afflky=SILO"
+    },
+    {
+      "id": "silo-houston-2026-10-17-ian-asher",
+      "venue": "Silo Houston",
+      "list": "Local",
+      "group": "",
+      "date": "2026-10-17",
+      "time": "9:00 PM",
+      "artist": "Ian Asher",
+      "support": "",
+      "genre": "EDM",
+      "genre_source": "venue",
+      "url": "https://wl.eventim.us/event/Nora-En-Pure-HOUSTON/703288?afflky=DuctworkHouston"
     },
     {
       "id": "red-rocks-2026-10-18-matt-rife-stay-golden-world-tour",
@@ -3935,6 +3948,19 @@
       "url": "https://www.theregencyballroom.com/events/detail?event_id=1581521"
     },
     {
+      "id": "emo-s-2026-11-09-rival-sons-domestic-bliss-tour",
+      "venue": "Emo's",
+      "list": "Local",
+      "group": "",
+      "date": "2026-11-09",
+      "time": "7:00 PM",
+      "artist": "Rival Sons - Domestic Bliss Tour",
+      "support": "",
+      "genre": "Live Music",
+      "genre_source": "musicbrainz",
+      "url": "https://www.ticketmaster.com/rival-sons-domestic-bliss-tour-austin-texas-11-09-2026/event/3A0064D0FAA324B2"
+    },
+    {
       "id": "the-regency-ballroom-2026-11-10-yuki-chiba",
       "venue": "The Regency Ballroom",
       "list": "Off Angle",
@@ -4048,7 +4074,7 @@
       "artist": "GRYFFIN",
       "support": "Oliver Heldens, AR/CO",
       "genre": "EDM",
-      "genre_source": "musicbrainz",
+      "genre_source": "same artist elsewhere",
       "url": "https://www.redrocksonline.com/events/gryffin-1394914/"
     },
     {
@@ -4481,6 +4507,19 @@
       "url": "https://wl.eventim.us/event/AWEN-Hybrid-DALLAS/703198?afflky=DiscoPresents-Ductwork"
     },
     {
+      "id": "the-regency-ballroom-2026-12-06-ripe",
+      "venue": "The Regency Ballroom",
+      "list": "Off Angle",
+      "group": "San Francisco",
+      "date": "2026-12-06",
+      "time": "8:00 PM",
+      "artist": "Ripe",
+      "support": "",
+      "genre": "Live Music",
+      "genre_source": "musicbrainz",
+      "url": "https://www.theregencyballroom.com/events/detail?event_id=1587666"
+    },
+    {
       "id": "silo-houston-2026-12-11-sidepiece",
       "venue": "Silo Houston",
       "list": "Local",
@@ -4531,6 +4570,19 @@
       "genre": "EDM",
       "genre_source": "venue",
       "url": "https://wl.eventim.us/event/Valentino-Khan-presents-EXTRAMANIA-DALLAS/693688?afflky=SILO"
+    },
+    {
+      "id": "silo-dallas-2026-12-29-gryffin",
+      "venue": "Silo Dallas",
+      "list": "Local",
+      "group": "",
+      "date": "2026-12-29",
+      "time": "9:00 PM",
+      "artist": "Gryffin",
+      "support": "",
+      "genre": "EDM",
+      "genre_source": "venue",
+      "url": "https://silodallas.com/events/gryffin-60805016430"
     },
     {
       "id": "silo-houston-2027-01-16-ghengar",
