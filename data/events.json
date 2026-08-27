@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-27T11:15:55Z",
+  "generated_at": "2026-08-27T23:00:18Z",
   "lists": [
     "Local",
     "Off Angle"
@@ -1426,19 +1426,6 @@
       "url": "https://www.ticketmaster.com/isaiah-rashad-lil-sunnys-awful-road-austin-texas-09-19-2026/event/3A0064CCB837D46A"
     },
     {
-      "id": "under-the-k-bridge-2026-09-19-tove-lo",
-      "venue": "Under the K Bridge",
-      "list": "Off Angle",
-      "group": "Out of State",
-      "date": "2026-09-19",
-      "time": "7:30 PM",
-      "artist": "Tove Lo",
-      "support": "COBRAH, Mallrat",
-      "genre": "EDM",
-      "genre_source": "musicbrainz",
-      "url": "https://underthekbridge.org/events/detail?event_id=1444032"
-    },
-    {
       "id": "red-rocks-2026-09-19-snowshape-fitness-series-presented-by-toyota",
       "venue": "Red Rocks",
       "list": "Off Angle",
@@ -1450,6 +1437,19 @@
       "genre": "Live Music",
       "genre_source": "default",
       "url": "https://www.redrocksonline.com/events/snowshape-fitness-series-presented-by-toyota-1541348/"
+    },
+    {
+      "id": "under-the-k-bridge-2026-09-19-tove-lo",
+      "venue": "Under the K Bridge",
+      "list": "Off Angle",
+      "group": "Out of State",
+      "date": "2026-09-19",
+      "time": "8:00 PM",
+      "artist": "Tove Lo",
+      "support": "COBRAH, Mallrat",
+      "genre": "EDM",
+      "genre_source": "musicbrainz",
+      "url": "https://underthekbridge.org/events/detail?event_id=1444032"
     },
     {
       "id": "silo-dallas-2026-09-19-troyboi",
@@ -2252,7 +2252,7 @@
       "date": "2026-10-03",
       "time": "7:30 PM",
       "artist": "Deorro",
-      "support": "",
+      "support": "Alacranes Musical, Juos, DoKnow",
       "genre": "EDM",
       "genre_source": "same artist elsewhere",
       "url": "https://www.redrocksonline.com/events/deorro-1514786/"
@@ -2336,6 +2336,19 @@
       "url": "https://dothebay.com/events/2026/10/3/elephante-tickets"
     },
     {
+      "id": "silo-dallas-2026-10-04-joris-voorn",
+      "venue": "Silo Dallas",
+      "list": "Local",
+      "group": "",
+      "date": "2026-10-04",
+      "time": "5:00 PM",
+      "artist": "Joris Voorn",
+      "support": "",
+      "genre": "EDM",
+      "genre_source": "venue",
+      "url": "https://wl.eventim.us/event/JORIS-VOORN-DALLAS/703523?afflky=DiscoPresents-Ductwork"
+    },
+    {
       "id": "red-rocks-2026-10-04-for-king-country",
       "venue": "Red Rocks",
       "list": "Off Angle",
@@ -2347,19 +2360,6 @@
       "genre": "Live Music",
       "genre_source": "default",
       "url": "https://www.redrocksonline.com/events/for-king-country-1451922/"
-    },
-    {
-      "id": "silo-dallas-2026-10-04-joris-voorn",
-      "venue": "Silo Dallas",
-      "list": "Local",
-      "group": "",
-      "date": "2026-10-04",
-      "time": "7:00 PM",
-      "artist": "Joris Voorn",
-      "support": "",
-      "genre": "EDM",
-      "genre_source": "venue",
-      "url": "https://silodallas.com/events/joris-voorn-60804893217"
     },
     {
       "id": "emo-s-2026-10-04-official-2026-acl-nights-suki-waterhouse",
@@ -3035,7 +3035,7 @@
       "support": "",
       "genre": "EDM",
       "genre_source": "venue",
-      "url": "https://wl.eventim.us/event/Nora-En-Pure-HOUSTON/703288?afflky=DuctworkHouston"
+      "url": "https://wl.eventim.us/event/IAN-ASHER-HOUSTON/703649?afflky=DuctworkHouston"
     },
     {
       "id": "red-rocks-2026-10-18-matt-rife-stay-golden-world-tour",
@@ -3283,6 +3283,19 @@
       "genre": "EDM",
       "genre_source": "venue",
       "url": "https://wl.eventim.us/event/KETTAMA-DALLAS/691502?afflky=SILO"
+    },
+    {
+      "id": "silo-houston-2026-10-23-one-more-time",
+      "venue": "Silo Houston",
+      "list": "Local",
+      "group": "",
+      "date": "2026-10-23",
+      "time": "9:00 PM",
+      "artist": "One More Time",
+      "support": "",
+      "genre": "EDM",
+      "genre_source": "venue",
+      "url": "https://wl.eventim.us/event/IAN-ASHER-HOUSTON/703649?afflky=DuctworkHouston"
     },
     {
       "id": "the-midway-2026-10-23-riot-the-machine-world-tour",
@@ -4582,7 +4595,7 @@
       "support": "",
       "genre": "EDM",
       "genre_source": "venue",
-      "url": "https://wl.eventim.us/event/Nora-En-Pure-HOUSTON/703288?afflky=DuctworkHouston"
+      "url": "https://wl.eventim.us/event/Ghengar-HOUSTON/703376?afflky=DuctworkHouston&eventpass=REBIRTH2026"
     },
     {
       "id": "the-regency-ballroom-2027-02-18-blue-october",
