@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-26T22:21:32Z",
+  "generated_at": "2026-08-27T11:15:55Z",
   "lists": [
     "Local",
     "Off Angle"
@@ -73,19 +73,6 @@
     }
   ],
   "events": [
-    {
-      "id": "red-rocks-2026-08-26-ray-lamontagne",
-      "venue": "Red Rocks",
-      "list": "Off Angle",
-      "group": "Out of State",
-      "date": "2026-08-26",
-      "time": "7:00 PM",
-      "artist": "Ray LaMontagne",
-      "support": "The Weather Station",
-      "genre": "Live Music",
-      "genre_source": "musicbrainz",
-      "url": "https://www.redrocksonline.com/events/ray-lamontagne-841147/"
-    },
     {
       "id": "red-rocks-2026-08-27-an-evening-with-goose",
       "venue": "Red Rocks",
@@ -1112,6 +1099,19 @@
       "genre": "EDM",
       "genre_source": "site",
       "url": "https://wl.seetickets.us/event/Natte-Visstick-at-The-Concourse-Project-The-Hangar/699829?afflky=TheConcourseProject"
+    },
+    {
+      "id": "the-midway-2026-09-13-intercell-sf-bad-boombox-lammer-b2b-ollie-lishman-more",
+      "venue": "The Midway",
+      "list": "Off Angle",
+      "group": "San Francisco",
+      "date": "2026-09-13",
+      "time": "3:00 PM",
+      "artist": "Intercell SF: Bad Boombox, Lammer B2B Ollie Lishman & more",
+      "support": "",
+      "genre": "EDM",
+      "genre_source": "keyword",
+      "url": "https://dothebay.com/events/2026/9/13/intercell-sf-bad-boombox-lammer-b2b-ollie-lishman-more-tickets-b31xody"
     },
     {
       "id": "red-rocks-2026-09-13-brandi-carlile",
@@ -2648,6 +2648,19 @@
       "url": "https://wl.eventim.us/event/Adventure-Club-HOUSTON/702976?afflky=DuctworkHouston"
     },
     {
+      "id": "the-midway-2026-10-11-brothers-sisters-presents-salted",
+      "venue": "The Midway",
+      "list": "Off Angle",
+      "group": "San Francisco",
+      "date": "2026-10-11",
+      "time": "2:00 PM",
+      "artist": "Brothers & Sisters Presents Salted",
+      "support": "Sandy Rivera",
+      "genre": "EDM",
+      "genre_source": "venue leaning",
+      "url": "https://dothebay.com/events/2026/10/11/brothers-sisters-presents-salted-w-sandy-rivera-tickets"
+    },
+    {
       "id": "red-rocks-2026-10-11-cement-gardens",
       "venue": "Red Rocks",
       "list": "Off Angle",
@@ -3532,19 +3545,6 @@
       "url": "https://www.theregencyballroom.com/events/detail?event_id=1528369"
     },
     {
-      "id": "the-midway-2026-10-30-lost-in-dreams-block-party",
-      "venue": "The Midway",
-      "list": "Off Angle",
-      "group": "San Francisco",
-      "date": "2026-10-30",
-      "time": "5:00 PM",
-      "artist": "Lost In Dreams Block Party",
-      "support": "Marshmello",
-      "genre": "EDM",
-      "genre_source": "keyword",
-      "url": "https://dothebay.com/events/2026/10/30/lost-in-dreams-block-party-tickets"
-    },
-    {
       "id": "red-rocks-2026-10-30-deadmau5",
       "venue": "Red Rocks",
       "list": "Off Angle",
@@ -3582,19 +3582,6 @@
       "genre": "EDM",
       "genre_source": "venue",
       "url": "https://wl.eventim.us/event/Nora-En-Pure-HOUSTON/703288?afflky=DuctworkHouston"
-    },
-    {
-      "id": "the-midway-2026-10-31-boofoween",
-      "venue": "The Midway",
-      "list": "Off Angle",
-      "group": "San Francisco",
-      "date": "2026-10-31",
-      "time": "10:30 PM",
-      "artist": "Boofoween",
-      "support": "",
-      "genre": "EDM",
-      "genre_source": "venue leaning",
-      "url": "https://dothebay.com/events/2026/10/31/boofoween-tickets"
     },
     {
       "id": "cow-palace-2026-10-31-knocked-loose",
@@ -3812,7 +3799,7 @@
       "date": "2026-11-06",
       "time": "6:30 PM",
       "artist": "Dabin",
-      "support": "",
+      "support": "William Black, CHYL, FrostTop, Paper Skies",
       "genre": "EDM",
       "genre_source": "musicbrainz",
       "url": "https://www.redrocksonline.com/events/dabin-1479059/"
