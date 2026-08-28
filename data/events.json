@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-27T23:00:18Z",
+  "generated_at": "2026-08-28T12:58:51Z",
   "lists": [
     "Local",
     "Off Angle"
@@ -73,45 +73,6 @@
     }
   ],
   "events": [
-    {
-      "id": "red-rocks-2026-08-27-an-evening-with-goose",
-      "venue": "Red Rocks",
-      "list": "Off Angle",
-      "group": "Out of State",
-      "date": "2026-08-27",
-      "time": "7:00 PM",
-      "artist": "An Evening With Goose",
-      "support": "",
-      "genre": "Live Music",
-      "genre_source": "default",
-      "url": "https://www.redrocksonline.com/events/an-evening-with-goose-1305340/"
-    },
-    {
-      "id": "silo-dallas-2026-08-27-feed-me",
-      "venue": "Silo Dallas",
-      "list": "Local",
-      "group": "",
-      "date": "2026-08-27",
-      "time": "9:00 PM",
-      "artist": "Feed Me",
-      "support": "",
-      "genre": "EDM",
-      "genre_source": "venue",
-      "url": "https://wl.eventim.us/event/Feed-Me-DALLAS/693234?afflky=DiscoPresents-Ductwork"
-    },
-    {
-      "id": "the-concourse-project-2026-08-27-free-with-rsvp-tony-romera-essel",
-      "venue": "The Concourse Project",
-      "list": "Local",
-      "group": "",
-      "date": "2026-08-27",
-      "time": "9:00 PM",
-      "artist": "FREE with RSVP: Tony Romera + ESSEL",
-      "support": "Tony Romera, ESSEL, Shep",
-      "genre": "EDM",
-      "genre_source": "site",
-      "url": "https://wl.seetickets.us/event/FREE-with-RSVP-Tony-Romera-ESSEL-at-The-Concourse-Project/696710?afflky=TheConcourseProject"
-    },
     {
       "id": "kingdom-2026-08-28-sam-gellaitry",
       "venue": "Kingdom",
@@ -200,7 +161,7 @@
       "artist": "Feed Me",
       "support": "",
       "genre": "EDM",
-      "genre_source": "same artist elsewhere",
+      "genre_source": "musicbrainz",
       "url": "https://dothebay.com/events/2026/8/28/feed-me-tickets"
     },
     {
@@ -1153,6 +1114,19 @@
       "url": "https://www.redrocksonline.com/events/needtobreathe-1370134/"
     },
     {
+      "id": "red-rocks-2026-09-15-acid-bath-ministry",
+      "venue": "Red Rocks",
+      "list": "Off Angle",
+      "group": "Out of State",
+      "date": "2026-09-15",
+      "time": "5:00 PM",
+      "artist": "Acid Bath & Ministry",
+      "support": "Twin Tribes, Windhand, Cephalic Carnage",
+      "genre": "Live Music",
+      "genre_source": "musicbrainz",
+      "url": "https://www.redrocksonline.com/events/acid-bath-ministry-1483173/"
+    },
+    {
       "id": "emo-s-2026-09-15-kelela-new-avatar-live",
       "venue": "Emo's",
       "list": "Local",
@@ -1164,19 +1138,6 @@
       "genre": "EDM",
       "genre_source": "musicbrainz",
       "url": "https://www.ticketmaster.com/kelela-new-avatar-live-austin-texas-09-15-2026/event/3A0064BAAF7E96B3"
-    },
-    {
-      "id": "red-rocks-2026-09-15-acid-bath-ministry",
-      "venue": "Red Rocks",
-      "list": "Off Angle",
-      "group": "Out of State",
-      "date": "2026-09-15",
-      "time": "7:00 PM",
-      "artist": "Acid Bath & Ministry",
-      "support": "Twin Tribes, Windhand, Cephalic Carnage",
-      "genre": "Live Music",
-      "genre_source": "musicbrainz",
-      "url": "https://www.redrocksonline.com/events/acid-bath-ministry-1483173/"
     },
     {
       "id": "the-regency-ballroom-2026-09-15-starbomb-featuring-dj-commander-meouch",
@@ -2321,6 +2282,19 @@
       "genre": "EDM",
       "genre_source": "venue",
       "url": "https://wl.eventim.us/event/ELI-BROWN-HOUSTON/697000?afflky=DuctworkHouston&EVENTPASS=ELIBROWN"
+    },
+    {
+      "id": "the-concourse-project-2026-10-03-official-2026-acl-fest-nights-it-s-murph",
+      "venue": "The Concourse Project",
+      "list": "Local",
+      "group": "",
+      "date": "2026-10-03",
+      "time": "9:00 PM",
+      "artist": "Official 2026 ACL Fest Nights: it's murph",
+      "support": "Nate Band, Dazzle Camouflage",
+      "genre": "EDM",
+      "genre_source": "site",
+      "url": "https://wl.seetickets.us/event/Official-2026-ACL-Fest-Nights-its-murph/701295?afflky=TheConcourseProject"
     },
     {
       "id": "the-midway-2026-10-03-elephante",
