@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-29T21:50:24Z",
+  "generated_at": "2026-08-30T06:49:26Z",
   "lists": [
     "Local",
     "Off Angle"
@@ -73,97 +73,6 @@
     }
   ],
   "events": [
-    {
-      "id": "kingdom-2026-08-29-amped-austin",
-      "venue": "Kingdom",
-      "list": "Local",
-      "group": "",
-      "date": "2026-08-29",
-      "time": "10:00 PM",
-      "artist": "AMPED: AUSTIN",
-      "support": "",
-      "genre": "EDM",
-      "genre_source": "venue leaning",
-      "url": "https://kingdomnightclub.com/event/amped-austin-2/kingdom-nightclub/austin-texas/"
-    },
-    {
-      "id": "under-the-k-bridge-2026-08-29-mochakk",
-      "venue": "Under the K Bridge",
-      "list": "Off Angle",
-      "group": "Out of State",
-      "date": "2026-08-29",
-      "time": "7:00 PM",
-      "artist": "Mochakk",
-      "support": "DJ Minx b2b DJ Holographic, Anastazja",
-      "genre": "EDM",
-      "genre_source": "keyword",
-      "url": "https://underthekbridge.org/events/detail?event_id=1328068"
-    },
-    {
-      "id": "red-rocks-2026-08-29-bryson-tiller-presents-the-neo-trapsoul-tour",
-      "venue": "Red Rocks",
-      "list": "Off Angle",
-      "group": "Out of State",
-      "date": "2026-08-29",
-      "time": "7:30 PM",
-      "artist": "Bryson Tiller Presents: The Neo Trapsoul Tour",
-      "support": "Majid Jordan, Ty Dolla $ign, Austin Millz",
-      "genre": "Live Music",
-      "genre_source": "default",
-      "url": "https://www.redrocksonline.com/events/bryson-tiller-presents-the-neo-trapsoul-tour-1464366/"
-    },
-    {
-      "id": "emo-s-2026-08-29-bop-to-the-top",
-      "venue": "Emo's",
-      "list": "Local",
-      "group": "",
-      "date": "2026-08-29",
-      "time": "8:00 PM",
-      "artist": "Bop To The Top",
-      "support": "",
-      "genre": "Live Music",
-      "genre_source": "default",
-      "url": "https://www.ticketmaster.com/bop-to-the-top-austin-texas-08-29-2026/event/3A006496ED9E77BD"
-    },
-    {
-      "id": "the-midway-2026-08-29-madvktm-amalgamation",
-      "venue": "The Midway",
-      "list": "Off Angle",
-      "group": "San Francisco",
-      "date": "2026-08-29",
-      "time": "8:00 PM",
-      "artist": "Madvktm   Amalgamation",
-      "support": "",
-      "genre": "EDM",
-      "genre_source": "venue leaning",
-      "url": "https://dothebay.com/events/2026/8/29/madvktm-amalgamation-tickets"
-    },
-    {
-      "id": "silo-dallas-2026-08-29-acraze",
-      "venue": "Silo Dallas",
-      "list": "Local",
-      "group": "",
-      "date": "2026-08-29",
-      "time": "9:00 PM",
-      "artist": "ACRAZE",
-      "support": "",
-      "genre": "EDM",
-      "genre_source": "venue",
-      "url": "https://wl.eventim.us/event/ACRAZE-DALLAS/691230?afflky=SILO"
-    },
-    {
-      "id": "the-concourse-project-2026-08-29-indo-warehouse",
-      "venue": "The Concourse Project",
-      "list": "Local",
-      "group": "",
-      "date": "2026-08-29",
-      "time": "9:00 PM",
-      "artist": "Indo Warehouse",
-      "support": "Deer Jade, Ferno",
-      "genre": "EDM",
-      "genre_source": "site",
-      "url": "https://wl.seetickets.us/event/Indo-Warehouse-at-The-Concourse-Project/694384?afflky=TheConcourseProject"
-    },
     {
       "id": "the-midway-2026-08-30-kasbo-labyrinth-tour",
       "venue": "The Midway",
