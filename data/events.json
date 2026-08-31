@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-31T07:06:44Z",
+  "generated_at": "2026-08-31T15:12:57Z",
   "lists": [
     "Local",
     "Off Angle"
@@ -3595,6 +3595,19 @@
       "genre": "Live Music",
       "genre_source": "musicbrainz",
       "url": "https://www.theregencyballroom.com/events/detail?event_id=1408471"
+    },
+    {
+      "id": "the-midway-2026-11-06-the-midway-vital-present-hvdes",
+      "venue": "The Midway",
+      "list": "Off Angle",
+      "group": "San Francisco",
+      "date": "2026-11-06",
+      "time": "10:00 PM",
+      "artist": "The Midway & Vital present: HVDES",
+      "support": "",
+      "genre": "EDM",
+      "genre_source": "venue leaning",
+      "url": "https://dothebay.com/events/2026/11/6/the-midway-vital-present-hvdes-tickets"
     },
     {
       "id": "emo-s-2026-11-06-two-nights-with-they-might-be-giants-2-day-ticket-11-6-26-11-7-26",
