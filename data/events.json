@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-01T17:22:13Z",
+  "generated_at": "2026-09-01T21:51:50Z",
   "lists": [
     "Local",
     "Off Angle"
@@ -514,6 +514,19 @@
       "genre": "Live Music",
       "genre_source": "default",
       "url": "https://billgrahamcivic.com/events/wave-to-earth-260908"
+    },
+    {
+      "id": "silo-dallas-2026-09-09-dj-diesel",
+      "venue": "Silo Dallas",
+      "list": "Local",
+      "group": "",
+      "date": "2026-09-09",
+      "time": "5:00 PM",
+      "artist": "DJ Diesel",
+      "support": "",
+      "genre": "EDM",
+      "genre_source": "venue",
+      "url": "https://silodallas.com/events/dj-diesel-61130697739"
     },
     {
       "id": "emo-s-2026-09-09-citizen",
@@ -2232,6 +2245,19 @@
       "url": "https://www.redrocksonline.com/events/tape-b-presents-hallow-rocks-1315400/"
     },
     {
+      "id": "bill-graham-civic-2026-10-09-holy-priest",
+      "venue": "Bill Graham Civic",
+      "list": "Off Angle",
+      "group": "San Francisco",
+      "date": "2026-10-09",
+      "time": "7:30 PM",
+      "artist": "HOLY PRIEST",
+      "support": "",
+      "genre": "EDM",
+      "genre_source": "same artist elsewhere",
+      "url": "https://billgrahamcivic.com/events/holy-priest-261009"
+    },
+    {
       "id": "the-regency-ballroom-2026-10-09-dead-kennedys",
       "venue": "The Regency Ballroom",
       "list": "Off Angle",
@@ -2243,19 +2269,6 @@
       "genre": "Live Music",
       "genre_source": "musicbrainz",
       "url": "https://www.theregencyballroom.com/events/detail?event_id=1542188"
-    },
-    {
-      "id": "bill-graham-civic-2026-10-09-holy-priest",
-      "venue": "Bill Graham Civic",
-      "list": "Off Angle",
-      "group": "San Francisco",
-      "date": "2026-10-09",
-      "time": "8:00 PM",
-      "artist": "HOLY PRIEST",
-      "support": "",
-      "genre": "EDM",
-      "genre_source": "same artist elsewhere",
-      "url": "https://billgrahamcivic.com/events/holy-priest-261009"
     },
     {
       "id": "emo-s-2026-10-09-official-2026-acl-nights-rodrigo-y-gabriela",
@@ -2642,7 +2655,7 @@
       "date": "2026-10-16",
       "time": "8:00 PM",
       "artist": "Sara Bareilles",
-      "support": "",
+      "support": "Celisse",
       "genre": "Live Music",
       "genre_source": "default",
       "url": "https://billgrahamcivic.com/events/sara-bareilles-261016"
@@ -2759,7 +2772,7 @@
       "date": "2026-10-17",
       "time": "8:00 PM",
       "artist": "Sara Bareilles",
-      "support": "",
+      "support": "Celisse",
       "genre": "Live Music",
       "genre_source": "default",
       "url": "https://billgrahamcivic.com/events/sara-bareilles-261017"
@@ -4323,6 +4336,19 @@
       "genre": "EDM",
       "genre_source": "venue",
       "url": "https://wl.eventim.us/event/RL-GRIME-DALLAS/702474?afflky=SILO"
+    },
+    {
+      "id": "kingdom-2026-12-05-amtrac",
+      "venue": "Kingdom",
+      "list": "Local",
+      "group": "",
+      "date": "2026-12-05",
+      "time": "10:00 PM",
+      "artist": "Amtrac",
+      "support": "",
+      "genre": "EDM",
+      "genre_source": "musicbrainz",
+      "url": "https://kingdomnightclub.com/event/amtrac/kingdom-nightclub/austin-texas/"
     },
     {
       "id": "bill-graham-civic-2026-12-05-its-murph",
