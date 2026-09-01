@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-31T23:16:28Z",
+  "generated_at": "2026-09-01T06:19:22Z",
   "lists": [
     "Local",
     "Off Angle"
@@ -73,32 +73,6 @@
     }
   ],
   "events": [
-    {
-      "id": "emo-s-2026-08-31-black-veil-brides-vindicatour-us-2026",
-      "venue": "Emo's",
-      "list": "Local",
-      "group": "",
-      "date": "2026-08-31",
-      "time": "5:30 PM",
-      "artist": "Black Veil Brides: Vindicatour US 2026",
-      "support": "",
-      "genre": "Live Music",
-      "genre_source": "musicbrainz",
-      "url": "https://www.ticketmaster.com/black-veil-brides-vindicatour-us-2026-austin-texas-08-31-2026/event/3A0064A7AE35CE12"
-    },
-    {
-      "id": "red-rocks-2026-08-31-john-fogerty",
-      "venue": "Red Rocks",
-      "list": "Off Angle",
-      "group": "Out of State",
-      "date": "2026-08-31",
-      "time": "7:30 PM",
-      "artist": "John Fogerty",
-      "support": "Hearty Har",
-      "genre": "Live Music",
-      "genre_source": "musicbrainz",
-      "url": "https://www.redrocksonline.com/events/john-fogerty-1382141/"
-    },
     {
       "id": "red-rocks-2026-09-01-an-evening-with-goose",
       "venue": "Red Rocks",
@@ -1229,6 +1203,19 @@
       "genre": "Live Music",
       "genre_source": "musicbrainz",
       "url": "https://dothebay.com/events/2026/9/19/juelz-tickets"
+    },
+    {
+      "id": "the-midway-2026-09-20-perreo-electrico-ft-a-chal",
+      "venue": "The Midway",
+      "list": "Off Angle",
+      "group": "San Francisco",
+      "date": "2026-09-20",
+      "time": "3:00 PM",
+      "artist": "Perreo Eléctrico ft. A.CHAL",
+      "support": "",
+      "genre": "EDM",
+      "genre_source": "venue leaning",
+      "url": "https://dothebay.com/events/2026/9/20/perreo-electrico-ft-a-chal-tickets"
     },
     {
       "id": "silo-dallas-2026-09-20-dj-diesel",
@@ -2713,6 +2700,19 @@
       "url": "https://wl.eventim.us/event/SABAI-x-HOANG-HOUSTON/699331?afflky=DuctworkHouston&eventpass=CHANCE"
     },
     {
+      "id": "the-midway-2026-10-16-intimate-night",
+      "venue": "The Midway",
+      "list": "Off Angle",
+      "group": "San Francisco",
+      "date": "2026-10-16",
+      "time": "9:00 PM",
+      "artist": "Intimate night",
+      "support": "perfect stranger presents: A Perfect Sphere album release party",
+      "genre": "EDM",
+      "genre_source": "venue leaning",
+      "url": "https://dothebay.com/events/2026/10/16/intimate-night-with-perfect-stranger-presents-a-perfect-sphere-album-release-party-tickets"
+    },
+    {
       "id": "the-midway-2026-10-17-yheti-toadface-present-sleight-of-sound-tour",
       "venue": "The Midway",
       "list": "Off Angle",
@@ -3389,19 +3389,6 @@
       "url": "https://wl.eventim.us/event/Nora-En-Pure-HOUSTON/703288?afflky=DuctworkHouston"
     },
     {
-      "id": "the-midway-2026-10-31-boofoween",
-      "venue": "The Midway",
-      "list": "Off Angle",
-      "group": "San Francisco",
-      "date": "2026-10-31",
-      "time": "10:30 PM",
-      "artist": "Boofoween",
-      "support": "",
-      "genre": "EDM",
-      "genre_source": "venue leaning",
-      "url": "https://dothebay.com/events/2026/10/31/boofoween-tickets"
-    },
-    {
       "id": "cow-palace-2026-10-31-knocked-loose",
       "venue": "Cow Palace",
       "list": "Off Angle",
@@ -3597,19 +3584,6 @@
       "url": "https://www.theregencyballroom.com/events/detail?event_id=1408471"
     },
     {
-      "id": "the-midway-2026-11-06-the-midway-vital-present-hvdes",
-      "venue": "The Midway",
-      "list": "Off Angle",
-      "group": "San Francisco",
-      "date": "2026-11-06",
-      "time": "10:00 PM",
-      "artist": "The Midway & Vital present: HVDES",
-      "support": "",
-      "genre": "EDM",
-      "genre_source": "venue leaning",
-      "url": "https://dothebay.com/events/2026/11/6/the-midway-vital-present-hvdes-tickets"
-    },
-    {
       "id": "emo-s-2026-11-06-two-nights-with-they-might-be-giants-2-day-ticket-11-6-26-11-7-26",
       "venue": "Emo's",
       "list": "Local",
@@ -3803,6 +3777,19 @@
       "genre": "Live Music",
       "genre_source": "default",
       "url": "https://www.theregencyballroom.com/events/detail?event_id=1528365"
+    },
+    {
+      "id": "emo-s-2026-11-11-jose-madero-usa-tour-2026",
+      "venue": "Emo's",
+      "list": "Local",
+      "group": "",
+      "date": "2026-11-11",
+      "time": "7:00 PM",
+      "artist": "Jose Madero - USA Tour 2026",
+      "support": "",
+      "genre": "Live Music",
+      "genre_source": "default",
+      "url": "https://www.ticketmaster.com/jose-madero-usa-tour-2026-austin-texas-11-11-2026/event/3A0064D196617E5C"
     },
     {
       "id": "bill-graham-civic-2026-11-11-brand-new",
