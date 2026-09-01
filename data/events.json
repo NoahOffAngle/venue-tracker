@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-01T12:38:22Z",
+  "generated_at": "2026-09-01T17:22:13Z",
   "lists": [
     "Local",
     "Off Angle"
@@ -172,7 +172,7 @@
       "date": "2026-09-03",
       "time": "9:00 PM",
       "artist": "FREE with RSVP: Jamback",
-      "support": "",
+      "support": "SKYE, JUSTAGURL",
       "genre": "EDM",
       "genre_source": "site",
       "url": "https://wl.seetickets.us/event/FREE-with-RSVP-Jamback-at-The-Concourse-Project/687516?afflky=TheConcourseProject"
@@ -263,7 +263,7 @@
       "date": "2026-09-04",
       "time": "9:00 PM",
       "artist": "Lilly Palmer (Extended Set)",
-      "support": "",
+      "support": "Grympho",
       "genre": "EDM",
       "genre_source": "site",
       "url": "https://wl.seetickets.us/event/Lilly-Palmer-Extended-Set-at-The-Concourse-Project/691625?afflky=TheConcourseProject"
@@ -354,7 +354,7 @@
       "date": "2026-09-05",
       "time": "9:00 PM",
       "artist": "WhoMadeWho (Hybrid DJ Set)",
-      "support": "",
+      "support": "Jess James, ThatHitMaKer",
       "genre": "EDM",
       "genre_source": "site",
       "url": "https://wl.seetickets.us/event/WhoMadeWho-Hybrid-DJ-Set-at-The-Concourse-Project/692640?afflky=TheConcourseProject"
@@ -432,7 +432,7 @@
       "date": "2026-09-06",
       "time": "9:00 PM",
       "artist": "Alignment + PETERBLUE",
-      "support": "Alignment, PETERBLUE",
+      "support": "Alignment, PETERBLUE, Hank Harrison",
       "genre": "EDM",
       "genre_source": "site",
       "url": "https://wl.seetickets.us/event/Alignment-PETERBLUE-at-The-Concourse-Project/687517?afflky=TheConcourseProject"
@@ -4026,6 +4026,19 @@
       "url": "https://www.theregencyballroom.com/events/detail?event_id=1463683"
     },
     {
+      "id": "silo-dallas-2026-11-19-3ballmty",
+      "venue": "Silo Dallas",
+      "list": "Local",
+      "group": "",
+      "date": "2026-11-19",
+      "time": "9:00 PM",
+      "artist": "3BallMTY",
+      "support": "",
+      "genre": "EDM",
+      "genre_source": "venue",
+      "url": "https://silodallas.com/events/3ballmty-61131378543"
+    },
+    {
       "id": "the-regency-ballroom-2026-11-20-layton-giordani",
       "venue": "The Regency Ballroom",
       "list": "Off Angle",
@@ -4270,7 +4283,7 @@
       "support": "",
       "genre": "EDM",
       "genre_source": "venue",
-      "url": "https://silodallas.com/events/deorro-60967764995"
+      "url": "https://wl.eventim.us/event/Deorro-DALLAS/704011?afflky=SILO"
     },
     {
       "id": "bill-graham-civic-2026-12-02-the-neighbourhood",
@@ -4413,7 +4426,7 @@
       "support": "",
       "genre": "EDM",
       "genre_source": "venue",
-      "url": "https://silodallas.com/events/mitis-60967951153"
+      "url": "https://wl.eventim.us/event/MitiS-DALLAS/703898?afflky=DiscoPresents-Ductwork"
     },
     {
       "id": "silo-dallas-2026-12-18-due-to-circumstances-beyond-control-the-dillstradamus-dillon-francis-b2b-flosstradamus-event-orig",
