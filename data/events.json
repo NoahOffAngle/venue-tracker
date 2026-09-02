@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-01T21:51:50Z",
+  "generated_at": "2026-09-02T05:56:50Z",
   "lists": [
     "Local",
     "Off Angle"
@@ -73,19 +73,6 @@
     }
   ],
   "events": [
-    {
-      "id": "red-rocks-2026-09-01-an-evening-with-goose",
-      "venue": "Red Rocks",
-      "list": "Off Angle",
-      "group": "Out of State",
-      "date": "2026-09-01",
-      "time": "7:00 PM",
-      "artist": "An Evening With Goose",
-      "support": "",
-      "genre": "Live Music",
-      "genre_source": "default",
-      "url": "https://www.redrocksonline.com/events/an-evening-with-goose-1489889/"
-    },
     {
       "id": "red-rocks-2026-09-02-griz",
       "venue": "Red Rocks",
