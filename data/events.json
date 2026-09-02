@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-02T12:10:21Z",
+  "generated_at": "2026-09-02T17:13:26Z",
   "lists": [
     "Local",
     "Off Angle"
@@ -3192,6 +3192,19 @@
       "genre": "EDM",
       "genre_source": "venue",
       "url": "https://wl.eventim.us/event/ODDMOB-HOUSTON/701002?afflky=DuctworkHouston"
+    },
+    {
+      "id": "silo-dallas-2026-10-25-lukas-frank",
+      "venue": "Silo Dallas",
+      "list": "Local",
+      "group": "",
+      "date": "2026-10-25",
+      "time": "5:00 PM",
+      "artist": "Lukas & Frank",
+      "support": "",
+      "genre": "EDM",
+      "genre_source": "venue",
+      "url": "https://silodallas.com/events/lukas-frank-61234809179"
     },
     {
       "id": "emo-s-2026-10-25-mom-jeans",
