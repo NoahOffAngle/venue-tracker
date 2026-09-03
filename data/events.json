@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-03T17:05:32Z",
+  "generated_at": "2026-09-03T21:46:18Z",
   "lists": [
     "Local",
     "Off Angle"
@@ -165,19 +165,6 @@
       "url": "https://www.theregencyballroom.com/events/detail?event_id=1423284"
     },
     {
-      "id": "red-rocks-2026-09-04-mana",
-      "venue": "Red Rocks",
-      "list": "Off Angle",
-      "group": "Out of State",
-      "date": "2026-09-04",
-      "time": "8:30 PM",
-      "artist": "MANÁ",
-      "support": "",
-      "genre": "Live Music",
-      "genre_source": "musicbrainz",
-      "url": "https://www.redrocksonline.com/events/mana-1240795/"
-    },
-    {
       "id": "silo-dallas-2026-09-04-i-hate-models",
       "venue": "Silo Dallas",
       "list": "Local",
@@ -215,6 +202,19 @@
       "genre": "EDM",
       "genre_source": "site",
       "url": "https://wl.seetickets.us/event/Lilly-Palmer-Extended-Set-at-The-Concourse-Project/691625?afflky=TheConcourseProject"
+    },
+    {
+      "id": "red-rocks-2026-09-04-mana",
+      "venue": "Red Rocks",
+      "list": "Off Angle",
+      "group": "Out of State",
+      "date": "2026-09-04",
+      "time": "9:30 PM",
+      "artist": "MANÁ",
+      "support": "",
+      "genre": "Live Music",
+      "genre_source": "musicbrainz",
+      "url": "https://www.redrocksonline.com/events/mana-1240795/"
     },
     {
       "id": "cow-palace-2026-09-05-cardshow-con-cow-palace",
