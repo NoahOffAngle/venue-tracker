@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-02T21:54:01Z",
+  "generated_at": "2026-09-03T05:56:30Z",
   "lists": [
     "Local",
     "Off Angle"
@@ -73,45 +73,6 @@
     }
   ],
   "events": [
-    {
-      "id": "red-rocks-2026-09-02-griz",
-      "venue": "Red Rocks",
-      "list": "Off Angle",
-      "group": "Out of State",
-      "date": "2026-09-02",
-      "time": "5:30 PM",
-      "artist": "GRiZ",
-      "support": "",
-      "genre": "EDM",
-      "genre_source": "musicbrainz",
-      "url": "https://www.redrocksonline.com/events/griz-1489047/"
-    },
-    {
-      "id": "emo-s-2026-09-02-channel-tres-the-enigma-tour",
-      "venue": "Emo's",
-      "list": "Local",
-      "group": "",
-      "date": "2026-09-02",
-      "time": "7:00 PM",
-      "artist": "Channel Tres - The Enigma Tour",
-      "support": "",
-      "genre": "EDM",
-      "genre_source": "musicbrainz",
-      "url": "https://www.ticketmaster.com/channel-tres-the-enigma-tour-austin-texas-09-02-2026/event/3A00649DC4DD7DCF"
-    },
-    {
-      "id": "the-regency-ballroom-2026-09-02-noname",
-      "venue": "The Regency Ballroom",
-      "list": "Off Angle",
-      "group": "San Francisco",
-      "date": "2026-09-02",
-      "time": "8:00 PM",
-      "artist": "Noname",
-      "support": "",
-      "genre": "Live Music",
-      "genre_source": "musicbrainz",
-      "url": "https://www.theregencyballroom.com/events/detail?event_id=1477932"
-    },
     {
       "id": "red-rocks-2026-09-03-griz",
       "venue": "Red Rocks",
@@ -256,13 +217,13 @@
       "url": "https://wl.seetickets.us/event/Lilly-Palmer-Extended-Set-at-The-Concourse-Project/691625?afflky=TheConcourseProject"
     },
     {
-      "id": "cow-palace-2026-09-05-card-show-con",
+      "id": "cow-palace-2026-09-05-cardshow-con-cow-palace",
       "venue": "Cow Palace",
       "list": "Off Angle",
       "group": "San Francisco",
       "date": "2026-09-05",
       "time": "10:00 AM",
-      "artist": "CARD SHOW CON",
+      "artist": "Cardshow Con – Cow Palace",
       "support": "",
       "genre": "Live Music",
       "genre_source": "default",
