@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-04T06:02:02Z",
+  "generated_at": "2026-09-04T12:11:16Z",
   "lists": [
     "Local",
     "Off Angle"
@@ -2373,6 +2373,19 @@
       "genre": "EDM",
       "genre_source": "venue",
       "url": "https://wl.eventim.us/event/BIJOU-DALLAS/696657?afflky=DiscoPresents-Ductwork"
+    },
+    {
+      "id": "the-concourse-project-2026-10-11-holy-priest-night-2",
+      "venue": "The Concourse Project",
+      "list": "Local",
+      "group": "",
+      "date": "2026-10-11",
+      "time": "9:00 PM",
+      "artist": "HOLY PRIEST (Night 2)",
+      "support": "",
+      "genre": "EDM",
+      "genre_source": "site",
+      "url": "https://wl.seetickets.us/event/HOLY-PRIEST-Night-2-at-The-Concourse-Project/699539?afflky=TheConcourseProject"
     },
     {
       "id": "emo-s-2026-10-12-l7-the-last-hurrah-tour-2026",
