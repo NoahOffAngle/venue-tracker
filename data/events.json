@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-04T16:54:36Z",
+  "generated_at": "2026-09-04T21:36:05Z",
   "lists": [
     "Local",
     "Off Angle"
@@ -501,6 +501,19 @@
       "genre": "Live Music",
       "genre_source": "default",
       "url": "https://www.cowpalace.com/event/just-between-friends-consignment-sale-5/"
+    },
+    {
+      "id": "kingdom-2026-09-11-bradeazy",
+      "venue": "Kingdom",
+      "list": "Local",
+      "group": "",
+      "date": "2026-09-11",
+      "time": "10:00 PM",
+      "artist": "BRADEAZY",
+      "support": "",
+      "genre": "EDM",
+      "genre_source": "venue leaning",
+      "url": "https://kingdomnightclub.com/event/bradeazy/kingdom-nightclub/austin-texas/"
     },
     {
       "id": "the-midway-2026-09-11-promiscuous-a-2000-s-club-bangers-throwbacks-party",
@@ -3984,7 +3997,7 @@
       "support": "",
       "genre": "EDM",
       "genre_source": "venue",
-      "url": "https://wl.eventim.us/event/3BALLMTY-DALLAS/704014?afflky=SILO&EVENTPASS=3BALL2026"
+      "url": "https://wl.eventim.us/event/3BALLMTY-DALLAS/704014?afflky=SILO"
     },
     {
       "id": "the-regency-ballroom-2026-11-20-layton-giordani",
