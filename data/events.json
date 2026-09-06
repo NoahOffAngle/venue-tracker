@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-05T21:22:33Z",
+  "generated_at": "2026-09-06T06:04:23Z",
   "lists": [
     "Local",
     "Off Angle"
@@ -73,97 +73,6 @@
     }
   ],
   "events": [
-    {
-      "id": "cow-palace-2026-09-05-cardshow-con-cow-palace",
-      "venue": "Cow Palace",
-      "list": "Off Angle",
-      "group": "San Francisco",
-      "date": "2026-09-05",
-      "time": "10:00 AM",
-      "artist": "Cardshow Con – Cow Palace",
-      "support": "",
-      "genre": "Live Music",
-      "genre_source": "default",
-      "url": "https://www.cowpalace.com/event/sf-card-collectible-show-2026/"
-    },
-    {
-      "id": "kingdom-2026-09-05-tuff-atx-sweat-labor-day-weekend",
-      "venue": "Kingdom",
-      "list": "Local",
-      "group": "",
-      "date": "2026-09-05",
-      "time": "10:00 PM",
-      "artist": "TUFF ATX SWEAT LABOR DAY WEEKEND",
-      "support": "",
-      "genre": "EDM",
-      "genre_source": "venue leaning",
-      "url": "https://kingdomnightclub.com/event/tuff-atx-sweat-labor-day-weekend/kingdom-nightclub/austin-texas/"
-    },
-    {
-      "id": "the-midway-2026-09-05-electroluxx-block-party-purple-disco-machine-rupaul-more",
-      "venue": "The Midway",
-      "list": "Off Angle",
-      "group": "San Francisco",
-      "date": "2026-09-05",
-      "time": "3:00 PM",
-      "artist": "Electroluxx Block Party: Purple Disco Machine, RuPaul + MORE",
-      "support": "",
-      "genre": "EDM",
-      "genre_source": "venue leaning",
-      "url": "https://dothebay.com/events/2026/9/5/electroluxx-block-party-purple-disco-machine-rupaul-more-tickets"
-    },
-    {
-      "id": "red-rocks-2026-09-05-mana",
-      "venue": "Red Rocks",
-      "list": "Off Angle",
-      "group": "Out of State",
-      "date": "2026-09-05",
-      "time": "8:30 PM",
-      "artist": "MANÁ",
-      "support": "",
-      "genre": "Live Music",
-      "genre_source": "musicbrainz",
-      "url": "https://www.redrocksonline.com/events/mana-1240807/"
-    },
-    {
-      "id": "silo-dallas-2026-09-05-ian-asher",
-      "venue": "Silo Dallas",
-      "list": "Local",
-      "group": "",
-      "date": "2026-09-05",
-      "time": "9:00 PM",
-      "artist": "Ian Asher",
-      "support": "",
-      "genre": "EDM",
-      "genre_source": "venue",
-      "url": "https://wl.eventim.us/event/Ian-Asher-DALLAS/691856?afflky=SILO"
-    },
-    {
-      "id": "silo-houston-2026-09-05-beltran",
-      "venue": "Silo Houston",
-      "list": "Local",
-      "group": "",
-      "date": "2026-09-05",
-      "time": "9:00 PM",
-      "artist": "Beltran",
-      "support": "",
-      "genre": "EDM",
-      "genre_source": "venue",
-      "url": "https://wl.eventim.us/event/BELTRAN-HOUSTON/698122?afflky=DuctworkHouston"
-    },
-    {
-      "id": "the-concourse-project-2026-09-05-whomadewho-hybrid-dj-set",
-      "venue": "The Concourse Project",
-      "list": "Local",
-      "group": "",
-      "date": "2026-09-05",
-      "time": "9:00 PM",
-      "artist": "WhoMadeWho (Hybrid DJ Set)",
-      "support": "Jess James, ThatHitMaKer",
-      "genre": "EDM",
-      "genre_source": "site",
-      "url": "https://wl.seetickets.us/event/WhoMadeWho-Hybrid-DJ-Set-at-The-Concourse-Project/692640?afflky=TheConcourseProject"
-    },
     {
       "id": "kingdom-2026-09-06-dillon-nathaniel",
       "venue": "Kingdom",
@@ -3478,6 +3387,19 @@
       "genre": "Live Music",
       "genre_source": "musicbrainz",
       "url": "https://www.theregencyballroom.com/events/detail?event_id=1408471"
+    },
+    {
+      "id": "the-midway-2026-11-06-the-midway-vital-present-hvdes",
+      "venue": "The Midway",
+      "list": "Off Angle",
+      "group": "San Francisco",
+      "date": "2026-11-06",
+      "time": "10:00 PM",
+      "artist": "The Midway & Vital present: HVDES",
+      "support": "",
+      "genre": "EDM",
+      "genre_source": "venue leaning",
+      "url": "https://dothebay.com/events/2026/11/6/the-midway-vital-present-hvdes-tickets"
     },
     {
       "id": "emo-s-2026-11-06-two-nights-with-they-might-be-giants-2-day-ticket-11-6-26-11-7-26",
