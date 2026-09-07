@@ -351,6 +351,10 @@
     "genre": "EDM",
     "checked": "2026-08-06"
   },
+  "frequency shift": {
+    "genre": null,
+    "checked": "2026-09-07"
+  },
   "fuerza regida": {
     "genre": null,
     "checked": "2026-08-11"
@@ -650,6 +654,10 @@
   "matt rife": {
     "genre": null,
     "checked": "2026-08-06"
+  },
+  "matt sassari": {
+    "genre": "EDM",
+    "checked": "2026-09-07"
   },
   "medium build": {
     "genre": null,

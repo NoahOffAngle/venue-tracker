@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-07T13:34:38Z",
+  "generated_at": "2026-09-07T22:07:33Z",
   "lists": [
     "Local",
     "Off Angle"
@@ -358,6 +358,19 @@
       "genre": "EDM",
       "genre_source": "musicbrainz",
       "url": "https://dothebay.com/events/2026/9/11/flux-pavilion-tickets"
+    },
+    {
+      "id": "kingdom-2026-09-12-frequency-shift",
+      "venue": "Kingdom",
+      "list": "Local",
+      "group": "",
+      "date": "2026-09-12",
+      "time": "10:00 PM",
+      "artist": "FREQUENCY SHIFT",
+      "support": "",
+      "genre": "EDM",
+      "genre_source": "venue leaning",
+      "url": "https://kingdomnightclub.com/event/frequency-shift/kingdom-nightclub/austin-texas/"
     },
     {
       "id": "the-midway-2026-09-12-chai-beats-san-francisco",
@@ -1489,6 +1502,19 @@
       "genre": "EDM",
       "genre_source": "site",
       "url": "https://wl.seetickets.us/event/Official-2026-ACL-Fest-Nights-The-Chainsmokers/701286?afflky=TheConcourseProject"
+    },
+    {
+      "id": "kingdom-2026-10-02-matt-sassari",
+      "venue": "Kingdom",
+      "list": "Local",
+      "group": "",
+      "date": "2026-10-02",
+      "time": "10:00 PM",
+      "artist": "Matt Sassari",
+      "support": "",
+      "genre": "EDM",
+      "genre_source": "musicbrainz",
+      "url": "https://kingdomnightclub.com/event/matt-sassari/kingdom-nightclub/austin-texas/"
     },
     {
       "id": "red-rocks-2026-10-02-levity-presents-levi-rocks-the-volcano",
