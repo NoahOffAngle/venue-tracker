@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-07T22:07:33Z",
+  "generated_at": "2026-09-08T06:02:50Z",
   "lists": [
     "Local",
     "Off Angle"
@@ -73,32 +73,6 @@
     }
   ],
   "events": [
-    {
-      "id": "the-midway-2026-09-07-hiero-day",
-      "venue": "The Midway",
-      "list": "Off Angle",
-      "group": "San Francisco",
-      "date": "2026-09-07",
-      "time": "2:00 PM",
-      "artist": "Hiero Day",
-      "support": "",
-      "genre": "EDM",
-      "genre_source": "venue leaning",
-      "url": "https://dothebay.com/events/2026/9/7/hiero-day-tickets"
-    },
-    {
-      "id": "red-rocks-2026-09-07-gregory-alan-isakov-with-the-colorado-symphony",
-      "venue": "Red Rocks",
-      "list": "Off Angle",
-      "group": "Out of State",
-      "date": "2026-09-07",
-      "time": "8:00 PM",
-      "artist": "Gregory Alan Isakov with the Colorado Symphony",
-      "support": "the Colorado Symphony",
-      "genre": "Live Music",
-      "genre_source": "musicbrainz",
-      "url": "https://www.redrocksonline.com/events/gregory-alan-isakov-1217861/"
-    },
     {
       "id": "emo-s-2026-09-08-jutes-smile-you-re-on-tour",
       "venue": "Emo's",
