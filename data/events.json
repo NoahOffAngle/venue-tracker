@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-08T06:02:50Z",
+  "generated_at": "2026-09-08T12:12:39Z",
   "lists": [
     "Local",
     "Off Angle"
@@ -3504,6 +3504,19 @@
       "genre": "Live Music",
       "genre_source": "default",
       "url": "https://www.redrocksonline.com/events/face-vocal-band-25th-anniversary-concert-1400703/"
+    },
+    {
+      "id": "the-midway-2026-11-08-mexico-in-a-bottle",
+      "venue": "The Midway",
+      "list": "Off Angle",
+      "group": "San Francisco",
+      "date": "2026-11-08",
+      "time": "5:00 PM",
+      "artist": "Mexico in a Bottle",
+      "support": "",
+      "genre": "EDM",
+      "genre_source": "venue leaning",
+      "url": "https://dothebay.com/events/2026/11/8/mexico-in-a-bottle-tickets"
     },
     {
       "id": "the-regency-ballroom-2026-11-08-nia-archives",
