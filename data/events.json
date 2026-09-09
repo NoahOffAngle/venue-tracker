@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-08T21:56:29Z",
+  "generated_at": "2026-09-09T06:06:52Z",
   "lists": [
     "Local",
     "Off Angle"
@@ -73,58 +73,6 @@
     }
   ],
   "events": [
-    {
-      "id": "emo-s-2026-09-08-jutes-smile-you-re-on-tour",
-      "venue": "Emo's",
-      "list": "Local",
-      "group": "",
-      "date": "2026-09-08",
-      "time": "6:00 PM",
-      "artist": "JUTES - Smile You're on Tour",
-      "support": "",
-      "genre": "Live Music",
-      "genre_source": "musicbrainz",
-      "url": "https://www.ticketmaster.com/jutes-smile-youre-on-tour-austin-texas-09-08-2026/event/3A006481BE48E0E5"
-    },
-    {
-      "id": "red-rocks-2026-09-08-five-finger-death-punch",
-      "venue": "Red Rocks",
-      "list": "Off Angle",
-      "group": "Out of State",
-      "date": "2026-09-08",
-      "time": "6:45 PM",
-      "artist": "Five Finger Death Punch",
-      "support": "Cody Jinks, Eva Under Fire",
-      "genre": "Live Music",
-      "genre_source": "musicbrainz",
-      "url": "https://www.redrocksonline.com/events/five-finger-death-punch-1286674/"
-    },
-    {
-      "id": "the-regency-ballroom-2026-09-08-slayyyter",
-      "venue": "The Regency Ballroom",
-      "list": "Off Angle",
-      "group": "San Francisco",
-      "date": "2026-09-08",
-      "time": "8:00 PM",
-      "artist": "Slayyyter",
-      "support": "Pearly Drops",
-      "genre": "EDM",
-      "genre_source": "musicbrainz",
-      "url": "https://www.theregencyballroom.com/events/detail?event_id=1373060"
-    },
-    {
-      "id": "bill-graham-civic-2026-09-08-wave-to-earth",
-      "venue": "Bill Graham Civic",
-      "list": "Off Angle",
-      "group": "San Francisco",
-      "date": "2026-09-08",
-      "time": "8:15 PM",
-      "artist": "wave to earth",
-      "support": "",
-      "genre": "Live Music",
-      "genre_source": "default",
-      "url": "https://billgrahamcivic.com/events/wave-to-earth-260908"
-    },
     {
       "id": "silo-dallas-2026-09-09-dj-diesel",
       "venue": "Silo Dallas",
@@ -3764,6 +3712,19 @@
       "genre": "Live Music",
       "genre_source": "musicbrainz",
       "url": "https://billgrahamcivic.com/events/worship-261114"
+    },
+    {
+      "id": "emo-s-2026-11-14-danna-the-bedroom-sessions-us-tour",
+      "venue": "Emo's",
+      "list": "Local",
+      "group": "",
+      "date": "2026-11-14",
+      "time": "7:00 PM",
+      "artist": "DANNA - THE BEDROOM SESSIONS US TOUR",
+      "support": "",
+      "genre": "Live Music",
+      "genre_source": "default",
+      "url": "https://www.ticketmaster.com/danna-the-bedroom-sessions-us-tour-austin-texas-11-14-2026/event/3A00651C9A4A98E5"
     },
     {
       "id": "red-rocks-2026-11-14-mike",
