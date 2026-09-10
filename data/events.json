@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-09T21:46:19Z",
+  "generated_at": "2026-09-10T06:06:17Z",
   "lists": [
     "Local",
     "Off Angle"
@@ -73,45 +73,6 @@
     }
   ],
   "events": [
-    {
-      "id": "silo-dallas-2026-09-09-dj-diesel",
-      "venue": "Silo Dallas",
-      "list": "Local",
-      "group": "",
-      "date": "2026-09-09",
-      "time": "5:00 PM",
-      "artist": "DJ Diesel",
-      "support": "",
-      "genre": "EDM",
-      "genre_source": "venue",
-      "url": "https://silodallas.com/events/dj-diesel-61130697739"
-    },
-    {
-      "id": "emo-s-2026-09-09-citizen",
-      "venue": "Emo's",
-      "list": "Local",
-      "group": "",
-      "date": "2026-09-09",
-      "time": "6:00 PM",
-      "artist": "Citizen",
-      "support": "",
-      "genre": "Live Music",
-      "genre_source": "musicbrainz",
-      "url": "https://www.ticketmaster.com/citizen-austin-texas-09-09-2026/event/3A006494DF16280F"
-    },
-    {
-      "id": "red-rocks-2026-09-09-cole-swindell",
-      "venue": "Red Rocks",
-      "list": "Off Angle",
-      "group": "Out of State",
-      "date": "2026-09-09",
-      "time": "6:30 PM",
-      "artist": "Cole Swindell",
-      "support": "BlackHawk, Zach John King",
-      "genre": "Live Music",
-      "genre_source": "musicbrainz",
-      "url": "https://www.redrocksonline.com/events/cole-swindell-1336373/"
-    },
     {
       "id": "kingdom-2026-09-10-deeper-state",
       "venue": "Kingdom",
@@ -670,6 +631,19 @@
       "genre": "EDM",
       "genre_source": "musicbrainz",
       "url": "https://dothebay.com/events/2026/9/18/k-motionz-tickets"
+    },
+    {
+      "id": "kingdom-2026-09-19-amped-austin",
+      "venue": "Kingdom",
+      "list": "Local",
+      "group": "",
+      "date": "2026-09-19",
+      "time": "10:00 PM",
+      "artist": "AMPED AUSTIN",
+      "support": "",
+      "genre": "EDM",
+      "genre_source": "venue leaning",
+      "url": "https://kingdomnightclub.com/event/amped-austin-3/kingdom-nightclub/austin-texas/"
     },
     {
       "id": "the-midway-2026-09-19-satin-jackets",
@@ -3682,7 +3656,7 @@
       "date": "2026-11-13",
       "time": "8:00 PM",
       "artist": "L7",
-      "support": "",
+      "support": "NOBRO",
       "genre": "Live Music",
       "genre_source": "musicbrainz",
       "url": "https://www.theregencyballroom.com/events/detail?event_id=1435452"
@@ -3792,6 +3766,19 @@
       "url": "https://wl.eventim.us/event/Solardo-DALLAS/704601?afflky=DiscoPresents-Ductwork"
     },
     {
+      "id": "emo-s-2026-11-15-clara-la-san-chosen-silences-tour-fall-2026",
+      "venue": "Emo's",
+      "list": "Local",
+      "group": "",
+      "date": "2026-11-15",
+      "time": "7:00 PM",
+      "artist": "Clara La San - Chosen Silences Tour Fall 2026",
+      "support": "",
+      "genre": "Live Music",
+      "genre_source": "default",
+      "url": "https://www.ticketmaster.com/clara-la-san-chosen-silences-tour-austin-texas-11-15-2026/event/3A00650BB173ADDF"
+    },
+    {
       "id": "the-regency-ballroom-2026-11-16-manic-street-preachers",
       "venue": "The Regency Ballroom",
       "list": "Off Angle",
@@ -3816,6 +3803,19 @@
       "genre": "EDM",
       "genre_source": "venue",
       "url": "https://wl.eventim.us/event/3BALLMTY-DALLAS/704014?afflky=SILO"
+    },
+    {
+      "id": "kingdom-2026-11-20-only-fire-friends",
+      "venue": "Kingdom",
+      "list": "Local",
+      "group": "",
+      "date": "2026-11-20",
+      "time": "10:00 PM",
+      "artist": "Only Fire & Friends",
+      "support": "",
+      "genre": "EDM",
+      "genre_source": "musicbrainz",
+      "url": "https://kingdomnightclub.com/event/only-fire-friends/kingdom-nightclub/austin-texas/"
     },
     {
       "id": "the-regency-ballroom-2026-11-20-layton-giordani",
