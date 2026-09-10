@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-10T17:03:19Z",
+  "generated_at": "2026-09-10T21:42:50Z",
   "lists": [
     "Local",
     "Off Angle"
@@ -373,6 +373,19 @@
       "url": "https://wl.seetickets.us/event/LSRCITY-X-by-Gareth-Emery-at-The-Concourse-Project/690066?afflky=TheConcourseProject"
     },
     {
+      "id": "the-midway-2026-09-12-whales",
+      "venue": "The Midway",
+      "list": "Off Angle",
+      "group": "San Francisco",
+      "date": "2026-09-12",
+      "time": "9:00 PM",
+      "artist": "Whales",
+      "support": "",
+      "genre": "EDM",
+      "genre_source": "venue leaning",
+      "url": "https://dothebay.com/events/2026/9/12/whales-tickets"
+    },
+    {
       "id": "the-midway-2026-09-13-intercell-sf-bad-boombox-lammer-b2b-ollie-lishman-more",
       "venue": "The Midway",
       "list": "Off Angle",
@@ -397,19 +410,6 @@
       "genre": "Live Music",
       "genre_source": "musicbrainz",
       "url": "https://www.redrocksonline.com/events/brandi-carlile-1360450/"
-    },
-    {
-      "id": "silo-dallas-2026-09-13-wooden-wisdom-elijah-wood-zach-cowie",
-      "venue": "Silo Dallas",
-      "list": "Local",
-      "group": "",
-      "date": "2026-09-13",
-      "time": "7:00 PM",
-      "artist": "Wooden Wisdom: Elijah Wood & Zach Cowie",
-      "support": "",
-      "genre": "EDM",
-      "genre_source": "venue",
-      "url": "https://wl.eventim.us/event/WOODEN-WISDOM-Elijah-Wood-Zach-Cowie-DALLAS/682118?afflky=DiscoPresents-Ductwork"
     },
     {
       "id": "red-rocks-2026-09-14-needtobreathe",
@@ -627,7 +627,7 @@
       "date": "2026-09-18",
       "time": "9:00 PM",
       "artist": "TroyBoi",
-      "support": "",
+      "support": "Tye Turner",
       "genre": "EDM",
       "genre_source": "site",
       "url": "https://wl.seetickets.us/event/TroyBoi-at-The-Concourse-Project/694386?afflky=TheConcourseProject"
@@ -722,6 +722,19 @@
       "genre": "Live Music",
       "genre_source": "default",
       "url": "https://www.redrocksonline.com/events/snowshape-fitness-series-presented-by-toyota-1541348/"
+    },
+    {
+      "id": "the-regency-ballroom-2026-09-19-arlo-parks",
+      "venue": "The Regency Ballroom",
+      "list": "Off Angle",
+      "group": "San Francisco",
+      "date": "2026-09-19",
+      "time": "8:00 PM",
+      "artist": "Arlo Parks",
+      "support": "Baird",
+      "genre": "Live Music",
+      "genre_source": "default",
+      "url": "https://www.theregencyballroom.com/events/detail?event_id=1360442"
     },
     {
       "id": "under-the-k-bridge-2026-09-19-tove-lo",
@@ -3428,19 +3441,6 @@
       "url": "https://www.redrocksonline.com/events/face-vocal-band-25th-anniversary-concert-1400703/"
     },
     {
-      "id": "the-midway-2026-11-08-mexico-in-a-bottle",
-      "venue": "The Midway",
-      "list": "Off Angle",
-      "group": "San Francisco",
-      "date": "2026-11-08",
-      "time": "5:00 PM",
-      "artist": "Mexico in a Bottle",
-      "support": "",
-      "genre": "EDM",
-      "genre_source": "venue leaning",
-      "url": "https://dothebay.com/events/2026/11/8/mexico-in-a-bottle-tickets"
-    },
-    {
       "id": "the-regency-ballroom-2026-11-08-nia-archives",
       "venue": "The Regency Ballroom",
       "list": "Off Angle",
@@ -4323,6 +4323,19 @@
       "genre": "Live Music",
       "genre_source": "musicbrainz",
       "url": "https://www.theregencyballroom.com/events/detail?event_id=1442684"
+    },
+    {
+      "id": "the-regency-ballroom-2027-02-19-jordan-rakei",
+      "venue": "The Regency Ballroom",
+      "list": "Off Angle",
+      "group": "San Francisco",
+      "date": "2027-02-19",
+      "time": "8:00 PM",
+      "artist": "Jordan Rakei",
+      "support": "",
+      "genre": "Live Music",
+      "genre_source": "default",
+      "url": "https://www.theregencyballroom.com/events/detail?event_id=1601208"
     },
     {
       "id": "the-regency-ballroom-2027-04-27-mass-of-the-fermenting-dregs",
