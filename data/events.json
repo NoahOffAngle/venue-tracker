@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-10T12:17:31Z",
+  "generated_at": "2026-09-10T17:03:19Z",
   "lists": [
     "Local",
     "Off Angle"
@@ -137,6 +137,19 @@
       "genre": "EDM",
       "genre_source": "venue leaning",
       "url": "https://kingdomnightclub.com/event/bradeazy/kingdom-nightclub/austin-texas/"
+    },
+    {
+      "id": "the-concourse-project-2026-09-11-zeds-dead-official-afterparty",
+      "venue": "The Concourse Project",
+      "list": "Local",
+      "group": "",
+      "date": "2026-09-11",
+      "time": "10:00 PM",
+      "artist": "Zeds Dead (Official Afterparty)",
+      "support": "",
+      "genre": "EDM",
+      "genre_source": "site",
+      "url": "https://wl.seetickets.us/event/Zeds-Dead-Official-Afterparty-at-The-Concourse-Project/702040?afflky=TheConcourseProject"
     },
     {
       "id": "the-midway-2026-09-11-promiscuous-a-2000-s-club-bangers-throwbacks-party",
@@ -354,7 +367,7 @@
       "date": "2026-09-12",
       "time": "9:00 PM",
       "artist": "LSR/CITY X by Gareth Emery",
-      "support": "LSR/CITY, Gareth Emery",
+      "support": "LSR/CITY, Gareth Emery, Cvmrn, Feathervane",
       "genre": "EDM",
       "genre_source": "site",
       "url": "https://wl.seetickets.us/event/LSRCITY-X-by-Gareth-Emery-at-The-Concourse-Project/690066?afflky=TheConcourseProject"
@@ -2635,19 +2648,6 @@
       "url": "https://wl.eventim.us/event/GorillaT-DALLAS/700117?afflky=DiscoPresents-Ductwork"
     },
     {
-      "id": "the-concourse-project-2026-10-22-ben-bohmer",
-      "venue": "The Concourse Project",
-      "list": "Local",
-      "group": "",
-      "date": "2026-10-22",
-      "time": "9:00 PM",
-      "artist": "Ben Böhmer",
-      "support": "",
-      "genre": "EDM",
-      "genre_source": "site",
-      "url": "https://wl.seetickets.us/event/Ben-Bhmer-at-The-Concourse-Project/699543?afflky=TheConcourseProject"
-    },
-    {
       "id": "red-rocks-2026-10-23-mersiv-two-sets",
       "venue": "Red Rocks",
       "list": "Off Angle",
@@ -4195,6 +4195,19 @@
       "url": "https://kingdomnightclub.com/event/rave-jesus-rave-revival-fall-tour/kingdom-nightclub/austin-texas/"
     },
     {
+      "id": "silo-dallas-2026-12-12-omnom",
+      "venue": "Silo Dallas",
+      "list": "Local",
+      "group": "",
+      "date": "2026-12-12",
+      "time": "9:00 PM",
+      "artist": "OMNOM",
+      "support": "",
+      "genre": "EDM",
+      "genre_source": "venue",
+      "url": "https://silodallas.com/events/omnom-61649673516"
+    },
+    {
       "id": "silo-dallas-2026-12-13-sam-wolfe",
       "venue": "Silo Dallas",
       "list": "Local",
@@ -4206,6 +4219,19 @@
       "genre": "EDM",
       "genre_source": "venue",
       "url": "https://wl.eventim.us/event/Sam-Wolfe-DALLAS/699785?afflky=DiscoPresents-Ductwork"
+    },
+    {
+      "id": "bill-graham-civic-2026-12-17-victoria-monet",
+      "venue": "Bill Graham Civic",
+      "list": "Off Angle",
+      "group": "San Francisco",
+      "date": "2026-12-17",
+      "time": "8:00 PM",
+      "artist": "Victoria Monét",
+      "support": "",
+      "genre": "Live Music",
+      "genre_source": "default",
+      "url": "https://billgrahamcivic.com/events/victoria-monet-261217"
     },
     {
       "id": "silo-dallas-2026-12-17-mitis",
