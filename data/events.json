@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-11T17:04:18Z",
+  "generated_at": "2026-09-11T21:47:29Z",
   "lists": [
     "Local",
     "Off Angle"
@@ -107,7 +107,7 @@
       "date": "2026-09-11",
       "time": "10:00 PM",
       "artist": "Zeds Dead (Official Afterparty)",
-      "support": "",
+      "support": "Koss, OldGold",
       "genre": "EDM",
       "genre_source": "site",
       "url": "https://wl.seetickets.us/event/Zeds-Dead-Official-Afterparty-at-The-Concourse-Project/702040?afflky=TheConcourseProject"
@@ -939,7 +939,7 @@
       "date": "2026-09-24",
       "time": "8:00 PM",
       "artist": "Soulwax",
-      "support": "",
+      "support": "LAIMA, Rory Phillips",
       "genre": "EDM",
       "genre_source": "musicbrainz",
       "url": "https://www.theregencyballroom.com/events/detail?event_id=1570048"
@@ -2408,7 +2408,7 @@
       "date": "2026-10-17",
       "time": "8:00 PM",
       "artist": "NOTD",
-      "support": "",
+      "support": "ELLIS, Nat Slater",
       "genre": "Live Music",
       "genre_source": "default",
       "url": "https://www.theregencyballroom.com/events/detail?event_id=1527108"
@@ -4117,6 +4117,19 @@
       "url": "https://www.theregencyballroom.com/events/detail?event_id=1587666"
     },
     {
+      "id": "silo-dallas-2026-12-11-wooli",
+      "venue": "Silo Dallas",
+      "list": "Local",
+      "group": "",
+      "date": "2026-12-11",
+      "time": "9:00 PM",
+      "artist": "Wooli",
+      "support": "",
+      "genre": "EDM",
+      "genre_source": "venue",
+      "url": "https://silodallas.com/events/wooli-61645834256"
+    },
+    {
       "id": "silo-houston-2026-12-11-sidepiece",
       "venue": "Silo Houston",
       "list": "Local",
@@ -4153,7 +4166,7 @@
       "support": "",
       "genre": "EDM",
       "genre_source": "venue",
-      "url": "https://wl.eventim.us/event/Omnom-DALLAS/704603?afflky=SILO&EVENTPASS=PRESSURE"
+      "url": "https://wl.eventim.us/event/Omnom-DALLAS/704603?afflky=SILO"
     },
     {
       "id": "silo-dallas-2026-12-13-sam-wolfe",
