@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-11T12:16:02Z",
+  "generated_at": "2026-09-11T17:04:18Z",
   "lists": [
     "Local",
     "Off Angle"
@@ -150,19 +150,6 @@
       "genre": "Live Music",
       "genre_source": "musicbrainz",
       "url": "https://www.redrocksonline.com/events/brandi-carlile-1360444/"
-    },
-    {
-      "id": "red-rocks-2026-09-11-9-11-stair-climb",
-      "venue": "Red Rocks",
-      "list": "Off Angle",
-      "group": "Out of State",
-      "date": "2026-09-11",
-      "time": "8:00 AM",
-      "artist": "9/11 Stair Climb",
-      "support": "",
-      "genre": "Live Music",
-      "genre_source": "default",
-      "url": "https://www.redrocksonline.com/events/colorado-911-stair-climb-1/"
     },
     {
       "id": "the-regency-ballroom-2026-09-11-altn-gun",
@@ -4166,7 +4153,7 @@
       "support": "",
       "genre": "EDM",
       "genre_source": "venue",
-      "url": "https://silodallas.com/events/omnom-61649673516"
+      "url": "https://wl.eventim.us/event/Omnom-DALLAS/704603?afflky=SILO&EVENTPASS=PRESSURE"
     },
     {
       "id": "silo-dallas-2026-12-13-sam-wolfe",
@@ -4284,19 +4271,6 @@
       "genre": "Live Music",
       "genre_source": "musicbrainz",
       "url": "https://www.theregencyballroom.com/events/detail?event_id=1442684"
-    },
-    {
-      "id": "the-regency-ballroom-2027-02-19-jordan-rakei",
-      "venue": "The Regency Ballroom",
-      "list": "Off Angle",
-      "group": "San Francisco",
-      "date": "2027-02-19",
-      "time": "8:00 PM",
-      "artist": "Jordan Rakei",
-      "support": "",
-      "genre": "Live Music",
-      "genre_source": "default",
-      "url": "https://www.theregencyballroom.com/events/detail?event_id=1601208"
     },
     {
       "id": "the-regency-ballroom-2027-04-27-mass-of-the-fermenting-dregs",
