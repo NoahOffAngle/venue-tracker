@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-10T21:42:50Z",
+  "generated_at": "2026-09-11T06:09:04Z",
   "lists": [
     "Local",
     "Off Angle"
@@ -73,45 +73,6 @@
     }
   ],
   "events": [
-    {
-      "id": "kingdom-2026-09-10-deeper-state",
-      "venue": "Kingdom",
-      "list": "Local",
-      "group": "",
-      "date": "2026-09-10",
-      "time": "10:00 PM",
-      "artist": "Deeper State",
-      "support": "",
-      "genre": "EDM",
-      "genre_source": "venue leaning",
-      "url": "https://kingdomnightclub.com/event/deeper-state-3/kingdom-nightclub/austin-texas/"
-    },
-    {
-      "id": "red-rocks-2026-09-10-sofi-tukker",
-      "venue": "Red Rocks",
-      "list": "Off Angle",
-      "group": "Out of State",
-      "date": "2026-09-10",
-      "time": "7:00 PM",
-      "artist": "SOFI TUKKER",
-      "support": "",
-      "genre": "EDM",
-      "genre_source": "musicbrainz",
-      "url": "https://www.redrocksonline.com/events/sofi-tukker-1468129/"
-    },
-    {
-      "id": "silo-dallas-2026-09-10-calcium",
-      "venue": "Silo Dallas",
-      "list": "Local",
-      "group": "",
-      "date": "2026-09-10",
-      "time": "9:00 PM",
-      "artist": "Calcium",
-      "support": "",
-      "genre": "EDM",
-      "genre_source": "venue",
-      "url": "https://wl.eventim.us/event/Calcium-DALLAS/694650?afflky=DiscoPresents-Ductwork"
-    },
     {
       "id": "cow-palace-2026-09-11-just-between-friends-consignment-sale",
       "venue": "Cow Palace",
@@ -659,6 +620,19 @@
       "url": "https://kingdomnightclub.com/event/amped-austin-3/kingdom-nightclub/austin-texas/"
     },
     {
+      "id": "the-midway-2026-09-19-da-tweekaz",
+      "venue": "The Midway",
+      "list": "Off Angle",
+      "group": "San Francisco",
+      "date": "2026-09-19",
+      "time": "10:00 PM",
+      "artist": "Da Tweekaz",
+      "support": "",
+      "genre": "EDM",
+      "genre_source": "musicbrainz",
+      "url": "https://dothebay.com/events/2026/9/19/da-tweekaz-tickets"
+    },
+    {
       "id": "the-midway-2026-09-19-satin-jackets",
       "venue": "The Midway",
       "list": "Off Angle",
@@ -787,6 +761,19 @@
       "genre": "EDM",
       "genre_source": "site",
       "url": "https://wl.seetickets.us/event/OMNOM-Kamino-at-The-Concourse-Project/695044?afflky=TheConcourseProject"
+    },
+    {
+      "id": "the-midway-2026-09-19-estiva-solyra-ep-tour",
+      "venue": "The Midway",
+      "list": "Off Angle",
+      "group": "San Francisco",
+      "date": "2026-09-19",
+      "time": "9:00 PM",
+      "artist": "Estiva 'Solyra' EP Tour",
+      "support": "",
+      "genre": "EDM",
+      "genre_source": "venue leaning",
+      "url": "https://dothebay.com/events/2026/9/19/estiva-solyra-ep-tour-tickets"
     },
     {
       "id": "the-midway-2026-09-19-juelz",
@@ -3272,19 +3259,6 @@
       "url": "https://www.theregencyballroom.com/events/detail?event_id=1408471"
     },
     {
-      "id": "the-midway-2026-11-06-the-midway-vital-present-hvdes",
-      "venue": "The Midway",
-      "list": "Off Angle",
-      "group": "San Francisco",
-      "date": "2026-11-06",
-      "time": "10:00 PM",
-      "artist": "The Midway & Vital present: HVDES",
-      "support": "",
-      "genre": "EDM",
-      "genre_source": "venue leaning",
-      "url": "https://dothebay.com/events/2026/11/6/the-midway-vital-present-hvdes-tickets"
-    },
-    {
       "id": "emo-s-2026-11-06-two-nights-with-they-might-be-giants-2-day-ticket-11-6-26-11-7-26",
       "venue": "Emo's",
       "list": "Local",
@@ -3348,19 +3322,6 @@
       "genre": "EDM",
       "genre_source": "venue",
       "url": "https://wl.eventim.us/event/ERIC-PRYDZ-DALLAS/701602?afflky=SILO"
-    },
-    {
-      "id": "the-midway-2026-11-07-kayzo-the-cage",
-      "venue": "The Midway",
-      "list": "Off Angle",
-      "group": "San Francisco",
-      "date": "2026-11-07",
-      "time": "10:00 PM",
-      "artist": "Kayzo   The Cage",
-      "support": "",
-      "genre": "EDM",
-      "genre_source": "venue leaning",
-      "url": "https://dothebay.com/events/2026/11/7/kayzo-the-cage-tickets"
     },
     {
       "id": "red-rocks-2026-11-07-atliens",
