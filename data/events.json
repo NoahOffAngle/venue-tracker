@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-13T06:19:36Z",
+  "generated_at": "2026-09-13T12:47:15Z",
   "lists": [
     "Local",
     "Off Angle"
@@ -2583,6 +2583,19 @@
       "url": "https://wl.eventim.us/event/ODDMOB-HOUSTON/701002?afflky=DuctworkHouston"
     },
     {
+      "id": "the-concourse-project-2026-10-24-ian-asher",
+      "venue": "The Concourse Project",
+      "list": "Local",
+      "group": "",
+      "date": "2026-10-24",
+      "time": "9:00 PM",
+      "artist": "Ian Asher",
+      "support": "",
+      "genre": "EDM",
+      "genre_source": "site",
+      "url": "https://wl.seetickets.us/event/Ian-Asher-at-The-Concourse-Project/702036?afflky=TheConcourseProject"
+    },
+    {
       "id": "silo-dallas-2026-10-25-lukas-frank",
       "venue": "Silo Dallas",
       "list": "Local",
@@ -2620,6 +2633,19 @@
       "genre": "Live Music",
       "genre_source": "default",
       "url": "https://www.redrocksonline.com/events/stardew-valley-symphony-of-seasons-1341018/"
+    },
+    {
+      "id": "the-concourse-project-2026-10-25-zhu-night-2",
+      "venue": "The Concourse Project",
+      "list": "Local",
+      "group": "",
+      "date": "2026-10-25",
+      "time": "9:00 PM",
+      "artist": "ZHU (Night 2)",
+      "support": "",
+      "genre": "EDM",
+      "genre_source": "site",
+      "url": "https://wl.seetickets.us/event/ZHU-Night-2-at-The-Concourse-Project/690115?afflky=TheConcourseProject"
     },
     {
       "id": "red-rocks-2026-10-26-evanescence",
@@ -3181,6 +3207,19 @@
       "url": "https://www.redrocksonline.com/events/face-vocal-band-25th-anniversary-concert-1400703/"
     },
     {
+      "id": "the-midway-2026-11-08-mexico-in-a-bottle",
+      "venue": "The Midway",
+      "list": "Off Angle",
+      "group": "San Francisco",
+      "date": "2026-11-08",
+      "time": "5:00 PM",
+      "artist": "Mexico in a Bottle",
+      "support": "",
+      "genre": "EDM",
+      "genre_source": "venue leaning",
+      "url": "https://dothebay.com/events/2026/11/8/mexico-in-a-bottle-tickets"
+    },
+    {
       "id": "the-regency-ballroom-2026-11-08-nia-archives",
       "venue": "The Regency Ballroom",
       "list": "Off Angle",
@@ -3335,6 +3374,19 @@
       "genre": "EDM",
       "genre_source": "musicbrainz",
       "url": "https://kingdomnightclub.com/event/com-truise-dj-set/kingdom-nightclub/austin-texas/"
+    },
+    {
+      "id": "the-midway-2026-11-13-valentino-khan",
+      "venue": "The Midway",
+      "list": "Off Angle",
+      "group": "San Francisco",
+      "date": "2026-11-13",
+      "time": "11:00 PM",
+      "artist": "Valentino Khan",
+      "support": "",
+      "genre": "EDM",
+      "genre_source": "same artist elsewhere",
+      "url": "https://dothebay.com/events/2026/11/13/valentino-khan-tickets"
     },
     {
       "id": "red-rocks-2026-11-13-gryffin",
@@ -3530,6 +3582,19 @@
       "genre": "Live Music",
       "genre_source": "musicbrainz",
       "url": "https://www.theregencyballroom.com/events/detail?event_id=1463683"
+    },
+    {
+      "id": "emo-s-2026-11-17-amble",
+      "venue": "Emo's",
+      "list": "Local",
+      "group": "",
+      "date": "2026-11-17",
+      "time": "7:00 PM",
+      "artist": "Amble",
+      "support": "",
+      "genre": "Live Music",
+      "genre_source": "default",
+      "url": "https://www.ticketmaster.com/amble-austin-texas-11-17-2026/event/3A006496EF8487E5"
     },
     {
       "id": "silo-dallas-2026-11-19-3ballmty",
