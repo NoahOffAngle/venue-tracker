@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-13T21:30:22Z",
+  "generated_at": "2026-09-14T06:28:32Z",
   "lists": [
     "Local",
     "Off Angle"
@@ -73,32 +73,6 @@
     }
   ],
   "events": [
-    {
-      "id": "the-midway-2026-09-13-intercell-sf-bad-boombox-lammer-b2b-ollie-lishman-more",
-      "venue": "The Midway",
-      "list": "Off Angle",
-      "group": "San Francisco",
-      "date": "2026-09-13",
-      "time": "3:00 PM",
-      "artist": "Intercell SF: Bad Boombox, Lammer B2B Ollie Lishman & more",
-      "support": "",
-      "genre": "EDM",
-      "genre_source": "keyword",
-      "url": "https://dothebay.com/events/2026/9/13/intercell-sf-bad-boombox-lammer-b2b-ollie-lishman-more-tickets-b31xody"
-    },
-    {
-      "id": "red-rocks-2026-09-13-brandi-carlile",
-      "venue": "Red Rocks",
-      "list": "Off Angle",
-      "group": "Out of State",
-      "date": "2026-09-13",
-      "time": "6:30 PM",
-      "artist": "Brandi Carlile",
-      "support": "Stephen Wilson Jr.",
-      "genre": "Live Music",
-      "genre_source": "musicbrainz",
-      "url": "https://www.redrocksonline.com/events/brandi-carlile-1360450/"
-    },
     {
       "id": "red-rocks-2026-09-14-needtobreathe",
       "venue": "Red Rocks",
