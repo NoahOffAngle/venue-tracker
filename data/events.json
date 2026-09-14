@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-14T06:28:32Z",
+  "generated_at": "2026-09-14T14:15:14Z",
   "lists": [
     "Local",
     "Off Angle"
@@ -3439,6 +3439,19 @@
       "genre": "EDM",
       "genre_source": "venue",
       "url": "https://wl.eventim.us/event/Ben-Nicky-Vini-Vici-DALLAS/702306?afflky=SILO"
+    },
+    {
+      "id": "the-midway-2026-11-14-give-until-gone-presents-neumonic",
+      "venue": "The Midway",
+      "list": "Off Angle",
+      "group": "San Francisco",
+      "date": "2026-11-14",
+      "time": "11:00 PM",
+      "artist": "Give Until Gone presents: Neumonic",
+      "support": "",
+      "genre": "EDM",
+      "genre_source": "venue leaning",
+      "url": "https://dothebay.com/events/2026/11/14/give-until-gone-presents-neumonic-tickets"
     },
     {
       "id": "bill-graham-civic-2026-11-14-worship",
