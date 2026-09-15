@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-15T12:45:29Z",
+  "generated_at": "2026-09-15T17:42:52Z",
   "lists": [
     "Local",
     "Off Angle"
@@ -146,7 +146,7 @@
       "date": "2026-09-16",
       "time": "8:00 PM",
       "artist": "ISOxo pres: Hardcore Diva (Night 1)",
-      "support": "pluko, ALEKO",
+      "support": "pluko, ALEKO, Selina Eshraghi b2b DUNE",
       "genre": "EDM",
       "genre_source": "site",
       "url": "https://wl.seetickets.us/event/ISOxo-pres-Hardcore-Diva-Night-1-at-The-Concourse-Project/690917?afflky=TheConcourseProject"
@@ -185,7 +185,7 @@
       "date": "2026-09-17",
       "time": "8:00 PM",
       "artist": "ISOxo pres: Hardcore Diva (Night 2)",
-      "support": "pluko, ALEKO",
+      "support": "pluko, ALEKO, Selina Eshraghi b2b DUNE",
       "genre": "EDM",
       "genre_source": "site",
       "url": "https://wl.seetickets.us/event/ISOxo-pres-Hardcore-Diva-Night-2-at-The-Concourse-Project/690919?afflky=TheConcourseProject"
@@ -445,7 +445,7 @@
       "date": "2026-09-19",
       "time": "9:00 PM",
       "artist": "OMNOM + Kamino",
-      "support": "OMNOM, Kamino",
+      "support": "OMNOM, Kamino, Errow",
       "genre": "EDM",
       "genre_source": "site",
       "url": "https://wl.seetickets.us/event/OMNOM-Kamino-at-The-Concourse-Project/695044?afflky=TheConcourseProject"
@@ -4078,6 +4078,19 @@
       "url": "https://wl.eventim.us/event/LIGHTS-ALL-NIGHT-PRE-PARTY-FT-GRYFFIN-DALLAS/703648?afflky=SILO"
     },
     {
+      "id": "silo-dallas-2026-12-31-jigitz",
+      "venue": "Silo Dallas",
+      "list": "Local",
+      "group": "",
+      "date": "2026-12-31",
+      "time": "9:00 PM",
+      "artist": "jigitz",
+      "support": "",
+      "genre": "EDM",
+      "genre_source": "venue",
+      "url": "https://silodallas.com/events/jigitz-61820015651"
+    },
+    {
       "id": "silo-houston-2027-01-16-ghengar",
       "venue": "Silo Houston",
       "list": "Local",
@@ -4102,6 +4115,19 @@
       "genre": "Live Music",
       "genre_source": "musicbrainz",
       "url": "https://www.theregencyballroom.com/events/detail?event_id=1442684"
+    },
+    {
+      "id": "the-regency-ballroom-2027-03-03-eluveitie",
+      "venue": "The Regency Ballroom",
+      "list": "Off Angle",
+      "group": "San Francisco",
+      "date": "2027-03-03",
+      "time": "8:00 PM",
+      "artist": "Eluveitie",
+      "support": "NiNi, Illumishade",
+      "genre": "Live Music",
+      "genre_source": "musicbrainz",
+      "url": "https://www.theregencyballroom.com/events/detail?event_id=1608440"
     },
     {
       "id": "the-regency-ballroom-2027-04-27-mass-of-the-fermenting-dregs",
