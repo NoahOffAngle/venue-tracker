@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-15T17:42:52Z",
+  "generated_at": "2026-09-15T22:21:00Z",
   "lists": [
     "Local",
     "Off Angle"
@@ -1424,6 +1424,19 @@
       "genre": "Live Music",
       "genre_source": "musicbrainz",
       "url": "https://www.redrocksonline.com/events/ella-langley-1496217/"
+    },
+    {
+      "id": "kingdom-2026-10-08-dvs1",
+      "venue": "Kingdom",
+      "list": "Local",
+      "group": "",
+      "date": "2026-10-08",
+      "time": "10:00 PM",
+      "artist": "DVS1",
+      "support": "",
+      "genre": "EDM",
+      "genre_source": "venue leaning",
+      "url": "https://kingdomnightclub.com/event/dvs1-2/kingdom-nightclub/austin-texas/"
     },
     {
       "id": "red-rocks-2026-10-08-tape-b-presents-hallow-rocks",
