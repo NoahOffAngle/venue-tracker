@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-14T22:35:43Z",
+  "generated_at": "2026-09-15T06:13:39Z",
   "lists": [
     "Local",
     "Off Angle"
@@ -73,19 +73,6 @@
     }
   ],
   "events": [
-    {
-      "id": "red-rocks-2026-09-14-needtobreathe",
-      "venue": "Red Rocks",
-      "list": "Off Angle",
-      "group": "Out of State",
-      "date": "2026-09-14",
-      "time": "7:00 PM",
-      "artist": "NEEDTOBREATHE",
-      "support": "Drew & Ellie Holcomb",
-      "genre": "Live Music",
-      "genre_source": "default",
-      "url": "https://www.redrocksonline.com/events/needtobreathe-1370134/"
-    },
     {
       "id": "red-rocks-2026-09-15-acid-bath-ministry",
       "venue": "Red Rocks",
