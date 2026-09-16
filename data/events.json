@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-16T12:40:23Z",
+  "generated_at": "2026-09-16T17:40:06Z",
   "lists": [
     "Local",
     "Off Angle"
@@ -237,7 +237,7 @@
       "date": "2026-09-18",
       "time": "9:00 PM",
       "artist": "TroyBoi",
-      "support": "Tye Turner",
+      "support": "Tye Turner, Koss, Saladbar",
       "genre": "EDM",
       "genre_source": "site",
       "url": "https://wl.seetickets.us/event/TroyBoi-at-The-Concourse-Project/694386?afflky=TheConcourseProject"
@@ -1056,7 +1056,7 @@
       "date": "2026-10-01",
       "time": "9:00 PM",
       "artist": "Official 2026 ACL Fest Nights: The Chainsmokers",
-      "support": "",
+      "support": "Austin Ashtin",
       "genre": "EDM",
       "genre_source": "site",
       "url": "https://wl.seetickets.us/event/Official-2026-ACL-Fest-Nights-The-Chainsmokers/701286?afflky=TheConcourseProject"
@@ -3935,6 +3935,19 @@
       "url": "https://www.theregencyballroom.com/events/detail?event_id=1587666"
     },
     {
+      "id": "silo-dallas-2026-12-10-goldie",
+      "venue": "Silo Dallas",
+      "list": "Local",
+      "group": "",
+      "date": "2026-12-10",
+      "time": "9:00 PM",
+      "artist": "Goldie",
+      "support": "",
+      "genre": "EDM",
+      "genre_source": "venue",
+      "url": "https://silodallas.com/events/goldie-31573368206"
+    },
+    {
       "id": "silo-dallas-2026-12-11-wooli",
       "venue": "Silo Dallas",
       "list": "Local",
@@ -4088,7 +4101,7 @@
       "support": "",
       "genre": "EDM",
       "genre_source": "venue",
-      "url": "https://silodallas.com/events/jigitz-61820015651"
+      "url": "https://wl.eventim.us/event/JIGITZ-DALLAS/705406?afflky=SILO"
     },
     {
       "id": "silo-houston-2027-01-16-ghengar",
