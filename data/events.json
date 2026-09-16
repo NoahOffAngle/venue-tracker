@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-16T06:10:36Z",
+  "generated_at": "2026-09-16T12:40:23Z",
   "lists": [
     "Local",
     "Off Angle"
@@ -4050,6 +4050,19 @@
       "genre": "EDM",
       "genre_source": "venue",
       "url": "https://wl.eventim.us/event/Valentino-Khan-presents-EXTRAMANIA-DALLAS/693688?afflky=SILO"
+    },
+    {
+      "id": "silo-houston-2026-12-27-dombresky",
+      "venue": "Silo Houston",
+      "list": "Local",
+      "group": "",
+      "date": "2026-12-27",
+      "time": "9:00 PM",
+      "artist": "Dombresky",
+      "support": "",
+      "genre": "EDM",
+      "genre_source": "venue",
+      "url": "https://wl.eventim.us/event/LSRCITY-X-by-Gareth-Emery-HOUSTON/697705?afflky=DuctworkHouston&EVENTPASS=LCGAX"
     },
     {
       "id": "silo-dallas-2026-12-29-gryffin",
