@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-17T12:39:22Z",
+  "generated_at": "2026-09-17T17:40:40Z",
   "lists": [
     "Local",
     "Off Angle"
@@ -1985,6 +1985,19 @@
       "url": "https://dothebay.com/events/2026/10/16/intimate-night-with-perfect-stranger-presents-a-perfect-sphere-album-release-party-tickets"
     },
     {
+      "id": "kingdom-2026-10-17-wonkywilla-atx",
+      "venue": "Kingdom",
+      "list": "Local",
+      "group": "",
+      "date": "2026-10-17",
+      "time": "10:00 PM",
+      "artist": "WonkyWilla | ATX",
+      "support": "",
+      "genre": "EDM",
+      "genre_source": "venue leaning",
+      "url": "https://kingdomnightclub.com/event/wonkywilla-atx/kingdom-nightclub/austin-texas/"
+    },
+    {
       "id": "the-midway-2026-10-17-yheti-toadface-present-sleight-of-sound-tour",
       "venue": "The Midway",
       "list": "Off Angle",
@@ -3038,6 +3051,19 @@
       "url": "https://wl.eventim.us/event/ERIC-PRYDZ-DALLAS/701602?afflky=SILO"
     },
     {
+      "id": "kingdom-2026-11-07-tokimonsta",
+      "venue": "Kingdom",
+      "list": "Local",
+      "group": "",
+      "date": "2026-11-07",
+      "time": "10:00 PM",
+      "artist": "TOKiMONSTA",
+      "support": "",
+      "genre": "EDM",
+      "genre_source": "venue leaning",
+      "url": "https://kingdomnightclub.com/event/tokimonsta/kingdom-nightclub/austin-texas/"
+    },
+    {
       "id": "the-midway-2026-11-07-kayzo-the-cage",
       "venue": "The Midway",
       "list": "Off Angle",
@@ -3932,7 +3958,7 @@
       "support": "",
       "genre": "EDM",
       "genre_source": "venue",
-      "url": "https://silodallas.com/events/goldie-31573368206"
+      "url": "https://wl.eventim.us/event/Goldie-DALLAS/659555?afflky=DiscoPresents-Ductwork"
     },
     {
       "id": "silo-dallas-2026-12-11-wooli",
@@ -4102,6 +4128,32 @@
       "genre": "EDM",
       "genre_source": "venue",
       "url": "https://wl.eventim.us/event/Ghengar-HOUSTON/703376?afflky=DuctworkHouston&eventpass=REBIRTH2026"
+    },
+    {
+      "id": "silo-dallas-2027-01-23-twinsick",
+      "venue": "Silo Dallas",
+      "list": "Local",
+      "group": "",
+      "date": "2027-01-23",
+      "time": "9:00 PM",
+      "artist": "Twinsick",
+      "support": "",
+      "genre": "EDM",
+      "genre_source": "venue",
+      "url": "https://silodallas.com/events/twinsick-61865899627"
+    },
+    {
+      "id": "the-regency-ballroom-2027-02-05-twinsick",
+      "venue": "The Regency Ballroom",
+      "list": "Off Angle",
+      "group": "San Francisco",
+      "date": "2027-02-05",
+      "time": "8:00 PM",
+      "artist": "TWINSICK",
+      "support": "",
+      "genre": "EDM",
+      "genre_source": "same artist elsewhere",
+      "url": "https://www.theregencyballroom.com/events/detail?event_id=1601209"
     },
     {
       "id": "the-regency-ballroom-2027-02-18-blue-october",
