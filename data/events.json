@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-16T22:14:45Z",
+  "generated_at": "2026-09-17T06:13:00Z",
   "lists": [
     "Local",
     "Off Angle"
@@ -73,45 +73,6 @@
     }
   ],
   "events": [
-    {
-      "id": "emo-s-2026-09-16-w-a-s-p-1984-to-headless",
-      "venue": "Emo's",
-      "list": "Local",
-      "group": "",
-      "date": "2026-09-16",
-      "time": "7:00 PM",
-      "artist": "W.A.S.P. - 1984 TO HEADLESS",
-      "support": "",
-      "genre": "Live Music",
-      "genre_source": "default",
-      "url": "https://www.ticketmaster.com/wasp-1984-to-headless-austin-texas-09-16-2026/event/3A006437C485C483"
-    },
-    {
-      "id": "red-rocks-2026-09-16-role-model-presents-chuck-on-tour",
-      "venue": "Red Rocks",
-      "list": "Off Angle",
-      "group": "Out of State",
-      "date": "2026-09-16",
-      "time": "7:30 PM",
-      "artist": "Role Model Presents: Chuck On Tour",
-      "support": "Samia",
-      "genre": "Live Music",
-      "genre_source": "default",
-      "url": "https://www.redrocksonline.com/events/role-model-presents-chuck-on-tour-1493696/"
-    },
-    {
-      "id": "the-concourse-project-2026-09-16-isoxo-pres-hardcore-diva-night-1",
-      "venue": "The Concourse Project",
-      "list": "Local",
-      "group": "",
-      "date": "2026-09-16",
-      "time": "8:00 PM",
-      "artist": "ISOxo pres: Hardcore Diva (Night 1)",
-      "support": "pluko, ALEKO, Selina Eshraghi b2b DUNE",
-      "genre": "EDM",
-      "genre_source": "site",
-      "url": "https://wl.seetickets.us/event/ISOxo-pres-Hardcore-Diva-Night-1-at-The-Concourse-Project/690917?afflky=TheConcourseProject"
-    },
     {
       "id": "emo-s-2026-09-17-slayyyter-wor-t-girl-in-the-world-tour",
       "venue": "Emo's",
@@ -3556,6 +3517,19 @@
       "genre": "Live Music",
       "genre_source": "default",
       "url": "https://www.ticketmaster.com/amble-austin-texas-11-17-2026/event/3A006496EF8487E5"
+    },
+    {
+      "id": "emo-s-2026-11-18-evan-honer-it-s-an-even-longer-road-tour",
+      "venue": "Emo's",
+      "list": "Local",
+      "group": "",
+      "date": "2026-11-18",
+      "time": "7:00 PM",
+      "artist": "Evan Honer - It's An Even Longer Road Tour",
+      "support": "",
+      "genre": "Live Music",
+      "genre_source": "default",
+      "url": "https://www.ticketmaster.com/evan-honer-its-an-even-longer-austin-texas-11-18-2026/event/3A0064C2B970AC59"
     },
     {
       "id": "silo-dallas-2026-11-19-3ballmty",
