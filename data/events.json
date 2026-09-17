@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-17T06:13:00Z",
+  "generated_at": "2026-09-17T12:39:22Z",
   "lists": [
     "Local",
     "Off Angle"
@@ -2646,6 +2646,19 @@
       "genre": "EDM",
       "genre_source": "venue",
       "url": "https://wl.eventim.us/event/Massano-DALLAS/698170?afflky=DiscoPresents-Ductwork"
+    },
+    {
+      "id": "the-concourse-project-2026-10-29-chris-stassy-extended-set",
+      "venue": "The Concourse Project",
+      "list": "Local",
+      "group": "",
+      "date": "2026-10-29",
+      "time": "9:00 PM",
+      "artist": "Chris Stassy (Extended Set)",
+      "support": "Chris Stussy",
+      "genre": "EDM",
+      "genre_source": "site",
+      "url": "https://wl.seetickets.us/event/Chris-Stassy-Extended-Set-at-The-Concourse-Project/698725?afflky=TheConcourseProject"
     },
     {
       "id": "kingdom-2026-10-30-dennis-ferrer",
