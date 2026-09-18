@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-17T22:17:35Z",
+  "generated_at": "2026-09-18T06:02:55Z",
   "lists": [
     "Local",
     "Off Angle"
@@ -73,58 +73,6 @@
     }
   ],
   "events": [
-    {
-      "id": "emo-s-2026-09-17-slayyyter-wor-t-girl-in-the-world-tour",
-      "venue": "Emo's",
-      "list": "Local",
-      "group": "",
-      "date": "2026-09-17",
-      "time": "7:00 PM",
-      "artist": "Slayyyter: WOR$T GIRL IN THE WORLD TOUR",
-      "support": "",
-      "genre": "EDM",
-      "genre_source": "musicbrainz",
-      "url": "https://www.ticketmaster.com/slayyyter-wort-girl-in-the-world-austin-texas-09-17-2026/event/3A006472B841B5EA"
-    },
-    {
-      "id": "red-rocks-2026-09-17-get-the-led-out",
-      "venue": "Red Rocks",
-      "list": "Off Angle",
-      "group": "Out of State",
-      "date": "2026-09-17",
-      "time": "7:30 PM",
-      "artist": "Get The Led Out",
-      "support": "",
-      "genre": "Live Music",
-      "genre_source": "musicbrainz",
-      "url": "https://www.redrocksonline.com/events/get-the-led-out-1165966/"
-    },
-    {
-      "id": "the-concourse-project-2026-09-17-isoxo-pres-hardcore-diva-night-2",
-      "venue": "The Concourse Project",
-      "list": "Local",
-      "group": "",
-      "date": "2026-09-17",
-      "time": "8:00 PM",
-      "artist": "ISOxo pres: Hardcore Diva (Night 2)",
-      "support": "pluko, ALEKO, Selina Eshraghi b2b DUNE",
-      "genre": "EDM",
-      "genre_source": "site",
-      "url": "https://wl.seetickets.us/event/ISOxo-pres-Hardcore-Diva-Night-2-at-The-Concourse-Project/690919?afflky=TheConcourseProject"
-    },
-    {
-      "id": "silo-dallas-2026-09-17-bassjackers",
-      "venue": "Silo Dallas",
-      "list": "Local",
-      "group": "",
-      "date": "2026-09-17",
-      "time": "9:00 PM",
-      "artist": "Bassjackers",
-      "support": "",
-      "genre": "EDM",
-      "genre_source": "venue",
-      "url": "https://wl.eventim.us/event/BASSJACKERS-DALLAS/694795?afflky=DiscoPresents-Ductwork"
-    },
     {
       "id": "kingdom-2026-09-18-camoufly",
       "venue": "Kingdom",
