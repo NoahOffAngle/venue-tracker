@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-18T06:02:55Z",
+  "generated_at": "2026-09-18T12:17:34Z",
   "lists": [
     "Local",
     "Off Angle"
@@ -2700,6 +2700,19 @@
       "url": "https://wl.eventim.us/event/Nora-En-Pure-HOUSTON/703288?afflky=DuctworkHouston"
     },
     {
+      "id": "the-concourse-project-2026-10-30-dombresky-extended-set",
+      "venue": "The Concourse Project",
+      "list": "Local",
+      "group": "",
+      "date": "2026-10-30",
+      "time": "9:00 PM",
+      "artist": "Dombresky (Extended Set)",
+      "support": "",
+      "genre": "EDM",
+      "genre_source": "site",
+      "url": "https://wl.seetickets.us/event/Dombresky-Extended-Set-at-The-Concourse-Project/695046?afflky=TheConcourseProject"
+    },
+    {
       "id": "kingdom-2026-10-31-jody-wisternoff",
       "venue": "Kingdom",
       "list": "Local",
@@ -3517,6 +3530,19 @@
       "genre": "Live Music",
       "genre_source": "default",
       "url": "https://www.ticketmaster.com/evan-honer-its-an-even-longer-austin-texas-11-18-2026/event/3A0064C2B970AC59"
+    },
+    {
+      "id": "emo-s-2026-11-19-dexter-and-the-moonrocks",
+      "venue": "Emo's",
+      "list": "Local",
+      "group": "",
+      "date": "2026-11-19",
+      "time": "7:00 PM",
+      "artist": "Dexter and The Moonrocks",
+      "support": "",
+      "genre": "Live Music",
+      "genre_source": "default",
+      "url": "https://www.ticketmaster.com/dexter-and-the-moonrocks-austin-texas-11-19-2026/event/3A0064C2F2FCF0DC"
     },
     {
       "id": "silo-dallas-2026-11-19-3ballmty",
