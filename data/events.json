@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-19T16:34:53Z",
+  "generated_at": "2026-09-19T21:30:56Z",
   "lists": [
     "Local",
     "Off Angle"
@@ -150,19 +150,6 @@
       "genre": "Live Music",
       "genre_source": "musicbrainz",
       "url": "https://www.ticketmaster.com/isaiah-rashad-lil-sunnys-awful-road-austin-texas-09-19-2026/event/3A0064CCB837D46A"
-    },
-    {
-      "id": "red-rocks-2026-09-19-snowshape-fitness-series-presented-by-toyota",
-      "venue": "Red Rocks",
-      "list": "Off Angle",
-      "group": "Out of State",
-      "date": "2026-09-19",
-      "time": "8:00 AM",
-      "artist": "SnowShape – Fitness Series – Presented by Toyota",
-      "support": "",
-      "genre": "Live Music",
-      "genre_source": "default",
-      "url": "https://www.redrocksonline.com/events/snowshape-fitness-series-presented-by-toyota-1541348/"
     },
     {
       "id": "the-regency-ballroom-2026-09-19-arlo-parks",
