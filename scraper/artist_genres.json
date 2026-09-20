@@ -1202,5 +1202,9 @@
   "zac brown band": {
     "genre": "Live Music",
     "checked": "2026-08-06"
+  },
+  "zingara": {
+    "genre": "EDM",
+    "checked": "2026-09-20"
   }
 }
