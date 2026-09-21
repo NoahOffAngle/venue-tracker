@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-20T21:39:10Z",
+  "generated_at": "2026-09-21T06:32:32Z",
   "lists": [
     "Local",
     "Off Angle"
@@ -73,45 +73,6 @@
     }
   ],
   "events": [
-    {
-      "id": "the-midway-2026-09-20-perreo-electrico-ft-a-chal",
-      "venue": "The Midway",
-      "list": "Off Angle",
-      "group": "San Francisco",
-      "date": "2026-09-20",
-      "time": "3:00 PM",
-      "artist": "Perreo Eléctrico ft. A.CHAL",
-      "support": "",
-      "genre": "EDM",
-      "genre_source": "venue leaning",
-      "url": "https://dothebay.com/events/2026/9/20/perreo-electrico-ft-a-chal-tickets"
-    },
-    {
-      "id": "silo-dallas-2026-09-20-dj-diesel",
-      "venue": "Silo Dallas",
-      "list": "Local",
-      "group": "",
-      "date": "2026-09-20",
-      "time": "7:00 PM",
-      "artist": "DJ Diesel",
-      "support": "",
-      "genre": "EDM",
-      "genre_source": "venue",
-      "url": "https://wl.eventim.us/event/DJ-Diesel-aka-SHAQ-DALLAS/699111?afflky=SILO"
-    },
-    {
-      "id": "red-rocks-2026-09-20-andrea-bocelli",
-      "venue": "Red Rocks",
-      "list": "Off Angle",
-      "group": "Out of State",
-      "date": "2026-09-20",
-      "time": "8:00 PM",
-      "artist": "Andrea Bocelli",
-      "support": "",
-      "genre": "Live Music",
-      "genre_source": "musicbrainz",
-      "url": "https://www.redrocksonline.com/events/andrea-bocelli-1304787/"
-    },
     {
       "id": "red-rocks-2026-09-21-andrea-bocelli",
       "venue": "Red Rocks",
