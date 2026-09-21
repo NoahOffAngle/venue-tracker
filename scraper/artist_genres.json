@@ -51,6 +51,10 @@
     "genre": "Live Music",
     "checked": "2026-08-06"
   },
+  "andy stott": {
+    "genre": "EDM",
+    "checked": "2026-09-21"
+  },
   "anees": {
     "genre": "Live Music",
     "checked": "2026-08-06"
@@ -399,6 +403,10 @@
     "genre": "EDM",
     "checked": "2026-08-06"
   },
+  "fovos": {
+    "genre": "EDM",
+    "checked": "2026-09-21"
+  },
   "frequency shift": {
     "genre": null,
     "checked": "2026-09-07"
@@ -510,6 +518,10 @@
   "intercell sf": {
     "genre": null,
     "checked": "2026-08-27"
+  },
+  "international archaeology day": {
+    "genre": null,
+    "checked": "2026-09-21"
   },
   "intimate night": {
     "genre": null,

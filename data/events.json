@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-21T14:20:43Z",
+  "generated_at": "2026-09-21T22:38:50Z",
   "lists": [
     "Local",
     "Off Angle"
@@ -1036,6 +1036,19 @@
       "url": "https://wl.seetickets.us/event/Official-2026-ACL-Fest-Nights-Yousuke-Yukimatsu/701792?afflky=TheConcourseProject"
     },
     {
+      "id": "kingdom-2026-10-09-andy-stott-debit",
+      "venue": "Kingdom",
+      "list": "Local",
+      "group": "",
+      "date": "2026-10-09",
+      "time": "10:00 PM",
+      "artist": "Andy Stott & Debit",
+      "support": "",
+      "genre": "EDM",
+      "genre_source": "musicbrainz",
+      "url": "https://kingdomnightclub.com/event/andy-stott-debit/kingdom-nightclub/austin-texas/"
+    },
+    {
       "id": "the-midway-2026-10-09-whipped-cream",
       "venue": "The Midway",
       "list": "Off Angle",
@@ -1710,6 +1723,19 @@
       "genre": "Live Music",
       "genre_source": "default",
       "url": "https://www.theregencyballroom.com/events/detail?event_id=1527108"
+    },
+    {
+      "id": "red-rocks-2026-10-17-international-archaeology-day",
+      "venue": "Red Rocks",
+      "list": "Off Angle",
+      "group": "Out of State",
+      "date": "2026-10-17",
+      "time": "8:30 AM",
+      "artist": "International Archaeology Day",
+      "support": "",
+      "genre": "Live Music",
+      "genre_source": "default",
+      "url": "https://www.redrocksonline.com/events/international-archaeology-day/"
     },
     {
       "id": "silo-dallas-2026-10-17-odd-mob",
@@ -3621,6 +3647,19 @@
       "genre": "EDM",
       "genre_source": "venue",
       "url": "https://wl.eventim.us/event/SampliFire-DALLAS/693792?afflky=DiscoPresents-Ductwork"
+    },
+    {
+      "id": "kingdom-2026-12-04-fovos",
+      "venue": "Kingdom",
+      "list": "Local",
+      "group": "",
+      "date": "2026-12-04",
+      "time": "10:00 PM",
+      "artist": "FOVOS",
+      "support": "",
+      "genre": "EDM",
+      "genre_source": "musicbrainz",
+      "url": "https://kingdomnightclub.com/event/fovos/kingdom-nightclub/austin-texas/"
     },
     {
       "id": "silo-dallas-2026-12-04-rl-grime",
