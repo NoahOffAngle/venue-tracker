@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-22T17:40:55Z",
+  "generated_at": "2026-09-22T22:19:21Z",
   "lists": [
     "Local",
     "Off Angle"
@@ -237,7 +237,7 @@
       "date": "2026-09-25",
       "time": "7:00 PM",
       "artist": "Deorro pres Botas Y Rave",
-      "support": "Los Nuevos Rivales, Juos, Doknow",
+      "support": "Los Nuevos Rivales, Juos, Doknow, SKYE",
       "genre": "EDM",
       "genre_source": "site",
       "url": "https://wl.seetickets.us/event/Deorro-pres-Botas-Y-Rave-at-The-Concourse-Project-Outdoors/689339?afflky=TheConcourseProject"
@@ -321,19 +321,6 @@
       "url": "https://kingdomnightclub.com/event/space-92-2/kingdom-nightclub/austin-texas/"
     },
     {
-      "id": "the-regency-ballroom-2026-09-26-parcels",
-      "venue": "The Regency Ballroom",
-      "list": "Off Angle",
-      "group": "San Francisco",
-      "date": "2026-09-26",
-      "time": "10:00 PM",
-      "artist": "Parcels",
-      "support": "Velvet Trip",
-      "genre": "Live Music",
-      "genre_source": "default",
-      "url": "https://www.theregencyballroom.com/events/detail?event_id=1573671"
-    },
-    {
       "id": "under-the-k-bridge-2026-09-26-cbgb-festival",
       "venue": "Under the K Bridge",
       "list": "Off Angle",
@@ -393,7 +380,7 @@
       "date": "2026-09-26",
       "time": "8:00 PM",
       "artist": "Eli Brown (Extended Set) + Marie Vaunt & KASIA in Austin",
-      "support": "Eli Brown, Marie Vaunt, KASIA",
+      "support": "Eli Brown, Marie Vaunt, KASIA, OOMANO",
       "genre": "EDM",
       "genre_source": "site",
       "url": "https://wl.seetickets.us/event/Eli-Brown-Extended-Set-Marie-Vaunt-and-KASIA-in-Austin/696552?afflky=TheConcourseProject"
@@ -423,6 +410,19 @@
       "genre": "EDM",
       "genre_source": "venue",
       "url": "https://wl.eventim.us/event/William-Black-HOUSTON/702024?afflky=DuctworkHouston"
+    },
+    {
+      "id": "the-regency-ballroom-2026-09-26-parcels",
+      "venue": "The Regency Ballroom",
+      "list": "Off Angle",
+      "group": "San Francisco",
+      "date": "2026-09-26",
+      "time": "9:15 PM",
+      "artist": "Parcels",
+      "support": "Velvet Trip",
+      "genre": "Live Music",
+      "genre_source": "default",
+      "url": "https://www.theregencyballroom.com/events/detail?event_id=1573671"
     },
     {
       "id": "the-midway-2026-09-27-horsegiirl-vtss-mgna-crrrta-dj-set-two-shell-kavari",
@@ -579,6 +579,19 @@
       "genre": "Live Music",
       "genre_source": "default",
       "url": "https://www.ticketmaster.com/official-2026-acl-nights-palace-austin-texas-10-01-2026/event/3A0064FBD3B1E691"
+    },
+    {
+      "id": "under-the-k-bridge-2026-10-01-fall-gala-2026-rebuild-north-brooklyn",
+      "venue": "Under the K Bridge",
+      "list": "Off Angle",
+      "group": "Out of State",
+      "date": "2026-10-01",
+      "time": "7:30 PM",
+      "artist": "Fall Gala 2026: Rebuild North Brooklyn",
+      "support": "",
+      "genre": "Live Music",
+      "genre_source": "default",
+      "url": "https://underthekbridge.org/events/detail?event_id=1625659"
     },
     {
       "id": "red-rocks-2026-10-01-beck-ride-lonesome-tour",
@@ -4033,7 +4046,7 @@
       "date": "2027-04-28",
       "time": "7:00 PM",
       "artist": "The Interrupters",
-      "support": "Chin Chins, Rat Boy",
+      "support": "The Chin Chins, Rat Boy",
       "genre": "Live Music",
       "genre_source": "musicbrainz",
       "url": "https://www.theregencyballroom.com/events/detail?event_id=1607316"
