@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-24T17:53:59Z",
+  "generated_at": "2026-09-24T22:32:25Z",
   "lists": [
     "Local",
     "Off Angle"
@@ -471,7 +471,7 @@
       "date": "2026-09-29",
       "time": "8:00 PM",
       "artist": "CupcakKe",
-      "support": "",
+      "support": "discnogirl",
       "genre": "Live Music",
       "genre_source": "musicbrainz",
       "url": "https://www.theregencyballroom.com/events/detail?event_id=1541578"
@@ -529,6 +529,19 @@
       "url": "https://www.ticketmaster.com/official-2026-acl-nights-palace-austin-texas-10-01-2026/event/3A0064FBD3B1E691"
     },
     {
+      "id": "red-rocks-2026-10-01-beck-ride-lonesome-tour",
+      "venue": "Red Rocks",
+      "list": "Off Angle",
+      "group": "Out of State",
+      "date": "2026-10-01",
+      "time": "7:30 PM",
+      "artist": "Beck: Ride Lonesome Tour",
+      "support": "Ioanna Gika",
+      "genre": "Live Music",
+      "genre_source": "default",
+      "url": "https://www.redrocksonline.com/events/beck-ride-lonesome-tour-1407922/"
+    },
+    {
       "id": "under-the-k-bridge-2026-10-01-fall-gala-2026-rebuild-north-brooklyn",
       "venue": "Under the K Bridge",
       "list": "Off Angle",
@@ -540,19 +553,6 @@
       "genre": "Live Music",
       "genre_source": "default",
       "url": "https://underthekbridge.org/events/detail?event_id=1625659"
-    },
-    {
-      "id": "red-rocks-2026-10-01-beck-ride-lonesome-tour",
-      "venue": "Red Rocks",
-      "list": "Off Angle",
-      "group": "Out of State",
-      "date": "2026-10-01",
-      "time": "8:00 PM",
-      "artist": "Beck: Ride Lonesome Tour",
-      "support": "Ioanna Gika",
-      "genre": "Live Music",
-      "genre_source": "default",
-      "url": "https://www.redrocksonline.com/events/beck-ride-lonesome-tour-1407922/"
     },
     {
       "id": "the-regency-ballroom-2026-10-01-poison-girl-friend",
@@ -1758,7 +1758,7 @@
       "date": "2026-10-18",
       "time": "8:00 PM",
       "artist": "She Wants Revenge",
-      "support": "",
+      "support": "Rosegarden Funeral Party",
       "genre": "Live Music",
       "genre_source": "musicbrainz",
       "url": "https://www.theregencyballroom.com/events/detail?event_id=1442682"
@@ -2083,7 +2083,7 @@
       "date": "2026-10-24",
       "time": "8:00 PM",
       "artist": "Dermot Kennedy",
-      "support": "Jonah Kagen",
+      "support": "Jonah Kagen, Aaron Rowe",
       "genre": "Live Music",
       "genre_source": "default",
       "url": "https://billgrahamcivic.com/events/dermot-kennedy-261024"
@@ -2850,7 +2850,7 @@
       "date": "2026-11-08",
       "time": "8:00 PM",
       "artist": "Nia Archives",
-      "support": "",
+      "support": "BAMBII",
       "genre": "EDM",
       "genre_source": "musicbrainz",
       "url": "https://www.theregencyballroom.com/events/detail?event_id=1581521"
@@ -3894,6 +3894,32 @@
       "genre": "EDM",
       "genre_source": "venue",
       "url": "https://wl.eventim.us/event/LIGHTS-ALL-NIGHT-PRE-PARTY-FT-GRYFFIN-DALLAS/703648?afflky=SILO"
+    },
+    {
+      "id": "bill-graham-civic-2026-12-30-illenium",
+      "venue": "Bill Graham Civic",
+      "list": "Off Angle",
+      "group": "San Francisco",
+      "date": "2026-12-30",
+      "time": "8:00 PM",
+      "artist": "ILLENIUM",
+      "support": "",
+      "genre": "EDM",
+      "genre_source": "musicbrainz",
+      "url": "https://billgrahamcivic.com/events/illenium-261230"
+    },
+    {
+      "id": "bill-graham-civic-2026-12-31-illenium",
+      "venue": "Bill Graham Civic",
+      "list": "Off Angle",
+      "group": "San Francisco",
+      "date": "2026-12-31",
+      "time": "8:00 PM",
+      "artist": "ILLENIUM",
+      "support": "",
+      "genre": "EDM",
+      "genre_source": "musicbrainz",
+      "url": "https://billgrahamcivic.com/events/illenium-261231"
     },
     {
       "id": "silo-dallas-2026-12-31-jigitz",
