@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-24T06:16:32Z",
+  "generated_at": "2026-09-24T12:48:23Z",
   "lists": [
     "Local",
     "Off Angle"
@@ -1933,6 +1933,19 @@
       "url": "https://wl.seetickets.us/event/Ben-Bhmer-at-The-Concourse-Project/699543?afflky=TheConcourseProject"
     },
     {
+      "id": "the-midway-2026-10-22-lovra",
+      "venue": "The Midway",
+      "list": "Off Angle",
+      "group": "San Francisco",
+      "date": "2026-10-22",
+      "time": "9:00 PM",
+      "artist": "LOVRA",
+      "support": "",
+      "genre": "EDM",
+      "genre_source": "venue leaning",
+      "url": "https://dothebay.com/events/2026/10/22/lovra-tickets"
+    },
+    {
       "id": "red-rocks-2026-10-23-mersiv-two-sets",
       "venue": "Red Rocks",
       "list": "Off Angle",
@@ -3764,19 +3777,6 @@
       "genre": "EDM",
       "genre_source": "venue",
       "url": "https://wl.eventim.us/event/SIDEPIECE-HOUSTON/699511?afflky=DuctworkHouston"
-    },
-    {
-      "id": "the-midway-2026-12-12-svdden-death",
-      "venue": "The Midway",
-      "list": "Off Angle",
-      "group": "San Francisco",
-      "date": "2026-12-12",
-      "time": "10:00 PM",
-      "artist": "Svdden Death",
-      "support": "",
-      "genre": "EDM",
-      "genre_source": "musicbrainz",
-      "url": "https://dothebay.com/events/2026/12/12/svdden-death-tickets"
     },
     {
       "id": "kingdom-2026-12-12-rave-jesus-rave-revival-fall-tour",
