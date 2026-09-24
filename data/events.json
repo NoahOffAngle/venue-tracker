@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-23T22:23:37Z",
+  "generated_at": "2026-09-24T06:16:32Z",
   "lists": [
     "Local",
     "Off Angle"
@@ -73,32 +73,6 @@
     }
   ],
   "events": [
-    {
-      "id": "bill-graham-civic-2026-09-23-ken-carson",
-      "venue": "Bill Graham Civic",
-      "list": "Off Angle",
-      "group": "San Francisco",
-      "date": "2026-09-23",
-      "time": "7:30 PM",
-      "artist": "Ken Carson",
-      "support": "xaviersobased, prettifun, DJ Moon",
-      "genre": "Live Music",
-      "genre_source": "musicbrainz",
-      "url": "https://billgrahamcivic.com/events/ken-carson-260923"
-    },
-    {
-      "id": "red-rocks-2026-09-23-bleachers",
-      "venue": "Red Rocks",
-      "list": "Off Angle",
-      "group": "Out of State",
-      "date": "2026-09-23",
-      "time": "7:30 PM",
-      "artist": "Bleachers",
-      "support": "American Football",
-      "genre": "Live Music",
-      "genre_source": "musicbrainz",
-      "url": "https://www.redrocksonline.com/events/bleachers-forever-1366035/"
-    },
     {
       "id": "emo-s-2026-09-24-adela-the-red-bottoms-tour",
       "venue": "Emo's",
