@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-24T22:32:25Z",
+  "generated_at": "2026-09-25T06:13:07Z",
   "lists": [
     "Local",
     "Off Angle"
@@ -73,71 +73,6 @@
     }
   ],
   "events": [
-    {
-      "id": "emo-s-2026-09-24-adela-the-red-bottoms-tour",
-      "venue": "Emo's",
-      "list": "Local",
-      "group": "",
-      "date": "2026-09-24",
-      "time": "7:00 PM",
-      "artist": "ADÉLA: The Red Bottoms Tour",
-      "support": "",
-      "genre": "Live Music",
-      "genre_source": "default",
-      "url": "https://www.ticketmaster.com/adela-the-red-bottoms-tour-austin-texas-09-24-2026/event/3A0064B69E279B47"
-    },
-    {
-      "id": "red-rocks-2026-09-24-hasan-minhaj-ronny-chieng",
-      "venue": "Red Rocks",
-      "list": "Off Angle",
-      "group": "Out of State",
-      "date": "2026-09-24",
-      "time": "7:30 PM",
-      "artist": "Hasan Minhaj & Ronny Chieng",
-      "support": "Hasan Minhaj, Ronny Chieng",
-      "genre": "Live Music",
-      "genre_source": "default",
-      "url": "https://www.redrocksonline.com/events/hasan-hates-ronny-ronny-hates-hasan-1479450/"
-    },
-    {
-      "id": "bill-graham-civic-2026-09-24-jack-white",
-      "venue": "Bill Graham Civic",
-      "list": "Off Angle",
-      "group": "San Francisco",
-      "date": "2026-09-24",
-      "time": "8:00 PM",
-      "artist": "JACK WHITE",
-      "support": "Marbled Eye",
-      "genre": "Live Music",
-      "genre_source": "musicbrainz",
-      "url": "https://billgrahamcivic.com/events/jack-white-260924"
-    },
-    {
-      "id": "the-regency-ballroom-2026-09-24-soulwax",
-      "venue": "The Regency Ballroom",
-      "list": "Off Angle",
-      "group": "San Francisco",
-      "date": "2026-09-24",
-      "time": "8:00 PM",
-      "artist": "Soulwax",
-      "support": "LAIMA, Rory Phillips",
-      "genre": "EDM",
-      "genre_source": "musicbrainz",
-      "url": "https://www.theregencyballroom.com/events/detail?event_id=1570048"
-    },
-    {
-      "id": "silo-dallas-2026-09-24-holy-priest",
-      "venue": "Silo Dallas",
-      "list": "Local",
-      "group": "",
-      "date": "2026-09-24",
-      "time": "9:00 PM",
-      "artist": "Holy Priest",
-      "support": "",
-      "genre": "EDM",
-      "genre_source": "venue",
-      "url": "https://wl.eventim.us/event/Holy-Priest-DALLAS/694030?afflky=SILO"
-    },
     {
       "id": "kingdom-2026-09-25-ahmed-spins",
       "venue": "Kingdom",
@@ -534,9 +469,9 @@
       "list": "Off Angle",
       "group": "Out of State",
       "date": "2026-10-01",
-      "time": "7:30 PM",
+      "time": "7:30 AM",
       "artist": "Beck: Ride Lonesome Tour",
-      "support": "Ioanna Gika",
+      "support": "Ioanna Gika, Wayne Faler",
       "genre": "Live Music",
       "genre_source": "default",
       "url": "https://www.redrocksonline.com/events/beck-ride-lonesome-tour-1407922/"
@@ -1634,6 +1569,19 @@
       "url": "https://www.ticketmaster.com/chelsea-wolfe-the-dark-world-tour-austin-texas-10-17-2026/event/3A0064CFCC37D954"
     },
     {
+      "id": "red-rocks-2026-10-17-dermot-kennedy-the-weight-of-the-woods-tour",
+      "venue": "Red Rocks",
+      "list": "Off Angle",
+      "group": "Out of State",
+      "date": "2026-10-17",
+      "time": "7:30 PM",
+      "artist": "Dermot Kennedy: The Weight of the Woods Tour",
+      "support": "Jonah Kagen, Aaron Rowe",
+      "genre": "Live Music",
+      "genre_source": "default",
+      "url": "https://www.redrocksonline.com/events/dermot-kennedy-the-weight-of-the-woods-tour-1386297/"
+    },
+    {
       "id": "bill-graham-civic-2026-10-17-sara-bareilles",
       "venue": "Bill Graham Civic",
       "list": "Off Angle",
@@ -1645,19 +1593,6 @@
       "genre": "Live Music",
       "genre_source": "default",
       "url": "https://billgrahamcivic.com/events/sara-bareilles-261017"
-    },
-    {
-      "id": "red-rocks-2026-10-17-dermot-kennedy-the-weight-of-the-woods-tour",
-      "venue": "Red Rocks",
-      "list": "Off Angle",
-      "group": "Out of State",
-      "date": "2026-10-17",
-      "time": "8:00 PM",
-      "artist": "Dermot Kennedy: The Weight of the Woods Tour",
-      "support": "Jonah Kagen, Aaron Rowe",
-      "genre": "Live Music",
-      "genre_source": "default",
-      "url": "https://www.redrocksonline.com/events/dermot-kennedy-the-weight-of-the-woods-tour-1386297/"
     },
     {
       "id": "the-regency-ballroom-2026-10-17-notd",
@@ -3387,6 +3322,19 @@
       "genre": "EDM",
       "genre_source": "same artist elsewhere",
       "url": "https://dothebay.com/events/2026/11/21/tisoki-tickets"
+    },
+    {
+      "id": "emo-s-2026-11-21-bahamas-industrial-sport-sound",
+      "venue": "Emo's",
+      "list": "Local",
+      "group": "",
+      "date": "2026-11-21",
+      "time": "7:00 PM",
+      "artist": "Bahamas - Industrial Sport & Sound",
+      "support": "",
+      "genre": "Live Music",
+      "genre_source": "musicbrainz",
+      "url": "https://www.ticketmaster.com/bahamas-industrial-sport-sound-austin-texas-11-21-2026/event/3A006452B93B3A0F"
     },
     {
       "id": "silo-dallas-2026-11-21-afrojack",
