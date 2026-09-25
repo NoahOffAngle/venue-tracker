@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-25T12:50:31Z",
+  "generated_at": "2026-09-25T18:00:02Z",
   "lists": [
     "Local",
     "Off Angle"
@@ -1465,6 +1465,19 @@
       "url": "https://www.theregencyballroom.com/events/detail?event_id=1468095"
     },
     {
+      "id": "emo-s-2026-10-16-stan-society-presents-olivia-rodrigo-night",
+      "venue": "Emo's",
+      "list": "Local",
+      "group": "",
+      "date": "2026-10-16",
+      "time": "8:30 PM",
+      "artist": "Stan Society Presents Olivia Rodrigo Night",
+      "support": "",
+      "genre": "Live Music",
+      "genre_source": "default",
+      "url": "https://www.ticketmaster.com/stan-society-presents-olivia-rodrigo-night-austin-texas-10-16-2026/event/3A006536A013F419"
+    },
+    {
       "id": "silo-dallas-2026-10-16-bob-moses",
       "venue": "Silo Dallas",
       "list": "Local",
@@ -2245,6 +2258,19 @@
       "url": "https://wl.seetickets.us/event/Chris-Stassy-Extended-Set-at-The-Concourse-Project/698725?afflky=TheConcourseProject"
     },
     {
+      "id": "the-midway-2026-10-29-perreo-electrico-halloween",
+      "venue": "The Midway",
+      "list": "Off Angle",
+      "group": "San Francisco",
+      "date": "2026-10-29",
+      "time": "9:00 PM",
+      "artist": "Perreo Eléctrico Halloween",
+      "support": "",
+      "genre": "EDM",
+      "genre_source": "venue leaning",
+      "url": "https://dothebay.com/events/2026/10/29/perreo-electrico-halloween-tickets"
+    },
+    {
       "id": "kingdom-2026-10-30-dennis-ferrer",
       "venue": "Kingdom",
       "list": "Local",
@@ -2295,6 +2321,19 @@
       "genre": "EDM",
       "genre_source": "musicbrainz",
       "url": "https://www.redrocksonline.com/events/deadmau5-1407690/"
+    },
+    {
+      "id": "emo-s-2026-10-30-club-90s-presents-thrillerween",
+      "venue": "Emo's",
+      "list": "Local",
+      "group": "",
+      "date": "2026-10-30",
+      "time": "8:30 PM",
+      "artist": "Club 90s Presents Thrillerween",
+      "support": "",
+      "genre": "Live Music",
+      "genre_source": "default",
+      "url": "https://www.ticketmaster.com/club-90s-presents-thrillerween-austin-texas-10-30-2026/event/3A006536D0F2E3B2"
     },
     {
       "id": "silo-dallas-2026-10-30-adriatique",
@@ -2580,7 +2619,7 @@
       "support": "",
       "genre": "EDM",
       "genre_source": "venue",
-      "url": "https://wl.eventim.us/event/Ely-Oaks-DALLAS/705708?afflky=DiscoPresents-Ductwork&EVENTPASS=AMERICABOUNCE"
+      "url": "https://wl.eventim.us/event/Ely-Oaks-DALLAS/705708?afflky=DiscoPresents-Ductwork"
     },
     {
       "id": "the-midway-2026-11-06-the-midway-vital-present-hvdes",
@@ -3246,19 +3285,6 @@
       "url": "https://dothebay.com/events/2026/11/20/james-hype-tickets"
     },
     {
-      "id": "emo-s-2026-11-20-dexter-and-the-moonrocks",
-      "venue": "Emo's",
-      "list": "Local",
-      "group": "",
-      "date": "2026-11-20",
-      "time": "7:00 PM",
-      "artist": "Dexter and The Moonrocks",
-      "support": "",
-      "genre": "Live Music",
-      "genre_source": "default",
-      "url": "https://www.ticketmaster.com/dexter-and-the-moonrocks-austin-texas-11-20-2026/event/3A0064CFAE3F9E53"
-    },
-    {
       "id": "the-regency-ballroom-2026-11-20-layton-giordani",
       "venue": "The Regency Ballroom",
       "list": "Off Angle",
@@ -3322,19 +3348,6 @@
       "genre": "EDM",
       "genre_source": "same artist elsewhere",
       "url": "https://dothebay.com/events/2026/11/21/tisoki-tickets"
-    },
-    {
-      "id": "emo-s-2026-11-21-bahamas-industrial-sport-sound",
-      "venue": "Emo's",
-      "list": "Local",
-      "group": "",
-      "date": "2026-11-21",
-      "time": "7:00 PM",
-      "artist": "Bahamas - Industrial Sport & Sound",
-      "support": "",
-      "genre": "Live Music",
-      "genre_source": "musicbrainz",
-      "url": "https://www.ticketmaster.com/bahamas-industrial-sport-sound-austin-texas-11-21-2026/event/3A006452B93B3A0F"
     },
     {
       "id": "silo-dallas-2026-11-21-afrojack",
@@ -3623,19 +3636,6 @@
       "url": "https://kingdomnightclub.com/event/amtrac/kingdom-nightclub/austin-texas/"
     },
     {
-      "id": "the-midway-2026-12-05-zingara",
-      "venue": "The Midway",
-      "list": "Off Angle",
-      "group": "San Francisco",
-      "date": "2026-12-05",
-      "time": "10:00 PM",
-      "artist": "ZINGARA",
-      "support": "",
-      "genre": "EDM",
-      "genre_source": "musicbrainz",
-      "url": "https://dothebay.com/events/2026/12/5/zingara-the-girls-are-making-riddim-tour-tickets"
-    },
-    {
       "id": "bill-graham-civic-2026-12-05-its-murph",
       "venue": "Bill Graham Civic",
       "list": "Off Angle",
@@ -3906,7 +3906,7 @@
       "support": "",
       "genre": "EDM",
       "genre_source": "venue",
-      "url": "https://silodallas.com/events/nora-en-pure-62356862723"
+      "url": "https://wl.eventim.us/event/Nora-En-Pure-DALLAS/706303?afflky=SILO"
     },
     {
       "id": "silo-houston-2027-01-16-ghengar",
@@ -3985,6 +3985,19 @@
       "genre": "Live Music",
       "genre_source": "musicbrainz",
       "url": "https://www.theregencyballroom.com/events/detail?event_id=1608440"
+    },
+    {
+      "id": "red-rocks-2027-03-27-sidepiece-x-ship-wrek",
+      "venue": "Red Rocks",
+      "list": "Off Angle",
+      "group": "Out of State",
+      "date": "2027-03-27",
+      "time": "6:00 PM",
+      "artist": "SIDEPIECE X Ship Wrek",
+      "support": "Girl Math",
+      "genre": "EDM",
+      "genre_source": "same artist elsewhere",
+      "url": "https://www.redrocksonline.com/events/sidepiece-x-ship-wrek-1593462/"
     },
     {
       "id": "the-regency-ballroom-2027-04-27-mass-of-the-fermenting-dregs",

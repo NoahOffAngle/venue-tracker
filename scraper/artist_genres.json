@@ -239,6 +239,10 @@
     "genre": "Live Music",
     "checked": "2026-08-06"
   },
+  "club 90s": {
+    "genre": null,
+    "checked": "2026-09-25"
+  },
   "coheed and cambria": {
     "genre": "Live Music",
     "checked": "2026-08-06"
@@ -863,6 +867,10 @@
     "genre": null,
     "checked": "2026-09-01"
   },
+  "perreo el ctrico halloween": {
+    "genre": null,
+    "checked": "2026-09-25"
+  },
   "poison girl friend": {
     "genre": "EDM",
     "checked": "2026-08-06"
@@ -1026,6 +1034,10 @@
   "st lucia": {
     "genre": null,
     "checked": "2026-08-06"
+  },
+  "stan society": {
+    "genre": null,
+    "checked": "2026-09-25"
   },
   "starbomb": {
     "genre": "Live Music",
