@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-26T12:18:06Z",
+  "generated_at": "2026-09-26T17:17:34Z",
   "lists": [
     "Local",
     "Off Angle"
@@ -137,19 +137,6 @@
       "genre": "EDM",
       "genre_source": "musicbrainz",
       "url": "https://www.redrocksonline.com/events/big-gigantic-1354232/"
-    },
-    {
-      "id": "red-rocks-2026-09-26-snowshape-fitness-series-presented-by-toyota",
-      "venue": "Red Rocks",
-      "list": "Off Angle",
-      "group": "Out of State",
-      "date": "2026-09-26",
-      "time": "8:00 AM",
-      "artist": "SnowShape – Fitness Series – Presented by Toyota",
-      "support": "",
-      "genre": "Live Music",
-      "genre_source": "default",
-      "url": "https://www.redrocksonline.com/events/snowshape-fitness-series-presented-by-toyota-1541353/"
     },
     {
       "id": "the-concourse-project-2026-09-26-eli-brown-extended-set-marie-vaunt-kasia-in-austin",
