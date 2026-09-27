@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-27T06:40:37Z",
+  "generated_at": "2026-09-27T13:08:49Z",
   "lists": [
     "Local",
     "Off Angle"
@@ -3090,6 +3090,19 @@
       "url": "https://www.ticketmaster.com/dexter-and-the-moonrocks-austin-texas-11-20-2026/event/3A0064CFAE3F9E53"
     },
     {
+      "id": "the-concourse-project-2026-11-20-kaskade",
+      "venue": "The Concourse Project",
+      "list": "Local",
+      "group": "",
+      "date": "2026-11-20",
+      "time": "8:00 PM",
+      "artist": "Kaskade",
+      "support": "",
+      "genre": "EDM",
+      "genre_source": "site",
+      "url": "https://wl.seetickets.us/event/Kaskade-at-The-Concourse-Project-Outdoors/702947?afflky=TheConcourseProject"
+    },
+    {
       "id": "the-regency-ballroom-2026-11-20-layton-giordani",
       "venue": "The Regency Ballroom",
       "list": "Off Angle",
@@ -3439,6 +3452,19 @@
       "genre": "EDM",
       "genre_source": "musicbrainz",
       "url": "https://kingdomnightclub.com/event/amtrac/kingdom-nightclub/austin-texas/"
+    },
+    {
+      "id": "the-midway-2026-12-05-zingara",
+      "venue": "The Midway",
+      "list": "Off Angle",
+      "group": "San Francisco",
+      "date": "2026-12-05",
+      "time": "10:00 PM",
+      "artist": "ZINGARA",
+      "support": "",
+      "genre": "EDM",
+      "genre_source": "musicbrainz",
+      "url": "https://dothebay.com/events/2026/12/5/zingara-the-girls-are-making-riddim-tour-tickets"
     },
     {
       "id": "bill-graham-civic-2026-12-05-its-murph",
