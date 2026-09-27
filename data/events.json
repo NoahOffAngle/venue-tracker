@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-26T22:01:22Z",
+  "generated_at": "2026-09-27T06:40:37Z",
   "lists": [
     "Local",
     "Off Angle"
@@ -73,123 +73,6 @@
     }
   ],
   "events": [
-    {
-      "id": "kingdom-2026-09-26-space-92",
-      "venue": "Kingdom",
-      "list": "Local",
-      "group": "",
-      "date": "2026-09-26",
-      "time": "10:00 PM",
-      "artist": "Space 92",
-      "support": "",
-      "genre": "EDM",
-      "genre_source": "musicbrainz",
-      "url": "https://kingdomnightclub.com/event/space-92-2/kingdom-nightclub/austin-texas/"
-    },
-    {
-      "id": "the-midway-2026-09-26-xoxo-and-matinee-presents-pervert-xxl-folsom-edition",
-      "venue": "The Midway",
-      "list": "Off Angle",
-      "group": "San Francisco",
-      "date": "2026-09-26",
-      "time": "10:00 PM",
-      "artist": "XOXO and MATINÉE presents PERVERT XXL FOLSOM EDITION",
-      "support": "",
-      "genre": "EDM",
-      "genre_source": "venue leaning",
-      "url": "https://dothebay.com/events/2026/9/26/xoxo-and-matinee-presents-pervert-xxl-folsom-edition-tickets"
-    },
-    {
-      "id": "under-the-k-bridge-2026-09-26-cbgb-festival",
-      "venue": "Under the K Bridge",
-      "list": "Off Angle",
-      "group": "Out of State",
-      "date": "2026-09-26",
-      "time": "2:00 PM",
-      "artist": "CBGB Festival",
-      "support": "Morrissey, Patti Smith, Interpol, Sex Pistols (Steve Jones, Paul Cook, Glen Matlock) featuring Frank Carter, Bikini Kill, Agnostic Front, Bad Nerves, Buzzcocks, Circle Jerks, Haywire, High Vis, Mannequin Pussy, Militarie Gun, Panic Shack, A Ramones tribute band with Carrie Brownstein & Corin Tucker of Sleater-Kinney + Fred Armisen as The Return of Jackie and Judy, UPCHUCK, Violet Grohl",
-      "genre": "Live Music",
-      "genre_source": "default",
-      "url": "https://underthekbridge.org/events/detail?event_id=1415116"
-    },
-    {
-      "id": "emo-s-2026-09-26-the-menzingers-everything-i-ever-saw-north-american-tour",
-      "venue": "Emo's",
-      "list": "Local",
-      "group": "",
-      "date": "2026-09-26",
-      "time": "6:00 PM",
-      "artist": "The Menzingers: Everything I Ever Saw North American Tour",
-      "support": "",
-      "genre": "Live Music",
-      "genre_source": "musicbrainz",
-      "url": "https://www.ticketmaster.com/the-menzingers-everything-i-ever-saw-austin-texas-09-26-2026/event/3A006494E8D53AAE"
-    },
-    {
-      "id": "red-rocks-2026-09-26-big-gigantic",
-      "venue": "Red Rocks",
-      "list": "Off Angle",
-      "group": "Out of State",
-      "date": "2026-09-26",
-      "time": "6:00 PM",
-      "artist": "Big Gigantic",
-      "support": "The Funk Hunters, Motifv, Drew Birch",
-      "genre": "EDM",
-      "genre_source": "musicbrainz",
-      "url": "https://www.redrocksonline.com/events/big-gigantic-1354232/"
-    },
-    {
-      "id": "the-concourse-project-2026-09-26-eli-brown-extended-set-marie-vaunt-kasia-in-austin",
-      "venue": "The Concourse Project",
-      "list": "Local",
-      "group": "",
-      "date": "2026-09-26",
-      "time": "8:00 PM",
-      "artist": "Eli Brown (Extended Set) + Marie Vaunt & KASIA in Austin",
-      "support": "Eli Brown, Marie Vaunt, KASIA, OOMANO",
-      "genre": "EDM",
-      "genre_source": "site",
-      "url": "https://wl.seetickets.us/event/Eli-Brown-Extended-Set-Marie-Vaunt-and-KASIA-in-Austin/696552?afflky=TheConcourseProject"
-    },
-    {
-      "id": "silo-dallas-2026-09-26-zack-fox",
-      "venue": "Silo Dallas",
-      "list": "Local",
-      "group": "",
-      "date": "2026-09-26",
-      "time": "9:00 PM",
-      "artist": "Zack Fox",
-      "support": "",
-      "genre": "EDM",
-      "genre_source": "venue",
-      "url": "https://wl.eventim.us/event/Zack-Fox-DALLAS/693394?afflky=SILO"
-    },
-    {
-      "id": "silo-houston-2026-09-26-william-black",
-      "venue": "Silo Houston",
-      "list": "Local",
-      "group": "",
-      "date": "2026-09-26",
-      "time": "9:00 PM",
-      "artist": "William Black",
-      "support": "",
-      "genre": "EDM",
-      "genre_source": "venue",
-      "url": "https://wl.eventim.us/event/William-Black-HOUSTON/702024?afflky=DuctworkHouston"
-    },
-    {
-      "id": "the-regency-ballroom-2026-09-26-parcels",
-      "venue": "The Regency Ballroom",
-      "list": "Off Angle",
-      "group": "San Francisco",
-      "date": "2026-09-26",
-      "time": "9:15 PM",
-      "artist": "Parcels",
-      "support": "Velvet Trip",
-      "genre": "Live Music",
-      "genre_source": "default",
-      "url": "https://www.theregencyballroom.com/events/detail?event_id=1573671"
-    },
     {
       "id": "the-midway-2026-09-27-horsegiirl-vtss-mgna-crrrta-dj-set-two-shell-kavari",
       "venue": "The Midway",
@@ -3192,6 +3075,19 @@
       "genre": "EDM",
       "genre_source": "same artist elsewhere",
       "url": "https://dothebay.com/events/2026/11/20/james-hype-tickets"
+    },
+    {
+      "id": "emo-s-2026-11-20-dexter-and-the-moonrocks",
+      "venue": "Emo's",
+      "list": "Local",
+      "group": "",
+      "date": "2026-11-20",
+      "time": "7:00 PM",
+      "artist": "Dexter and The Moonrocks",
+      "support": "",
+      "genre": "Live Music",
+      "genre_source": "default",
+      "url": "https://www.ticketmaster.com/dexter-and-the-moonrocks-austin-texas-11-20-2026/event/3A0064CFAE3F9E53"
     },
     {
       "id": "the-regency-ballroom-2026-11-20-layton-giordani",
