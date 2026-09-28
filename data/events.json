@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-28T07:04:24Z",
+  "generated_at": "2026-09-28T15:38:55Z",
   "lists": [
     "Local",
     "Off Angle"
@@ -3504,6 +3504,19 @@
       "genre": "EDM",
       "genre_source": "venue",
       "url": "https://wl.eventim.us/event/SIDEPIECE-HOUSTON/699511?afflky=DuctworkHouston"
+    },
+    {
+      "id": "the-midway-2026-12-12-svdden-death",
+      "venue": "The Midway",
+      "list": "Off Angle",
+      "group": "San Francisco",
+      "date": "2026-12-12",
+      "time": "10:00 PM",
+      "artist": "Svdden Death",
+      "support": "",
+      "genre": "EDM",
+      "genre_source": "musicbrainz",
+      "url": "https://dothebay.com/events/2026/12/12/svdden-death-tickets"
     },
     {
       "id": "kingdom-2026-12-12-rave-jesus-rave-revival-fall-tour",
