@@ -127,6 +127,10 @@
     "genre": "Live Music",
     "checked": "2026-08-06"
   },
+  "bolo's block after hours": {
+    "genre": null,
+    "checked": "2026-09-29"
+  },
   "bonnie raitt": {
     "genre": "Live Music",
     "checked": "2026-08-06"
@@ -670,6 +674,10 @@
   "ktsn": {
     "genre": null,
     "checked": "2026-08-30"
+  },
+  "kungs": {
+    "genre": "EDM",
+    "checked": "2026-09-29"
   },
   "l7": {
     "genre": "Live Music",

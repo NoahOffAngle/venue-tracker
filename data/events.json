@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-29T14:09:44Z",
+  "generated_at": "2026-09-29T23:03:03Z",
   "lists": [
     "Local",
     "Off Angle"
@@ -157,7 +157,7 @@
       "list": "Off Angle",
       "group": "Out of State",
       "date": "2026-10-01",
-      "time": "7:30 AM",
+      "time": "7:30 PM",
       "artist": "Beck: Ride Lonesome Tour",
       "support": "Ioanna Gika, Wayne Faler",
       "genre": "Live Music",
@@ -211,7 +211,7 @@
       "date": "2026-10-01",
       "time": "9:00 PM",
       "artist": "Official 2026 ACL Fest Nights: The Chainsmokers",
-      "support": "Austin Ashtin",
+      "support": "Austin Ashtin, Phamstar",
       "genre": "EDM",
       "genre_source": "site",
       "url": "https://wl.seetickets.us/event/Official-2026-ACL-Fest-Nights-The-Chainsmokers/701286?afflky=TheConcourseProject"
@@ -315,7 +315,7 @@
       "date": "2026-10-02",
       "time": "9:00 PM",
       "artist": "Official 2026 ACL Fest Nights: Steve Aoki",
-      "support": "Elephante, Riot Ten",
+      "support": "Elephante, Riot Ten, SKYE",
       "genre": "EDM",
       "genre_source": "site",
       "url": "https://wl.seetickets.us/event/Official-2026-ACL-Fest-Nights-Steve-Aoki/701292?afflky=TheConcourseProject"
@@ -332,6 +332,19 @@
       "genre": "EDM",
       "genre_source": "venue leaning",
       "url": "https://dothebay.com/events/2026/10/2/taiwan-golden-melody-night-tickets"
+    },
+    {
+      "id": "kingdom-2026-10-03-frequency-shift",
+      "venue": "Kingdom",
+      "list": "Local",
+      "group": "",
+      "date": "2026-10-03",
+      "time": "10:00 PM",
+      "artist": "FREQUENCY SHIFT",
+      "support": "",
+      "genre": "EDM",
+      "genre_source": "venue leaning",
+      "url": "https://kingdomnightclub.com/event/frequency-shift-2/kingdom-nightclub/austin-texas/"
     },
     {
       "id": "the-midway-2026-10-03-global-connect-ft-j-espinosa-double-b-more",
@@ -462,6 +475,19 @@
       "genre": "EDM",
       "genre_source": "site",
       "url": "https://wl.seetickets.us/event/Official-2026-ACL-Fest-Nights-its-murph-Open-to-Close/701295?afflky=TheConcourseProject"
+    },
+    {
+      "id": "the-midway-2026-10-03-bolo-s-block-after-hours",
+      "venue": "The Midway",
+      "list": "Off Angle",
+      "group": "San Francisco",
+      "date": "2026-10-03",
+      "time": "9:00 PM",
+      "artist": "BOLO's BLOCK AFTER HOURS",
+      "support": "",
+      "genre": "EDM",
+      "genre_source": "venue leaning",
+      "url": "https://dothebay.com/events/2026/10/3/bolo-the-dj-tickets"
     },
     {
       "id": "the-midway-2026-10-03-elephante",
@@ -1166,6 +1192,19 @@
       "url": "https://www.cowpalace.com/event/dom-dolla/"
     },
     {
+      "id": "the-concourse-project-2026-10-16-adam-port-keinemusik-3-hour-set",
+      "venue": "The Concourse Project",
+      "list": "Local",
+      "group": "",
+      "date": "2026-10-16",
+      "time": "8:00 PM",
+      "artist": "Adam Port (KEINEMUSIK) (3 Hour Set)",
+      "support": "Adam Port, Keinemusik",
+      "genre": "EDM",
+      "genre_source": "site",
+      "url": "https://wl.seetickets.us/event/Adam-Port-KEINEMUSIK-3-Hour-Set-at-The-Concourse-Project/690792?afflky=TheConcourseProject"
+    },
+    {
       "id": "the-regency-ballroom-2026-10-16-an-evening-with-moe",
       "venue": "The Regency Ballroom",
       "list": "Off Angle",
@@ -1216,19 +1255,6 @@
       "genre": "EDM",
       "genre_source": "venue",
       "url": "https://wl.eventim.us/event/SABAI-x-HOANG-HOUSTON/699331?afflky=DuctworkHouston&eventpass=CHANCE"
-    },
-    {
-      "id": "the-concourse-project-2026-10-16-adam-port-keinemusik",
-      "venue": "The Concourse Project",
-      "list": "Local",
-      "group": "",
-      "date": "2026-10-16",
-      "time": "9:00 PM",
-      "artist": "Adam Port (KEINEMUSIK)",
-      "support": "Adam Port, Keinemusik",
-      "genre": "EDM",
-      "genre_source": "site",
-      "url": "https://wl.seetickets.us/event/Adam-Port-KEINEMUSIK-at-The-Concourse-Project/690792?afflky=TheConcourseProject"
     },
     {
       "id": "the-midway-2026-10-16-intimate-night",
@@ -1606,6 +1632,19 @@
       "genre": "EDM",
       "genre_source": "venue leaning",
       "url": "https://dothebay.com/events/2026/10/22/lovra-tickets"
+    },
+    {
+      "id": "kingdom-2026-10-23-kungs",
+      "venue": "Kingdom",
+      "list": "Local",
+      "group": "",
+      "date": "2026-10-23",
+      "time": "10:00 PM",
+      "artist": "Kungs",
+      "support": "",
+      "genre": "EDM",
+      "genre_source": "musicbrainz",
+      "url": "https://kingdomnightclub.com/event/kungs/kingdom-nightclub/austin-texas/"
     },
     {
       "id": "red-rocks-2026-10-23-mersiv-two-sets",
@@ -2986,6 +3025,19 @@
       "url": "https://www.ticketmaster.com/evan-honer-its-an-even-longer-austin-texas-11-18-2026/event/3A0064C2B970AC59"
     },
     {
+      "id": "the-regency-ballroom-2026-11-18-ninajirachi",
+      "venue": "The Regency Ballroom",
+      "list": "Off Angle",
+      "group": "San Francisco",
+      "date": "2026-11-18",
+      "time": "8:00 PM",
+      "artist": "Ninajirachi",
+      "support": "MGNA Crrrta",
+      "genre": "EDM",
+      "genre_source": "musicbrainz",
+      "url": "https://www.theregencyballroom.com/events/detail?event_id=1629413"
+    },
+    {
       "id": "emo-s-2026-11-19-dexter-and-the-moonrocks",
       "venue": "Emo's",
       "list": "Local",
@@ -3049,19 +3101,6 @@
       "genre": "EDM",
       "genre_source": "musicbrainz",
       "url": "https://dothebay.com/events/2026/11/20/hans-glader-tickets"
-    },
-    {
-      "id": "the-midway-2026-11-20-james-hype",
-      "venue": "The Midway",
-      "list": "Off Angle",
-      "group": "San Francisco",
-      "date": "2026-11-20",
-      "time": "10:00 PM",
-      "artist": "James Hype",
-      "support": "",
-      "genre": "EDM",
-      "genre_source": "same artist elsewhere",
-      "url": "https://dothebay.com/events/2026/11/20/james-hype-tickets"
     },
     {
       "id": "emo-s-2026-11-20-dexter-and-the-moonrocks",
@@ -3701,13 +3740,13 @@
       "url": "https://wl.eventim.us/event/Nora-En-Pure-DALLAS/706303?afflky=SILO"
     },
     {
-      "id": "the-regency-ballroom-2027-01-15-mph-san-francisco-forever",
+      "id": "the-regency-ballroom-2027-01-15-mph",
       "venue": "The Regency Ballroom",
       "list": "Off Angle",
       "group": "San Francisco",
       "date": "2027-01-15",
       "time": "8:30 PM",
-      "artist": "MPH – SAN FRANCISCO, FOREVER",
+      "artist": "MPH",
       "support": "",
       "genre": "EDM",
       "genre_source": "musicbrainz",
@@ -3738,6 +3777,19 @@
       "genre": "EDM",
       "genre_source": "venue",
       "url": "https://wl.eventim.us/event/TWINSICK-DALLAS/705248?afflky=SILO"
+    },
+    {
+      "id": "silo-dallas-2027-01-28-fairlane",
+      "venue": "Silo Dallas",
+      "list": "Local",
+      "group": "",
+      "date": "2027-01-28",
+      "time": "9:00 PM",
+      "artist": "Fairlane",
+      "support": "",
+      "genre": "EDM",
+      "genre_source": "venue",
+      "url": "https://silodallas.com/events/fairlane-62787030693"
     },
     {
       "id": "kingdom-2027-01-29-ely-oaks",
@@ -3855,6 +3907,19 @@
       "genre": "Live Music",
       "genre_source": "musicbrainz",
       "url": "https://www.redrocksonline.com/events/a-perfect-circle-1622799/"
+    },
+    {
+      "id": "cow-palace-2027-06-04-a-perfect-circle",
+      "venue": "Cow Palace",
+      "list": "Off Angle",
+      "group": "San Francisco",
+      "date": "2027-06-04",
+      "time": "12:00 AM",
+      "artist": "A Perfect Circle",
+      "support": "",
+      "genre": "Live Music",
+      "genre_source": "musicbrainz",
+      "url": "https://www.cowpalace.com/event/a-perfect-circle/"
     },
     {
       "id": "red-rocks-2027-07-06-lizzy-mcalpine",
