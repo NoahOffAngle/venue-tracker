@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-28T23:52:19Z",
+  "generated_at": "2026-09-29T07:01:49Z",
   "lists": [
     "Local",
     "Off Angle"
@@ -73,19 +73,6 @@
     }
   ],
   "events": [
-    {
-      "id": "red-rocks-2026-09-28-jungle",
-      "venue": "Red Rocks",
-      "list": "Off Angle",
-      "group": "Out of State",
-      "date": "2026-09-28",
-      "time": "7:30 PM",
-      "artist": "JUNGLE",
-      "support": "RIO KOSTA",
-      "genre": "Live Music",
-      "genre_source": "default",
-      "url": "https://www.redrocksonline.com/events/jungle-1371056/"
-    },
     {
       "id": "red-rocks-2026-09-29-coheed-and-cambria-neverender-rocks",
       "venue": "Red Rocks",
