@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-29T07:01:49Z",
+  "generated_at": "2026-09-29T14:09:44Z",
   "lists": [
     "Local",
     "Off Angle"
@@ -3842,6 +3842,19 @@
       "genre": "Live Music",
       "genre_source": "default",
       "url": "https://www.redrocksonline.com/events/josiah-queen-1631705/"
+    },
+    {
+      "id": "red-rocks-2027-05-27-a-perfect-circle",
+      "venue": "Red Rocks",
+      "list": "Off Angle",
+      "group": "Out of State",
+      "date": "2027-05-27",
+      "time": "7:30 PM",
+      "artist": "A Perfect Circle",
+      "support": "THE CULT",
+      "genre": "Live Music",
+      "genre_source": "musicbrainz",
+      "url": "https://www.redrocksonline.com/events/a-perfect-circle-1622799/"
     },
     {
       "id": "red-rocks-2027-07-06-lizzy-mcalpine",
