@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-29T23:03:03Z",
+  "generated_at": "2026-09-30T06:51:54Z",
   "lists": [
     "Local",
     "Off Angle"
@@ -74,32 +74,6 @@
   ],
   "events": [
     {
-      "id": "red-rocks-2026-09-29-coheed-and-cambria-neverender-rocks",
-      "venue": "Red Rocks",
-      "list": "Off Angle",
-      "group": "Out of State",
-      "date": "2026-09-29",
-      "time": "7:00 PM",
-      "artist": "Coheed and Cambria: Neverender Rocks",
-      "support": "Turnover, The Home Team",
-      "genre": "Live Music",
-      "genre_source": "musicbrainz",
-      "url": "https://www.redrocksonline.com/events/coheed-and-cambria-neverender-rocks-1408794/"
-    },
-    {
-      "id": "the-regency-ballroom-2026-09-29-cupcakke",
-      "venue": "The Regency Ballroom",
-      "list": "Off Angle",
-      "group": "San Francisco",
-      "date": "2026-09-29",
-      "time": "8:00 PM",
-      "artist": "CupcakKe",
-      "support": "discnogirl",
-      "genre": "Live Music",
-      "genre_source": "musicbrainz",
-      "url": "https://www.theregencyballroom.com/events/detail?event_id=1541578"
-    },
-    {
       "id": "emo-s-2026-09-30-tinlicker-north-america-2026",
       "venue": "Emo's",
       "list": "Local",
@@ -157,7 +131,7 @@
       "list": "Off Angle",
       "group": "Out of State",
       "date": "2026-10-01",
-      "time": "7:30 PM",
+      "time": "7:30 AM",
       "artist": "Beck: Ride Lonesome Tour",
       "support": "Ioanna Gika, Wayne Faler",
       "genre": "Live Music",
@@ -392,7 +366,7 @@
       "group": "Out of State",
       "date": "2026-10-03",
       "time": "7:30 PM",
-      "artist": "DEORRO",
+      "artist": "Deorro",
       "support": "Alacranes Musical, Juos, DoKnow",
       "genre": "EDM",
       "genre_source": "same artist elsewhere",
@@ -3012,6 +2986,19 @@
       "url": "https://www.ticketmaster.com/amble-austin-texas-11-17-2026/event/3A006496EF8487E5"
     },
     {
+      "id": "the-regency-ballroom-2026-11-17-ninajirachi",
+      "venue": "The Regency Ballroom",
+      "list": "Off Angle",
+      "group": "San Francisco",
+      "date": "2026-11-17",
+      "time": "8:00 PM",
+      "artist": "Ninajirachi",
+      "support": "",
+      "genre": "EDM",
+      "genre_source": "musicbrainz",
+      "url": "https://www.theregencyballroom.com/events/detail?event_id=1638942"
+    },
+    {
       "id": "emo-s-2026-11-18-evan-honer-it-s-an-even-longer-road-tour",
       "venue": "Emo's",
       "list": "Local",
@@ -3881,32 +3868,6 @@
       "genre": "Live Music",
       "genre_source": "musicbrainz",
       "url": "https://www.theregencyballroom.com/events/detail?event_id=1607316"
-    },
-    {
-      "id": "red-rocks-2027-05-10-josiah-queen",
-      "venue": "Red Rocks",
-      "list": "Off Angle",
-      "group": "Out of State",
-      "date": "2027-05-10",
-      "time": "7:30 PM",
-      "artist": "Josiah Queen",
-      "support": "",
-      "genre": "Live Music",
-      "genre_source": "default",
-      "url": "https://www.redrocksonline.com/events/josiah-queen-1631705/"
-    },
-    {
-      "id": "red-rocks-2027-05-27-a-perfect-circle",
-      "venue": "Red Rocks",
-      "list": "Off Angle",
-      "group": "Out of State",
-      "date": "2027-05-27",
-      "time": "7:30 PM",
-      "artist": "A Perfect Circle",
-      "support": "THE CULT",
-      "genre": "Live Music",
-      "genre_source": "musicbrainz",
-      "url": "https://www.redrocksonline.com/events/a-perfect-circle-1622799/"
     },
     {
       "id": "cow-palace-2027-06-04-a-perfect-circle",
