@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-30T13:55:27Z",
+  "generated_at": "2026-09-30T23:06:10Z",
   "lists": [
     "Local",
     "Off Angle"
@@ -1710,6 +1710,19 @@
       "genre": "EDM",
       "genre_source": "venue leaning",
       "url": "https://dothebay.com/events/2026/10/23/riot-the-machine-world-tour-tickets"
+    },
+    {
+      "id": "kingdom-2026-10-24-noizu",
+      "venue": "Kingdom",
+      "list": "Local",
+      "group": "",
+      "date": "2026-10-24",
+      "time": "10:00 PM",
+      "artist": "Noizu",
+      "support": "",
+      "genre": "EDM",
+      "genre_source": "venue leaning",
+      "url": "https://kingdomnightclub.com/event/noizu/kingdom-nightclub/austin-texas/"
     },
     {
       "id": "the-midway-2026-10-24-marc-rebillet-franc-moody-chromeo",
@@ -3461,9 +3474,9 @@
       "date": "2026-12-05",
       "time": "8:00 PM",
       "artist": "it’s murph",
-      "support": "Tobiahs",
-      "genre": "Live Music",
-      "genre_source": "default",
+      "support": "Tobiahs, Close Friends Only",
+      "genre": "EDM",
+      "genre_source": "keyword",
       "url": "https://billgrahamcivic.com/events/its-murph-261205"
     },
     {
@@ -3753,6 +3766,19 @@
       "url": "https://wl.eventim.us/event/Ghengar-HOUSTON/703376?afflky=DuctworkHouston&eventpass=REBIRTH2026"
     },
     {
+      "id": "silo-dallas-2027-01-22-maddix",
+      "venue": "Silo Dallas",
+      "list": "Local",
+      "group": "",
+      "date": "2027-01-22",
+      "time": "9:00 PM",
+      "artist": "Maddix",
+      "support": "",
+      "genre": "EDM",
+      "genre_source": "venue",
+      "url": "https://silodallas.com/events/maddix-62859062912"
+    },
+    {
       "id": "silo-dallas-2027-01-23-twinsick",
       "venue": "Silo Dallas",
       "list": "Local",
@@ -3776,7 +3802,7 @@
       "support": "",
       "genre": "EDM",
       "genre_source": "venue",
-      "url": "https://silodallas.com/events/fairlane-62787030693"
+      "url": "https://wl.eventim.us/event/Fairlane-DALLAS/706738?afflky=DiscoPresents-Ductwork"
     },
     {
       "id": "kingdom-2027-01-29-ely-oaks",
