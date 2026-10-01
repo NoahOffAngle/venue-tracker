@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-01T07:16:25Z",
+  "generated_at": "2026-10-01T14:36:12Z",
   "lists": [
     "Local",
     "Off Angle"
@@ -3750,7 +3750,7 @@
       "support": "",
       "genre": "EDM",
       "genre_source": "venue",
-      "url": "https://silodallas.com/events/maddix-62859062912"
+      "url": "https://wl.eventim.us/event/Maddix-DALLAS/706828?afflky=SILO"
     },
     {
       "id": "silo-dallas-2027-01-23-twinsick",
@@ -3842,6 +3842,32 @@
       "genre": "EDM",
       "genre_source": "same artist elsewhere",
       "url": "https://www.redrocksonline.com/events/sidepiece-x-ship-wrek-1593462/"
+    },
+    {
+      "id": "bill-graham-civic-2027-04-21-carly-rae-jepsen",
+      "venue": "Bill Graham Civic",
+      "list": "Off Angle",
+      "group": "San Francisco",
+      "date": "2027-04-21",
+      "time": "7:30 PM",
+      "artist": "Carly Rae Jepsen",
+      "support": "",
+      "genre": "EDM",
+      "genre_source": "musicbrainz",
+      "url": "https://billgrahamcivic.com/events/carly-rae-jepsen-270421"
+    },
+    {
+      "id": "red-rocks-2027-04-25-carly-rae-jepsen-day-and-night-tour",
+      "venue": "Red Rocks",
+      "list": "Off Angle",
+      "group": "Out of State",
+      "date": "2027-04-25",
+      "time": "7:30 PM",
+      "artist": "Carly Rae Jepsen: Day and Night Tour",
+      "support": "",
+      "genre": "EDM",
+      "genre_source": "musicbrainz",
+      "url": "https://www.redrocksonline.com/events/carly-rae-jepsen-day-and-night-tour-1636194/"
     },
     {
       "id": "the-regency-ballroom-2027-04-27-mass-of-the-fermenting-dregs",
