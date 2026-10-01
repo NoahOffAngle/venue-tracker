@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-01T14:36:12Z",
+  "generated_at": "2026-10-01T23:16:33Z",
   "lists": [
     "Local",
     "Off Angle"
@@ -1730,7 +1730,7 @@
       "list": "Off Angle",
       "group": "San Francisco",
       "date": "2026-10-24",
-      "time": "8:00 PM",
+      "time": "7:30 PM",
       "artist": "Dermot Kennedy",
       "support": "Jonah Kagen, Aaron Rowe",
       "genre": "Live Music",
@@ -3532,6 +3532,19 @@
       "url": "https://wl.eventim.us/event/SIDEPIECE-HOUSTON/699511?afflky=DuctworkHouston"
     },
     {
+      "id": "kingdom-2026-12-12-ero808",
+      "venue": "Kingdom",
+      "list": "Local",
+      "group": "",
+      "date": "2026-12-12",
+      "time": "10:00 PM",
+      "artist": "Ero808",
+      "support": "",
+      "genre": "EDM",
+      "genre_source": "venue leaning",
+      "url": "https://kingdomnightclub.com/event/ero808/kingdom-nightclub/austin-texas/"
+    },
+    {
       "id": "kingdom-2026-12-12-rave-jesus-rave-revival-fall-tour",
       "venue": "Kingdom",
       "list": "Local",
@@ -3623,6 +3636,19 @@
       "url": "https://wl.eventim.us/event/Valentino-Khan-presents-EXTRAMANIA-DALLAS/693688?afflky=SILO"
     },
     {
+      "id": "silo-dallas-2026-12-26-bresh",
+      "venue": "Silo Dallas",
+      "list": "Local",
+      "group": "",
+      "date": "2026-12-26",
+      "time": "9:00 PM",
+      "artist": "Bresh",
+      "support": "",
+      "genre": "EDM",
+      "genre_source": "venue",
+      "url": "https://silodallas.com/events/bresh-62935146082"
+    },
+    {
       "id": "silo-houston-2026-12-27-dombresky",
       "venue": "Silo Houston",
       "list": "Local",
@@ -3712,6 +3738,19 @@
       "genre": "EDM",
       "genre_source": "venue",
       "url": "https://wl.eventim.us/event/Nora-En-Pure-DALLAS/706303?afflky=SILO"
+    },
+    {
+      "id": "silo-dallas-2027-01-14-dirt-monkey",
+      "venue": "Silo Dallas",
+      "list": "Local",
+      "group": "",
+      "date": "2027-01-14",
+      "time": "9:00 PM",
+      "artist": "Dirt Monkey",
+      "support": "",
+      "genre": "EDM",
+      "genre_source": "venue",
+      "url": "https://silodallas.com/events/dirt-monkey-62858882819"
     },
     {
       "id": "the-regency-ballroom-2027-01-15-mph",
