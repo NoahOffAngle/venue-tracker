@@ -479,6 +479,10 @@
     "genre": "Live Music",
     "checked": "2026-08-06"
   },
+  "grief sucks": {
+    "genre": null,
+    "checked": "2026-10-02"
+  },
   "griz": {
     "genre": "EDM",
     "checked": "2026-08-06"
@@ -922,6 +926,10 @@
   "poison girl friend": {
     "genre": "EDM",
     "checked": "2026-08-06"
+  },
+  "poison girl friend venue changed to great american music hall": {
+    "genre": null,
+    "checked": "2026-10-02"
   },
   "polo": {
     "genre": null,

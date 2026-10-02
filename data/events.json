@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-01T23:16:33Z",
+  "generated_at": "2026-10-02T07:05:54Z",
   "lists": [
     "Local",
     "Off Angle"
@@ -74,84 +74,6 @@
   ],
   "events": [
     {
-      "id": "emo-s-2026-10-01-official-2026-acl-nights-palace",
-      "venue": "Emo's",
-      "list": "Local",
-      "group": "",
-      "date": "2026-10-01",
-      "time": "7:00 PM",
-      "artist": "Official 2026 ACL Nights: Palace",
-      "support": "",
-      "genre": "Live Music",
-      "genre_source": "default",
-      "url": "https://www.ticketmaster.com/official-2026-acl-nights-palace-austin-texas-10-01-2026/event/3A0064FBD3B1E691"
-    },
-    {
-      "id": "red-rocks-2026-10-01-beck-ride-lonesome-tour",
-      "venue": "Red Rocks",
-      "list": "Off Angle",
-      "group": "Out of State",
-      "date": "2026-10-01",
-      "time": "7:30 PM",
-      "artist": "Beck: Ride Lonesome Tour",
-      "support": "Ioanna Gika, Wayne Faler",
-      "genre": "Live Music",
-      "genre_source": "default",
-      "url": "https://www.redrocksonline.com/events/beck-ride-lonesome-tour-1407922/"
-    },
-    {
-      "id": "under-the-k-bridge-2026-10-01-fall-gala-2026-rebuild-north-brooklyn",
-      "venue": "Under the K Bridge",
-      "list": "Off Angle",
-      "group": "Out of State",
-      "date": "2026-10-01",
-      "time": "7:30 PM",
-      "artist": "Fall Gala 2026: Rebuild North Brooklyn",
-      "support": "",
-      "genre": "Live Music",
-      "genre_source": "default",
-      "url": "https://underthekbridge.org/events/detail?event_id=1625659"
-    },
-    {
-      "id": "the-regency-ballroom-2026-10-01-poison-girl-friend",
-      "venue": "The Regency Ballroom",
-      "list": "Off Angle",
-      "group": "San Francisco",
-      "date": "2026-10-01",
-      "time": "8:00 PM",
-      "artist": "POiSON GiRL FRiEND",
-      "support": "Rip Swirl, Cry Sol",
-      "genre": "EDM",
-      "genre_source": "musicbrainz",
-      "url": "https://www.theregencyballroom.com/events/detail?event_id=1497640"
-    },
-    {
-      "id": "silo-dallas-2026-10-01-hybrid-minds",
-      "venue": "Silo Dallas",
-      "list": "Local",
-      "group": "",
-      "date": "2026-10-01",
-      "time": "9:00 PM",
-      "artist": "Hybrid Minds",
-      "support": "",
-      "genre": "EDM",
-      "genre_source": "venue",
-      "url": "https://wl.eventim.us/event/Hybrid-Minds-DALLAS/699781?afflky=DiscoPresents-Ductwork"
-    },
-    {
-      "id": "the-concourse-project-2026-10-01-official-2026-acl-fest-nights-the-chainsmokers",
-      "venue": "The Concourse Project",
-      "list": "Local",
-      "group": "",
-      "date": "2026-10-01",
-      "time": "9:00 PM",
-      "artist": "Official 2026 ACL Fest Nights: The Chainsmokers",
-      "support": "Austin Ashtin, Phamstar",
-      "genre": "EDM",
-      "genre_source": "site",
-      "url": "https://wl.seetickets.us/event/Official-2026-ACL-Fest-Nights-The-Chainsmokers/701286?afflky=TheConcourseProject"
-    },
-    {
       "id": "kingdom-2026-10-02-matt-sassari",
       "venue": "Kingdom",
       "list": "Local",
@@ -172,7 +94,7 @@
       "date": "2026-10-02",
       "time": "6:00 PM",
       "artist": "Levity presents LEVI-ROCKS: THE VOLCANO",
-      "support": "",
+      "support": "Moody Good, Machaki, Green Matter, Claybrook",
       "genre": "EDM",
       "genre_source": "keyword",
       "url": "https://www.redrocksonline.com/events/levity-1351306/"
@@ -327,7 +249,7 @@
       "group": "Out of State",
       "date": "2026-10-03",
       "time": "7:30 PM",
-      "artist": "DEORRO",
+      "artist": "Deorro",
       "support": "Alacranes Musical, Juos, DoKnow",
       "genre": "EDM",
       "genre_source": "same artist elsewhere",
@@ -3181,6 +3103,19 @@
       "url": "https://wl.eventim.us/event/Deorro-HOUSTON/699784?afflky=DuctworkHouston"
     },
     {
+      "id": "the-concourse-project-2026-11-21-eric-prydz",
+      "venue": "The Concourse Project",
+      "list": "Local",
+      "group": "",
+      "date": "2026-11-21",
+      "time": "9:00 PM",
+      "artist": "Eric Prydz",
+      "support": "Cristoph",
+      "genre": "EDM",
+      "genre_source": "site",
+      "url": "https://wl.seetickets.us/event/Eric-Prydz-at-The-Concourse-Project/691628?afflky=TheConcourseProject"
+    },
+    {
       "id": "emo-s-2026-11-22-syd-beard-tour",
       "venue": "Emo's",
       "list": "Local",
@@ -3283,6 +3218,19 @@
       "genre": "EDM",
       "genre_source": "venue",
       "url": "https://wl.eventim.us/event/Virtual-Riot-and-Blanke-DALLAS/695833?afflky=SILO"
+    },
+    {
+      "id": "emo-s-2026-11-27-grief-sucks-a-one-man-show-by-kevonstage",
+      "venue": "Emo's",
+      "list": "Local",
+      "group": "",
+      "date": "2026-11-27",
+      "time": "6:30 PM",
+      "artist": "Grief Sucks: A One Man Show By KevOnStage",
+      "support": "",
+      "genre": "Live Music",
+      "genre_source": "default",
+      "url": "https://www.ticketmaster.com/grief-sucks-a-one-man-show-austin-texas-11-27-2026/event/3A0064E6E42CC53F"
     },
     {
       "id": "the-regency-ballroom-2026-11-27-amtrac",
