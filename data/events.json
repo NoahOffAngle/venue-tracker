@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-02T13:58:13Z",
+  "generated_at": "2026-10-02T23:05:02Z",
   "lists": [
     "Local",
     "Off Angle"
@@ -94,7 +94,7 @@
       "date": "2026-10-02",
       "time": "6:00 PM",
       "artist": "Levity presents LEVI-ROCKS: THE VOLCANO",
-      "support": "Moody Good, Machaki, Green Matter, Claybrook",
+      "support": "",
       "genre": "EDM",
       "genre_source": "keyword",
       "url": "https://www.redrocksonline.com/events/levity-1351306/"
@@ -3594,7 +3594,7 @@
       "support": "",
       "genre": "EDM",
       "genre_source": "venue",
-      "url": "https://silodallas.com/events/bresh-62935146082"
+      "url": "https://wl.eventim.us/event/BRESH-DALLAS/706940?afflky=SILO"
     },
     {
       "id": "silo-houston-2026-12-27-dombresky",
@@ -3662,6 +3662,19 @@
       "url": "https://wl.eventim.us/event/JIGITZ-DALLAS/705406?afflky=SILO"
     },
     {
+      "id": "kingdom-2027-01-01-mindchatter",
+      "venue": "Kingdom",
+      "list": "Local",
+      "group": "",
+      "date": "2027-01-01",
+      "time": "10:00 PM",
+      "artist": "Mindchatter",
+      "support": "",
+      "genre": "EDM",
+      "genre_source": "venue leaning",
+      "url": "https://kingdomnightclub.com/event/mindchatter/kingdom-nightclub/austin-texas/"
+    },
+    {
       "id": "silo-dallas-2027-01-01-max-dean-b2b-luke-dean",
       "venue": "Silo Dallas",
       "list": "Local",
@@ -3698,7 +3711,7 @@
       "support": "",
       "genre": "EDM",
       "genre_source": "venue",
-      "url": "https://silodallas.com/events/dirt-monkey-62858882819"
+      "url": "https://wl.eventim.us/event/Dirt-Monkey-DALLAS/707016?afflky=DiscoPresents-Ductwork"
     },
     {
       "id": "the-regency-ballroom-2027-01-15-mph",
@@ -3844,19 +3857,6 @@
       "url": "https://billgrahamcivic.com/events/carly-rae-jepsen-270421"
     },
     {
-      "id": "red-rocks-2027-04-25-carly-rae-jepsen-day-and-night-tour",
-      "venue": "Red Rocks",
-      "list": "Off Angle",
-      "group": "Out of State",
-      "date": "2027-04-25",
-      "time": "7:30 PM",
-      "artist": "Carly Rae Jepsen: Day and Night Tour",
-      "support": "",
-      "genre": "EDM",
-      "genre_source": "musicbrainz",
-      "url": "https://www.redrocksonline.com/events/carly-rae-jepsen-day-and-night-tour-1636194/"
-    },
-    {
       "id": "the-regency-ballroom-2027-04-27-mass-of-the-fermenting-dregs",
       "venue": "The Regency Ballroom",
       "list": "Off Angle",
@@ -3883,30 +3883,17 @@
       "url": "https://www.theregencyballroom.com/events/detail?event_id=1607316"
     },
     {
-      "id": "red-rocks-2027-05-10-josiah-queen",
-      "venue": "Red Rocks",
+      "id": "bill-graham-civic-2027-05-12-fontaines-d-c",
+      "venue": "Bill Graham Civic",
       "list": "Off Angle",
-      "group": "Out of State",
-      "date": "2027-05-10",
-      "time": "7:30 PM",
-      "artist": "Josiah Queen",
-      "support": "",
+      "group": "San Francisco",
+      "date": "2027-05-12",
+      "time": "8:00 PM",
+      "artist": "Fontaines D.C.",
+      "support": "Westside Cowboy",
       "genre": "Live Music",
       "genre_source": "default",
-      "url": "https://www.redrocksonline.com/events/josiah-queen-1631705/"
-    },
-    {
-      "id": "red-rocks-2027-05-27-a-perfect-circle",
-      "venue": "Red Rocks",
-      "list": "Off Angle",
-      "group": "Out of State",
-      "date": "2027-05-27",
-      "time": "7:30 PM",
-      "artist": "A Perfect Circle",
-      "support": "THE CULT",
-      "genre": "Live Music",
-      "genre_source": "musicbrainz",
-      "url": "https://www.redrocksonline.com/events/a-perfect-circle-1622799/"
+      "url": "https://billgrahamcivic.com/events/fontaines-dc-270512"
     },
     {
       "id": "cow-palace-2027-06-04-a-perfect-circle",

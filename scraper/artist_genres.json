@@ -427,6 +427,10 @@
     "genre": "EDM",
     "checked": "2026-08-06"
   },
+  "fontaines d c": {
+    "genre": null,
+    "checked": "2026-10-02"
+  },
   "for king": {
     "genre": null,
     "checked": "2026-08-06"
@@ -814,6 +818,10 @@
   "mike": {
     "genre": "Live Music",
     "checked": "2026-08-06"
+  },
+  "mindchatter": {
+    "genre": null,
+    "checked": "2026-10-02"
   },
   "moby": {
     "genre": "EDM",
