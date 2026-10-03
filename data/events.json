@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-03T12:38:38Z",
+  "generated_at": "2026-10-03T17:26:48Z",
   "lists": [
     "Local",
     "Off Angle"
@@ -137,19 +137,6 @@
       "genre": "EDM",
       "genre_source": "same artist elsewhere",
       "url": "https://www.redrocksonline.com/events/deorro-1514786/"
-    },
-    {
-      "id": "red-rocks-2026-10-03-snowshape-fitness-series-presented-by-toyota",
-      "venue": "Red Rocks",
-      "list": "Off Angle",
-      "group": "Out of State",
-      "date": "2026-10-03",
-      "time": "8:00 AM",
-      "artist": "SnowShape – Fitness Series – Presented by Toyota",
-      "support": "",
-      "genre": "Live Music",
-      "genre_source": "default",
-      "url": "https://www.redrocksonline.com/events/snowshape-fitness-series-presented-by-toyota-1541354/"
     },
     {
       "id": "the-regency-ballroom-2026-10-03-hamdi-fc-vs-san-francisco",
@@ -2878,7 +2865,7 @@
       "artist": "James Hype",
       "support": "",
       "genre": "EDM",
-      "genre_source": "same artist elsewhere",
+      "genre_source": "musicbrainz",
       "url": "https://dothebay.com/events/2026/11/20/james-hype-tickets"
     },
     {
