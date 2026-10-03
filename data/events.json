@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-02T23:05:02Z",
+  "generated_at": "2026-10-03T06:38:43Z",
   "lists": [
     "Local",
     "Off Angle"
@@ -73,123 +73,6 @@
     }
   ],
   "events": [
-    {
-      "id": "kingdom-2026-10-02-matt-sassari",
-      "venue": "Kingdom",
-      "list": "Local",
-      "group": "",
-      "date": "2026-10-02",
-      "time": "10:00 PM",
-      "artist": "Matt Sassari",
-      "support": "",
-      "genre": "EDM",
-      "genre_source": "musicbrainz",
-      "url": "https://kingdomnightclub.com/event/matt-sassari/kingdom-nightclub/austin-texas/"
-    },
-    {
-      "id": "red-rocks-2026-10-02-levity-presents-levi-rocks-the-volcano",
-      "venue": "Red Rocks",
-      "list": "Off Angle",
-      "group": "Out of State",
-      "date": "2026-10-02",
-      "time": "6:00 PM",
-      "artist": "Levity presents LEVI-ROCKS: THE VOLCANO",
-      "support": "",
-      "genre": "EDM",
-      "genre_source": "keyword",
-      "url": "https://www.redrocksonline.com/events/levity-1351306/"
-    },
-    {
-      "id": "bill-graham-civic-2026-10-02-madeon",
-      "venue": "Bill Graham Civic",
-      "list": "Off Angle",
-      "group": "San Francisco",
-      "date": "2026-10-02",
-      "time": "8:00 PM",
-      "artist": "Madeon",
-      "support": "Contact Sports",
-      "genre": "EDM",
-      "genre_source": "musicbrainz",
-      "url": "https://billgrahamcivic.com/events/madeon-261002"
-    },
-    {
-      "id": "the-regency-ballroom-2026-10-02-hamdi-fc-vs-san-francisco",
-      "venue": "The Regency Ballroom",
-      "list": "Off Angle",
-      "group": "San Francisco",
-      "date": "2026-10-02",
-      "time": "8:00 PM",
-      "artist": "Hamdi FC vs. San Francisco",
-      "support": "Flava D b2b Cesco",
-      "genre": "EDM",
-      "genre_source": "keyword",
-      "url": "https://www.theregencyballroom.com/events/detail?event_id=1527433"
-    },
-    {
-      "id": "emo-s-2026-10-02-official-2026-acl-nights-bunt",
-      "venue": "Emo's",
-      "list": "Local",
-      "group": "",
-      "date": "2026-10-02",
-      "time": "9:00 PM",
-      "artist": "Official 2026 ACL Nights: BUNT.",
-      "support": "",
-      "genre": "Live Music",
-      "genre_source": "default",
-      "url": "https://www.ticketmaster.com/official-2026-acl-nights-bunt-austin-texas-10-02-2026/event/3A0064FBD4C8E83E"
-    },
-    {
-      "id": "silo-dallas-2026-10-02-eli-brown",
-      "venue": "Silo Dallas",
-      "list": "Local",
-      "group": "",
-      "date": "2026-10-02",
-      "time": "9:00 PM",
-      "artist": "Eli Brown",
-      "support": "",
-      "genre": "EDM",
-      "genre_source": "venue",
-      "url": "https://wl.eventim.us/event/ELI-BROWN-DALLAS/696655?afflky=SILO"
-    },
-    {
-      "id": "silo-houston-2026-10-02-gorgon-city",
-      "venue": "Silo Houston",
-      "list": "Local",
-      "group": "",
-      "date": "2026-10-02",
-      "time": "9:00 PM",
-      "artist": "Gorgon City",
-      "support": "",
-      "genre": "EDM",
-      "genre_source": "venue",
-      "url": "https://wl.eventim.us/event/GORGON-CITY-HOUSTON/701070?afflky=DuctworkHouston&EVENTPASS=CONTACT"
-    },
-    {
-      "id": "the-concourse-project-2026-10-02-official-2026-acl-fest-nights-steve-aoki",
-      "venue": "The Concourse Project",
-      "list": "Local",
-      "group": "",
-      "date": "2026-10-02",
-      "time": "9:00 PM",
-      "artist": "Official 2026 ACL Fest Nights: Steve Aoki",
-      "support": "Elephante, Riot Ten, SKYE",
-      "genre": "EDM",
-      "genre_source": "site",
-      "url": "https://wl.seetickets.us/event/Official-2026-ACL-Fest-Nights-Steve-Aoki/701292?afflky=TheConcourseProject"
-    },
-    {
-      "id": "the-midway-2026-10-02-taiwan-golden-melody-night",
-      "venue": "The Midway",
-      "list": "Off Angle",
-      "group": "San Francisco",
-      "date": "2026-10-02",
-      "time": "9:00 PM",
-      "artist": "Taiwan Golden Melody Night",
-      "support": "",
-      "genre": "EDM",
-      "genre_source": "venue leaning",
-      "url": "https://dothebay.com/events/2026/10/2/taiwan-golden-melody-night-tickets"
-    },
     {
       "id": "kingdom-2026-10-03-frequency-shift",
       "venue": "Kingdom",
@@ -3857,6 +3740,19 @@
       "url": "https://billgrahamcivic.com/events/carly-rae-jepsen-270421"
     },
     {
+      "id": "red-rocks-2027-04-25-carly-rae-jepsen-day-and-night-tour",
+      "venue": "Red Rocks",
+      "list": "Off Angle",
+      "group": "Out of State",
+      "date": "2027-04-25",
+      "time": "7:30 PM",
+      "artist": "Carly Rae Jepsen: Day and Night Tour",
+      "support": "",
+      "genre": "EDM",
+      "genre_source": "musicbrainz",
+      "url": "https://www.redrocksonline.com/events/carly-rae-jepsen-day-and-night-tour-1636194/"
+    },
+    {
       "id": "the-regency-ballroom-2027-04-27-mass-of-the-fermenting-dregs",
       "venue": "The Regency Ballroom",
       "list": "Off Angle",
@@ -3883,6 +3779,19 @@
       "url": "https://www.theregencyballroom.com/events/detail?event_id=1607316"
     },
     {
+      "id": "red-rocks-2027-05-10-josiah-queen",
+      "venue": "Red Rocks",
+      "list": "Off Angle",
+      "group": "Out of State",
+      "date": "2027-05-10",
+      "time": "7:30 PM",
+      "artist": "Josiah Queen",
+      "support": "",
+      "genre": "Live Music",
+      "genre_source": "default",
+      "url": "https://www.redrocksonline.com/events/josiah-queen-1631705/"
+    },
+    {
       "id": "bill-graham-civic-2027-05-12-fontaines-d-c",
       "venue": "Bill Graham Civic",
       "list": "Off Angle",
@@ -3894,6 +3803,19 @@
       "genre": "Live Music",
       "genre_source": "default",
       "url": "https://billgrahamcivic.com/events/fontaines-dc-270512"
+    },
+    {
+      "id": "red-rocks-2027-05-27-a-perfect-circle",
+      "venue": "Red Rocks",
+      "list": "Off Angle",
+      "group": "Out of State",
+      "date": "2027-05-27",
+      "time": "7:30 PM",
+      "artist": "A Perfect Circle",
+      "support": "THE CULT",
+      "genre": "Live Music",
+      "genre_source": "musicbrainz",
+      "url": "https://www.redrocksonline.com/events/a-perfect-circle-1622799/"
     },
     {
       "id": "cow-palace-2027-06-04-a-perfect-circle",
@@ -3946,6 +3868,19 @@
       "genre": "Live Music",
       "genre_source": "default",
       "url": "https://www.redrocksonline.com/events/rod-stewart-one-last-time-1216092/"
+    },
+    {
+      "id": "red-rocks-2027-10-13-fontaines-d-c",
+      "venue": "Red Rocks",
+      "list": "Off Angle",
+      "group": "Out of State",
+      "date": "2027-10-13",
+      "time": "7:30 PM",
+      "artist": "Fontaines D.C.",
+      "support": "Iceage",
+      "genre": "Live Music",
+      "genre_source": "default",
+      "url": "https://www.redrocksonline.com/events/fontaines-d-c-1640655/"
     }
   ]
 }
