@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-03T06:38:43Z",
+  "generated_at": "2026-10-03T12:38:38Z",
   "lists": [
     "Local",
     "Off Angle"
@@ -2869,6 +2869,19 @@
       "url": "https://dothebay.com/events/2026/11/20/hans-glader-tickets"
     },
     {
+      "id": "the-midway-2026-11-20-james-hype",
+      "venue": "The Midway",
+      "list": "Off Angle",
+      "group": "San Francisco",
+      "date": "2026-11-20",
+      "time": "10:00 PM",
+      "artist": "James Hype",
+      "support": "",
+      "genre": "EDM",
+      "genre_source": "same artist elsewhere",
+      "url": "https://dothebay.com/events/2026/11/20/james-hype-tickets"
+    },
+    {
       "id": "emo-s-2026-11-20-dexter-and-the-moonrocks",
       "venue": "Emo's",
       "list": "Local",
@@ -3153,6 +3166,19 @@
       "genre": "EDM",
       "genre_source": "venue",
       "url": "https://wl.eventim.us/event/Deorro-HOUSTON/699784?afflky=DuctworkHouston"
+    },
+    {
+      "id": "the-concourse-project-2026-11-27-hot-since-82-avision",
+      "venue": "The Concourse Project",
+      "list": "Local",
+      "group": "",
+      "date": "2026-11-27",
+      "time": "9:00 PM",
+      "artist": "Hot Since 82 + Avision",
+      "support": "Hot Since 82, Avision",
+      "genre": "EDM",
+      "genre_source": "site",
+      "url": "https://wl.seetickets.us/event/Hot-Since-82-Avision-at-The-Concourse-Project/702026?afflky=TheConcourseProject"
     },
     {
       "id": "silo-dallas-2026-11-28-deorro",
