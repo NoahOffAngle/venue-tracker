@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-03T22:13:38Z",
+  "generated_at": "2026-10-04T07:02:26Z",
   "lists": [
     "Local",
     "Off Angle"
@@ -73,162 +73,6 @@
     }
   ],
   "events": [
-    {
-      "id": "kingdom-2026-10-03-frequency-shift",
-      "venue": "Kingdom",
-      "list": "Local",
-      "group": "",
-      "date": "2026-10-03",
-      "time": "10:00 PM",
-      "artist": "FREQUENCY SHIFT",
-      "support": "",
-      "genre": "EDM",
-      "genre_source": "venue leaning",
-      "url": "https://kingdomnightclub.com/event/frequency-shift-2/kingdom-nightclub/austin-texas/"
-    },
-    {
-      "id": "the-midway-2026-10-03-global-connect-ft-j-espinosa-double-b-more",
-      "venue": "The Midway",
-      "list": "Off Angle",
-      "group": "San Francisco",
-      "date": "2026-10-03",
-      "time": "2:00 PM",
-      "artist": "Global Connect ft J Espinosa, Double B & more",
-      "support": "",
-      "genre": "EDM",
-      "genre_source": "venue leaning",
-      "url": "https://dothebay.com/events/2026/10/3/global-connect-ft-j-espinosa-double-b-more-tickets"
-    },
-    {
-      "id": "cow-palace-2026-10-03-women-of-rodeo",
-      "venue": "Cow Palace",
-      "list": "Off Angle",
-      "group": "San Francisco",
-      "date": "2026-10-03",
-      "time": "5:00 PM",
-      "artist": "Women of Rodeo",
-      "support": "",
-      "genre": "Live Music",
-      "genre_source": "default",
-      "url": "https://www.cowpalace.com/event/women-of-rodeo-2/"
-    },
-    {
-      "id": "red-rocks-2026-10-03-canceled-rezz-rocks-viii",
-      "venue": "Red Rocks",
-      "list": "Off Angle",
-      "group": "Out of State",
-      "date": "2026-10-03",
-      "time": "6:00 PM",
-      "artist": "Canceled: REZZ ROCKS VIII",
-      "support": "Frost Children, Kavari, Izzy Camina, Sakr",
-      "genre": "EDM",
-      "genre_source": "keyword",
-      "url": "https://www.redrocksonline.com/events/rezz-rocks-viii-1303156/"
-    },
-    {
-      "id": "red-rocks-2026-10-03-deorro",
-      "venue": "Red Rocks",
-      "list": "Off Angle",
-      "group": "Out of State",
-      "date": "2026-10-03",
-      "time": "7:30 PM",
-      "artist": "Deorro",
-      "support": "Alacranes Musical, Juos, DoKnow",
-      "genre": "EDM",
-      "genre_source": "same artist elsewhere",
-      "url": "https://www.redrocksonline.com/events/deorro-1514786/"
-    },
-    {
-      "id": "the-regency-ballroom-2026-10-03-hamdi-fc-vs-san-francisco",
-      "venue": "The Regency Ballroom",
-      "list": "Off Angle",
-      "group": "San Francisco",
-      "date": "2026-10-03",
-      "time": "8:00 PM",
-      "artist": "Hamdi FC vs. San Francisco",
-      "support": "Conducta, Sam Binga",
-      "genre": "Live Music",
-      "genre_source": "default",
-      "url": "https://www.theregencyballroom.com/events/detail?event_id=1528354"
-    },
-    {
-      "id": "emo-s-2026-10-03-official-2026-acl-nights-levity",
-      "venue": "Emo's",
-      "list": "Local",
-      "group": "",
-      "date": "2026-10-03",
-      "time": "9:00 PM",
-      "artist": "Official 2026 ACL Nights: Levity",
-      "support": "",
-      "genre": "EDM",
-      "genre_source": "keyword",
-      "url": "https://www.ticketmaster.com/official-2026-acl-nights-levity-austin-texas-10-03-2026/event/3A0064FBD69EEA69"
-    },
-    {
-      "id": "silo-dallas-2026-10-03-sasha-john-digweed",
-      "venue": "Silo Dallas",
-      "list": "Local",
-      "group": "",
-      "date": "2026-10-03",
-      "time": "9:00 PM",
-      "artist": "Sasha & John Digweed",
-      "support": "",
-      "genre": "EDM",
-      "genre_source": "venue",
-      "url": "https://wl.eventim.us/event/Sasha-and-John-Digweed-SILO-2-Year-Anniversary-DALLAS/692671?afflky=SILO"
-    },
-    {
-      "id": "silo-houston-2026-10-03-eli-brown",
-      "venue": "Silo Houston",
-      "list": "Local",
-      "group": "",
-      "date": "2026-10-03",
-      "time": "9:00 PM",
-      "artist": "Eli Brown",
-      "support": "",
-      "genre": "EDM",
-      "genre_source": "venue",
-      "url": "https://wl.eventim.us/event/ELI-BROWN-HOUSTON/697000?afflky=DuctworkHouston&EVENTPASS=ELIBROWN"
-    },
-    {
-      "id": "the-concourse-project-2026-10-03-official-2026-acl-fest-nights-it-s-murph-open-to-close",
-      "venue": "The Concourse Project",
-      "list": "Local",
-      "group": "",
-      "date": "2026-10-03",
-      "time": "9:00 PM",
-      "artist": "Official 2026 ACL Fest Nights: it's murph (Open to Close)",
-      "support": "",
-      "genre": "EDM",
-      "genre_source": "site",
-      "url": "https://wl.seetickets.us/event/Official-2026-ACL-Fest-Nights-its-murph-Open-to-Close/701295?afflky=TheConcourseProject"
-    },
-    {
-      "id": "the-midway-2026-10-03-bolo-s-block-after-hours",
-      "venue": "The Midway",
-      "list": "Off Angle",
-      "group": "San Francisco",
-      "date": "2026-10-03",
-      "time": "9:00 PM",
-      "artist": "BOLO's BLOCK AFTER HOURS",
-      "support": "",
-      "genre": "EDM",
-      "genre_source": "venue leaning",
-      "url": "https://dothebay.com/events/2026/10/3/bolo-the-dj-tickets"
-    },
-    {
-      "id": "the-midway-2026-10-03-elephante",
-      "venue": "The Midway",
-      "list": "Off Angle",
-      "group": "San Francisco",
-      "date": "2026-10-03",
-      "time": "9:00 PM",
-      "artist": "Elephante",
-      "support": "",
-      "genre": "EDM",
-      "genre_source": "venue leaning",
-      "url": "https://dothebay.com/events/2026/10/3/elephante-tickets"
-    },
     {
       "id": "silo-dallas-2026-10-04-joris-voorn",
       "venue": "Silo Dallas",
@@ -2947,6 +2791,19 @@
       "url": "https://kingdomnightclub.com/event/mark-knight-2/kingdom-nightclub/austin-texas/"
     },
     {
+      "id": "the-midway-2026-11-21-tisoki",
+      "venue": "The Midway",
+      "list": "Off Angle",
+      "group": "San Francisco",
+      "date": "2026-11-21",
+      "time": "10:00 PM",
+      "artist": "Tisoki",
+      "support": "",
+      "genre": "EDM",
+      "genre_source": "same artist elsewhere",
+      "url": "https://dothebay.com/events/2026/11/21/tisoki-tickets"
+    },
+    {
       "id": "emo-s-2026-11-21-bahamas-industrial-sport-sound",
       "venue": "Emo's",
       "list": "Local",
@@ -3192,6 +3049,19 @@
       "genre": "EDM",
       "genre_source": "venue",
       "url": "https://wl.eventim.us/event/DEATHPACT-FROM-DARKNESS-COMES-LIGHT-ECLIPSED-HOUSTON/700387?afflky=DuctworkHouston"
+    },
+    {
+      "id": "the-concourse-project-2026-11-28-green-velvet",
+      "venue": "The Concourse Project",
+      "list": "Local",
+      "group": "",
+      "date": "2026-11-28",
+      "time": "9:00 PM",
+      "artist": "Green Velvet",
+      "support": "",
+      "genre": "EDM",
+      "genre_source": "site",
+      "url": "https://wl.seetickets.us/event/Green-Velvet-at-The-Concourse-Project/705130?afflky=TheConcourseProject"
     },
     {
       "id": "the-regency-ballroom-2026-11-28-devault",
