@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-05T07:12:32Z",
+  "generated_at": "2026-10-05T16:11:49Z",
   "lists": [
     "Local",
     "Off Angle"
@@ -3584,6 +3584,19 @@
       "url": "https://www.theregencyballroom.com/events/detail?event_id=1608440"
     },
     {
+      "id": "silo-dallas-2027-03-20-level-up",
+      "venue": "Silo Dallas",
+      "list": "Local",
+      "group": "",
+      "date": "2027-03-20",
+      "time": "9:00 PM",
+      "artist": "Level Up",
+      "support": "",
+      "genre": "EDM",
+      "genre_source": "venue",
+      "url": "https://silodallas.com/events/level-up-63139880822"
+    },
+    {
       "id": "red-rocks-2027-03-27-sidepiece-x-ship-wrek",
       "venue": "Red Rocks",
       "list": "Off Angle",
@@ -3597,6 +3610,19 @@
       "url": "https://www.redrocksonline.com/events/sidepiece-x-ship-wrek-1593462/"
     },
     {
+      "id": "red-rocks-2027-04-09-svdden-death",
+      "venue": "Red Rocks",
+      "list": "Off Angle",
+      "group": "Out of State",
+      "date": "2027-04-09",
+      "time": "6:00 PM",
+      "artist": "SVDDEN DEATH",
+      "support": "",
+      "genre": "EDM",
+      "genre_source": "musicbrainz",
+      "url": "https://www.redrocksonline.com/events/svdden-death-1633743/"
+    },
+    {
       "id": "bill-graham-civic-2027-04-21-carly-rae-jepsen",
       "venue": "Bill Graham Civic",
       "list": "Off Angle",
@@ -3608,6 +3634,19 @@
       "genre": "EDM",
       "genre_source": "musicbrainz",
       "url": "https://billgrahamcivic.com/events/carly-rae-jepsen-270421"
+    },
+    {
+      "id": "red-rocks-2027-04-25-carly-rae-jepsen-day-and-night-tour",
+      "venue": "Red Rocks",
+      "list": "Off Angle",
+      "group": "Out of State",
+      "date": "2027-04-25",
+      "time": "7:30 PM",
+      "artist": "Carly Rae Jepsen: Day and Night Tour",
+      "support": "",
+      "genre": "EDM",
+      "genre_source": "musicbrainz",
+      "url": "https://www.redrocksonline.com/events/carly-rae-jepsen-day-and-night-tour-1636194/"
     },
     {
       "id": "the-regency-ballroom-2027-04-27-mass-of-the-fermenting-dregs",
@@ -3636,6 +3675,32 @@
       "url": "https://www.theregencyballroom.com/events/detail?event_id=1607316"
     },
     {
+      "id": "bill-graham-civic-2027-05-01-lola-young",
+      "venue": "Bill Graham Civic",
+      "list": "Off Angle",
+      "group": "San Francisco",
+      "date": "2027-05-01",
+      "time": "8:00 PM",
+      "artist": "Lola Young",
+      "support": "Sofia and the Antoinettes",
+      "genre": "Live Music",
+      "genre_source": "musicbrainz",
+      "url": "https://billgrahamcivic.com/events/lola-young-270501"
+    },
+    {
+      "id": "red-rocks-2027-05-10-josiah-queen",
+      "venue": "Red Rocks",
+      "list": "Off Angle",
+      "group": "Out of State",
+      "date": "2027-05-10",
+      "time": "7:30 PM",
+      "artist": "Josiah Queen",
+      "support": "",
+      "genre": "Live Music",
+      "genre_source": "default",
+      "url": "https://www.redrocksonline.com/events/josiah-queen-1631705/"
+    },
+    {
       "id": "bill-graham-civic-2027-05-12-fontaines-d-c",
       "venue": "Bill Graham Civic",
       "list": "Off Angle",
@@ -3647,6 +3712,19 @@
       "genre": "Live Music",
       "genre_source": "default",
       "url": "https://billgrahamcivic.com/events/fontaines-dc-270512"
+    },
+    {
+      "id": "red-rocks-2027-05-27-a-perfect-circle",
+      "venue": "Red Rocks",
+      "list": "Off Angle",
+      "group": "Out of State",
+      "date": "2027-05-27",
+      "time": "7:30 PM",
+      "artist": "A Perfect Circle",
+      "support": "THE CULT",
+      "genre": "Live Music",
+      "genre_source": "musicbrainz",
+      "url": "https://www.redrocksonline.com/events/a-perfect-circle-1622799/"
     },
     {
       "id": "cow-palace-2027-06-04-a-perfect-circle",
@@ -3699,6 +3777,19 @@
       "genre": "Live Music",
       "genre_source": "default",
       "url": "https://www.redrocksonline.com/events/rod-stewart-one-last-time-1216092/"
+    },
+    {
+      "id": "red-rocks-2027-10-13-fontaines-d-c",
+      "venue": "Red Rocks",
+      "list": "Off Angle",
+      "group": "Out of State",
+      "date": "2027-10-13",
+      "time": "7:30 PM",
+      "artist": "Fontaines D.C.",
+      "support": "Iceage",
+      "genre": "Live Music",
+      "genre_source": "default",
+      "url": "https://www.redrocksonline.com/events/fontaines-d-c-1640655/"
     }
   ]
 }
