@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-04T22:23:09Z",
+  "generated_at": "2026-10-05T07:12:32Z",
   "lists": [
     "Local",
     "Off Angle"
@@ -73,45 +73,6 @@
     }
   ],
   "events": [
-    {
-      "id": "silo-dallas-2026-10-04-joris-voorn",
-      "venue": "Silo Dallas",
-      "list": "Local",
-      "group": "",
-      "date": "2026-10-04",
-      "time": "5:00 PM",
-      "artist": "Joris Voorn",
-      "support": "",
-      "genre": "EDM",
-      "genre_source": "venue",
-      "url": "https://wl.eventim.us/event/JORIS-VOORN-DALLAS/703523?afflky=DiscoPresents-Ductwork"
-    },
-    {
-      "id": "red-rocks-2026-10-04-for-king-country",
-      "venue": "Red Rocks",
-      "list": "Off Angle",
-      "group": "Out of State",
-      "date": "2026-10-04",
-      "time": "7:00 PM",
-      "artist": "for KING + COUNTRY",
-      "support": "",
-      "genre": "Live Music",
-      "genre_source": "default",
-      "url": "https://www.redrocksonline.com/events/for-king-country-1451922/"
-    },
-    {
-      "id": "emo-s-2026-10-04-official-2026-acl-nights-suki-waterhouse",
-      "venue": "Emo's",
-      "list": "Local",
-      "group": "",
-      "date": "2026-10-04",
-      "time": "9:00 PM",
-      "artist": "Official 2026 ACL Nights: Suki Waterhouse",
-      "support": "",
-      "genre": "Live Music",
-      "genre_source": "default",
-      "url": "https://www.ticketmaster.com/official-2026-acl-nights-suki-waterhouse-austin-texas-10-04-2026/event/3A0064FBD862ECD1"
-    },
     {
       "id": "red-rocks-2026-10-06-big-thief",
       "venue": "Red Rocks",
@@ -3649,19 +3610,6 @@
       "url": "https://billgrahamcivic.com/events/carly-rae-jepsen-270421"
     },
     {
-      "id": "red-rocks-2027-04-25-carly-rae-jepsen-day-and-night-tour",
-      "venue": "Red Rocks",
-      "list": "Off Angle",
-      "group": "Out of State",
-      "date": "2027-04-25",
-      "time": "7:30 PM",
-      "artist": "Carly Rae Jepsen: Day and Night Tour",
-      "support": "",
-      "genre": "EDM",
-      "genre_source": "musicbrainz",
-      "url": "https://www.redrocksonline.com/events/carly-rae-jepsen-day-and-night-tour-1636194/"
-    },
-    {
       "id": "the-regency-ballroom-2027-04-27-mass-of-the-fermenting-dregs",
       "venue": "The Regency Ballroom",
       "list": "Off Angle",
@@ -3688,19 +3636,6 @@
       "url": "https://www.theregencyballroom.com/events/detail?event_id=1607316"
     },
     {
-      "id": "red-rocks-2027-05-10-josiah-queen",
-      "venue": "Red Rocks",
-      "list": "Off Angle",
-      "group": "Out of State",
-      "date": "2027-05-10",
-      "time": "7:30 PM",
-      "artist": "Josiah Queen",
-      "support": "",
-      "genre": "Live Music",
-      "genre_source": "default",
-      "url": "https://www.redrocksonline.com/events/josiah-queen-1631705/"
-    },
-    {
       "id": "bill-graham-civic-2027-05-12-fontaines-d-c",
       "venue": "Bill Graham Civic",
       "list": "Off Angle",
@@ -3712,19 +3647,6 @@
       "genre": "Live Music",
       "genre_source": "default",
       "url": "https://billgrahamcivic.com/events/fontaines-dc-270512"
-    },
-    {
-      "id": "red-rocks-2027-05-27-a-perfect-circle",
-      "venue": "Red Rocks",
-      "list": "Off Angle",
-      "group": "Out of State",
-      "date": "2027-05-27",
-      "time": "7:30 PM",
-      "artist": "A Perfect Circle",
-      "support": "THE CULT",
-      "genre": "Live Music",
-      "genre_source": "musicbrainz",
-      "url": "https://www.redrocksonline.com/events/a-perfect-circle-1622799/"
     },
     {
       "id": "cow-palace-2027-06-04-a-perfect-circle",
@@ -3777,19 +3699,6 @@
       "genre": "Live Music",
       "genre_source": "default",
       "url": "https://www.redrocksonline.com/events/rod-stewart-one-last-time-1216092/"
-    },
-    {
-      "id": "red-rocks-2027-10-13-fontaines-d-c",
-      "venue": "Red Rocks",
-      "list": "Off Angle",
-      "group": "Out of State",
-      "date": "2027-10-13",
-      "time": "7:30 PM",
-      "artist": "Fontaines D.C.",
-      "support": "Iceage",
-      "genre": "Live Music",
-      "genre_source": "default",
-      "url": "https://www.redrocksonline.com/events/fontaines-d-c-1640655/"
     }
   ]
 }
