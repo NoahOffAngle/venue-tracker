@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-05T16:11:49Z",
+  "generated_at": "2026-10-06T00:53:23Z",
   "lists": [
     "Local",
     "Off Angle"
@@ -159,23 +159,23 @@
       "date": "2026-10-08",
       "time": "9:00 PM",
       "artist": "Official 2026 ACL Fest Nights: Yousuke Yukimatsu",
-      "support": "",
+      "support": "Hank Harrison, JUSTAGURL",
       "genre": "EDM",
       "genre_source": "site",
       "url": "https://wl.seetickets.us/event/Official-2026-ACL-Fest-Nights-Yousuke-Yukimatsu/701792?afflky=TheConcourseProject"
     },
     {
-      "id": "kingdom-2026-10-09-andy-stott-debit",
+      "id": "kingdom-2026-10-09-andy-stott",
       "venue": "Kingdom",
       "list": "Local",
       "group": "",
       "date": "2026-10-09",
       "time": "10:00 PM",
-      "artist": "Andy Stott & Debit",
+      "artist": "Andy Stott",
       "support": "",
       "genre": "EDM",
       "genre_source": "musicbrainz",
-      "url": "https://kingdomnightclub.com/event/andy-stott-debit/kingdom-nightclub/austin-texas/"
+      "url": "https://kingdomnightclub.com/event/andy-stott/kingdom-nightclub/austin-texas/"
     },
     {
       "id": "the-midway-2026-10-09-whipped-cream",
@@ -302,7 +302,7 @@
       "date": "2026-10-09",
       "time": "9:00 PM",
       "artist": "Official 2026 ACL Fest Nights: BUNT.",
-      "support": "DJ Bad Apple",
+      "support": "DJ Bad Apple, Errow",
       "genre": "EDM",
       "genre_source": "site",
       "url": "https://wl.seetickets.us/event/Official-2026-ACL-Fest-Nights-BUNT/701303?afflky=TheConcourseProject"
@@ -432,7 +432,7 @@
       "date": "2026-10-10",
       "time": "9:00 PM",
       "artist": "HOLY PRIEST (Night 1)",
-      "support": "COLOR K!D, KISTENBRÜGGER",
+      "support": "COLOR K!D, KISTENBRÜGGER, Gondra",
       "genre": "EDM",
       "genre_source": "site",
       "url": "https://wl.seetickets.us/event/HOLY-PRIEST-Night-1-at-The-Concourse-Project/695684?afflky=TheConcourseProject"
@@ -497,7 +497,7 @@
       "date": "2026-10-11",
       "time": "9:00 PM",
       "artist": "HOLY PRIEST (Night 2)",
-      "support": "COLOR K!D, KISTENBRÜGGER",
+      "support": "COLOR K!D, KISTENBRÜGGER, Merkaba",
       "genre": "EDM",
       "genre_source": "site",
       "url": "https://wl.seetickets.us/event/HOLY-PRIEST-Night-2-at-The-Concourse-Project/699539?afflky=TheConcourseProject"
@@ -3610,19 +3610,6 @@
       "url": "https://www.redrocksonline.com/events/sidepiece-x-ship-wrek-1593462/"
     },
     {
-      "id": "red-rocks-2027-04-09-svdden-death",
-      "venue": "Red Rocks",
-      "list": "Off Angle",
-      "group": "Out of State",
-      "date": "2027-04-09",
-      "time": "6:00 PM",
-      "artist": "SVDDEN DEATH",
-      "support": "",
-      "genre": "EDM",
-      "genre_source": "musicbrainz",
-      "url": "https://www.redrocksonline.com/events/svdden-death-1633743/"
-    },
-    {
       "id": "bill-graham-civic-2027-04-21-carly-rae-jepsen",
       "venue": "Bill Graham Civic",
       "list": "Off Angle",
@@ -3634,19 +3621,6 @@
       "genre": "EDM",
       "genre_source": "musicbrainz",
       "url": "https://billgrahamcivic.com/events/carly-rae-jepsen-270421"
-    },
-    {
-      "id": "red-rocks-2027-04-25-carly-rae-jepsen-day-and-night-tour",
-      "venue": "Red Rocks",
-      "list": "Off Angle",
-      "group": "Out of State",
-      "date": "2027-04-25",
-      "time": "7:30 PM",
-      "artist": "Carly Rae Jepsen: Day and Night Tour",
-      "support": "",
-      "genre": "EDM",
-      "genre_source": "musicbrainz",
-      "url": "https://www.redrocksonline.com/events/carly-rae-jepsen-day-and-night-tour-1636194/"
     },
     {
       "id": "the-regency-ballroom-2027-04-27-mass-of-the-fermenting-dregs",
@@ -3688,19 +3662,6 @@
       "url": "https://billgrahamcivic.com/events/lola-young-270501"
     },
     {
-      "id": "red-rocks-2027-05-10-josiah-queen",
-      "venue": "Red Rocks",
-      "list": "Off Angle",
-      "group": "Out of State",
-      "date": "2027-05-10",
-      "time": "7:30 PM",
-      "artist": "Josiah Queen",
-      "support": "",
-      "genre": "Live Music",
-      "genre_source": "default",
-      "url": "https://www.redrocksonline.com/events/josiah-queen-1631705/"
-    },
-    {
       "id": "bill-graham-civic-2027-05-12-fontaines-d-c",
       "venue": "Bill Graham Civic",
       "list": "Off Angle",
@@ -3712,19 +3673,6 @@
       "genre": "Live Music",
       "genre_source": "default",
       "url": "https://billgrahamcivic.com/events/fontaines-dc-270512"
-    },
-    {
-      "id": "red-rocks-2027-05-27-a-perfect-circle",
-      "venue": "Red Rocks",
-      "list": "Off Angle",
-      "group": "Out of State",
-      "date": "2027-05-27",
-      "time": "7:30 PM",
-      "artist": "A Perfect Circle",
-      "support": "THE CULT",
-      "genre": "Live Music",
-      "genre_source": "musicbrainz",
-      "url": "https://www.redrocksonline.com/events/a-perfect-circle-1622799/"
     },
     {
       "id": "cow-palace-2027-06-04-a-perfect-circle",
@@ -3777,19 +3725,6 @@
       "genre": "Live Music",
       "genre_source": "default",
       "url": "https://www.redrocksonline.com/events/rod-stewart-one-last-time-1216092/"
-    },
-    {
-      "id": "red-rocks-2027-10-13-fontaines-d-c",
-      "venue": "Red Rocks",
-      "list": "Off Angle",
-      "group": "Out of State",
-      "date": "2027-10-13",
-      "time": "7:30 PM",
-      "artist": "Fontaines D.C.",
-      "support": "Iceage",
-      "genre": "Live Music",
-      "genre_source": "default",
-      "url": "https://www.redrocksonline.com/events/fontaines-d-c-1640655/"
     }
   ]
 }
