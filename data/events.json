@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-06T18:57:33Z",
+  "generated_at": "2026-10-06T23:07:53Z",
   "lists": [
     "Local",
     "Off Angle"
@@ -3428,17 +3428,17 @@
       "url": "https://wl.eventim.us/event/JIGITZ-DALLAS/705406?afflky=SILO"
     },
     {
-      "id": "kingdom-2027-01-01-mindchatter",
+      "id": "kingdom-2027-01-01-mindchatter-dj-set",
       "venue": "Kingdom",
       "list": "Local",
       "group": "",
       "date": "2027-01-01",
       "time": "10:00 PM",
-      "artist": "Mindchatter",
+      "artist": "Mindchatter (DJ Set)",
       "support": "",
       "genre": "EDM",
-      "genre_source": "venue leaning",
-      "url": "https://kingdomnightclub.com/event/mindchatter/kingdom-nightclub/austin-texas/"
+      "genre_source": "keyword",
+      "url": "https://kingdomnightclub.com/event/mindchatter-dj-set/kingdom-nightclub/austin-texas/"
     },
     {
       "id": "silo-dallas-2027-01-01-max-dean-b2b-luke-dean",
