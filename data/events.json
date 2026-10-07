@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-07T14:37:06Z",
+  "generated_at": "2026-10-07T23:38:51Z",
   "lists": [
     "Local",
     "Off Angle"
@@ -1615,7 +1615,7 @@
       "date": "2026-10-30",
       "time": "7:30 PM",
       "artist": "deadmau5",
-      "support": "",
+      "support": "VOWWS",
       "genre": "EDM",
       "genre_source": "musicbrainz",
       "url": "https://www.redrocksonline.com/events/deadmau5-1407690/"
@@ -1732,7 +1732,7 @@
       "date": "2026-10-31",
       "time": "7:30 PM",
       "artist": "deadmau5",
-      "support": "",
+      "support": "VOWWS",
       "genre": "EDM",
       "genre_source": "musicbrainz",
       "url": "https://www.redrocksonline.com/events/deadmau5-1407699/"
@@ -2139,6 +2139,19 @@
       "genre": "Live Music",
       "genre_source": "default",
       "url": "https://www.redrocksonline.com/events/face-vocal-band-25th-anniversary-concert-1400703/"
+    },
+    {
+      "id": "silo-dallas-2026-11-08-alex-farell",
+      "venue": "Silo Dallas",
+      "list": "Local",
+      "group": "",
+      "date": "2026-11-08",
+      "time": "5:00 PM",
+      "artist": "Alex Farell",
+      "support": "",
+      "genre": "EDM",
+      "genre_source": "venue",
+      "url": "https://silodallas.com/events/alex-farell-63191896983"
     },
     {
       "id": "the-midway-2026-11-08-mexico-in-a-bottle",
@@ -2997,6 +3010,19 @@
       "genre": "EDM",
       "genre_source": "same artist elsewhere",
       "url": "https://dothebay.com/events/2026/11/28/funk-tribu-tickets"
+    },
+    {
+      "id": "emo-s-2026-11-28-punchis-punchis-banda-rave",
+      "venue": "Emo's",
+      "list": "Local",
+      "group": "",
+      "date": "2026-11-28",
+      "time": "9:00 PM",
+      "artist": "Punchis! Punchis! Banda Rave",
+      "support": "",
+      "genre": "EDM",
+      "genre_source": "keyword",
+      "url": "https://www.ticketmaster.com/punchis-punchis-banda-rave-austin-texas-11-28-2026/event/3A00653E98A19FF5"
     },
     {
       "id": "silo-dallas-2026-11-28-deorro",
