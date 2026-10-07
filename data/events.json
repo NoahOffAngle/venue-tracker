@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-06T23:07:53Z",
+  "generated_at": "2026-10-07T07:21:23Z",
   "lists": [
     "Local",
     "Off Angle"
@@ -73,19 +73,6 @@
     }
   ],
   "events": [
-    {
-      "id": "red-rocks-2026-10-06-big-thief",
-      "venue": "Red Rocks",
-      "list": "Off Angle",
-      "group": "Out of State",
-      "date": "2026-10-06",
-      "time": "7:30 PM",
-      "artist": "Big Thief",
-      "support": "Iris DeMent",
-      "genre": "Live Music",
-      "genre_source": "musicbrainz",
-      "url": "https://www.redrocksonline.com/events/big-thief-1364342/"
-    },
     {
       "id": "bill-graham-civic-2026-10-07-the-neighbourhood",
       "venue": "Bill Graham Civic",
