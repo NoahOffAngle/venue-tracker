@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-07T23:38:51Z",
+  "generated_at": "2026-10-08T07:32:45Z",
   "lists": [
     "Local",
     "Off Angle"
@@ -73,32 +73,6 @@
     }
   ],
   "events": [
-    {
-      "id": "bill-graham-civic-2026-10-07-the-neighbourhood",
-      "venue": "Bill Graham Civic",
-      "list": "Off Angle",
-      "group": "San Francisco",
-      "date": "2026-10-07",
-      "time": "7:00 PM",
-      "artist": "The Neighbourhood",
-      "support": "After, Noise Dept.",
-      "genre": "Live Music",
-      "genre_source": "default",
-      "url": "https://billgrahamcivic.com/events/the-neighbourhood-261007"
-    },
-    {
-      "id": "red-rocks-2026-10-07-ella-langley",
-      "venue": "Red Rocks",
-      "list": "Off Angle",
-      "group": "Out of State",
-      "date": "2026-10-07",
-      "time": "7:00 PM",
-      "artist": "Ella Langley",
-      "support": "Kameron Marlowe, Gabriella Rose",
-      "genre": "Live Music",
-      "genre_source": "musicbrainz",
-      "url": "https://www.redrocksonline.com/events/ella-langley-1496217/"
-    },
     {
       "id": "kingdom-2026-10-08-dvs1",
       "venue": "Kingdom",
