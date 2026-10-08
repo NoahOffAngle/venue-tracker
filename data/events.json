@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-08T07:32:45Z",
+  "generated_at": "2026-10-08T19:20:11Z",
   "lists": [
     "Local",
     "Off Angle"
@@ -601,7 +601,7 @@
       "date": "2026-10-15",
       "time": "8:00 PM",
       "artist": "The Blasting Company",
-      "support": "",
+      "support": "Julie and Hubie",
       "genre": "Live Music",
       "genre_source": "default",
       "url": "https://www.theregencyballroom.com/events/detail?event_id=1496238"
@@ -2125,7 +2125,7 @@
       "support": "",
       "genre": "EDM",
       "genre_source": "venue",
-      "url": "https://silodallas.com/events/alex-farell-63191896983"
+      "url": "https://wl.eventim.us/event/Alex-Farell-DALLAS/707158?afflky=DiscoPresents-Ductwork"
     },
     {
       "id": "the-midway-2026-11-08-mexico-in-a-bottle",
@@ -2382,7 +2382,7 @@
       "date": "2026-11-13",
       "time": "8:00 PM",
       "artist": "L7",
-      "support": "NOBRO",
+      "support": "NOBRO, Buzzed Lightbeer",
       "genre": "Live Music",
       "genre_source": "musicbrainz",
       "url": "https://www.theregencyballroom.com/events/detail?event_id=1435452"
@@ -3594,7 +3594,7 @@
       "support": "",
       "genre": "EDM",
       "genre_source": "venue",
-      "url": "https://silodallas.com/events/level-up-63139880822"
+      "url": "https://wl.eventim.us/event/LEVEL-UP-DALLAS/706784?afflky=SILO&EVENTPASS=RITUAL"
     },
     {
       "id": "red-rocks-2027-03-27-sidepiece-x-ship-wrek",
@@ -3630,7 +3630,7 @@
       "date": "2027-04-21",
       "time": "7:30 PM",
       "artist": "Carly Rae Jepsen",
-      "support": "",
+      "support": "Carol Ades",
       "genre": "EDM",
       "genre_source": "musicbrainz",
       "url": "https://billgrahamcivic.com/events/carly-rae-jepsen-270421"
@@ -3643,7 +3643,7 @@
       "date": "2027-04-25",
       "time": "7:30 PM",
       "artist": "Carly Rae Jepsen: Day and Night Tour",
-      "support": "",
+      "support": "Carol Ades",
       "genre": "EDM",
       "genre_source": "musicbrainz",
       "url": "https://www.redrocksonline.com/events/carly-rae-jepsen-day-and-night-tour-1636194/"
@@ -3751,6 +3751,19 @@
       "genre": "Live Music",
       "genre_source": "musicbrainz",
       "url": "https://www.redrocksonline.com/events/lizzy-mcalpine-1621554/"
+    },
+    {
+      "id": "red-rocks-2027-08-03-leon-bridges",
+      "venue": "Red Rocks",
+      "list": "Off Angle",
+      "group": "Out of State",
+      "date": "2027-08-03",
+      "time": "7:30 PM",
+      "artist": "Leon Bridges",
+      "support": "Kokoroko",
+      "genre": "Live Music",
+      "genre_source": "musicbrainz",
+      "url": "https://www.redrocksonline.com/events/leon-bridges-1645219/"
     },
     {
       "id": "red-rocks-2027-09-02-rod-stewart",
