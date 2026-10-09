@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-09T07:30:21Z",
+  "generated_at": "2026-10-09T18:56:44Z",
   "lists": [
     "Local",
     "Off Angle"
@@ -3155,6 +3155,19 @@
       "url": "https://wl.eventim.us/event/Goldie-DALLAS/659555?afflky=DiscoPresents-Ductwork"
     },
     {
+      "id": "kingdom-2026-12-11-mason-collective",
+      "venue": "Kingdom",
+      "list": "Local",
+      "group": "",
+      "date": "2026-12-11",
+      "time": "10:00 PM",
+      "artist": "Mason Collective",
+      "support": "",
+      "genre": "EDM",
+      "genre_source": "venue leaning",
+      "url": "https://kingdomnightclub.com/event/mason-collective/kingdom-nightclub/austin-texas/"
+    },
+    {
       "id": "silo-dallas-2026-12-11-wooli",
       "venue": "Silo Dallas",
       "list": "Local",
@@ -3542,7 +3555,7 @@
       "support": "",
       "genre": "EDM",
       "genre_source": "venue",
-      "url": "https://wl.eventim.us/event/LEVEL-UP-DALLAS/706784?afflky=SILO&EVENTPASS=RITUAL"
+      "url": "https://wl.eventim.us/event/LEVEL-UP-DALLAS/706784?afflky=SILO"
     },
     {
       "id": "red-rocks-2027-03-27-sidepiece-x-ship-wrek",
@@ -3660,6 +3673,19 @@
       "genre": "Live Music",
       "genre_source": "default",
       "url": "https://billgrahamcivic.com/events/fontaines-dc-270512"
+    },
+    {
+      "id": "red-rocks-2027-05-16-remi-wolf",
+      "venue": "Red Rocks",
+      "list": "Off Angle",
+      "group": "Out of State",
+      "date": "2027-05-16",
+      "time": "7:00 PM",
+      "artist": "Remi Wolf",
+      "support": "Annabelle Dinda",
+      "genre": "Live Music",
+      "genre_source": "default",
+      "url": "https://www.redrocksonline.com/events/remi-wolf-1645236/"
     },
     {
       "id": "red-rocks-2027-05-27-a-perfect-circle",
