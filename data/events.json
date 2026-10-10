@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-10T07:17:18Z",
+  "generated_at": "2026-10-10T13:51:49Z",
   "lists": [
     "Local",
     "Off Angle"
@@ -2934,6 +2934,19 @@
       "url": "https://kingdomnightclub.com/event/amtrac/kingdom-nightclub/austin-texas/"
     },
     {
+      "id": "the-midway-2026-12-05-zingara",
+      "venue": "The Midway",
+      "list": "Off Angle",
+      "group": "San Francisco",
+      "date": "2026-12-05",
+      "time": "10:00 PM",
+      "artist": "ZINGARA",
+      "support": "",
+      "genre": "EDM",
+      "genre_source": "musicbrainz",
+      "url": "https://dothebay.com/events/2026/12/5/zingara-the-girls-are-making-riddim-tour-tickets"
+    },
+    {
       "id": "bill-graham-civic-2026-12-05-its-murph",
       "venue": "Bill Graham Civic",
       "list": "Off Angle",
@@ -3049,6 +3062,19 @@
       "genre": "EDM",
       "genre_source": "venue leaning",
       "url": "https://kingdomnightclub.com/event/ero808/kingdom-nightclub/austin-texas/"
+    },
+    {
+      "id": "the-midway-2026-12-12-svdden-death",
+      "venue": "The Midway",
+      "list": "Off Angle",
+      "group": "San Francisco",
+      "date": "2026-12-12",
+      "time": "10:00 PM",
+      "artist": "Svdden Death",
+      "support": "",
+      "genre": "EDM",
+      "genre_source": "musicbrainz",
+      "url": "https://dothebay.com/events/2026/12/12/svdden-death-tickets"
     },
     {
       "id": "kingdom-2026-12-12-rave-jesus-rave-revival-fall-tour",
