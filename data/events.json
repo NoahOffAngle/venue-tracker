@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-11T07:20:11Z",
+  "generated_at": "2026-10-11T14:12:24Z",
   "lists": [
     "Local",
     "Off Angle"
@@ -2984,6 +2984,19 @@
       "genre": "EDM",
       "genre_source": "venue",
       "url": "https://wl.eventim.us/event/Sam-Wolfe-DALLAS/699785?afflky=DiscoPresents-Ductwork"
+    },
+    {
+      "id": "the-midway-2026-12-16-kim-petras-de-tour",
+      "venue": "The Midway",
+      "list": "Off Angle",
+      "group": "San Francisco",
+      "date": "2026-12-16",
+      "time": "10:00 PM",
+      "artist": "Kim Petras: De-Tour",
+      "support": "",
+      "genre": "EDM",
+      "genre_source": "musicbrainz",
+      "url": "https://dothebay.com/events/2026/12/16/kim-petras-de-tour-tickets"
     },
     {
       "id": "bill-graham-civic-2026-12-17-victoria-monet",
