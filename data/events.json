@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-11T14:12:24Z",
+  "generated_at": "2026-10-11T22:59:44Z",
   "lists": [
     "Local",
     "Off Angle"
@@ -98,19 +98,6 @@
       "genre": "Live Music",
       "genre_source": "default",
       "url": "https://www.redrocksonline.com/events/cement-gardens-1438515/"
-    },
-    {
-      "id": "red-rocks-2026-10-11-run-the-rocks-2026",
-      "venue": "Red Rocks",
-      "list": "Off Angle",
-      "group": "Out of State",
-      "date": "2026-10-11",
-      "time": "7:00 AM",
-      "artist": "Run the Rocks 2026",
-      "support": "",
-      "genre": "Live Music",
-      "genre_source": "default",
-      "url": "https://www.redrocksonline.com/events/run-the-rocks-2026/"
     },
     {
       "id": "silo-dallas-2026-10-11-bijou",
