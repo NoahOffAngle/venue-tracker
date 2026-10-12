@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-12T07:28:59Z",
+  "generated_at": "2026-10-12T21:48:07Z",
   "lists": [
     "Local",
     "Off Angle"
@@ -73,6 +73,19 @@
     }
   ],
   "events": [
+    {
+      "id": "red-rocks-2026-10-12-dermot-kennedy-the-weight-of-the-woods-tour",
+      "venue": "Red Rocks",
+      "list": "Off Angle",
+      "group": "Out of State",
+      "date": "2026-10-12",
+      "time": "6:30 PM",
+      "artist": "Dermot Kennedy: The Weight of the Woods Tour",
+      "support": "Jonah Kagen, Aaron Rowe",
+      "genre": "Live Music",
+      "genre_source": "default",
+      "url": "https://www.redrocksonline.com/events/dermot-kennedy-the-weight-of-the-woods-tour-1386297/"
+    },
     {
       "id": "emo-s-2026-10-12-l7-the-last-hurrah-tour-2026",
       "venue": "Emo's",
@@ -241,6 +254,19 @@
       "genre": "EDM",
       "genre_source": "site",
       "url": "https://wl.seetickets.us/event/Funk-Tribu-at-The-Concourse-Project/694312?afflky=TheConcourseProject"
+    },
+    {
+      "id": "under-the-k-bridge-2026-10-16-native-nursery-at-under-the-k-bridge-park",
+      "venue": "Under the K Bridge",
+      "list": "Off Angle",
+      "group": "Out of State",
+      "date": "2026-10-16",
+      "time": "10:00 AM",
+      "artist": "Native Nursery at Under the K Bridge Park",
+      "support": "",
+      "genre": "Live Music",
+      "genre_source": "default",
+      "url": "https://underthekbridge.org/events/detail?event_id=1656061"
     },
     {
       "id": "kingdom-2026-10-16-twin-diplomacy",
@@ -902,7 +928,7 @@
       "artist": "SOFI TUKKER",
       "support": "",
       "genre": "EDM",
-      "genre_source": "musicbrainz",
+      "genre_source": "same artist elsewhere",
       "url": "https://www.cowpalace.com/event/sofi-tukker/"
     },
     {
@@ -2018,7 +2044,7 @@
       "date": "2026-11-14",
       "time": "7:00 PM",
       "artist": "WORSHIP",
-      "support": "Sub Focus, Dimension, Culture Shock, 1991",
+      "support": "Sub Focus, Dimension, Culture Shock, 1991, Blossom, Dr. Apollo",
       "genre": "Live Music",
       "genre_source": "musicbrainz",
       "url": "https://billgrahamcivic.com/events/worship-261114"
@@ -2960,6 +2986,19 @@
       "url": "https://wl.eventim.us/event/MitiS-DALLAS/703898?afflky=DiscoPresents-Ductwork"
     },
     {
+      "id": "the-midway-2026-12-19-hedex",
+      "venue": "The Midway",
+      "list": "Off Angle",
+      "group": "San Francisco",
+      "date": "2026-12-19",
+      "time": "10:00 PM",
+      "artist": "Hedex",
+      "support": "",
+      "genre": "EDM",
+      "genre_source": "venue leaning",
+      "url": "https://dothebay.com/events/2026/12/19/hedex-tickets"
+    },
+    {
       "id": "the-regency-ballroom-2026-12-19-takuya-nakamura",
       "venue": "The Regency Ballroom",
       "list": "Off Angle",
@@ -2997,6 +3036,19 @@
       "genre": "EDM",
       "genre_source": "venue",
       "url": "https://wl.eventim.us/event/BRESH-DALLAS/706940?afflky=SILO"
+    },
+    {
+      "id": "silo-dallas-2026-12-27-sofi-tukker",
+      "venue": "Silo Dallas",
+      "list": "Local",
+      "group": "",
+      "date": "2026-12-27",
+      "time": "9:00 PM",
+      "artist": "SOFI TUKKER",
+      "support": "",
+      "genre": "EDM",
+      "genre_source": "venue",
+      "url": "https://silodallas.com/events/sofi-tukker-63278154313"
     },
     {
       "id": "silo-houston-2026-12-27-dombresky",
@@ -3207,6 +3259,19 @@
       "url": "https://www.theregencyballroom.com/events/detail?event_id=1601209"
     },
     {
+      "id": "silo-dallas-2027-02-05-ayybo",
+      "venue": "Silo Dallas",
+      "list": "Local",
+      "group": "",
+      "date": "2027-02-05",
+      "time": "9:00 PM",
+      "artist": "AYYBO",
+      "support": "",
+      "genre": "EDM",
+      "genre_source": "venue",
+      "url": "https://silodallas.com/events/ayybo-63279783013"
+    },
+    {
       "id": "the-regency-ballroom-2027-02-18-blue-october",
       "venue": "The Regency Ballroom",
       "list": "Off Angle",
@@ -3337,6 +3402,19 @@
       "url": "https://billgrahamcivic.com/events/lola-young-270501"
     },
     {
+      "id": "red-rocks-2027-05-01-cloonee",
+      "venue": "Red Rocks",
+      "list": "Off Angle",
+      "group": "Out of State",
+      "date": "2027-05-01",
+      "time": "8:00 PM",
+      "artist": "Cloonee",
+      "support": "",
+      "genre": "Live Music",
+      "genre_source": "default",
+      "url": "https://www.redrocksonline.com/events/cloonee-1640232/"
+    },
+    {
       "id": "red-rocks-2027-05-10-josiah-queen",
       "venue": "Red Rocks",
       "list": "Off Angle",
@@ -3402,6 +3480,32 @@
       "url": "https://www.cowpalace.com/event/a-perfect-circle/"
     },
     {
+      "id": "red-rocks-2027-06-10-brit-floyd",
+      "venue": "Red Rocks",
+      "list": "Off Angle",
+      "group": "Out of State",
+      "date": "2027-06-10",
+      "time": "8:00 PM",
+      "artist": "Brit Floyd",
+      "support": "",
+      "genre": "Live Music",
+      "genre_source": "default",
+      "url": "https://www.redrocksonline.com/events/brit-floyd-1644900/"
+    },
+    {
+      "id": "red-rocks-2027-06-11-brit-floyd",
+      "venue": "Red Rocks",
+      "list": "Off Angle",
+      "group": "Out of State",
+      "date": "2027-06-11",
+      "time": "8:00 PM",
+      "artist": "Brit Floyd",
+      "support": "",
+      "genre": "Live Music",
+      "genre_source": "default",
+      "url": "https://www.redrocksonline.com/events/brit-floyd-1651532/"
+    },
+    {
       "id": "red-rocks-2027-07-06-lizzy-mcalpine",
       "venue": "Red Rocks",
       "list": "Off Angle",
@@ -3413,6 +3517,19 @@
       "genre": "Live Music",
       "genre_source": "musicbrainz",
       "url": "https://www.redrocksonline.com/events/lizzy-mcalpine-1621554/"
+    },
+    {
+      "id": "red-rocks-2027-07-28-killer-queen",
+      "venue": "Red Rocks",
+      "list": "Off Angle",
+      "group": "Out of State",
+      "date": "2027-07-28",
+      "time": "8:00 PM",
+      "artist": "Killer Queen",
+      "support": "",
+      "genre": "Live Music",
+      "genre_source": "default",
+      "url": "https://www.redrocksonline.com/events/killer-queen-1644909/"
     },
     {
       "id": "red-rocks-2027-08-03-leon-bridges",
@@ -3452,6 +3569,19 @@
       "genre": "Live Music",
       "genre_source": "default",
       "url": "https://www.redrocksonline.com/events/rod-stewart-one-last-time-1216092/"
+    },
+    {
+      "id": "red-rocks-2027-09-16-get-the-led-out",
+      "venue": "Red Rocks",
+      "list": "Off Angle",
+      "group": "Out of State",
+      "date": "2027-09-16",
+      "time": "7:30 PM",
+      "artist": "Get The Led Out",
+      "support": "",
+      "genre": "Live Music",
+      "genre_source": "musicbrainz",
+      "url": "https://www.redrocksonline.com/events/get-the-led-out-1644914/"
     },
     {
       "id": "red-rocks-2027-10-13-fontaines-d-c",
