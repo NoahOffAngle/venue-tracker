@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-12T21:48:07Z",
+  "generated_at": "2026-10-13T07:50:00Z",
   "lists": [
     "Local",
     "Off Angle"
@@ -73,45 +73,6 @@
     }
   ],
   "events": [
-    {
-      "id": "red-rocks-2026-10-12-dermot-kennedy-the-weight-of-the-woods-tour",
-      "venue": "Red Rocks",
-      "list": "Off Angle",
-      "group": "Out of State",
-      "date": "2026-10-12",
-      "time": "6:30 PM",
-      "artist": "Dermot Kennedy: The Weight of the Woods Tour",
-      "support": "Jonah Kagen, Aaron Rowe",
-      "genre": "Live Music",
-      "genre_source": "default",
-      "url": "https://www.redrocksonline.com/events/dermot-kennedy-the-weight-of-the-woods-tour-1386297/"
-    },
-    {
-      "id": "emo-s-2026-10-12-l7-the-last-hurrah-tour-2026",
-      "venue": "Emo's",
-      "list": "Local",
-      "group": "",
-      "date": "2026-10-12",
-      "time": "7:00 PM",
-      "artist": "L7: The Last Hurrah Tour 2026",
-      "support": "",
-      "genre": "Live Music",
-      "genre_source": "musicbrainz",
-      "url": "https://www.ticketmaster.com/l7-the-last-hurrah-tour-2026-austin-texas-10-12-2026/event/3A0064A1BAC8373A"
-    },
-    {
-      "id": "red-rocks-2026-10-12-rise-against",
-      "venue": "Red Rocks",
-      "list": "Off Angle",
-      "group": "Out of State",
-      "date": "2026-10-12",
-      "time": "7:00 PM",
-      "artist": "Rise Against",
-      "support": "Alkaline Trio, Teen Mortgage",
-      "genre": "Live Music",
-      "genre_source": "default",
-      "url": "https://www.redrocksonline.com/events/rise-against-ricochet-2026-1366745/"
-    },
     {
       "id": "emo-s-2026-10-13-quadeca",
       "venue": "Emo's",
@@ -399,6 +360,19 @@
       "url": "https://dothebay.com/events/2026/10/16/intimate-night-with-perfect-stranger-presents-a-perfect-sphere-album-release-party-tickets"
     },
     {
+      "id": "under-the-k-bridge-2026-10-17-native-nursery-at-under-the-k-bridge-park",
+      "venue": "Under the K Bridge",
+      "list": "Off Angle",
+      "group": "Out of State",
+      "date": "2026-10-17",
+      "time": "10:00 AM",
+      "artist": "Native Nursery at Under the K Bridge Park",
+      "support": "",
+      "genre": "Live Music",
+      "genre_source": "default",
+      "url": "https://underthekbridge.org/events/detail?event_id=1657487"
+    },
+    {
       "id": "kingdom-2026-10-17-wonkywilla-atx",
       "venue": "Kingdom",
       "list": "Local",
@@ -527,6 +501,32 @@
       "genre": "EDM",
       "genre_source": "site",
       "url": "https://wl.seetickets.us/event/MGMT-DJ-Set-at-The-Concourse-Project/705134?afflky=TheConcourseProject"
+    },
+    {
+      "id": "under-the-k-bridge-2026-10-18-native-nursery-at-under-the-k-bridge-park",
+      "venue": "Under the K Bridge",
+      "list": "Off Angle",
+      "group": "Out of State",
+      "date": "2026-10-18",
+      "time": "10:00 AM",
+      "artist": "Native Nursery at Under the K Bridge Park",
+      "support": "",
+      "genre": "Live Music",
+      "genre_source": "default",
+      "url": "https://underthekbridge.org/events/detail?event_id=1657488"
+    },
+    {
+      "id": "under-the-k-bridge-2026-10-18-garden-club-under-the-k-bridge-park",
+      "venue": "Under the K Bridge",
+      "list": "Off Angle",
+      "group": "Out of State",
+      "date": "2026-10-18",
+      "time": "10:00 AM",
+      "artist": "Garden Club – Under the K Bridge Park",
+      "support": "",
+      "genre": "Live Music",
+      "genre_source": "default",
+      "url": "https://underthekbridge.org/events/detail?event_id=1657489"
     },
     {
       "id": "red-rocks-2026-10-18-matt-rife-stay-golden-world-tour",
