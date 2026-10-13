@@ -831,6 +831,10 @@
     "genre": "EDM",
     "checked": "2026-08-06"
   },
+  "matchbox twenty": {
+    "genre": "Live Music",
+    "checked": "2026-10-13"
+  },
   "matt rife": {
     "genre": null,
     "checked": "2026-08-06"
@@ -1310,6 +1314,10 @@
   "twin diplomacy": {
     "genre": null,
     "checked": "2026-08-06"
+  },
+  "two friends": {
+    "genre": null,
+    "checked": "2026-10-13"
   },
   "two nights": {
     "genre": null,
