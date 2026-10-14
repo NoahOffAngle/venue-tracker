@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-14T12:56:39Z",
+  "generated_at": "2026-10-14T18:04:38Z",
   "lists": [
     "Local",
     "Off Angle"
@@ -356,7 +356,7 @@
       "artist": "Yheti & Toadface present Sleight of Sound Tour",
       "support": "",
       "genre": "EDM",
-      "genre_source": "musicbrainz",
+      "genre_source": "same artist elsewhere",
       "url": "https://dothebay.com/events/2026/10/17/yheti-toadface-present-sleight-of-sound-tour-tickets"
     },
     {
@@ -3259,6 +3259,19 @@
       "url": "https://wl.eventim.us/event/TWINSICK-DALLAS/705248?afflky=SILO"
     },
     {
+      "id": "silo-dallas-2027-01-24-yheti-x-toadface",
+      "venue": "Silo Dallas",
+      "list": "Local",
+      "group": "",
+      "date": "2027-01-24",
+      "time": "7:00 PM",
+      "artist": "Yheti x Toadface",
+      "support": "",
+      "genre": "EDM",
+      "genre_source": "venue",
+      "url": "https://wl.eventim.us/event/Yheti-b2b-Toadface-DALLAS/708079?afflky=DiscoPresents-Ductwork"
+    },
+    {
       "id": "silo-dallas-2027-01-28-fairlane",
       "venue": "Silo Dallas",
       "list": "Local",
@@ -3309,6 +3322,19 @@
       "genre": "EDM",
       "genre_source": "venue",
       "url": "https://silodallas.com/events/ayybo-63279783013"
+    },
+    {
+      "id": "silo-dallas-2027-02-06-riordan",
+      "venue": "Silo Dallas",
+      "list": "Local",
+      "group": "",
+      "date": "2027-02-06",
+      "time": "9:00 PM",
+      "artist": "Riordan",
+      "support": "",
+      "genre": "EDM",
+      "genre_source": "venue",
+      "url": "https://silodallas.com/events/riordan-63278207631"
     },
     {
       "id": "the-regency-ballroom-2027-02-18-blue-october",
@@ -3374,6 +3400,19 @@
       "genre": "EDM",
       "genre_source": "musicbrainz",
       "url": "https://www.redrocksonline.com/events/svdden-death-1633743/"
+    },
+    {
+      "id": "silo-dallas-2027-04-15-cyclops",
+      "venue": "Silo Dallas",
+      "list": "Local",
+      "group": "",
+      "date": "2027-04-15",
+      "time": "9:00 PM",
+      "artist": "Cyclops",
+      "support": "",
+      "genre": "EDM",
+      "genre_source": "venue",
+      "url": "https://silodallas.com/events/cyclops-63255273259"
     },
     {
       "id": "bill-graham-civic-2027-04-21-carly-rae-jepsen",
@@ -3569,6 +3608,19 @@
       "genre": "Live Music",
       "genre_source": "default",
       "url": "https://www.redrocksonline.com/events/brit-floyd-1651532/"
+    },
+    {
+      "id": "the-regency-ballroom-2027-06-11-she-past-away",
+      "venue": "The Regency Ballroom",
+      "list": "Off Angle",
+      "group": "San Francisco",
+      "date": "2027-06-11",
+      "time": "8:00 PM",
+      "artist": "She Past Away",
+      "support": "",
+      "genre": "Live Music",
+      "genre_source": "musicbrainz",
+      "url": "https://www.theregencyballroom.com/events/detail?event_id=1655580"
     },
     {
       "id": "red-rocks-2027-07-06-lizzy-mcalpine",
