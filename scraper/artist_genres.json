@@ -383,6 +383,10 @@
     "genre": "Live Music",
     "checked": "2026-09-03"
   },
+  "elderbrook": {
+    "genre": "EDM",
+    "checked": "2026-10-15"
+  },
   "electroluxx block party": {
     "genre": null,
     "checked": "2026-08-06"
@@ -594,6 +598,10 @@
   "international archaeology day": {
     "genre": null,
     "checked": "2026-09-21"
+  },
+  "interplanetary criminal": {
+    "genre": null,
+    "checked": "2026-10-15"
   },
   "intimate night": {
     "genre": null,
@@ -1202,6 +1210,10 @@
   "svdden death": {
     "genre": "EDM",
     "checked": "2026-09-21"
+  },
+  "swimming paul": {
+    "genre": "EDM",
+    "checked": "2026-10-15"
   },
   "syd": {
     "genre": "Live Music",
