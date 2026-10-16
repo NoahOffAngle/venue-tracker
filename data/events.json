@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-16T05:57:19Z",
+  "generated_at": "2026-10-16T12:33:33Z",
   "lists": [
     "Local",
     "Off Angle"
@@ -876,7 +876,7 @@
       "artist": "Tokyo Machine",
       "support": "",
       "genre": "EDM",
-      "genre_source": "same artist elsewhere",
+      "genre_source": "musicbrainz",
       "url": "https://dothebay.com/events/2026/10/24/tokyo-machine-tickets"
     },
     {
