@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-17T05:42:17Z",
+  "generated_at": "2026-10-17T11:41:10Z",
   "lists": [
     "Local",
     "Off Angle"
@@ -2984,6 +2984,19 @@
       "genre": "EDM",
       "genre_source": "venue",
       "url": "https://wl.eventim.us/event/Dirt-Monkey-DALLAS/707016?afflky=DiscoPresents-Ductwork"
+    },
+    {
+      "id": "the-midway-2027-01-15-andrew-bayer-a-light-that-guides-weary-travelers-home",
+      "venue": "The Midway",
+      "list": "Off Angle",
+      "group": "San Francisco",
+      "date": "2027-01-15",
+      "time": "10:00 PM",
+      "artist": "Andrew Bayer: A Light That Guides Weary Travelers Home",
+      "support": "",
+      "genre": "EDM",
+      "genre_source": "musicbrainz",
+      "url": "https://dothebay.com/events/2027/1/15/andrew-bayer-a-light-that-guides-weary-travelers-home-tickets"
     },
     {
       "id": "the-regency-ballroom-2027-01-15-mph",
