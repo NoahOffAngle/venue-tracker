@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-18T16:37:14Z",
+  "generated_at": "2026-10-18T21:36:31Z",
   "lists": [
     "Local",
     "Off Angle"
@@ -73,32 +73,6 @@
     }
   ],
   "events": [
-    {
-      "id": "under-the-k-bridge-2026-10-18-native-nursery-at-under-the-k-bridge-park",
-      "venue": "Under the K Bridge",
-      "list": "Off Angle",
-      "group": "Out of State",
-      "date": "2026-10-18",
-      "time": "10:00 AM",
-      "artist": "Native Nursery at Under the K Bridge Park",
-      "support": "",
-      "genre": "Live Music",
-      "genre_source": "default",
-      "url": "https://underthekbridge.org/events/detail?event_id=1657488"
-    },
-    {
-      "id": "under-the-k-bridge-2026-10-18-garden-club-under-the-k-bridge-park",
-      "venue": "Under the K Bridge",
-      "list": "Off Angle",
-      "group": "Out of State",
-      "date": "2026-10-18",
-      "time": "10:00 AM",
-      "artist": "Garden Club – Under the K Bridge Park",
-      "support": "",
-      "genre": "Live Music",
-      "genre_source": "default",
-      "url": "https://underthekbridge.org/events/detail?event_id=1657489"
-    },
     {
       "id": "red-rocks-2026-10-18-matt-rife-stay-golden-world-tour",
       "venue": "Red Rocks",
