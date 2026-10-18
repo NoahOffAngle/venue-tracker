@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-18T06:04:45Z",
+  "generated_at": "2026-10-18T12:07:30Z",
   "lists": [
     "Local",
     "Off Angle"
@@ -2867,6 +2867,19 @@
       "genre": "EDM",
       "genre_source": "musicbrainz",
       "url": "https://www.theregencyballroom.com/events/detail?event_id=1629410"
+    },
+    {
+      "id": "the-midway-2027-01-16-surge-super-heroes",
+      "venue": "The Midway",
+      "list": "Off Angle",
+      "group": "San Francisco",
+      "date": "2027-01-16",
+      "time": "10:00 PM",
+      "artist": "SURGE: Super Heroes",
+      "support": "",
+      "genre": "EDM",
+      "genre_source": "venue leaning",
+      "url": "https://dothebay.com/events/2027/1/16/surge-super-heroes-tickets"
     },
     {
       "id": "silo-houston-2027-01-16-ghengar",
