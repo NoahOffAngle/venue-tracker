@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-19T22:56:58Z",
+  "generated_at": "2026-10-20T06:09:06Z",
   "lists": [
     "Local",
     "Off Angle"
@@ -73,19 +73,6 @@
     }
   ],
   "events": [
-    {
-      "id": "red-rocks-2026-10-19-zac-brown-band",
-      "venue": "Red Rocks",
-      "list": "Off Angle",
-      "group": "Out of State",
-      "date": "2026-10-19",
-      "time": "7:00 PM",
-      "artist": "Zac Brown Band",
-      "support": "Grace Potter",
-      "genre": "Live Music",
-      "genre_source": "musicbrainz",
-      "url": "https://www.redrocksonline.com/events/zac-brown-band-1307876/"
-    },
     {
       "id": "red-rocks-2026-10-20-zac-brown-band",
       "venue": "Red Rocks",
@@ -1717,7 +1704,7 @@
       "list": "Off Angle",
       "group": "Out of State",
       "date": "2026-11-15",
-      "time": "2:30 PM",
+      "time": "3:30 PM",
       "artist": "mike.",
       "support": "opening set from DJ Stevie Daniels",
       "genre": "Live Music",
