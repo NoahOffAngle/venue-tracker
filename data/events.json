@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-20T12:48:43Z",
+  "generated_at": "2026-10-20T18:02:13Z",
   "lists": [
     "Local",
     "Off Angle"
@@ -770,7 +770,7 @@
       "date": "2026-10-30",
       "time": "7:30 PM",
       "artist": "deadmau5",
-      "support": "VOWWS, Josh Freese, Danny Lohner, PENULTIMATE",
+      "support": "",
       "genre": "EDM",
       "genre_source": "musicbrainz",
       "url": "https://www.redrocksonline.com/events/deadmau5-1407690/"
@@ -887,7 +887,7 @@
       "date": "2026-10-31",
       "time": "7:30 PM",
       "artist": "deadmau5",
-      "support": "VOWWS, Josh Freese, Danny Lohner, PENULTIMATE",
+      "support": "",
       "genre": "EDM",
       "genre_source": "musicbrainz",
       "url": "https://www.redrocksonline.com/events/deadmau5-1407699/"
@@ -1704,7 +1704,7 @@
       "list": "Off Angle",
       "group": "Out of State",
       "date": "2026-11-15",
-      "time": "3:30 PM",
+      "time": "2:30 PM",
       "artist": "mike.",
       "support": "opening set from DJ Stevie Daniels",
       "genre": "Live Music",
@@ -2921,6 +2921,19 @@
       "url": "https://kingdomnightclub.com/event/ely-oaks/kingdom-nightclub/austin-texas/"
     },
     {
+      "id": "silo-dallas-2027-01-29-kream",
+      "venue": "Silo Dallas",
+      "list": "Local",
+      "group": "",
+      "date": "2027-01-29",
+      "time": "9:00 PM",
+      "artist": "Kream",
+      "support": "",
+      "genre": "EDM",
+      "genre_source": "venue",
+      "url": "https://silodallas.com/events/kream-63776611079"
+    },
+    {
       "id": "the-regency-ballroom-2027-02-05-twinsick",
       "venue": "The Regency Ballroom",
       "list": "Off Angle",
@@ -2999,6 +3012,19 @@
       "url": "https://www.theregencyballroom.com/events/detail?event_id=1608440"
     },
     {
+      "id": "silo-dallas-2027-03-12-effin",
+      "venue": "Silo Dallas",
+      "list": "Local",
+      "group": "",
+      "date": "2027-03-12",
+      "time": "9:00 PM",
+      "artist": "Effin",
+      "support": "",
+      "genre": "EDM",
+      "genre_source": "venue",
+      "url": "https://silodallas.com/events/effin-64321262189"
+    },
+    {
       "id": "silo-dallas-2027-03-20-level-up",
       "venue": "Silo Dallas",
       "list": "Local",
@@ -3023,32 +3049,6 @@
       "genre": "EDM",
       "genre_source": "same artist elsewhere",
       "url": "https://www.redrocksonline.com/events/sidepiece-x-ship-wrek-1593462/"
-    },
-    {
-      "id": "red-rocks-2027-04-03-elderbrook",
-      "venue": "Red Rocks",
-      "list": "Off Angle",
-      "group": "Out of State",
-      "date": "2027-04-03",
-      "time": "7:00 PM",
-      "artist": "Elderbrook",
-      "support": "Mindchatter, Arlo, Rules",
-      "genre": "EDM",
-      "genre_source": "musicbrainz",
-      "url": "https://www.redrocksonline.com/events/elderbrook-1644724/"
-    },
-    {
-      "id": "red-rocks-2027-04-09-svdden-death",
-      "venue": "Red Rocks",
-      "list": "Off Angle",
-      "group": "Out of State",
-      "date": "2027-04-09",
-      "time": "6:00 PM",
-      "artist": "Svdden Death",
-      "support": "Special Guests Masquerade, Space Wizard, Hamro, & Vanfleet",
-      "genre": "EDM",
-      "genre_source": "musicbrainz",
-      "url": "https://www.redrocksonline.com/events/svdden-death-1633743/"
     },
     {
       "id": "silo-dallas-2027-04-15-cyclops",
@@ -3077,19 +3077,6 @@
       "url": "https://billgrahamcivic.com/events/carly-rae-jepsen-270421"
     },
     {
-      "id": "red-rocks-2027-04-25-carly-rae-jepsen-day-and-night-tour",
-      "venue": "Red Rocks",
-      "list": "Off Angle",
-      "group": "Out of State",
-      "date": "2027-04-25",
-      "time": "7:30 PM",
-      "artist": "Carly Rae Jepsen: Day and Night Tour",
-      "support": "Carol Ades",
-      "genre": "EDM",
-      "genre_source": "musicbrainz",
-      "url": "https://www.redrocksonline.com/events/carly-rae-jepsen-day-and-night-tour-1636194/"
-    },
-    {
       "id": "the-regency-ballroom-2027-04-27-mass-of-the-fermenting-dregs",
       "venue": "The Regency Ballroom",
       "list": "Off Angle",
@@ -3116,19 +3103,6 @@
       "url": "https://www.theregencyballroom.com/events/detail?event_id=1607316"
     },
     {
-      "id": "red-rocks-2027-04-30-two-friends-big-bootie-world",
-      "venue": "Red Rocks",
-      "list": "Off Angle",
-      "group": "Out of State",
-      "date": "2027-04-30",
-      "time": "7:00 PM",
-      "artist": "Two Friends: Big Bootie World",
-      "support": "",
-      "genre": "Live Music",
-      "genre_source": "default",
-      "url": "https://www.redrocksonline.com/events/two-friends-big-bootie-world-1651536/"
-    },
-    {
       "id": "bill-graham-civic-2027-05-01-lola-young",
       "venue": "Bill Graham Civic",
       "list": "Off Angle",
@@ -3140,32 +3114,6 @@
       "genre": "Live Music",
       "genre_source": "musicbrainz",
       "url": "https://billgrahamcivic.com/events/lola-young-270501"
-    },
-    {
-      "id": "red-rocks-2027-05-01-cloonee",
-      "venue": "Red Rocks",
-      "list": "Off Angle",
-      "group": "Out of State",
-      "date": "2027-05-01",
-      "time": "8:00 PM",
-      "artist": "Cloonee",
-      "support": "",
-      "genre": "Live Music",
-      "genre_source": "default",
-      "url": "https://www.redrocksonline.com/events/cloonee-1640232/"
-    },
-    {
-      "id": "red-rocks-2027-05-10-josiah-queen",
-      "venue": "Red Rocks",
-      "list": "Off Angle",
-      "group": "Out of State",
-      "date": "2027-05-10",
-      "time": "7:30 PM",
-      "artist": "Josiah Queen",
-      "support": "",
-      "genre": "Live Music",
-      "genre_source": "default",
-      "url": "https://www.redrocksonline.com/events/josiah-queen-1631705/"
     },
     {
       "id": "bill-graham-civic-2027-05-12-fontaines-d-c",
@@ -3181,32 +3129,6 @@
       "url": "https://billgrahamcivic.com/events/fontaines-dc-270512"
     },
     {
-      "id": "red-rocks-2027-05-13-turnpike-troubadours",
-      "venue": "Red Rocks",
-      "list": "Off Angle",
-      "group": "Out of State",
-      "date": "2027-05-13",
-      "time": "7:00 PM",
-      "artist": "Turnpike Troubadours",
-      "support": "Amble, Wade Forster",
-      "genre": "Live Music",
-      "genre_source": "musicbrainz",
-      "url": "https://www.redrocksonline.com/events/turnpike-troubadours-1656983/"
-    },
-    {
-      "id": "red-rocks-2027-05-14-turnpike-troubadours",
-      "venue": "Red Rocks",
-      "list": "Off Angle",
-      "group": "Out of State",
-      "date": "2027-05-14",
-      "time": "7:00 PM",
-      "artist": "Turnpike Troubadours",
-      "support": "Amble, Wade Forster",
-      "genre": "Live Music",
-      "genre_source": "musicbrainz",
-      "url": "https://www.redrocksonline.com/events/turnpike-troubadours-1656987/"
-    },
-    {
       "id": "the-regency-ballroom-2027-05-15-the-wombats",
       "venue": "The Regency Ballroom",
       "list": "Off Angle",
@@ -3218,45 +3140,6 @@
       "genre": "Live Music",
       "genre_source": "musicbrainz",
       "url": "https://www.theregencyballroom.com/events/detail?event_id=1664440"
-    },
-    {
-      "id": "red-rocks-2027-05-16-remi-wolf",
-      "venue": "Red Rocks",
-      "list": "Off Angle",
-      "group": "Out of State",
-      "date": "2027-05-16",
-      "time": "7:00 PM",
-      "artist": "Remi Wolf",
-      "support": "Annabelle Dinda",
-      "genre": "Live Music",
-      "genre_source": "default",
-      "url": "https://www.redrocksonline.com/events/remi-wolf-1645236/"
-    },
-    {
-      "id": "red-rocks-2027-05-22-matchbox-twenty-30",
-      "venue": "Red Rocks",
-      "list": "Off Angle",
-      "group": "Out of State",
-      "date": "2027-05-22",
-      "time": "7:30 PM",
-      "artist": "Matchbox Twenty – 30",
-      "support": "The Wallflowers",
-      "genre": "Live Music",
-      "genre_source": "musicbrainz",
-      "url": "https://www.redrocksonline.com/events/matchbox-twenty-30-1651534/"
-    },
-    {
-      "id": "red-rocks-2027-05-27-a-perfect-circle",
-      "venue": "Red Rocks",
-      "list": "Off Angle",
-      "group": "Out of State",
-      "date": "2027-05-27",
-      "time": "7:30 PM",
-      "artist": "A Perfect Circle",
-      "support": "THE CULT",
-      "genre": "Live Music",
-      "genre_source": "musicbrainz",
-      "url": "https://www.redrocksonline.com/events/a-perfect-circle-1622799/"
     },
     {
       "id": "cow-palace-2027-06-04-a-perfect-circle",
@@ -3272,32 +3155,6 @@
       "url": "https://www.cowpalace.com/event/a-perfect-circle/"
     },
     {
-      "id": "red-rocks-2027-06-10-brit-floyd",
-      "venue": "Red Rocks",
-      "list": "Off Angle",
-      "group": "Out of State",
-      "date": "2027-06-10",
-      "time": "8:00 PM",
-      "artist": "Brit Floyd",
-      "support": "",
-      "genre": "Live Music",
-      "genre_source": "default",
-      "url": "https://www.redrocksonline.com/events/brit-floyd-1644900/"
-    },
-    {
-      "id": "red-rocks-2027-06-11-brit-floyd",
-      "venue": "Red Rocks",
-      "list": "Off Angle",
-      "group": "Out of State",
-      "date": "2027-06-11",
-      "time": "8:00 PM",
-      "artist": "Brit Floyd",
-      "support": "",
-      "genre": "Live Music",
-      "genre_source": "default",
-      "url": "https://www.redrocksonline.com/events/brit-floyd-1651532/"
-    },
-    {
       "id": "the-regency-ballroom-2027-06-11-she-past-away",
       "venue": "The Regency Ballroom",
       "list": "Off Angle",
@@ -3311,19 +3168,6 @@
       "url": "https://www.theregencyballroom.com/events/detail?event_id=1655580"
     },
     {
-      "id": "red-rocks-2027-06-21-papa-roach-rise-of-the-roach-tour-w-ice-nine-kills-ninth-key",
-      "venue": "Red Rocks",
-      "list": "Off Angle",
-      "group": "Out of State",
-      "date": "2027-06-21",
-      "time": "7:00 PM",
-      "artist": "Papa Roach: Rise of the Roach Tour w/ Ice Nine Kills & Ninth Key",
-      "support": "",
-      "genre": "Live Music",
-      "genre_source": "default",
-      "url": "https://www.redrocksonline.com/events/papa-roach-rise-of-the-roach-tour-w-ice-nine-kills-ninth-key-1660146/"
-    },
-    {
       "id": "red-rocks-2027-07-06-lizzy-mcalpine",
       "venue": "Red Rocks",
       "list": "Off Angle",
@@ -3335,32 +3179,6 @@
       "genre": "Live Music",
       "genre_source": "musicbrainz",
       "url": "https://www.redrocksonline.com/events/lizzy-mcalpine-1621554/"
-    },
-    {
-      "id": "red-rocks-2027-07-28-killer-queen",
-      "venue": "Red Rocks",
-      "list": "Off Angle",
-      "group": "Out of State",
-      "date": "2027-07-28",
-      "time": "8:00 PM",
-      "artist": "Killer Queen",
-      "support": "",
-      "genre": "Live Music",
-      "genre_source": "default",
-      "url": "https://www.redrocksonline.com/events/killer-queen-1644909/"
-    },
-    {
-      "id": "red-rocks-2027-08-03-leon-bridges",
-      "venue": "Red Rocks",
-      "list": "Off Angle",
-      "group": "Out of State",
-      "date": "2027-08-03",
-      "time": "7:30 PM",
-      "artist": "Leon Bridges",
-      "support": "Kokoroko",
-      "genre": "Live Music",
-      "genre_source": "musicbrainz",
-      "url": "https://www.redrocksonline.com/events/leon-bridges-1645219/"
     },
     {
       "id": "red-rocks-2027-09-02-rod-stewart",
@@ -3387,32 +3205,6 @@
       "genre": "Live Music",
       "genre_source": "default",
       "url": "https://www.redrocksonline.com/events/rod-stewart-one-last-time-1216092/"
-    },
-    {
-      "id": "red-rocks-2027-09-16-get-the-led-out",
-      "venue": "Red Rocks",
-      "list": "Off Angle",
-      "group": "Out of State",
-      "date": "2027-09-16",
-      "time": "7:30 PM",
-      "artist": "Get The Led Out",
-      "support": "",
-      "genre": "Live Music",
-      "genre_source": "musicbrainz",
-      "url": "https://www.redrocksonline.com/events/get-the-led-out-1644914/"
-    },
-    {
-      "id": "red-rocks-2027-10-13-fontaines-d-c",
-      "venue": "Red Rocks",
-      "list": "Off Angle",
-      "group": "Out of State",
-      "date": "2027-10-13",
-      "time": "7:30 PM",
-      "artist": "Fontaines D.C.",
-      "support": "Iceage",
-      "genre": "Live Music",
-      "genre_source": "default",
-      "url": "https://www.redrocksonline.com/events/fontaines-d-c-1640655/"
     }
   ]
 }
