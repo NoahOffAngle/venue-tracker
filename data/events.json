@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-20T18:02:13Z",
+  "generated_at": "2026-10-20T22:25:18Z",
   "lists": [
     "Local",
     "Off Angle"
@@ -230,13 +230,13 @@
       "url": "https://wl.seetickets.us/event/Ben-Bhmer-at-The-Concourse-Project/699543?afflky=TheConcourseProject"
     },
     {
-      "id": "under-the-k-bridge-2026-10-23-native-nursery-at-under-the-k-bridge-park",
+      "id": "under-the-k-bridge-2026-10-23-fall-plant-giveaway-native-nursery",
       "venue": "Under the K Bridge",
       "list": "Off Angle",
       "group": "Out of State",
       "date": "2026-10-23",
       "time": "10:00 AM",
-      "artist": "Native Nursery at Under the K Bridge Park",
+      "artist": "Fall Plant Giveaway - Native Nursery",
       "support": "",
       "genre": "Live Music",
       "genre_source": "default",
@@ -360,13 +360,13 @@
       "url": "https://dothebay.com/events/2026/10/23/lovra-tickets"
     },
     {
-      "id": "under-the-k-bridge-2026-10-24-native-nursery-at-under-the-k-bridge-park",
+      "id": "under-the-k-bridge-2026-10-24-fall-plant-giveaway-native-nursery",
       "venue": "Under the K Bridge",
       "list": "Off Angle",
       "group": "Out of State",
       "date": "2026-10-24",
       "time": "10:00 AM",
-      "artist": "Native Nursery at Under the K Bridge Park",
+      "artist": "Fall Plant Giveaway - Native Nursery",
       "support": "",
       "genre": "Live Music",
       "genre_source": "default",
@@ -516,30 +516,17 @@
       "url": "https://dothebay.com/events/2026/10/24/tokyo-machine-tickets"
     },
     {
-      "id": "under-the-k-bridge-2026-10-25-native-nursery-at-under-the-k-bridge-park",
+      "id": "under-the-k-bridge-2026-10-25-fall-plant-giveaway-native-nursery",
       "venue": "Under the K Bridge",
       "list": "Off Angle",
       "group": "Out of State",
       "date": "2026-10-25",
       "time": "10:00 AM",
-      "artist": "Native Nursery at Under the K Bridge Park",
+      "artist": "Fall Plant Giveaway - Native Nursery",
       "support": "",
       "genre": "Live Music",
       "genre_source": "default",
       "url": "https://underthekbridge.org/events/detail?event_id=1659827"
-    },
-    {
-      "id": "under-the-k-bridge-2026-10-25-garden-club-mcgolrick-park",
-      "venue": "Under the K Bridge",
-      "list": "Off Angle",
-      "group": "Out of State",
-      "date": "2026-10-25",
-      "time": "10:00 AM",
-      "artist": "Garden Club – McGolrick Park",
-      "support": "",
-      "genre": "Live Music",
-      "genre_source": "default",
-      "url": "https://underthekbridge.org/events/detail?event_id=1664433"
     },
     {
       "id": "silo-dallas-2026-10-25-lukas-frank",
@@ -711,13 +698,13 @@
       "url": "https://dothebay.com/events/2026/10/29/perreo-electrico-halloween-tickets"
     },
     {
-      "id": "under-the-k-bridge-2026-10-30-native-nursery-at-under-the-k-bridge-park",
+      "id": "under-the-k-bridge-2026-10-30-fall-plant-giveaway-native-nursery",
       "venue": "Under the K Bridge",
       "list": "Off Angle",
       "group": "Out of State",
       "date": "2026-10-30",
       "time": "10:00 AM",
-      "artist": "Native Nursery at Under the K Bridge Park",
+      "artist": "Fall Plant Giveaway - Native Nursery",
       "support": "",
       "genre": "Live Music",
       "genre_source": "default",
@@ -1281,19 +1268,6 @@
       "genre": "EDM",
       "genre_source": "venue",
       "url": "https://wl.eventim.us/event/Eric-Prydz-HOUSTON/701600?afflky=DuctworkHouston&eventpass=PUSSPUSS"
-    },
-    {
-      "id": "under-the-k-bridge-2026-11-08-garden-club-bushwick-inlet-park",
-      "venue": "Under the K Bridge",
-      "list": "Off Angle",
-      "group": "Out of State",
-      "date": "2026-11-08",
-      "time": "10:00 AM",
-      "artist": "Garden Club – Bushwick Inlet Park",
-      "support": "",
-      "genre": "Live Music",
-      "genre_source": "default",
-      "url": "https://underthekbridge.org/events/detail?event_id=1664435"
     },
     {
       "id": "red-rocks-2026-11-08-face-vocal-band-25th-anniversary-concert",
@@ -2009,19 +1983,6 @@
       "genre": "EDM",
       "genre_source": "site",
       "url": "https://wl.seetickets.us/event/Eric-Prydz-at-The-Concourse-Project/691628?afflky=TheConcourseProject"
-    },
-    {
-      "id": "under-the-k-bridge-2026-11-22-garden-club-mcgolrick-park",
-      "venue": "Under the K Bridge",
-      "list": "Off Angle",
-      "group": "Out of State",
-      "date": "2026-11-22",
-      "time": "10:00 AM",
-      "artist": "Garden Club – McGolrick Park",
-      "support": "",
-      "genre": "Live Music",
-      "genre_source": "default",
-      "url": "https://underthekbridge.org/events/detail?event_id=1664438"
     },
     {
       "id": "emo-s-2026-11-22-syd-beard-tour",
