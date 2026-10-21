@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-21T13:01:30Z",
+  "generated_at": "2026-10-21T18:08:17Z",
   "lists": [
     "Local",
     "Off Angle"
@@ -2645,7 +2645,7 @@
       "support": "",
       "genre": "EDM",
       "genre_source": "venue",
-      "url": "https://silodallas.com/events/josh-baker-63935213451"
+      "url": "https://wl.eventim.us/event/Josh-Baker-DALLAS/708681?afflky=SILO"
     },
     {
       "id": "bill-graham-civic-2026-12-31-illenium",
@@ -2905,7 +2905,20 @@
       "support": "",
       "genre": "EDM",
       "genre_source": "venue",
-      "url": "https://silodallas.com/events/riordan-63278207631"
+      "url": "https://wl.eventim.us/event/RIORDAN-DALLAS/707176?afflky=SILO"
+    },
+    {
+      "id": "silo-dallas-2027-02-12-layz",
+      "venue": "Silo Dallas",
+      "list": "Local",
+      "group": "",
+      "date": "2027-02-12",
+      "time": "9:00 PM",
+      "artist": "LAYZ",
+      "support": "",
+      "genre": "EDM",
+      "genre_source": "venue",
+      "url": "https://silodallas.com/events/layz-64389218215"
     },
     {
       "id": "the-regency-ballroom-2027-02-13-interplanetary-criminal",
@@ -2957,7 +2970,20 @@
       "support": "",
       "genre": "EDM",
       "genre_source": "venue",
-      "url": "https://silodallas.com/events/effin-64321262189"
+      "url": "https://wl.eventim.us/event/EFFIN-Heartbeats-Tour-DALLAS/708174?afflky=SILO&EVENTPASS=SWEETHEART"
+    },
+    {
+      "id": "the-regency-ballroom-2027-03-18-jersey",
+      "venue": "The Regency Ballroom",
+      "list": "Off Angle",
+      "group": "San Francisco",
+      "date": "2027-03-18",
+      "time": "8:00 PM",
+      "artist": "Jersey",
+      "support": "",
+      "genre": "Live Music",
+      "genre_source": "default",
+      "url": "https://www.theregencyballroom.com/events/detail?event_id=1664487"
     },
     {
       "id": "silo-dallas-2027-03-20-level-up",
