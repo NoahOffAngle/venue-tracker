@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-22T06:11:38Z",
+  "generated_at": "2026-10-22T13:03:04Z",
   "lists": [
     "Local",
     "Off Angle"
@@ -1827,6 +1827,19 @@
       "genre": "EDM",
       "genre_source": "venue",
       "url": "https://wl.eventim.us/event/AFROJACK-HOUSTON/696967?afflky=DuctworkHouston"
+    },
+    {
+      "id": "cow-palace-2026-11-21-the-great-dickens-christmas-fair",
+      "venue": "Cow Palace",
+      "list": "Off Angle",
+      "group": "San Francisco",
+      "date": "2026-11-21",
+      "time": "10:00 AM",
+      "artist": "The Great Dickens Christmas Fair",
+      "support": "",
+      "genre": "Live Music",
+      "genre_source": "default",
+      "url": "https://www.cowpalace.com/event/the-great-dickens-christmas-fair-2/"
     },
     {
       "id": "kingdom-2026-11-21-mark-knight",
