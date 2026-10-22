@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-22T18:03:31Z",
+  "generated_at": "2026-10-22T22:38:38Z",
   "lists": [
     "Local",
     "Off Angle"
@@ -326,7 +326,7 @@
       "list": "Off Angle",
       "group": "Out of State",
       "date": "2026-10-24",
-      "time": "5:30 PM",
+      "time": "6:00 PM",
       "artist": "Jade Cicada & Mickman",
       "support": "Resonant Language, Schmoop, Petals",
       "genre": "EDM",
@@ -462,6 +462,19 @@
       "genre": "EDM",
       "genre_source": "venue",
       "url": "https://wl.eventim.us/event/Lukas-and-Frank-DALLAS/704027?afflky=DiscoPresents-Ductwork"
+    },
+    {
+      "id": "under-the-k-bridge-2026-10-25-nyc-century",
+      "venue": "Under the K Bridge",
+      "list": "Off Angle",
+      "group": "Out of State",
+      "date": "2026-10-25",
+      "time": "6:00 AM",
+      "artist": "NYC Century",
+      "support": "",
+      "genre": "Live Music",
+      "genre_source": "default",
+      "url": "https://underthekbridge.org/events/detail?event_id=1674912"
     },
     {
       "id": "emo-s-2026-10-25-mom-jeans",
@@ -1944,6 +1957,19 @@
       "genre": "EDM",
       "genre_source": "venue",
       "url": "https://wl.eventim.us/event/Josh-Fawaz-DALLAS/702593?afflky=DiscoPresents-Ductwork"
+    },
+    {
+      "id": "the-regency-ballroom-2026-11-22-brutalismus-3000",
+      "venue": "The Regency Ballroom",
+      "list": "Off Angle",
+      "group": "San Francisco",
+      "date": "2026-11-22",
+      "time": "7:00 PM",
+      "artist": "Brutalismus 3000",
+      "support": "Eurohead, Ali RQ, deBasement, erika + sfcowboy",
+      "genre": "EDM",
+      "genre_source": "keyword",
+      "url": "https://www.theregencyballroom.com/events/detail?event_id=1672138"
     },
     {
       "id": "the-regency-ballroom-2026-11-23-gary-numan",
