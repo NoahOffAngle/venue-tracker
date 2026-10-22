@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-22T13:03:04Z",
+  "generated_at": "2026-10-22T18:03:31Z",
   "lists": [
     "Local",
     "Off Angle"
@@ -2336,6 +2336,19 @@
       "url": "https://www.theregencyballroom.com/events/detail?event_id=1587666"
     },
     {
+      "id": "kingdom-2026-12-10-d-dan",
+      "venue": "Kingdom",
+      "list": "Local",
+      "group": "",
+      "date": "2026-12-10",
+      "time": "10:00 PM",
+      "artist": "D. Dan",
+      "support": "",
+      "genre": "EDM",
+      "genre_source": "venue leaning",
+      "url": "https://kingdomnightclub.com/event/d-dan/kingdom-nightclub/austin-texas/"
+    },
+    {
       "id": "silo-dallas-2026-12-10-goldie",
       "venue": "Silo Dallas",
       "list": "Local",
@@ -2827,7 +2840,7 @@
       "support": "",
       "genre": "EDM",
       "genre_source": "venue",
-      "url": "https://silodallas.com/events/kream-63776611079"
+      "url": "https://wl.eventim.us/event/KREAM-DALLAS/708549?afflky=SILO"
     },
     {
       "id": "the-regency-ballroom-2027-02-05-twinsick",
@@ -2879,7 +2892,7 @@
       "support": "",
       "genre": "EDM",
       "genre_source": "venue",
-      "url": "https://silodallas.com/events/layz-64389218215"
+      "url": "https://wl.eventim.us/event/LAYZ-DALLAS/709076?afflky=SILO&EVENTPASS=OUTNUMBERED"
     },
     {
       "id": "the-regency-ballroom-2027-02-13-interplanetary-criminal",
@@ -2919,6 +2932,19 @@
       "genre": "Live Music",
       "genre_source": "musicbrainz",
       "url": "https://www.theregencyballroom.com/events/detail?event_id=1608440"
+    },
+    {
+      "id": "bill-graham-civic-2027-03-06-2hollis",
+      "venue": "Bill Graham Civic",
+      "list": "Off Angle",
+      "group": "San Francisco",
+      "date": "2027-03-06",
+      "time": "8:00 PM",
+      "artist": "2hollis",
+      "support": "lucy bedroque, Conceal",
+      "genre": "Live Music",
+      "genre_source": "default",
+      "url": "https://billgrahamcivic.com/events/2hollis-270306"
     },
     {
       "id": "silo-dallas-2027-03-12-effin",
@@ -3116,6 +3142,19 @@
       "url": "https://www.redrocksonline.com/events/josiah-queen-1631705/"
     },
     {
+      "id": "red-rocks-2027-05-12-queens-of-the-stone-age",
+      "venue": "Red Rocks",
+      "list": "Off Angle",
+      "group": "Out of State",
+      "date": "2027-05-12",
+      "time": "6:30 PM",
+      "artist": "Queens of the Stone Age",
+      "support": "PIXIES, Wheelchair Sports Camp",
+      "genre": "Live Music",
+      "genre_source": "musicbrainz",
+      "url": "https://www.redrocksonline.com/events/queens-of-the-stone-age-1670037/"
+    },
+    {
       "id": "bill-graham-civic-2027-05-12-fontaines-d-c",
       "venue": "Bill Graham Civic",
       "list": "Off Angle",
@@ -3153,6 +3192,19 @@
       "genre": "Live Music",
       "genre_source": "musicbrainz",
       "url": "https://www.redrocksonline.com/events/turnpike-troubadours-1656987/"
+    },
+    {
+      "id": "under-the-k-bridge-2027-05-14-2hollis",
+      "venue": "Under the K Bridge",
+      "list": "Off Angle",
+      "group": "Out of State",
+      "date": "2027-05-14",
+      "time": "8:00 PM",
+      "artist": "2hollis",
+      "support": "Conceal",
+      "genre": "Live Music",
+      "genre_source": "default",
+      "url": "https://underthekbridge.org/events/detail?event_id=1670971"
     },
     {
       "id": "the-regency-ballroom-2027-05-15-the-wombats",
