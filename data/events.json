@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-21T22:28:46Z",
+  "generated_at": "2026-10-22T06:11:38Z",
   "lists": [
     "Local",
     "Off Angle"
@@ -73,58 +73,6 @@
     }
   ],
   "events": [
-    {
-      "id": "emo-s-2026-10-21-marilyn-manson-2-day-ticket-10-21-26-10-22-26",
-      "venue": "Emo's",
-      "list": "Local",
-      "group": "",
-      "date": "2026-10-21",
-      "time": "12:00 AM",
-      "artist": "Marilyn Manson - 2 Day Ticket (10/21/26 + 10/22/26)",
-      "support": "",
-      "genre": "Live Music",
-      "genre_source": "musicbrainz",
-      "url": "https://www.ticketmaster.com/marilyn-manson-2-day-ticket-102126-austin-texas-10-21-2026/event/3A0064ED8E754D7B"
-    },
-    {
-      "id": "emo-s-2026-10-21-marilyn-manson",
-      "venue": "Emo's",
-      "list": "Local",
-      "group": "",
-      "date": "2026-10-21",
-      "time": "8:00 PM",
-      "artist": "Marilyn Manson",
-      "support": "",
-      "genre": "Live Music",
-      "genre_source": "musicbrainz",
-      "url": "https://www.ticketmaster.com/marilyn-manson-austin-texas-10-21-2026/event/3A0064ED8C38495C"
-    },
-    {
-      "id": "red-rocks-2026-10-21-muna",
-      "venue": "Red Rocks",
-      "list": "Off Angle",
-      "group": "Out of State",
-      "date": "2026-10-21",
-      "time": "8:00 PM",
-      "artist": "MUNA",
-      "support": "hemlocke springs",
-      "genre": "Live Music",
-      "genre_source": "musicbrainz",
-      "url": "https://www.redrocksonline.com/events/muna-1434014/"
-    },
-    {
-      "id": "the-regency-ballroom-2026-10-21-ten",
-      "venue": "The Regency Ballroom",
-      "list": "Off Angle",
-      "group": "San Francisco",
-      "date": "2026-10-21",
-      "time": "8:00 PM",
-      "artist": "TEN",
-      "support": "",
-      "genre": "Live Music",
-      "genre_source": "default",
-      "url": "https://www.theregencyballroom.com/events/detail?event_id=1580622"
-    },
     {
       "id": "red-rocks-2026-10-22-macklemore",
       "venue": "Red Rocks",
