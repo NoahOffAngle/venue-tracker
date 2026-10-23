@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-23T17:55:04Z",
+  "generated_at": "2026-10-23T22:29:56Z",
   "lists": [
     "Local",
     "Off Angle"
@@ -73,19 +73,6 @@
     }
   ],
   "events": [
-    {
-      "id": "under-the-k-bridge-2026-10-23-fall-plant-giveaway-native-nursery",
-      "venue": "Under the K Bridge",
-      "list": "Off Angle",
-      "group": "Out of State",
-      "date": "2026-10-23",
-      "time": "10:00 AM",
-      "artist": "Fall Plant Giveaway - Native Nursery",
-      "support": "",
-      "genre": "Live Music",
-      "genre_source": "default",
-      "url": "https://underthekbridge.org/events/detail?event_id=1657997"
-    },
     {
       "id": "kingdom-2026-10-23-kungs",
       "venue": "Kingdom",
@@ -2453,6 +2440,19 @@
       "url": "https://wl.eventim.us/event/MitiS-DALLAS/703898?afflky=DiscoPresents-Ductwork"
     },
     {
+      "id": "the-midway-2026-12-18-3ballmty",
+      "venue": "The Midway",
+      "list": "Off Angle",
+      "group": "San Francisco",
+      "date": "2026-12-18",
+      "time": "10:00 PM",
+      "artist": "3BallMTY",
+      "support": "",
+      "genre": "EDM",
+      "genre_source": "same artist elsewhere",
+      "url": "https://dothebay.com/events/2026/12/18/3ballmty-tickets"
+    },
+    {
       "id": "the-midway-2026-12-19-hedex",
       "venue": "The Midway",
       "list": "Off Angle",
@@ -2674,19 +2674,6 @@
       "url": "https://www.theregencyballroom.com/events/detail?event_id=1629410"
     },
     {
-      "id": "the-midway-2027-01-16-surge-super-heroes",
-      "venue": "The Midway",
-      "list": "Off Angle",
-      "group": "San Francisco",
-      "date": "2027-01-16",
-      "time": "10:00 PM",
-      "artist": "SURGE: Super Heroes",
-      "support": "",
-      "genre": "EDM",
-      "genre_source": "venue leaning",
-      "url": "https://dothebay.com/events/2027/1/16/surge-super-heroes-tickets"
-    },
-    {
       "id": "silo-houston-2027-01-16-ghengar",
       "venue": "Silo Houston",
       "list": "Local",
@@ -2724,6 +2711,19 @@
       "genre": "EDM",
       "genre_source": "musicbrainz",
       "url": "https://www.theregencyballroom.com/events/detail?event_id=1646135"
+    },
+    {
+      "id": "kingdom-2027-01-23-purity-ring-dj-set",
+      "venue": "Kingdom",
+      "list": "Local",
+      "group": "",
+      "date": "2027-01-23",
+      "time": "10:00 PM",
+      "artist": "Purity Ring (DJ Set)",
+      "support": "",
+      "genre": "EDM",
+      "genre_source": "musicbrainz",
+      "url": "https://kingdomnightclub.com/event/purity-ring-dj-set/kingdom-nightclub/austin-texas/"
     },
     {
       "id": "silo-dallas-2027-01-23-twinsick",
