@@ -343,6 +343,10 @@
     "genre": "EDM",
     "checked": "2026-08-06"
   },
+  "death cab for cutie": {
+    "genre": "Live Music",
+    "checked": "2026-10-23"
+  },
   "deeper state": {
     "genre": null,
     "checked": "2026-08-20"
@@ -594,6 +598,10 @@
   "hiero day": {
     "genre": null,
     "checked": "2026-08-06"
+  },
+  "hol": {
+    "genre": "EDM",
+    "checked": "2026-10-23"
   },
   "horse meat disco atx sweat labor day weekend": {
     "genre": null,
@@ -1402,6 +1410,10 @@
   "twin diplomacy": {
     "genre": null,
     "checked": "2026-08-06"
+  },
+  "two door cinema club": {
+    "genre": "Live Music",
+    "checked": "2026-10-23"
   },
   "two friends": {
     "genre": null,

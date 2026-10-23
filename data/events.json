@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-23T12:42:11Z",
+  "generated_at": "2026-10-23T17:55:04Z",
   "lists": [
     "Local",
     "Off Angle"
@@ -2840,7 +2840,7 @@
       "support": "",
       "genre": "EDM",
       "genre_source": "venue",
-      "url": "https://wl.eventim.us/event/LAYZ-DALLAS/709076?afflky=SILO&EVENTPASS=OUTNUMBERED"
+      "url": "https://wl.eventim.us/event/LAYZ-DALLAS/709076?afflky=SILO"
     },
     {
       "id": "the-regency-ballroom-2027-02-13-interplanetary-criminal",
@@ -2905,7 +2905,7 @@
       "support": "",
       "genre": "EDM",
       "genre_source": "venue",
-      "url": "https://wl.eventim.us/event/EFFIN-Heartbeats-Tour-DALLAS/708174?afflky=SILO&EVENTPASS=SWEETHEART"
+      "url": "https://wl.eventim.us/event/EFFIN-Heartbeats-Tour-DALLAS/708174?afflky=SILO"
     },
     {
       "id": "the-regency-ballroom-2027-03-18-jersey",
@@ -2958,6 +2958,19 @@
       "genre": "EDM",
       "genre_source": "musicbrainz",
       "url": "https://www.redrocksonline.com/events/elderbrook-1644724/"
+    },
+    {
+      "id": "red-rocks-2027-04-04-hol",
+      "venue": "Red Rocks",
+      "list": "Off Angle",
+      "group": "Out of State",
+      "date": "2027-04-04",
+      "time": "6:00 PM",
+      "artist": "HOL!",
+      "support": "",
+      "genre": "EDM",
+      "genre_source": "musicbrainz",
+      "url": "https://www.redrocksonline.com/events/hol-1657003/"
     },
     {
       "id": "red-rocks-2027-04-09-svdden-death",
@@ -3088,6 +3101,19 @@
       "genre": "Live Music",
       "genre_source": "default",
       "url": "https://www.redrocksonline.com/events/josiah-queen-1631705/"
+    },
+    {
+      "id": "red-rocks-2027-05-11-two-door-cinema-club",
+      "venue": "Red Rocks",
+      "list": "Off Angle",
+      "group": "Out of State",
+      "date": "2027-05-11",
+      "time": "7:30 PM",
+      "artist": "Two Door Cinema Club",
+      "support": "Friendly Fires",
+      "genre": "Live Music",
+      "genre_source": "musicbrainz",
+      "url": "https://www.redrocksonline.com/events/two-door-cinema-club-1656993/"
     },
     {
       "id": "red-rocks-2027-05-12-queens-of-the-stone-age",
@@ -3309,6 +3335,19 @@
       "genre": "Live Music",
       "genre_source": "musicbrainz",
       "url": "https://www.redrocksonline.com/events/lizzy-mcalpine-1621554/"
+    },
+    {
+      "id": "red-rocks-2027-07-08-death-cab-for-cutie",
+      "venue": "Red Rocks",
+      "list": "Off Angle",
+      "group": "Out of State",
+      "date": "2027-07-08",
+      "time": "7:00 PM",
+      "artist": "Death Cab for Cutie",
+      "support": "SML",
+      "genre": "Live Music",
+      "genre_source": "musicbrainz",
+      "url": "https://www.redrocksonline.com/events/death-cab-for-cutie-1669435/"
     },
     {
       "id": "red-rocks-2027-07-28-killer-queen",
