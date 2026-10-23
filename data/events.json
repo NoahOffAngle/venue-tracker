@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-22T22:38:38Z",
+  "generated_at": "2026-10-23T06:06:29Z",
   "lists": [
     "Local",
     "Off Angle"
@@ -73,84 +73,6 @@
     }
   ],
   "events": [
-    {
-      "id": "red-rocks-2026-10-22-macklemore",
-      "venue": "Red Rocks",
-      "list": "Off Angle",
-      "group": "Out of State",
-      "date": "2026-10-22",
-      "time": "7:00 PM",
-      "artist": "Macklemore",
-      "support": "",
-      "genre": "Live Music",
-      "genre_source": "musicbrainz",
-      "url": "https://www.redrocksonline.com/events/macklemore-1336380/"
-    },
-    {
-      "id": "the-regency-ballroom-2026-10-22-the-aquabats",
-      "venue": "The Regency Ballroom",
-      "list": "Off Angle",
-      "group": "San Francisco",
-      "date": "2026-10-22",
-      "time": "7:00 PM",
-      "artist": "The Aquabats!",
-      "support": "Mariachi El Bronx, Mrs. Magician",
-      "genre": "Live Music",
-      "genre_source": "musicbrainz",
-      "url": "https://www.theregencyballroom.com/events/detail?event_id=1513757"
-    },
-    {
-      "id": "bill-graham-civic-2026-10-22-monsta-x",
-      "venue": "Bill Graham Civic",
-      "list": "Off Angle",
-      "group": "San Francisco",
-      "date": "2026-10-22",
-      "time": "8:00 PM",
-      "artist": "MONSTA X",
-      "support": "",
-      "genre": "Live Music",
-      "genre_source": "default",
-      "url": "https://billgrahamcivic.com/events/monsta-x-261022"
-    },
-    {
-      "id": "emo-s-2026-10-22-marilyn-manson",
-      "venue": "Emo's",
-      "list": "Local",
-      "group": "",
-      "date": "2026-10-22",
-      "time": "8:00 PM",
-      "artist": "Marilyn Manson",
-      "support": "",
-      "genre": "Live Music",
-      "genre_source": "musicbrainz",
-      "url": "https://www.ticketmaster.com/marilyn-manson-austin-texas-10-22-2026/event/3A0064ED8C8749CB"
-    },
-    {
-      "id": "silo-dallas-2026-10-22-gorilla-t",
-      "venue": "Silo Dallas",
-      "list": "Local",
-      "group": "",
-      "date": "2026-10-22",
-      "time": "9:00 PM",
-      "artist": "Gorilla T",
-      "support": "",
-      "genre": "EDM",
-      "genre_source": "venue",
-      "url": "https://wl.eventim.us/event/GorillaT-DALLAS/700117?afflky=DiscoPresents-Ductwork"
-    },
-    {
-      "id": "the-concourse-project-2026-10-22-ben-bohmer",
-      "venue": "The Concourse Project",
-      "list": "Local",
-      "group": "",
-      "date": "2026-10-22",
-      "time": "9:00 PM",
-      "artist": "Ben Böhmer",
-      "support": "",
-      "genre": "EDM",
-      "genre_source": "site",
-      "url": "https://wl.seetickets.us/event/Ben-Bhmer-at-The-Concourse-Project/699543?afflky=TheConcourseProject"
-    },
     {
       "id": "under-the-k-bridge-2026-10-23-fall-plant-giveaway-native-nursery",
       "venue": "Under the K Bridge",
