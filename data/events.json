@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-24T16:43:04Z",
+  "generated_at": "2026-10-24T21:41:41Z",
   "lists": [
     "Local",
     "Off Angle"
@@ -73,19 +73,6 @@
     }
   ],
   "events": [
-    {
-      "id": "under-the-k-bridge-2026-10-24-fall-plant-giveaway-native-nursery",
-      "venue": "Under the K Bridge",
-      "list": "Off Angle",
-      "group": "Out of State",
-      "date": "2026-10-24",
-      "time": "10:00 AM",
-      "artist": "Fall Plant Giveaway - Native Nursery",
-      "support": "",
-      "genre": "Live Music",
-      "genre_source": "default",
-      "url": "https://underthekbridge.org/events/detail?event_id=1657998"
-    },
     {
       "id": "kingdom-2026-10-24-noizu",
       "venue": "Kingdom",
