@@ -759,6 +759,10 @@
     "genre": "Live Music",
     "checked": "2026-08-06"
   },
+  "klangkarussell live": {
+    "genre": null,
+    "checked": "2026-10-24"
+  },
   "knocked loose": {
     "genre": "Live Music",
     "checked": "2026-08-06"
@@ -1394,6 +1398,10 @@
   "tove lo": {
     "genre": "EDM",
     "checked": "2026-08-06"
+  },
+  "toxic winter 2027": {
+    "genre": null,
+    "checked": "2026-10-24"
   },
   "train": {
     "genre": "Live Music",

@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-24T06:01:10Z",
+  "generated_at": "2026-10-24T12:05:25Z",
   "lists": [
     "Local",
     "Off Angle"
@@ -2557,6 +2557,19 @@
       "url": "https://www.theregencyballroom.com/events/detail?event_id=1629410"
     },
     {
+      "id": "the-midway-2027-01-16-surge-super-heroes",
+      "venue": "The Midway",
+      "list": "Off Angle",
+      "group": "San Francisco",
+      "date": "2027-01-16",
+      "time": "10:00 PM",
+      "artist": "SURGE: Super Heroes",
+      "support": "",
+      "genre": "EDM",
+      "genre_source": "venue leaning",
+      "url": "https://dothebay.com/events/2027/1/16/surge-super-heroes-tickets"
+    },
+    {
       "id": "silo-houston-2027-01-16-ghengar",
       "venue": "Silo Houston",
       "list": "Local",
@@ -2622,6 +2635,19 @@
       "url": "https://wl.eventim.us/event/TWINSICK-DALLAS/705248?afflky=SILO"
     },
     {
+      "id": "the-midway-2027-01-24-klangkarussell-live-americas-2027-tour",
+      "venue": "The Midway",
+      "list": "Off Angle",
+      "group": "San Francisco",
+      "date": "2027-01-24",
+      "time": "4:00 PM",
+      "artist": "Klangkarussell Live: Americas 2027 Tour",
+      "support": "",
+      "genre": "EDM",
+      "genre_source": "venue leaning",
+      "url": "https://dothebay.com/events/2027/1/24/klangkarussell-live-americas-2027-tour-tickets"
+    },
+    {
       "id": "silo-dallas-2027-01-24-yheti-x-toadface",
       "venue": "Silo Dallas",
       "list": "Local",
@@ -2672,6 +2698,19 @@
       "genre": "EDM",
       "genre_source": "venue",
       "url": "https://wl.eventim.us/event/KREAM-DALLAS/708549?afflky=SILO"
+    },
+    {
+      "id": "the-midway-2027-02-05-toxic-winter-2027",
+      "venue": "The Midway",
+      "list": "Off Angle",
+      "group": "San Francisco",
+      "date": "2027-02-05",
+      "time": "10:00 PM",
+      "artist": "Toxic Winter 2027",
+      "support": "",
+      "genre": "EDM",
+      "genre_source": "venue leaning",
+      "url": "https://dothebay.com/events/2027/2/5/toxic-winter-2027-tickets"
     },
     {
       "id": "the-regency-ballroom-2027-02-05-twinsick",
