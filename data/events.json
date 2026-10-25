@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-25T12:39:12Z",
+  "generated_at": "2026-10-25T17:06:46Z",
   "lists": [
     "Local",
     "Off Angle"
@@ -98,19 +98,6 @@
       "genre": "EDM",
       "genre_source": "venue",
       "url": "https://wl.eventim.us/event/Lukas-and-Frank-DALLAS/704027?afflky=DiscoPresents-Ductwork"
-    },
-    {
-      "id": "under-the-k-bridge-2026-10-25-nyc-century",
-      "venue": "Under the K Bridge",
-      "list": "Off Angle",
-      "group": "Out of State",
-      "date": "2026-10-25",
-      "time": "6:00 AM",
-      "artist": "NYC Century",
-      "support": "",
-      "genre": "Live Music",
-      "genre_source": "default",
-      "url": "https://underthekbridge.org/events/detail?event_id=1674912"
     },
     {
       "id": "emo-s-2026-10-25-mom-jeans",
