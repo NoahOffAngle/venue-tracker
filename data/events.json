@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-26T06:26:08Z",
+  "generated_at": "2026-10-26T14:24:42Z",
   "lists": [
     "Local",
     "Off Angle"
@@ -2724,6 +2724,19 @@
       "genre": "EDM",
       "genre_source": "musicbrainz",
       "url": "https://billgrahamcivic.com/events/carly-rae-jepsen-270421"
+    },
+    {
+      "id": "red-rocks-2027-04-23-bunt",
+      "venue": "Red Rocks",
+      "list": "Off Angle",
+      "group": "Out of State",
+      "date": "2027-04-23",
+      "time": "6:00 PM",
+      "artist": "BUNT.",
+      "support": "",
+      "genre": "Live Music",
+      "genre_source": "musicbrainz",
+      "url": "https://www.redrocksonline.com/events/bunt-1644160/"
     },
     {
       "id": "red-rocks-2027-04-25-carly-rae-jepsen-day-and-night-tour",
