@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-26T14:24:42Z",
+  "generated_at": "2026-10-26T23:20:46Z",
   "lists": [
     "Local",
     "Off Angle"
@@ -1851,7 +1851,7 @@
       "artist": "ZINGARA",
       "support": "",
       "genre": "EDM",
-      "genre_source": "musicbrainz",
+      "genre_source": "same artist elsewhere",
       "url": "https://dothebay.com/events/2026/12/5/zingara-the-girls-are-making-riddim-tour-tickets"
     },
     {
@@ -2089,6 +2089,19 @@
       "url": "https://wl.eventim.us/event/MitiS-DALLAS/703898?afflky=DiscoPresents-Ductwork"
     },
     {
+      "id": "kingdom-2026-12-18-chromeo",
+      "venue": "Kingdom",
+      "list": "Local",
+      "group": "",
+      "date": "2026-12-18",
+      "time": "10:00 PM",
+      "artist": "Chromeo",
+      "support": "",
+      "genre": "EDM",
+      "genre_source": "musicbrainz",
+      "url": "https://kingdomnightclub.com/event/chromeo-2/kingdom-nightclub/austin-texas/"
+    },
+    {
       "id": "the-midway-2026-12-18-3ballmty",
       "venue": "The Midway",
       "list": "Off Angle",
@@ -2256,6 +2269,19 @@
       "genre": "EDM",
       "genre_source": "keyword",
       "url": "https://kingdomnightclub.com/event/mindchatter-dj-set/kingdom-nightclub/austin-texas/"
+    },
+    {
+      "id": "bill-graham-civic-2027-01-01-illenium",
+      "venue": "Bill Graham Civic",
+      "list": "Off Angle",
+      "group": "San Francisco",
+      "date": "2027-01-01",
+      "time": "8:00 PM",
+      "artist": "ILLENIUM",
+      "support": "",
+      "genre": "EDM",
+      "genre_source": "musicbrainz",
+      "url": "https://billgrahamcivic.com/events/illenium-270101"
     },
     {
       "id": "silo-dallas-2027-01-01-max-dean-b2b-luke-dean",
@@ -2659,6 +2685,19 @@
       "genre": "EDM",
       "genre_source": "same artist elsewhere",
       "url": "https://www.redrocksonline.com/events/sidepiece-x-ship-wrek-1593462/"
+    },
+    {
+      "id": "silo-dallas-2027-03-27-zingara",
+      "venue": "Silo Dallas",
+      "list": "Local",
+      "group": "",
+      "date": "2027-03-27",
+      "time": "9:00 PM",
+      "artist": "Zingara",
+      "support": "",
+      "genre": "EDM",
+      "genre_source": "venue",
+      "url": "https://silodallas.com/events/zingara-64633317282"
     },
     {
       "id": "red-rocks-2027-04-03-elderbrook",
@@ -3101,6 +3140,45 @@
       "genre": "Live Music",
       "genre_source": "musicbrainz",
       "url": "https://www.redrocksonline.com/events/leon-bridges-1645219/"
+    },
+    {
+      "id": "red-rocks-2027-08-12-mt-joy",
+      "venue": "Red Rocks",
+      "list": "Off Angle",
+      "group": "Out of State",
+      "date": "2027-08-12",
+      "time": "7:00 PM",
+      "artist": "Mt. Joy",
+      "support": "",
+      "genre": "Live Music",
+      "genre_source": "musicbrainz",
+      "url": "https://www.redrocksonline.com/events/mt-joy-1674999/"
+    },
+    {
+      "id": "red-rocks-2027-08-13-mt-joy",
+      "venue": "Red Rocks",
+      "list": "Off Angle",
+      "group": "Out of State",
+      "date": "2027-08-13",
+      "time": "7:00 PM",
+      "artist": "Mt. Joy",
+      "support": "Evan Honer",
+      "genre": "Live Music",
+      "genre_source": "musicbrainz",
+      "url": "https://www.redrocksonline.com/events/mt-joy-1675240/"
+    },
+    {
+      "id": "red-rocks-2027-08-14-mt-joy",
+      "venue": "Red Rocks",
+      "list": "Off Angle",
+      "group": "Out of State",
+      "date": "2027-08-14",
+      "time": "7:00 PM",
+      "artist": "Mt. Joy",
+      "support": "Love Spells",
+      "genre": "Live Music",
+      "genre_source": "musicbrainz",
+      "url": "https://www.redrocksonline.com/events/mt-joy-1675489/"
     },
     {
       "id": "red-rocks-2027-08-30-sienna-spiro",
