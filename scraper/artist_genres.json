@@ -171,6 +171,10 @@
     "genre": null,
     "checked": "2026-09-04"
   },
+  "brakence": {
+    "genre": "Live Music",
+    "checked": "2026-10-27"
+  },
   "brand new": {
     "genre": "Live Music",
     "checked": "2026-08-06"
@@ -266,6 +270,10 @@
   "cholos": {
     "genre": null,
     "checked": "2026-08-06"
+  },
+  "christmas in color": {
+    "genre": null,
+    "checked": "2026-10-27"
   },
   "chromeo": {
     "genre": "EDM",
@@ -538,6 +546,10 @@
   "global connect ft j espinosa double b": {
     "genre": null,
     "checked": "2026-09-28"
+  },
+  "grahame lesh": {
+    "genre": null,
+    "checked": "2026-10-27"
   },
   "grand national rodeo 1": {
     "genre": null,
@@ -918,6 +930,10 @@
   "mersiv": {
     "genre": null,
     "checked": "2026-08-06"
+  },
+  "meshuggah": {
+    "genre": "Live Music",
+    "checked": "2026-10-27"
   },
   "mexico in a bottle": {
     "genre": null,

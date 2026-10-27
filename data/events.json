@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-27T13:23:17Z",
+  "generated_at": "2026-10-27T18:48:02Z",
   "lists": [
     "Local",
     "Off Angle"
@@ -984,6 +984,19 @@
       "url": "https://www.redrocksonline.com/events/gryffin-1394914/"
     },
     {
+      "id": "bill-graham-civic-2026-11-13-sammy-virji",
+      "venue": "Bill Graham Civic",
+      "list": "Off Angle",
+      "group": "San Francisco",
+      "date": "2026-11-13",
+      "time": "7:00 PM",
+      "artist": "Sammy Virji",
+      "support": "Sam Gellaitry, Saint Ludo",
+      "genre": "EDM",
+      "genre_source": "musicbrainz",
+      "url": "https://billgrahamcivic.com/events/sammy-virji-261113-bgc"
+    },
+    {
       "id": "emo-s-2026-11-13-el-tri",
       "venue": "Emo's",
       "list": "Local",
@@ -1608,6 +1621,19 @@
       "url": "https://dothebay.com/events/2026/11/27/dang-a-soulful-electronic-dance-night-tickets"
     },
     {
+      "id": "red-rocks-2026-11-27-christmas-in-color",
+      "venue": "Red Rocks",
+      "list": "Off Angle",
+      "group": "Out of State",
+      "date": "2026-11-27",
+      "time": "5:30 PM",
+      "artist": "Christmas in Color",
+      "support": "",
+      "genre": "Live Music",
+      "genre_source": "default",
+      "url": "https://www.redrocksonline.com/events/christmas-in-color-2/"
+    },
+    {
       "id": "emo-s-2026-11-27-grief-sucks-a-one-man-show-by-kevonstage",
       "venue": "Emo's",
       "list": "Local",
@@ -1686,6 +1712,19 @@
       "url": "https://dothebay.com/events/2026/11/28/funk-tribu-tickets"
     },
     {
+      "id": "red-rocks-2026-11-28-christmas-in-color",
+      "venue": "Red Rocks",
+      "list": "Off Angle",
+      "group": "Out of State",
+      "date": "2026-11-28",
+      "time": "5:30 PM",
+      "artist": "Christmas in Color",
+      "support": "",
+      "genre": "Live Music",
+      "genre_source": "default",
+      "url": "https://www.redrocksonline.com/events/christmas-in-color-2-1/"
+    },
+    {
       "id": "emo-s-2026-11-28-punchis-punchis-banda-rave",
       "venue": "Emo's",
       "list": "Local",
@@ -1751,6 +1790,19 @@
       "url": "https://www.theregencyballroom.com/events/detail?event_id=1497641"
     },
     {
+      "id": "red-rocks-2026-11-29-christmas-in-color",
+      "venue": "Red Rocks",
+      "list": "Off Angle",
+      "group": "Out of State",
+      "date": "2026-11-29",
+      "time": "5:30 PM",
+      "artist": "Christmas in Color",
+      "support": "",
+      "genre": "Live Music",
+      "genre_source": "default",
+      "url": "https://www.redrocksonline.com/events/christmas-in-color-2-2/"
+    },
+    {
       "id": "silo-dallas-2026-11-29-deorro",
       "venue": "Silo Dallas",
       "list": "Local",
@@ -1764,6 +1816,45 @@
       "url": "https://wl.eventim.us/event/Deorro-DALLAS/704011?afflky=SILO"
     },
     {
+      "id": "red-rocks-2026-11-30-christmas-in-color",
+      "venue": "Red Rocks",
+      "list": "Off Angle",
+      "group": "Out of State",
+      "date": "2026-11-30",
+      "time": "5:30 PM",
+      "artist": "Christmas in Color",
+      "support": "",
+      "genre": "Live Music",
+      "genre_source": "default",
+      "url": "https://www.redrocksonline.com/events/christmas-in-color-2-3/"
+    },
+    {
+      "id": "red-rocks-2026-12-01-christmas-in-color",
+      "venue": "Red Rocks",
+      "list": "Off Angle",
+      "group": "Out of State",
+      "date": "2026-12-01",
+      "time": "5:30 PM",
+      "artist": "Christmas in Color",
+      "support": "",
+      "genre": "Live Music",
+      "genre_source": "default",
+      "url": "https://www.redrocksonline.com/events/christmas-in-color-2-4/"
+    },
+    {
+      "id": "red-rocks-2026-12-02-christmas-in-color",
+      "venue": "Red Rocks",
+      "list": "Off Angle",
+      "group": "Out of State",
+      "date": "2026-12-02",
+      "time": "5:30 PM",
+      "artist": "Christmas in Color",
+      "support": "",
+      "genre": "Live Music",
+      "genre_source": "default",
+      "url": "https://www.redrocksonline.com/events/christmas-in-color-2-5/"
+    },
+    {
       "id": "bill-graham-civic-2026-12-02-the-neighbourhood",
       "venue": "Bill Graham Civic",
       "list": "Off Angle",
@@ -1775,6 +1866,19 @@
       "genre": "Live Music",
       "genre_source": "default",
       "url": "https://billgrahamcivic.com/events/the-neighbourhood-261202"
+    },
+    {
+      "id": "red-rocks-2026-12-03-christmas-in-color",
+      "venue": "Red Rocks",
+      "list": "Off Angle",
+      "group": "Out of State",
+      "date": "2026-12-03",
+      "time": "5:30 PM",
+      "artist": "Christmas in Color",
+      "support": "",
+      "genre": "Live Music",
+      "genre_source": "default",
+      "url": "https://www.redrocksonline.com/events/christmas-in-color-2-6/"
     },
     {
       "id": "silo-dallas-2026-12-03-samplifire",
@@ -1801,6 +1905,19 @@
       "genre": "EDM",
       "genre_source": "musicbrainz",
       "url": "https://kingdomnightclub.com/event/fovos/kingdom-nightclub/austin-texas/"
+    },
+    {
+      "id": "red-rocks-2026-12-04-christmas-in-color",
+      "venue": "Red Rocks",
+      "list": "Off Angle",
+      "group": "Out of State",
+      "date": "2026-12-04",
+      "time": "5:30 PM",
+      "artist": "Christmas in Color",
+      "support": "",
+      "genre": "Live Music",
+      "genre_source": "default",
+      "url": "https://www.redrocksonline.com/events/christmas-in-color-2-7/"
     },
     {
       "id": "silo-dallas-2026-12-04-rl-grime",
@@ -1855,6 +1972,19 @@
       "url": "https://silodallas.com/events/bingo-loco-64167666615"
     },
     {
+      "id": "red-rocks-2026-12-05-christmas-in-color",
+      "venue": "Red Rocks",
+      "list": "Off Angle",
+      "group": "Out of State",
+      "date": "2026-12-05",
+      "time": "5:30 PM",
+      "artist": "Christmas in Color",
+      "support": "",
+      "genre": "Live Music",
+      "genre_source": "default",
+      "url": "https://www.redrocksonline.com/events/christmas-in-color-2-8/"
+    },
+    {
       "id": "bill-graham-civic-2026-12-05-its-murph",
       "venue": "Bill Graham Civic",
       "list": "Off Angle",
@@ -1879,6 +2009,19 @@
       "genre": "EDM",
       "genre_source": "venue",
       "url": "https://wl.eventim.us/event/RUPAUL-DALLAS/703188?afflky=SILO"
+    },
+    {
+      "id": "red-rocks-2026-12-06-christmas-in-color",
+      "venue": "Red Rocks",
+      "list": "Off Angle",
+      "group": "Out of State",
+      "date": "2026-12-06",
+      "time": "5:30 PM",
+      "artist": "Christmas in Color",
+      "support": "",
+      "genre": "Live Music",
+      "genre_source": "default",
+      "url": "https://www.redrocksonline.com/events/christmas-in-color-2-9/"
     },
     {
       "id": "silo-dallas-2026-12-06-awen-hybrid",
@@ -1907,6 +2050,45 @@
       "url": "https://www.theregencyballroom.com/events/detail?event_id=1587666"
     },
     {
+      "id": "red-rocks-2026-12-07-christmas-in-color",
+      "venue": "Red Rocks",
+      "list": "Off Angle",
+      "group": "Out of State",
+      "date": "2026-12-07",
+      "time": "5:30 PM",
+      "artist": "Christmas in Color",
+      "support": "",
+      "genre": "Live Music",
+      "genre_source": "default",
+      "url": "https://www.redrocksonline.com/events/christmas-in-color-2-10/"
+    },
+    {
+      "id": "red-rocks-2026-12-08-christmas-in-color",
+      "venue": "Red Rocks",
+      "list": "Off Angle",
+      "group": "Out of State",
+      "date": "2026-12-08",
+      "time": "5:30 PM",
+      "artist": "Christmas in Color",
+      "support": "",
+      "genre": "Live Music",
+      "genre_source": "default",
+      "url": "https://www.redrocksonline.com/events/christmas-in-color-2-11/"
+    },
+    {
+      "id": "red-rocks-2026-12-09-christmas-in-color",
+      "venue": "Red Rocks",
+      "list": "Off Angle",
+      "group": "Out of State",
+      "date": "2026-12-09",
+      "time": "5:30 PM",
+      "artist": "Christmas in Color",
+      "support": "",
+      "genre": "Live Music",
+      "genre_source": "default",
+      "url": "https://www.redrocksonline.com/events/christmas-in-color-2-12/"
+    },
+    {
       "id": "kingdom-2026-12-10-d-dan",
       "venue": "Kingdom",
       "list": "Local",
@@ -1918,6 +2100,19 @@
       "genre": "EDM",
       "genre_source": "venue leaning",
       "url": "https://kingdomnightclub.com/event/d-dan/kingdom-nightclub/austin-texas/"
+    },
+    {
+      "id": "red-rocks-2026-12-10-christmas-in-color",
+      "venue": "Red Rocks",
+      "list": "Off Angle",
+      "group": "Out of State",
+      "date": "2026-12-10",
+      "time": "5:30 PM",
+      "artist": "Christmas in Color",
+      "support": "",
+      "genre": "Live Music",
+      "genre_source": "default",
+      "url": "https://www.redrocksonline.com/events/christmas-in-color-2-13/"
     },
     {
       "id": "silo-dallas-2026-12-10-goldie",
@@ -1944,6 +2139,19 @@
       "genre": "EDM",
       "genre_source": "venue leaning",
       "url": "https://kingdomnightclub.com/event/mason-collective/kingdom-nightclub/austin-texas/"
+    },
+    {
+      "id": "red-rocks-2026-12-11-christmas-in-color",
+      "venue": "Red Rocks",
+      "list": "Off Angle",
+      "group": "Out of State",
+      "date": "2026-12-11",
+      "time": "5:30 PM",
+      "artist": "Christmas in Color",
+      "support": "",
+      "genre": "Live Music",
+      "genre_source": "default",
+      "url": "https://www.redrocksonline.com/events/christmas-in-color-2-14/"
     },
     {
       "id": "silo-dallas-2026-12-11-wooli",
@@ -2011,6 +2219,19 @@
       "url": "https://kingdomnightclub.com/event/rave-jesus-rave-revival-fall-tour/kingdom-nightclub/austin-texas/"
     },
     {
+      "id": "red-rocks-2026-12-12-christmas-in-color",
+      "venue": "Red Rocks",
+      "list": "Off Angle",
+      "group": "Out of State",
+      "date": "2026-12-12",
+      "time": "5:30 PM",
+      "artist": "Christmas in Color",
+      "support": "",
+      "genre": "Live Music",
+      "genre_source": "default",
+      "url": "https://www.redrocksonline.com/events/christmas-in-color-2-15/"
+    },
+    {
       "id": "silo-dallas-2026-12-12-omnom",
       "venue": "Silo Dallas",
       "list": "Local",
@@ -2022,6 +2243,19 @@
       "genre": "EDM",
       "genre_source": "venue",
       "url": "https://wl.eventim.us/event/Omnom-DALLAS/704603?afflky=SILO"
+    },
+    {
+      "id": "red-rocks-2026-12-13-christmas-in-color",
+      "venue": "Red Rocks",
+      "list": "Off Angle",
+      "group": "Out of State",
+      "date": "2026-12-13",
+      "time": "5:30 PM",
+      "artist": "Christmas in Color",
+      "support": "",
+      "genre": "Live Music",
+      "genre_source": "default",
+      "url": "https://www.redrocksonline.com/events/christmas-in-color-2-16/"
     },
     {
       "id": "silo-dallas-2026-12-13-sam-wolfe",
@@ -2037,6 +2271,32 @@
       "url": "https://wl.eventim.us/event/Sam-Wolfe-DALLAS/699785?afflky=DiscoPresents-Ductwork"
     },
     {
+      "id": "red-rocks-2026-12-14-christmas-in-color",
+      "venue": "Red Rocks",
+      "list": "Off Angle",
+      "group": "Out of State",
+      "date": "2026-12-14",
+      "time": "5:30 PM",
+      "artist": "Christmas in Color",
+      "support": "",
+      "genre": "Live Music",
+      "genre_source": "default",
+      "url": "https://www.redrocksonline.com/events/christmas-in-color-2-17/"
+    },
+    {
+      "id": "red-rocks-2026-12-15-christmas-in-color",
+      "venue": "Red Rocks",
+      "list": "Off Angle",
+      "group": "Out of State",
+      "date": "2026-12-15",
+      "time": "5:30 PM",
+      "artist": "Christmas in Color",
+      "support": "",
+      "genre": "Live Music",
+      "genre_source": "default",
+      "url": "https://www.redrocksonline.com/events/christmas-in-color-2-18/"
+    },
+    {
       "id": "the-midway-2026-12-16-kim-petras-de-tour",
       "venue": "The Midway",
       "list": "Off Angle",
@@ -2048,6 +2308,32 @@
       "genre": "EDM",
       "genre_source": "musicbrainz",
       "url": "https://dothebay.com/events/2026/12/16/kim-petras-de-tour-tickets"
+    },
+    {
+      "id": "red-rocks-2026-12-16-christmas-in-color",
+      "venue": "Red Rocks",
+      "list": "Off Angle",
+      "group": "Out of State",
+      "date": "2026-12-16",
+      "time": "5:30 PM",
+      "artist": "Christmas in Color",
+      "support": "",
+      "genre": "Live Music",
+      "genre_source": "default",
+      "url": "https://www.redrocksonline.com/events/christmas-in-color-2-19/"
+    },
+    {
+      "id": "red-rocks-2026-12-17-christmas-in-color",
+      "venue": "Red Rocks",
+      "list": "Off Angle",
+      "group": "Out of State",
+      "date": "2026-12-17",
+      "time": "5:30 PM",
+      "artist": "Christmas in Color",
+      "support": "",
+      "genre": "Live Music",
+      "genre_source": "default",
+      "url": "https://www.redrocksonline.com/events/christmas-in-color-2-20/"
     },
     {
       "id": "bill-graham-civic-2026-12-17-victoria-monet",
@@ -2102,6 +2388,19 @@
       "url": "https://dothebay.com/events/2026/12/18/3ballmty-tickets"
     },
     {
+      "id": "red-rocks-2026-12-18-christmas-in-color",
+      "venue": "Red Rocks",
+      "list": "Off Angle",
+      "group": "Out of State",
+      "date": "2026-12-18",
+      "time": "5:30 PM",
+      "artist": "Christmas in Color",
+      "support": "",
+      "genre": "Live Music",
+      "genre_source": "default",
+      "url": "https://www.redrocksonline.com/events/christmas-in-color-2-21/"
+    },
+    {
       "id": "the-midway-2026-12-19-hedex",
       "venue": "The Midway",
       "list": "Off Angle",
@@ -2113,6 +2412,19 @@
       "genre": "EDM",
       "genre_source": "venue leaning",
       "url": "https://dothebay.com/events/2026/12/19/hedex-tickets"
+    },
+    {
+      "id": "red-rocks-2026-12-19-christmas-in-color",
+      "venue": "Red Rocks",
+      "list": "Off Angle",
+      "group": "Out of State",
+      "date": "2026-12-19",
+      "time": "5:30 PM",
+      "artist": "Christmas in Color",
+      "support": "",
+      "genre": "Live Music",
+      "genre_source": "default",
+      "url": "https://www.redrocksonline.com/events/christmas-in-color-2-22/"
     },
     {
       "id": "the-regency-ballroom-2026-12-19-takuya-nakamura",
@@ -2141,6 +2453,84 @@
       "url": "https://wl.eventim.us/event/Valentino-Khan-presents-EXTRAMANIA-DALLAS/693688?afflky=SILO"
     },
     {
+      "id": "red-rocks-2026-12-20-christmas-in-color",
+      "venue": "Red Rocks",
+      "list": "Off Angle",
+      "group": "Out of State",
+      "date": "2026-12-20",
+      "time": "5:30 PM",
+      "artist": "Christmas in Color",
+      "support": "",
+      "genre": "Live Music",
+      "genre_source": "default",
+      "url": "https://www.redrocksonline.com/events/christmas-in-color-2-23/"
+    },
+    {
+      "id": "red-rocks-2026-12-21-christmas-in-color",
+      "venue": "Red Rocks",
+      "list": "Off Angle",
+      "group": "Out of State",
+      "date": "2026-12-21",
+      "time": "5:30 PM",
+      "artist": "Christmas in Color",
+      "support": "",
+      "genre": "Live Music",
+      "genre_source": "default",
+      "url": "https://www.redrocksonline.com/events/christmas-in-color-2-24/"
+    },
+    {
+      "id": "red-rocks-2026-12-22-christmas-in-color",
+      "venue": "Red Rocks",
+      "list": "Off Angle",
+      "group": "Out of State",
+      "date": "2026-12-22",
+      "time": "5:30 PM",
+      "artist": "Christmas in Color",
+      "support": "",
+      "genre": "Live Music",
+      "genre_source": "default",
+      "url": "https://www.redrocksonline.com/events/christmas-in-color-2-25/"
+    },
+    {
+      "id": "red-rocks-2026-12-23-christmas-in-color",
+      "venue": "Red Rocks",
+      "list": "Off Angle",
+      "group": "Out of State",
+      "date": "2026-12-23",
+      "time": "5:30 PM",
+      "artist": "Christmas in Color",
+      "support": "",
+      "genre": "Live Music",
+      "genre_source": "default",
+      "url": "https://www.redrocksonline.com/events/christmas-in-color-2-26/"
+    },
+    {
+      "id": "red-rocks-2026-12-24-christmas-in-color",
+      "venue": "Red Rocks",
+      "list": "Off Angle",
+      "group": "Out of State",
+      "date": "2026-12-24",
+      "time": "5:30 PM",
+      "artist": "Christmas in Color",
+      "support": "",
+      "genre": "Live Music",
+      "genre_source": "default",
+      "url": "https://www.redrocksonline.com/events/christmas-in-color-2-27/"
+    },
+    {
+      "id": "red-rocks-2026-12-26-christmas-in-color",
+      "venue": "Red Rocks",
+      "list": "Off Angle",
+      "group": "Out of State",
+      "date": "2026-12-26",
+      "time": "5:30 PM",
+      "artist": "Christmas in Color",
+      "support": "",
+      "genre": "Live Music",
+      "genre_source": "default",
+      "url": "https://www.redrocksonline.com/events/christmas-in-color-2-28/"
+    },
+    {
       "id": "silo-dallas-2026-12-26-bresh",
       "venue": "Silo Dallas",
       "list": "Local",
@@ -2152,6 +2542,19 @@
       "genre": "EDM",
       "genre_source": "venue",
       "url": "https://wl.eventim.us/event/BRESH-DALLAS/706940?afflky=SILO"
+    },
+    {
+      "id": "red-rocks-2026-12-27-christmas-in-color",
+      "venue": "Red Rocks",
+      "list": "Off Angle",
+      "group": "Out of State",
+      "date": "2026-12-27",
+      "time": "5:30 PM",
+      "artist": "Christmas in Color",
+      "support": "",
+      "genre": "Live Music",
+      "genre_source": "default",
+      "url": "https://www.redrocksonline.com/events/christmas-in-color-2-29/"
     },
     {
       "id": "silo-dallas-2026-12-27-sofi-tukker",
@@ -2180,6 +2583,32 @@
       "url": "https://wl.eventim.us/event/LSRCITY-X-by-Gareth-Emery-HOUSTON/697705?afflky=DuctworkHouston&EVENTPASS=LCGAX"
     },
     {
+      "id": "red-rocks-2026-12-28-christmas-in-color",
+      "venue": "Red Rocks",
+      "list": "Off Angle",
+      "group": "Out of State",
+      "date": "2026-12-28",
+      "time": "5:30 PM",
+      "artist": "Christmas in Color",
+      "support": "",
+      "genre": "Live Music",
+      "genre_source": "default",
+      "url": "https://www.redrocksonline.com/events/christmas-in-color-2-30/"
+    },
+    {
+      "id": "red-rocks-2026-12-29-christmas-in-color",
+      "venue": "Red Rocks",
+      "list": "Off Angle",
+      "group": "Out of State",
+      "date": "2026-12-29",
+      "time": "5:30 PM",
+      "artist": "Christmas in Color",
+      "support": "",
+      "genre": "Live Music",
+      "genre_source": "default",
+      "url": "https://www.redrocksonline.com/events/christmas-in-color-2-31/"
+    },
+    {
       "id": "silo-dallas-2026-12-29-gryffin",
       "venue": "Silo Dallas",
       "list": "Local",
@@ -2191,6 +2620,19 @@
       "genre": "EDM",
       "genre_source": "venue",
       "url": "https://wl.eventim.us/event/LIGHTS-ALL-NIGHT-PRE-PARTY-FT-GRYFFIN-DALLAS/703648?afflky=SILO"
+    },
+    {
+      "id": "red-rocks-2026-12-30-christmas-in-color",
+      "venue": "Red Rocks",
+      "list": "Off Angle",
+      "group": "Out of State",
+      "date": "2026-12-30",
+      "time": "5:30 PM",
+      "artist": "Christmas in Color",
+      "support": "",
+      "genre": "Live Music",
+      "genre_source": "default",
+      "url": "https://www.redrocksonline.com/events/christmas-in-color-2-32/"
     },
     {
       "id": "bill-graham-civic-2026-12-30-illenium",
@@ -2217,6 +2659,19 @@
       "genre": "EDM",
       "genre_source": "venue",
       "url": "https://wl.eventim.us/event/Josh-Baker-DALLAS/708681?afflky=SILO"
+    },
+    {
+      "id": "red-rocks-2026-12-31-christmas-in-color",
+      "venue": "Red Rocks",
+      "list": "Off Angle",
+      "group": "Out of State",
+      "date": "2026-12-31",
+      "time": "5:30 PM",
+      "artist": "Christmas in Color",
+      "support": "",
+      "genre": "Live Music",
+      "genre_source": "default",
+      "url": "https://www.redrocksonline.com/events/christmas-in-color-2-33/"
     },
     {
       "id": "bill-graham-civic-2026-12-31-illenium",
@@ -2258,6 +2713,19 @@
       "url": "https://kingdomnightclub.com/event/mindchatter-dj-set/kingdom-nightclub/austin-texas/"
     },
     {
+      "id": "red-rocks-2027-01-01-christmas-in-color",
+      "venue": "Red Rocks",
+      "list": "Off Angle",
+      "group": "Out of State",
+      "date": "2027-01-01",
+      "time": "5:30 PM",
+      "artist": "Christmas in Color",
+      "support": "",
+      "genre": "Live Music",
+      "genre_source": "default",
+      "url": "https://www.redrocksonline.com/events/christmas-in-color-2-34/"
+    },
+    {
       "id": "bill-graham-civic-2027-01-01-illenium",
       "venue": "Bill Graham Civic",
       "list": "Off Angle",
@@ -2282,6 +2750,19 @@
       "genre": "EDM",
       "genre_source": "venue",
       "url": "https://wl.eventim.us/event/Max-Dean-b2b-Luke-Dean-DALLAS/706097?afflky=SILO"
+    },
+    {
+      "id": "red-rocks-2027-01-02-christmas-in-color",
+      "venue": "Red Rocks",
+      "list": "Off Angle",
+      "group": "Out of State",
+      "date": "2027-01-02",
+      "time": "5:30 PM",
+      "artist": "Christmas in Color",
+      "support": "",
+      "genre": "Live Music",
+      "genre_source": "default",
+      "url": "https://www.redrocksonline.com/events/christmas-in-color-2-35/"
     },
     {
       "id": "silo-dallas-2027-01-09-nora-en-pure",
@@ -2362,6 +2843,19 @@
       "url": "https://wl.eventim.us/event/Ghengar-HOUSTON/703376?afflky=DuctworkHouston&eventpass=REBIRTH2026"
     },
     {
+      "id": "silo-dallas-2027-01-17-richard-finger",
+      "venue": "Silo Dallas",
+      "list": "Local",
+      "group": "",
+      "date": "2027-01-17",
+      "time": "7:00 PM",
+      "artist": "Richard Finger",
+      "support": "",
+      "genre": "EDM",
+      "genre_source": "venue",
+      "url": "https://silodallas.com/events/richard-finger-64633441075"
+    },
+    {
       "id": "silo-dallas-2027-01-22-maddix",
       "venue": "Silo Dallas",
       "list": "Local",
@@ -2399,6 +2893,19 @@
       "genre": "EDM",
       "genre_source": "musicbrainz",
       "url": "https://kingdomnightclub.com/event/purity-ring-dj-set/kingdom-nightclub/austin-texas/"
+    },
+    {
+      "id": "bill-graham-civic-2027-01-23-tape-b",
+      "venue": "Bill Graham Civic",
+      "list": "Off Angle",
+      "group": "San Francisco",
+      "date": "2027-01-23",
+      "time": "6:30 PM",
+      "artist": "Tape B",
+      "support": "Getter, Kill the Noise, Claybrook b2b Dr. Ushūu",
+      "genre": "EDM",
+      "genre_source": "musicbrainz",
+      "url": "https://billgrahamcivic.com/events/tape-b-270123"
     },
     {
       "id": "silo-dallas-2027-01-23-twinsick",
@@ -2516,6 +3023,19 @@
       "genre": "EDM",
       "genre_source": "venue",
       "url": "https://wl.eventim.us/event/AYYBO-DALLAS/707743?afflky=SILO"
+    },
+    {
+      "id": "bill-graham-civic-2027-02-06-grahame-lesh-friends",
+      "venue": "Bill Graham Civic",
+      "list": "Off Angle",
+      "group": "San Francisco",
+      "date": "2027-02-06",
+      "time": "7:30 PM",
+      "artist": "Grahame Lesh & Friends",
+      "support": "Warren Haynes, Neal Francis, John Molo, Cyril Neville, Preservation Hall Jazz Band",
+      "genre": "Live Music",
+      "genre_source": "default",
+      "url": "https://billgrahamcivic.com/events/grahame-lesh-270206"
     },
     {
       "id": "silo-dallas-2027-02-06-riordan",
@@ -2687,6 +3207,19 @@
       "url": "https://silodallas.com/events/zingara-64633317282"
     },
     {
+      "id": "red-rocks-2027-04-02-nora-en-pure-presents-purified-red-rocks",
+      "venue": "Red Rocks",
+      "list": "Off Angle",
+      "group": "Out of State",
+      "date": "2027-04-02",
+      "time": "4:30 PM",
+      "artist": "Nora En Pure Presents Purified Red Rocks",
+      "support": "Yotto, Jan Blomqvist, Kolsch, Corren Cavini",
+      "genre": "EDM",
+      "genre_source": "same artist elsewhere",
+      "url": "https://www.redrocksonline.com/events/nora-en-pure-presents-purified-red-rocks-1673859/"
+    },
+    {
       "id": "red-rocks-2027-04-03-elderbrook",
       "venue": "Red Rocks",
       "list": "Off Angle",
@@ -2737,6 +3270,32 @@
       "genre": "EDM",
       "genre_source": "venue",
       "url": "https://wl.eventim.us/event/CYCLOPS-DALLAS/707872?afflky=DiscoPresents-Ductwork"
+    },
+    {
+      "id": "the-regency-ballroom-2027-04-20-brakence",
+      "venue": "The Regency Ballroom",
+      "list": "Off Angle",
+      "group": "San Francisco",
+      "date": "2027-04-20",
+      "time": "8:00 PM",
+      "artist": "brakence",
+      "support": "",
+      "genre": "Live Music",
+      "genre_source": "musicbrainz",
+      "url": "https://www.theregencyballroom.com/events/detail?event_id=1670902"
+    },
+    {
+      "id": "red-rocks-2027-04-21-meshuggah-the-forty-year-anomaly",
+      "venue": "Red Rocks",
+      "list": "Off Angle",
+      "group": "Out of State",
+      "date": "2027-04-21",
+      "time": "7:00 PM",
+      "artist": "Meshuggah: The Forty-Year Anomaly",
+      "support": "Testament, Blood Incantation",
+      "genre": "Live Music",
+      "genre_source": "musicbrainz",
+      "url": "https://www.redrocksonline.com/events/meshuggah-the-forty-year-anomaly-w-testament-blood-incantation-1670899/"
     },
     {
       "id": "bill-graham-civic-2027-04-21-carly-rae-jepsen",
@@ -3064,14 +3623,14 @@
       "url": "https://www.theregencyballroom.com/events/detail?event_id=1655580"
     },
     {
-      "id": "red-rocks-2027-06-21-papa-roach-rise-of-the-roach-tour-w-ice-nine-kills-ninth-key",
+      "id": "red-rocks-2027-06-21-papa-roach-rise-of-the-roach-tour",
       "venue": "Red Rocks",
       "list": "Off Angle",
       "group": "Out of State",
       "date": "2027-06-21",
       "time": "7:00 PM",
-      "artist": "Papa Roach: Rise of the Roach Tour w/ Ice Nine Kills & Ninth Key",
-      "support": "",
+      "artist": "Papa Roach: Rise of the Roach Tour",
+      "support": "Ice Nine Kills, Ninth Key",
       "genre": "Live Music",
       "genre_source": "default",
       "url": "https://www.redrocksonline.com/events/papa-roach-rise-of-the-roach-tour-w-ice-nine-kills-ninth-key-1660146/"
