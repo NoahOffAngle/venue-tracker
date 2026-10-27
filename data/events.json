@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-27T18:48:02Z",
+  "generated_at": "2026-10-27T23:01:07Z",
   "lists": [
     "Local",
     "Off Angle"
@@ -2434,7 +2434,7 @@
       "date": "2026-12-19",
       "time": "8:00 PM",
       "artist": "Takuya Nakamura",
-      "support": "",
+      "support": "RP Boo",
       "genre": "Live Music",
       "genre_source": "default",
       "url": "https://www.theregencyballroom.com/events/detail?event_id=1601808"
@@ -3545,13 +3545,13 @@
       "url": "https://www.redrocksonline.com/events/matchbox-twenty-30-1656984/"
     },
     {
-      "id": "red-rocks-2027-05-27-a-perfect-circle",
+      "id": "red-rocks-2027-05-27-a-perfect-circle-with-special-guest-the-cult",
       "venue": "Red Rocks",
       "list": "Off Angle",
       "group": "Out of State",
       "date": "2027-05-27",
       "time": "7:30 PM",
-      "artist": "A Perfect Circle",
+      "artist": "A Perfect Circle with special guest THE CULT",
       "support": "THE CULT",
       "genre": "Live Music",
       "genre_source": "musicbrainz",
