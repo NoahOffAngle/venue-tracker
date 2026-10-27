@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-26T23:20:46Z",
+  "generated_at": "2026-10-27T06:26:07Z",
   "lists": [
     "Local",
     "Off Angle"
@@ -73,19 +73,6 @@
     }
   ],
   "events": [
-    {
-      "id": "red-rocks-2026-10-26-evanescence",
-      "venue": "Red Rocks",
-      "list": "Off Angle",
-      "group": "Out of State",
-      "date": "2026-10-26",
-      "time": "7:00 PM",
-      "artist": "Evanescence",
-      "support": "K. Flay",
-      "genre": "Live Music",
-      "genre_source": "musicbrainz",
-      "url": "https://www.redrocksonline.com/events/evanescence-1240978/"
-    },
     {
       "id": "red-rocks-2026-10-27-tucker-wetmore",
       "venue": "Red Rocks",
@@ -490,6 +477,19 @@
       "url": "https://www.redrocksonline.com/events/fuerza-regida-this-is-our-dream-tour-2026-1551458/"
     },
     {
+      "id": "red-rocks-2026-11-04-joshua-slone",
+      "venue": "Red Rocks",
+      "list": "Off Angle",
+      "group": "Out of State",
+      "date": "2026-11-04",
+      "time": "7:00 AM",
+      "artist": "Joshua Slone",
+      "support": "Jake Minch, Truman Sinclair, Emma Ogier",
+      "genre": "Live Music",
+      "genre_source": "default",
+      "url": "https://www.redrocksonline.com/events/joshua-slone-1392035/"
+    },
+    {
       "id": "emo-s-2026-11-04-slow-pulp",
       "venue": "Emo's",
       "list": "Local",
@@ -501,19 +501,6 @@
       "genre": "Live Music",
       "genre_source": "musicbrainz",
       "url": "https://www.ticketmaster.com/slow-pulp-austin-texas-11-04-2026/event/3A0064A58FC6812F"
-    },
-    {
-      "id": "red-rocks-2026-11-04-joshua-slone",
-      "venue": "Red Rocks",
-      "list": "Off Angle",
-      "group": "Out of State",
-      "date": "2026-11-04",
-      "time": "7:30 PM",
-      "artist": "Joshua Slone",
-      "support": "Jake Minch, Truman Sinclair, Emma Ogier",
-      "genre": "Live Music",
-      "genre_source": "default",
-      "url": "https://www.redrocksonline.com/events/joshua-slone-1392035/"
     },
     {
       "id": "bill-graham-civic-2026-11-05-moby",
