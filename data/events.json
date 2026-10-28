@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-28T06:56:01Z",
+  "generated_at": "2026-10-28T14:07:53Z",
   "lists": [
     "Local",
     "Off Angle"
@@ -1008,19 +1008,6 @@
       "genre": "Live Music",
       "genre_source": "default",
       "url": "https://billgrahamcivic.com/events/tyla-261113"
-    },
-    {
-      "id": "cow-palace-2026-11-13-sammy-virji",
-      "venue": "Cow Palace",
-      "list": "Off Angle",
-      "group": "San Francisco",
-      "date": "2026-11-13",
-      "time": "8:00 PM",
-      "artist": "Sammy Virji",
-      "support": "",
-      "genre": "EDM",
-      "genre_source": "musicbrainz",
-      "url": "https://www.cowpalace.com/event/sammy-virji/"
     },
     {
       "id": "the-regency-ballroom-2026-11-13-l7",
