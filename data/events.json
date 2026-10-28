@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-27T23:01:07Z",
+  "generated_at": "2026-10-28T06:56:01Z",
   "lists": [
     "Local",
     "Off Angle"
@@ -73,19 +73,6 @@
     }
   ],
   "events": [
-    {
-      "id": "red-rocks-2026-10-27-tucker-wetmore",
-      "venue": "Red Rocks",
-      "list": "Off Angle",
-      "group": "Out of State",
-      "date": "2026-10-27",
-      "time": "7:30 PM",
-      "artist": "Tucker Wetmore",
-      "support": "",
-      "genre": "Live Music",
-      "genre_source": "musicbrainz",
-      "url": "https://www.redrocksonline.com/events/tucker-wetmore-1331803/"
-    },
     {
       "id": "red-rocks-2026-10-28-koe-wetzel",
       "venue": "Red Rocks",
@@ -978,7 +965,7 @@
       "date": "2026-11-13",
       "time": "6:00 PM",
       "artist": "GRYFFIN",
-      "support": "Oliver Heldens, AR/CO",
+      "support": "Oliver Heldens, AR/CO, Ember",
       "genre": "EDM",
       "genre_source": "same artist elsewhere",
       "url": "https://www.redrocksonline.com/events/gryffin-1394914/"
