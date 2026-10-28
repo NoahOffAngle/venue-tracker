@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-28T14:07:53Z",
+  "generated_at": "2026-10-28T23:20:43Z",
   "lists": [
     "Local",
     "Off Angle"
@@ -230,19 +230,6 @@
       "url": "https://www.redrocksonline.com/events/deadmau5-1407690/"
     },
     {
-      "id": "emo-s-2026-10-30-club-90s-presents-thrillerween",
-      "venue": "Emo's",
-      "list": "Local",
-      "group": "",
-      "date": "2026-10-30",
-      "time": "8:30 PM",
-      "artist": "Club 90s Presents Thrillerween",
-      "support": "",
-      "genre": "Live Music",
-      "genre_source": "default",
-      "url": "https://www.ticketmaster.com/club-90s-presents-thrillerween-austin-texas-10-30-2026/event/3A006536D0F2E3B2"
-    },
-    {
       "id": "silo-dallas-2026-10-30-adriatique",
       "venue": "Silo Dallas",
       "list": "Local",
@@ -464,19 +451,6 @@
       "url": "https://www.redrocksonline.com/events/fuerza-regida-this-is-our-dream-tour-2026-1551458/"
     },
     {
-      "id": "red-rocks-2026-11-04-joshua-slone",
-      "venue": "Red Rocks",
-      "list": "Off Angle",
-      "group": "Out of State",
-      "date": "2026-11-04",
-      "time": "7:00 AM",
-      "artist": "Joshua Slone",
-      "support": "Jake Minch, Truman Sinclair, Emma Ogier",
-      "genre": "Live Music",
-      "genre_source": "default",
-      "url": "https://www.redrocksonline.com/events/joshua-slone-1392035/"
-    },
-    {
       "id": "emo-s-2026-11-04-slow-pulp",
       "venue": "Emo's",
       "list": "Local",
@@ -488,6 +462,19 @@
       "genre": "Live Music",
       "genre_source": "musicbrainz",
       "url": "https://www.ticketmaster.com/slow-pulp-austin-texas-11-04-2026/event/3A0064A58FC6812F"
+    },
+    {
+      "id": "red-rocks-2026-11-04-joshua-slone",
+      "venue": "Red Rocks",
+      "list": "Off Angle",
+      "group": "Out of State",
+      "date": "2026-11-04",
+      "time": "7:00 PM",
+      "artist": "Joshua Slone",
+      "support": "Jake Minch, Truman Sinclair, Emma Ogier",
+      "genre": "Live Music",
+      "genre_source": "default",
+      "url": "https://www.redrocksonline.com/events/joshua-slone-1392035/"
     },
     {
       "id": "bill-graham-civic-2026-11-05-moby",
@@ -735,6 +722,19 @@
       "genre": "EDM",
       "genre_source": "venue",
       "url": "https://wl.eventim.us/event/Eric-Prydz-HOUSTON/701600?afflky=DuctworkHouston&eventpass=PUSSPUSS"
+    },
+    {
+      "id": "the-midway-2026-11-07-bag-raiders",
+      "venue": "The Midway",
+      "list": "Off Angle",
+      "group": "San Francisco",
+      "date": "2026-11-07",
+      "time": "9:00 PM",
+      "artist": "Bag Raiders",
+      "support": "",
+      "genre": "EDM",
+      "genre_source": "musicbrainz",
+      "url": "https://dothebay.com/events/2026/11/7/bag-raiders-tickets"
     },
     {
       "id": "red-rocks-2026-11-08-face-vocal-band-25th-anniversary-concert",
@@ -2336,17 +2336,17 @@
       "url": "https://wl.eventim.us/event/MitiS-DALLAS/703898?afflky=DiscoPresents-Ductwork"
     },
     {
-      "id": "kingdom-2026-12-18-chromeo",
+      "id": "kingdom-2026-12-18-chromeo-dj-set",
       "venue": "Kingdom",
       "list": "Local",
       "group": "",
       "date": "2026-12-18",
       "time": "10:00 PM",
-      "artist": "Chromeo",
+      "artist": "Chromeo (DJ Set)",
       "support": "",
       "genre": "EDM",
       "genre_source": "musicbrainz",
-      "url": "https://kingdomnightclub.com/event/chromeo-2/kingdom-nightclub/austin-texas/"
+      "url": "https://kingdomnightclub.com/event/chromeo-dj-set/kingdom-nightclub/austin-texas/"
     },
     {
       "id": "the-midway-2026-12-18-3ballmty",
@@ -3077,19 +3077,6 @@
       "url": "https://www.theregencyballroom.com/events/detail?event_id=1442684"
     },
     {
-      "id": "the-midway-2027-02-19-2000-s-rave",
-      "venue": "The Midway",
-      "list": "Off Angle",
-      "group": "San Francisco",
-      "date": "2027-02-19",
-      "time": "10:00 PM",
-      "artist": "2000's Rave",
-      "support": "",
-      "genre": "EDM",
-      "genre_source": "keyword",
-      "url": "https://dothebay.com/events/2027/2/19/2000-s-rave-tickets"
-    },
-    {
       "id": "the-regency-ballroom-2027-03-03-eluveitie",
       "venue": "The Regency Ballroom",
       "list": "Off Angle",
@@ -3178,7 +3165,7 @@
       "support": "",
       "genre": "EDM",
       "genre_source": "venue",
-      "url": "https://silodallas.com/events/zingara-64633317282"
+      "url": "https://wl.eventim.us/event/Zingara-DALLAS/708177?afflky=SILO&EVENTPASS=ALIENS"
     },
     {
       "id": "red-rocks-2027-04-02-nora-en-pure-presents-purified-red-rocks",
