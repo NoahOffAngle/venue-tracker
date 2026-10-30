@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-30T07:17:33Z",
+  "generated_at": "2026-10-30T14:20:34Z",
   "lists": [
     "Local",
     "Off Angle"
@@ -2986,6 +2986,19 @@
       "url": "https://www.theregencyballroom.com/events/detail?event_id=1442684"
     },
     {
+      "id": "the-midway-2027-02-19-2000-s-rave",
+      "venue": "The Midway",
+      "list": "Off Angle",
+      "group": "San Francisco",
+      "date": "2027-02-19",
+      "time": "10:00 PM",
+      "artist": "2000's Rave",
+      "support": "",
+      "genre": "EDM",
+      "genre_source": "keyword",
+      "url": "https://dothebay.com/events/2027/2/19/2000-s-rave-tickets"
+    },
+    {
       "id": "the-regency-ballroom-2027-03-03-eluveitie",
       "venue": "The Regency Ballroom",
       "list": "Off Angle",
@@ -3387,6 +3400,19 @@
       "genre": "Live Music",
       "genre_source": "default",
       "url": "https://www.redrocksonline.com/events/remi-wolf-1645236/"
+    },
+    {
+      "id": "the-regency-ballroom-2027-05-18-enjambre",
+      "venue": "The Regency Ballroom",
+      "list": "Off Angle",
+      "group": "San Francisco",
+      "date": "2027-05-18",
+      "time": "8:00 PM",
+      "artist": "Enjambre",
+      "support": "",
+      "genre": "Live Music",
+      "genre_source": "default",
+      "url": "https://www.theregencyballroom.com/events/detail?event_id=1683727"
     },
     {
       "id": "red-rocks-2027-05-22-matchbox-twenty-30",
