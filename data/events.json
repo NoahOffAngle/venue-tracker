@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-30T14:20:34Z",
+  "generated_at": "2026-10-30T23:03:00Z",
   "lists": [
     "Local",
     "Off Angle"
@@ -73,19 +73,6 @@
     }
   ],
   "events": [
-    {
-      "id": "under-the-k-bridge-2026-10-30-fall-plant-giveaway-native-nursery",
-      "venue": "Under the K Bridge",
-      "list": "Off Angle",
-      "group": "Out of State",
-      "date": "2026-10-30",
-      "time": "10:00 AM",
-      "artist": "Fall Plant Giveaway - Native Nursery",
-      "support": "",
-      "genre": "Live Music",
-      "genre_source": "default",
-      "url": "https://underthekbridge.org/events/detail?event_id=1659829"
-    },
     {
       "id": "kingdom-2026-10-30-dennis-ferrer",
       "venue": "Kingdom",
@@ -2736,7 +2723,7 @@
       "support": "",
       "genre": "EDM",
       "genre_source": "venue",
-      "url": "https://wl.eventim.us/event/Richard-Finger-DALLAS/708979?afflky=DiscoPresents-Ductwork&EVENTPASS=FINDFINGER"
+      "url": "https://wl.eventim.us/event/Richard-Finger-DALLAS/708979?afflky=DiscoPresents-Ductwork"
     },
     {
       "id": "silo-dallas-2027-01-22-maddix",
@@ -3087,7 +3074,7 @@
       "support": "",
       "genre": "EDM",
       "genre_source": "venue",
-      "url": "https://wl.eventim.us/event/Zingara-DALLAS/708177?afflky=SILO&EVENTPASS=ALIENS"
+      "url": "https://wl.eventim.us/event/Zingara-DALLAS/708177?afflky=SILO"
     },
     {
       "id": "red-rocks-2027-04-02-nora-en-pure-presents-purified-red-rocks",
