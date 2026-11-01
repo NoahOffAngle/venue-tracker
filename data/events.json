@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-01T07:40:15Z",
+  "generated_at": "2026-11-01T18:28:13Z",
   "lists": [
     "Local",
     "Off Angle"
@@ -2854,6 +2854,19 @@
       "genre": "EDM",
       "genre_source": "venue leaning",
       "url": "https://dothebay.com/events/2027/3/6/chelsea-cutler-is-this-the-end-tour-tickets"
+    },
+    {
+      "id": "the-midway-2027-03-12-layz-presents-outnumbered",
+      "venue": "The Midway",
+      "list": "Off Angle",
+      "group": "San Francisco",
+      "date": "2027-03-12",
+      "time": "10:00 PM",
+      "artist": "LAYZ Presents: OUTNUMBERED",
+      "support": "",
+      "genre": "EDM",
+      "genre_source": "same artist elsewhere",
+      "url": "https://dothebay.com/events/2027/3/12/layz-presents-outnumbered-tickets"
     },
     {
       "id": "silo-dallas-2027-03-12-effin",
