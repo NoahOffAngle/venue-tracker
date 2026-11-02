@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-02T07:47:15Z",
+  "generated_at": "2026-11-02T22:23:18Z",
   "lists": [
     "Local",
     "Off Angle"
@@ -1303,7 +1303,7 @@
       "date": "2026-11-27",
       "time": "8:00 PM",
       "artist": "Amtrac",
-      "support": "",
+      "support": "Seb Wildblood",
       "genre": "EDM",
       "genre_source": "musicbrainz",
       "url": "https://www.theregencyballroom.com/events/detail?event_id=1566122"
@@ -2505,6 +2505,19 @@
       "url": "https://wl.eventim.us/event/Richard-Finger-DALLAS/708979?afflky=DiscoPresents-Ductwork"
     },
     {
+      "id": "silo-dallas-2027-01-21-reaper",
+      "venue": "Silo Dallas",
+      "list": "Local",
+      "group": "",
+      "date": "2027-01-21",
+      "time": "8:00 PM",
+      "artist": "Reaper",
+      "support": "",
+      "genre": "EDM",
+      "genre_source": "venue",
+      "url": "https://silodallas.com/events/reaper-65050131892"
+    },
+    {
       "id": "silo-dallas-2027-01-22-maddix",
       "venue": "Silo Dallas",
       "list": "Local",
@@ -3088,6 +3101,19 @@
       "genre": "Live Music",
       "genre_source": "default",
       "url": "https://www.redrocksonline.com/events/cloonee-1640232/"
+    },
+    {
+      "id": "red-rocks-2027-05-07-tove-lo",
+      "venue": "Red Rocks",
+      "list": "Off Angle",
+      "group": "Out of State",
+      "date": "2027-05-07",
+      "time": "7:30 PM",
+      "artist": "Tove Lo",
+      "support": "Special Guest Cobrah, Coco & Clair Clair",
+      "genre": "EDM",
+      "genre_source": "musicbrainz",
+      "url": "https://www.redrocksonline.com/events/tove-lo-1680093/"
     },
     {
       "id": "red-rocks-2027-05-10-josiah-queen",
