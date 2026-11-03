@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-02T22:23:18Z",
+  "generated_at": "2026-11-03T08:00:29Z",
   "lists": [
     "Local",
     "Off Angle"
@@ -73,19 +73,6 @@
     }
   ],
   "events": [
-    {
-      "id": "red-rocks-2026-11-02-fuerza-regida-this-is-our-dream-tour-2026",
-      "venue": "Red Rocks",
-      "list": "Off Angle",
-      "group": "Out of State",
-      "date": "2026-11-02",
-      "time": "8:00 PM",
-      "artist": "Fuerza Regida: – This Is Our Dream Tour 2026",
-      "support": "",
-      "genre": "Live Music",
-      "genre_source": "default",
-      "url": "https://www.redrocksonline.com/events/fuerza-regida-this-is-our-dream-tour-2026-1551452/"
-    },
     {
       "id": "emo-s-2026-11-03-knox",
       "venue": "Emo's",
@@ -755,7 +742,7 @@
       "list": "Off Angle",
       "group": "Out of State",
       "date": "2026-11-14",
-      "time": "7:30 PM",
+      "time": "7:15 PM",
       "artist": "mike.",
       "support": "opening DJ set from Stevie Daniels",
       "genre": "Live Music",
@@ -807,7 +794,7 @@
       "list": "Off Angle",
       "group": "Out of State",
       "date": "2026-11-15",
-      "time": "3:30 PM",
+      "time": "3:15 PM",
       "artist": "mike.",
       "support": "opening set from DJ Stevie Daniels",
       "genre": "Live Music",
