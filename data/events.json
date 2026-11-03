@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-03T08:00:29Z",
+  "generated_at": "2026-11-03T20:11:10Z",
   "lists": [
     "Local",
     "Off Angle"
@@ -280,6 +280,19 @@
       "genre": "EDM",
       "genre_source": "venue",
       "url": "https://wl.eventim.us/event/ERIC-PRYDZ-DALLAS/701602?afflky=SILO"
+    },
+    {
+      "id": "the-midway-2026-11-06-adriatique",
+      "venue": "The Midway",
+      "list": "Off Angle",
+      "group": "San Francisco",
+      "date": "2026-11-06",
+      "time": "9:00 PM",
+      "artist": "Adriatique",
+      "support": "",
+      "genre": "EDM",
+      "genre_source": "musicbrainz",
+      "url": "https://dothebay.com/events/2026/11/6/adriatique-tickets"
     },
     {
       "id": "kingdom-2026-11-07-tokimonsta",
@@ -1333,6 +1346,19 @@
       "genre": "EDM",
       "genre_source": "site",
       "url": "https://wl.seetickets.us/event/Hot-Since-82-Avision-at-The-Concourse-Project/702026?afflky=TheConcourseProject"
+    },
+    {
+      "id": "kingdom-2026-11-28-untitled-fest",
+      "venue": "Kingdom",
+      "list": "Local",
+      "group": "",
+      "date": "2026-11-28",
+      "time": "10:00 PM",
+      "artist": "Untitled Fest",
+      "support": "",
+      "genre": "EDM",
+      "genre_source": "venue leaning",
+      "url": "https://kingdomnightclub.com/event/untitled-fest-3/kingdom-nightclub/austin-texas/"
     },
     {
       "id": "the-midway-2026-11-28-funk-tribu",
@@ -2453,6 +2479,19 @@
       "url": "https://www.theregencyballroom.com/events/detail?event_id=1629410"
     },
     {
+      "id": "silo-dallas-2027-01-15-cosmic-gate",
+      "venue": "Silo Dallas",
+      "list": "Local",
+      "group": "",
+      "date": "2027-01-15",
+      "time": "9:00 PM",
+      "artist": "Cosmic Gate",
+      "support": "",
+      "genre": "EDM",
+      "genre_source": "venue",
+      "url": "https://silodallas.com/events/cosmic-gate-65327973423"
+    },
+    {
       "id": "the-midway-2027-01-16-surge-super-heroes",
       "venue": "The Midway",
       "list": "Off Angle",
@@ -2502,7 +2541,7 @@
       "support": "",
       "genre": "EDM",
       "genre_source": "venue",
-      "url": "https://silodallas.com/events/reaper-65050131892"
+      "url": "https://wl.eventim.us/event/REAPER-DALLAS/709720?afflky=DiscoPresents-Ductwork"
     },
     {
       "id": "silo-dallas-2027-01-22-maddix",
@@ -2752,6 +2791,19 @@
       "url": "https://www.theregencyballroom.com/events/detail?event_id=1442684"
     },
     {
+      "id": "kingdom-2027-02-19-jacques-greene",
+      "venue": "Kingdom",
+      "list": "Local",
+      "group": "",
+      "date": "2027-02-19",
+      "time": "10:00 PM",
+      "artist": "Jacques Greene",
+      "support": "",
+      "genre": "EDM",
+      "genre_source": "musicbrainz",
+      "url": "https://kingdomnightclub.com/event/jacques-greene/kingdom-nightclub/austin-texas/"
+    },
+    {
       "id": "the-midway-2027-02-19-2000-s-rave",
       "venue": "The Midway",
       "list": "Off Angle",
@@ -2791,6 +2843,19 @@
       "url": "https://www.theregencyballroom.com/events/detail?event_id=1608440"
     },
     {
+      "id": "silo-dallas-2027-03-05-liquid-stranger",
+      "venue": "Silo Dallas",
+      "list": "Local",
+      "group": "",
+      "date": "2027-03-05",
+      "time": "9:00 PM",
+      "artist": "Liquid Stranger",
+      "support": "",
+      "genre": "EDM",
+      "genre_source": "venue",
+      "url": "https://silodallas.com/events/liquid-stranger-65061918868"
+    },
+    {
       "id": "bill-graham-civic-2027-03-06-2hollis",
       "venue": "Bill Graham Civic",
       "list": "Off Angle",
@@ -2817,17 +2882,17 @@
       "url": "https://dothebay.com/events/2027/3/6/chelsea-cutler-is-this-the-end-tour-tickets"
     },
     {
-      "id": "the-midway-2027-03-12-layz-presents-outnumbered",
-      "venue": "The Midway",
+      "id": "the-regency-ballroom-2027-03-07-currents",
+      "venue": "The Regency Ballroom",
       "list": "Off Angle",
       "group": "San Francisco",
-      "date": "2027-03-12",
-      "time": "10:00 PM",
-      "artist": "LAYZ Presents: OUTNUMBERED",
-      "support": "",
-      "genre": "EDM",
-      "genre_source": "same artist elsewhere",
-      "url": "https://dothebay.com/events/2027/3/12/layz-presents-outnumbered-tickets"
+      "date": "2027-03-07",
+      "time": "7:00 PM",
+      "artist": "Currents",
+      "support": "Vana, Stick to Your Guns, Dreamwake",
+      "genre": "Live Music",
+      "genre_source": "musicbrainz",
+      "url": "https://www.theregencyballroom.com/events/detail?event_id=1683799"
     },
     {
       "id": "silo-dallas-2027-03-12-effin",
@@ -2958,6 +3023,32 @@
       "genre": "EDM",
       "genre_source": "venue",
       "url": "https://wl.eventim.us/event/CYCLOPS-DALLAS/707872?afflky=DiscoPresents-Ductwork"
+    },
+    {
+      "id": "red-rocks-2027-04-17-sublime",
+      "venue": "Red Rocks",
+      "list": "Off Angle",
+      "group": "Out of State",
+      "date": "2027-04-17",
+      "time": "6:00 PM",
+      "artist": "Sublime",
+      "support": "",
+      "genre": "Live Music",
+      "genre_source": "musicbrainz",
+      "url": "https://www.redrocksonline.com/events/sublime-1681852/"
+    },
+    {
+      "id": "red-rocks-2027-04-18-sublime",
+      "venue": "Red Rocks",
+      "list": "Off Angle",
+      "group": "Out of State",
+      "date": "2027-04-18",
+      "time": "6:00 PM",
+      "artist": "Sublime",
+      "support": "",
+      "genre": "Live Music",
+      "genre_source": "musicbrainz",
+      "url": "https://www.redrocksonline.com/events/sublime-1681854/"
     },
     {
       "id": "the-regency-ballroom-2027-04-20-brakence",
@@ -3283,6 +3374,19 @@
       "genre": "Live Music",
       "genre_source": "musicbrainz",
       "url": "https://www.cowpalace.com/event/a-perfect-circle/"
+    },
+    {
+      "id": "cow-palace-2027-06-04-mau-p",
+      "venue": "Cow Palace",
+      "list": "Off Angle",
+      "group": "San Francisco",
+      "date": "2027-06-04",
+      "time": "8:00 PM",
+      "artist": "Mau P",
+      "support": "",
+      "genre": "Live Music",
+      "genre_source": "default",
+      "url": "https://www.cowpalace.com/event/mau-p/"
     },
     {
       "id": "red-rocks-2027-06-07-stick-figure",
