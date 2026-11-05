@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-05T07:58:44Z",
+  "generated_at": "2026-11-05T20:44:27Z",
   "lists": [
     "Local",
     "Off Angle"
@@ -2635,6 +2635,19 @@
       "url": "https://wl.eventim.us/event/KREAM-DALLAS/708549?afflky=SILO"
     },
     {
+      "id": "silo-dallas-2027-01-31-viperactive",
+      "venue": "Silo Dallas",
+      "list": "Local",
+      "group": "",
+      "date": "2027-01-31",
+      "time": "8:00 PM",
+      "artist": "Viperactive",
+      "support": "",
+      "genre": "EDM",
+      "genre_source": "venue",
+      "url": "https://silodallas.com/events/viperactive-65050132000"
+    },
+    {
       "id": "the-midway-2027-02-05-toxic-winter-2027",
       "venue": "The Midway",
       "list": "Off Angle",
@@ -2672,6 +2685,19 @@
       "genre": "EDM",
       "genre_source": "venue",
       "url": "https://wl.eventim.us/event/AYYBO-DALLAS/707743?afflky=SILO"
+    },
+    {
+      "id": "cow-palace-2027-02-06-mau-p",
+      "venue": "Cow Palace",
+      "list": "Off Angle",
+      "group": "San Francisco",
+      "date": "2027-02-06",
+      "time": "7:00 PM",
+      "artist": "Mau P",
+      "support": "",
+      "genre": "Live Music",
+      "genre_source": "default",
+      "url": "https://www.cowpalace.com/event/mau-p/"
     },
     {
       "id": "bill-graham-civic-2027-02-06-grahame-lesh-friends",
@@ -2814,7 +2840,7 @@
       "support": "",
       "genre": "EDM",
       "genre_source": "venue",
-      "url": "https://silodallas.com/events/liquid-stranger-65061918868"
+      "url": "https://wl.eventim.us/event/Liquid-Stranger-Presents-Electric-Helix-DALLAS/709994?afflky=SILO&EVENTPASS=HELIX"
     },
     {
       "id": "bill-graham-civic-2027-03-06-2hollis",
@@ -2882,6 +2908,19 @@
       "url": "https://wl.eventim.us/event/LEVEL-UP-DALLAS/706784?afflky=SILO"
     },
     {
+      "id": "red-rocks-2027-03-25-porter-robinson-b2b-ninajirachi",
+      "venue": "Red Rocks",
+      "list": "Off Angle",
+      "group": "Out of State",
+      "date": "2027-03-25",
+      "time": "6:00 PM",
+      "artist": "Porter Robinson B2B Ninajirachi",
+      "support": "Frost Children (DJ Set), 10cust",
+      "genre": "EDM",
+      "genre_source": "musicbrainz",
+      "url": "https://www.redrocksonline.com/events/porter-robinson-b2b-ninajirachi-1644262/"
+    },
+    {
       "id": "red-rocks-2027-03-27-sidepiece-x-ship-wrek",
       "venue": "Red Rocks",
       "list": "Off Angle",
@@ -2906,6 +2945,19 @@
       "genre": "EDM",
       "genre_source": "venue",
       "url": "https://wl.eventim.us/event/Zingara-DALLAS/708177?afflky=SILO"
+    },
+    {
+      "id": "the-regency-ballroom-2027-03-29-hyukoh",
+      "venue": "The Regency Ballroom",
+      "list": "Off Angle",
+      "group": "San Francisco",
+      "date": "2027-03-29",
+      "time": "8:00 PM",
+      "artist": "HYUKOH",
+      "support": "",
+      "genre": "Live Music",
+      "genre_source": "default",
+      "url": "https://www.theregencyballroom.com/events/detail?event_id=1688805"
     },
     {
       "id": "red-rocks-2027-04-02-nora-en-pure-presents-purified-red-rocks",
@@ -3155,6 +3207,19 @@
       "url": "https://www.redrocksonline.com/events/tove-lo-1680093/"
     },
     {
+      "id": "the-regency-ballroom-2027-05-07-ricky-montgomery",
+      "venue": "The Regency Ballroom",
+      "list": "Off Angle",
+      "group": "San Francisco",
+      "date": "2027-05-07",
+      "time": "8:00 PM",
+      "artist": "Ricky Montgomery",
+      "support": "",
+      "genre": "Live Music",
+      "genre_source": "musicbrainz",
+      "url": "https://www.theregencyballroom.com/events/detail?event_id=1677271"
+    },
+    {
       "id": "red-rocks-2027-05-10-josiah-queen",
       "venue": "Red Rocks",
       "list": "Off Angle",
@@ -3337,19 +3402,6 @@
       "url": "https://www.cowpalace.com/event/a-perfect-circle/"
     },
     {
-      "id": "cow-palace-2027-06-04-mau-p",
-      "venue": "Cow Palace",
-      "list": "Off Angle",
-      "group": "San Francisco",
-      "date": "2027-06-04",
-      "time": "8:00 PM",
-      "artist": "Mau P",
-      "support": "",
-      "genre": "Live Music",
-      "genre_source": "default",
-      "url": "https://www.cowpalace.com/event/mau-p/"
-    },
-    {
       "id": "red-rocks-2027-06-07-stick-figure",
       "venue": "Red Rocks",
       "list": "Off Angle",
@@ -3474,7 +3526,7 @@
       "date": "2027-08-12",
       "time": "7:00 PM",
       "artist": "Mt. Joy",
-      "support": "",
+      "support": "Emma Ogier",
       "genre": "Live Music",
       "genre_source": "musicbrainz",
       "url": "https://www.redrocksonline.com/events/mt-joy-1674999/"
