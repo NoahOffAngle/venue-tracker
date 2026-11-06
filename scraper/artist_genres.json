@@ -819,6 +819,10 @@
     "genre": "Live Music",
     "checked": "2026-08-06"
   },
+  "kings of leon": {
+    "genre": "Live Music",
+    "checked": "2026-11-06"
+  },
   "klangkarussell live": {
     "genre": null,
     "checked": "2026-10-24"
@@ -1058,6 +1062,10 @@
   "nic fanciulli": {
     "genre": null,
     "checked": "2026-10-06"
+  },
+  "nick cave": {
+    "genre": "Live Music",
+    "checked": "2026-11-06"
   },
   "ninajirachi": {
     "genre": "EDM",

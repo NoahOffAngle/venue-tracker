@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-06T08:00:52Z",
+  "generated_at": "2026-11-06T20:00:20Z",
   "lists": [
     "Local",
     "Off Angle"
@@ -2593,7 +2593,7 @@
       "support": "",
       "genre": "EDM",
       "genre_source": "venue",
-      "url": "https://silodallas.com/events/viperactive-65050132000"
+      "url": "https://wl.eventim.us/event/Viperactive-DALLAS/710416?afflky=DiscoPresents-Ductwork"
     },
     {
       "id": "the-midway-2027-02-05-toxic-winter-2027",
@@ -2788,7 +2788,7 @@
       "support": "",
       "genre": "EDM",
       "genre_source": "venue",
-      "url": "https://wl.eventim.us/event/Liquid-Stranger-Presents-Electric-Helix-DALLAS/709994?afflky=SILO&EVENTPASS=HELIX"
+      "url": "https://wl.eventim.us/event/Liquid-Stranger-Presents-Electric-Helix-DALLAS/709994?afflky=SILO"
     },
     {
       "id": "bill-graham-civic-2027-03-06-2hollis",
@@ -2984,6 +2984,32 @@
       "genre": "EDM",
       "genre_source": "venue",
       "url": "https://wl.eventim.us/event/CYCLOPS-DALLAS/707872?afflky=DiscoPresents-Ductwork"
+    },
+    {
+      "id": "the-regency-ballroom-2027-04-16-nick-cave",
+      "venue": "The Regency Ballroom",
+      "list": "Off Angle",
+      "group": "San Francisco",
+      "date": "2027-04-16",
+      "time": "12:00 AM",
+      "artist": "Nick Cave",
+      "support": "",
+      "genre": "Live Music",
+      "genre_source": "musicbrainz",
+      "url": "https://www.theregencyballroom.com/events/detail?event_id=1684862"
+    },
+    {
+      "id": "the-regency-ballroom-2027-04-17-nick-cave",
+      "venue": "The Regency Ballroom",
+      "list": "Off Angle",
+      "group": "San Francisco",
+      "date": "2027-04-17",
+      "time": "12:00 AM",
+      "artist": "Nick Cave",
+      "support": "",
+      "genre": "Live Music",
+      "genre_source": "musicbrainz",
+      "url": "https://www.theregencyballroom.com/events/detail?event_id=1684864"
     },
     {
       "id": "red-rocks-2027-04-17-sublime",
@@ -3556,6 +3582,19 @@
       "genre": "Live Music",
       "genre_source": "musicbrainz",
       "url": "https://www.redrocksonline.com/events/get-the-led-out-1644914/"
+    },
+    {
+      "id": "red-rocks-2027-09-20-kings-of-leon",
+      "venue": "Red Rocks",
+      "list": "Off Angle",
+      "group": "Out of State",
+      "date": "2027-09-20",
+      "time": "7:30 PM",
+      "artist": "Kings of Leon",
+      "support": "Dexter And The Moonrocks",
+      "genre": "Live Music",
+      "genre_source": "musicbrainz",
+      "url": "https://www.redrocksonline.com/events/kings-of-leon-1690410/"
     },
     {
       "id": "red-rocks-2027-10-13-fontaines-d-c",
