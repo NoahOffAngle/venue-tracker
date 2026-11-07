@@ -1243,6 +1243,10 @@
     "genre": "EDM",
     "checked": "2026-08-06"
   },
+  "san francisco": {
+    "genre": "Live Music",
+    "checked": "2026-11-07"
+  },
   "santana": {
     "genre": "Live Music",
     "checked": "2026-08-06"
@@ -1367,6 +1371,10 @@
     "genre": "EDM",
     "checked": "2026-09-21"
   },
+  "svdden death 888 garage": {
+    "genre": null,
+    "checked": "2026-11-07"
+  },
   "swimming paul": {
     "genre": "EDM",
     "checked": "2026-10-15"
@@ -1410,6 +1418,10 @@
   "the aquabats": {
     "genre": "Live Music",
     "checked": "2026-08-06"
+  },
+  "the army the navy": {
+    "genre": null,
+    "checked": "2026-11-07"
   },
   "the backseat lovers": {
     "genre": "Live Music",
