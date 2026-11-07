@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-07T07:20:17Z",
+  "generated_at": "2026-11-07T14:11:39Z",
   "lists": [
     "Local",
     "Off Angle"
@@ -2726,6 +2726,19 @@
       "url": "https://dothebay.com/events/2027/2/19/2000-s-rave-tickets"
     },
     {
+      "id": "the-midway-2027-02-27-kream",
+      "venue": "The Midway",
+      "list": "Off Angle",
+      "group": "San Francisco",
+      "date": "2027-02-27",
+      "time": "10:00 PM",
+      "artist": "Kream",
+      "support": "",
+      "genre": "EDM",
+      "genre_source": "same artist elsewhere",
+      "url": "https://dothebay.com/events/2027/2/27/kream-tickets"
+    },
+    {
       "id": "the-regency-ballroom-2027-03-03-eluveitie",
       "venue": "The Regency Ballroom",
       "list": "Off Angle",
@@ -2776,6 +2789,19 @@
       "genre": "Live Music",
       "genre_source": "default",
       "url": "https://billgrahamcivic.com/events/2hollis-270306"
+    },
+    {
+      "id": "the-midway-2027-03-06-chelsea-cutler-is-this-the-end-tour",
+      "venue": "The Midway",
+      "list": "Off Angle",
+      "group": "San Francisco",
+      "date": "2027-03-06",
+      "time": "9:00 PM",
+      "artist": "Chelsea Cutler - IS THIS THE END? Tour",
+      "support": "",
+      "genre": "EDM",
+      "genre_source": "venue leaning",
+      "url": "https://dothebay.com/events/2027/3/6/chelsea-cutler-is-this-the-end-tour-tickets"
     },
     {
       "id": "the-regency-ballroom-2027-03-07-currents",
