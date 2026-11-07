@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-07T14:11:39Z",
+  "generated_at": "2026-11-07T22:50:02Z",
   "lists": [
     "Local",
     "Off Angle"
@@ -191,19 +191,6 @@
       "url": "https://www.redrocksonline.com/events/face-vocal-band-25th-anniversary-concert-1400703/"
     },
     {
-      "id": "emo-s-2026-11-08-the-army-the-navy",
-      "venue": "Emo's",
-      "list": "Local",
-      "group": "",
-      "date": "2026-11-08",
-      "time": "5:00 PM",
-      "artist": "The Army, The Navy",
-      "support": "",
-      "genre": "Live Music",
-      "genre_source": "default",
-      "url": "https://www.ticketmaster.com/the-army-the-navy-austin-texas-11-08-2026/event/3A0064CA066E7A64"
-    },
-    {
       "id": "silo-dallas-2026-11-08-alex-farell",
       "venue": "Silo Dallas",
       "list": "Local",
@@ -228,6 +215,19 @@
       "genre": "EDM",
       "genre_source": "venue leaning",
       "url": "https://dothebay.com/events/2026/11/8/mexico-in-a-bottle-tickets"
+    },
+    {
+      "id": "emo-s-2026-11-08-the-army-the-navy",
+      "venue": "Emo's",
+      "list": "Local",
+      "group": "",
+      "date": "2026-11-08",
+      "time": "6:00 PM",
+      "artist": "The Army, The Navy",
+      "support": "",
+      "genre": "Live Music",
+      "genre_source": "default",
+      "url": "https://www.ticketmaster.com/the-army-the-navy-austin-texas-11-08-2026/event/3A0064CA066E7A64"
     },
     {
       "id": "the-regency-ballroom-2026-11-08-nia-archives",
