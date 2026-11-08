@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-08T07:30:43Z",
+  "generated_at": "2026-11-08T18:25:07Z",
   "lists": [
     "Local",
     "Off Angle"
@@ -2724,6 +2724,19 @@
       "genre": "Live Music",
       "genre_source": "musicbrainz",
       "url": "https://billgrahamcivic.com/events/sf-vs-salt-lake-march"
+    },
+    {
+      "id": "the-midway-2027-03-12-layz-presents-outnumbered",
+      "venue": "The Midway",
+      "list": "Off Angle",
+      "group": "San Francisco",
+      "date": "2027-03-12",
+      "time": "10:00 PM",
+      "artist": "LAYZ Presents: OUTNUMBERED",
+      "support": "",
+      "genre": "EDM",
+      "genre_source": "same artist elsewhere",
+      "url": "https://dothebay.com/events/2027/3/12/layz-presents-outnumbered-tickets"
     },
     {
       "id": "silo-dallas-2027-03-12-effin",
