@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-07T22:50:02Z",
+  "generated_at": "2026-11-08T07:30:43Z",
   "lists": [
     "Local",
     "Off Angle"
@@ -73,110 +73,6 @@
     }
   ],
   "events": [
-    {
-      "id": "kingdom-2026-11-07-tokimonsta",
-      "venue": "Kingdom",
-      "list": "Local",
-      "group": "",
-      "date": "2026-11-07",
-      "time": "10:00 PM",
-      "artist": "TOKiMONSTA",
-      "support": "",
-      "genre": "EDM",
-      "genre_source": "venue leaning",
-      "url": "https://kingdomnightclub.com/event/tokimonsta/kingdom-nightclub/austin-texas/"
-    },
-    {
-      "id": "the-midway-2026-11-07-kayzo-the-cage",
-      "venue": "The Midway",
-      "list": "Off Angle",
-      "group": "San Francisco",
-      "date": "2026-11-07",
-      "time": "10:00 PM",
-      "artist": "Kayzo   The Cage",
-      "support": "",
-      "genre": "EDM",
-      "genre_source": "venue leaning",
-      "url": "https://dothebay.com/events/2026/11/7/kayzo-the-cage-tickets"
-    },
-    {
-      "id": "red-rocks-2026-11-07-atliens",
-      "venue": "Red Rocks",
-      "list": "Off Angle",
-      "group": "Out of State",
-      "date": "2026-11-07",
-      "time": "6:00 PM",
-      "artist": "ATLiens",
-      "support": "Richard Finger, Getter B2B ZOEY808, Hostage Situation, Pyke",
-      "genre": "EDM",
-      "genre_source": "keyword",
-      "url": "https://www.redrocksonline.com/events/atliens-1467439/"
-    },
-    {
-      "id": "emo-s-2026-11-07-two-nights-with-they-might-be-giants",
-      "venue": "Emo's",
-      "list": "Local",
-      "group": "",
-      "date": "2026-11-07",
-      "time": "7:00 PM",
-      "artist": "TWO NIGHTS WITH THEY MIGHT BE GIANTS",
-      "support": "",
-      "genre": "Live Music",
-      "genre_source": "default",
-      "url": "https://www.ticketmaster.com/two-nights-with-they-might-be-austin-texas-11-07-2026/event/3A006487D9252E5F"
-    },
-    {
-      "id": "the-regency-ballroom-2026-11-07-lucy-bedroque",
-      "venue": "The Regency Ballroom",
-      "list": "Off Angle",
-      "group": "San Francisco",
-      "date": "2026-11-07",
-      "time": "8:00 PM",
-      "artist": "Lucy Bedroque",
-      "support": "pinponpanpon",
-      "genre": "Live Music",
-      "genre_source": "default",
-      "url": "https://www.theregencyballroom.com/events/detail?event_id=1547252"
-    },
-    {
-      "id": "silo-dallas-2026-11-07-jessica-audiffred",
-      "venue": "Silo Dallas",
-      "list": "Local",
-      "group": "",
-      "date": "2026-11-07",
-      "time": "9:00 PM",
-      "artist": "Jessica Audiffred",
-      "support": "",
-      "genre": "EDM",
-      "genre_source": "venue",
-      "url": "https://wl.eventim.us/event/Jessica-Audiffred-DALLAS/695931?afflky=SILO"
-    },
-    {
-      "id": "silo-houston-2026-11-07-eric-prydz",
-      "venue": "Silo Houston",
-      "list": "Local",
-      "group": "",
-      "date": "2026-11-07",
-      "time": "9:00 PM",
-      "artist": "Eric Prydz",
-      "support": "",
-      "genre": "EDM",
-      "genre_source": "venue",
-      "url": "https://wl.eventim.us/event/Eric-Prydz-HOUSTON/701600?afflky=DuctworkHouston&eventpass=PUSSPUSS"
-    },
-    {
-      "id": "the-midway-2026-11-07-bag-raiders",
-      "venue": "The Midway",
-      "list": "Off Angle",
-      "group": "San Francisco",
-      "date": "2026-11-07",
-      "time": "9:00 PM",
-      "artist": "Bag Raiders",
-      "support": "",
-      "genre": "EDM",
-      "genre_source": "musicbrainz",
-      "url": "https://dothebay.com/events/2026/11/7/bag-raiders-tickets"
-    },
     {
       "id": "red-rocks-2026-11-08-face-vocal-band-25th-anniversary-concert",
       "venue": "Red Rocks",
@@ -3025,19 +2921,6 @@
       "url": "https://wl.eventim.us/event/CYCLOPS-DALLAS/707872?afflky=DiscoPresents-Ductwork"
     },
     {
-      "id": "the-regency-ballroom-2027-04-16-nick-cave",
-      "venue": "The Regency Ballroom",
-      "list": "Off Angle",
-      "group": "San Francisco",
-      "date": "2027-04-16",
-      "time": "8:00 PM",
-      "artist": "Nick Cave",
-      "support": "",
-      "genre": "Live Music",
-      "genre_source": "musicbrainz",
-      "url": "https://www.theregencyballroom.com/events/detail?event_id=1684862"
-    },
-    {
       "id": "red-rocks-2027-04-17-sublime",
       "venue": "Red Rocks",
       "list": "Off Angle",
@@ -3049,19 +2932,6 @@
       "genre": "Live Music",
       "genre_source": "musicbrainz",
       "url": "https://www.redrocksonline.com/events/sublime-1681852/"
-    },
-    {
-      "id": "the-regency-ballroom-2027-04-17-nick-cave",
-      "venue": "The Regency Ballroom",
-      "list": "Off Angle",
-      "group": "San Francisco",
-      "date": "2027-04-17",
-      "time": "8:00 PM",
-      "artist": "Nick Cave",
-      "support": "",
-      "genre": "Live Music",
-      "genre_source": "musicbrainz",
-      "url": "https://www.theregencyballroom.com/events/detail?event_id=1684864"
     },
     {
       "id": "red-rocks-2027-04-18-sublime",
