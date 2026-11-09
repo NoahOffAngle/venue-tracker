@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-08T22:58:32Z",
+  "generated_at": "2026-11-09T08:08:19Z",
   "lists": [
     "Local",
     "Off Angle"
@@ -73,71 +73,6 @@
     }
   ],
   "events": [
-    {
-      "id": "red-rocks-2026-11-08-face-vocal-band-25th-anniversary-concert",
-      "venue": "Red Rocks",
-      "list": "Off Angle",
-      "group": "Out of State",
-      "date": "2026-11-08",
-      "time": "3:30 PM",
-      "artist": "Face Vocal Band: 25th Anniversary Concert",
-      "support": "",
-      "genre": "Live Music",
-      "genre_source": "default",
-      "url": "https://www.redrocksonline.com/events/face-vocal-band-25th-anniversary-concert-1400703/"
-    },
-    {
-      "id": "silo-dallas-2026-11-08-alex-farell",
-      "venue": "Silo Dallas",
-      "list": "Local",
-      "group": "",
-      "date": "2026-11-08",
-      "time": "5:00 PM",
-      "artist": "Alex Farell",
-      "support": "",
-      "genre": "EDM",
-      "genre_source": "venue",
-      "url": "https://wl.eventim.us/event/Alex-Farell-DALLAS/707158?afflky=DiscoPresents-Ductwork"
-    },
-    {
-      "id": "the-midway-2026-11-08-mexico-in-a-bottle",
-      "venue": "The Midway",
-      "list": "Off Angle",
-      "group": "San Francisco",
-      "date": "2026-11-08",
-      "time": "5:00 PM",
-      "artist": "Mexico in a Bottle",
-      "support": "",
-      "genre": "EDM",
-      "genre_source": "venue leaning",
-      "url": "https://dothebay.com/events/2026/11/8/mexico-in-a-bottle-tickets"
-    },
-    {
-      "id": "emo-s-2026-11-08-the-army-the-navy",
-      "venue": "Emo's",
-      "list": "Local",
-      "group": "",
-      "date": "2026-11-08",
-      "time": "6:00 PM",
-      "artist": "The Army, The Navy",
-      "support": "",
-      "genre": "Live Music",
-      "genre_source": "default",
-      "url": "https://www.ticketmaster.com/the-army-the-navy-austin-texas-11-08-2026/event/3A0064CA066E7A64"
-    },
-    {
-      "id": "the-regency-ballroom-2026-11-08-nia-archives",
-      "venue": "The Regency Ballroom",
-      "list": "Off Angle",
-      "group": "San Francisco",
-      "date": "2026-11-08",
-      "time": "8:00 PM",
-      "artist": "Nia Archives",
-      "support": "BAMBII",
-      "genre": "EDM",
-      "genre_source": "musicbrainz",
-      "url": "https://www.theregencyballroom.com/events/detail?event_id=1581521"
-    },
     {
       "id": "emo-s-2026-11-09-rival-sons-domestic-bliss-tour",
       "venue": "Emo's",
