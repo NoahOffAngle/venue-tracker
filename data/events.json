@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-11T07:49:31Z",
+  "generated_at": "2026-11-11T20:15:20Z",
   "lists": [
     "Local",
     "Off Angle"
@@ -2570,6 +2570,19 @@
       "url": "https://dothebay.com/events/2027/2/27/kream-tickets"
     },
     {
+      "id": "bill-graham-civic-2027-02-27-sullivan-king",
+      "venue": "Bill Graham Civic",
+      "list": "Off Angle",
+      "group": "San Francisco",
+      "date": "2027-02-27",
+      "time": "7:00 PM",
+      "artist": "Sullivan King",
+      "support": "CHYL, Paper Skies, 2DY4",
+      "genre": "EDM",
+      "genre_source": "musicbrainz",
+      "url": "https://billgrahamcivic.com/events/sullivan-king-270227"
+    },
+    {
       "id": "the-regency-ballroom-2027-03-03-eluveitie",
       "venue": "The Regency Ballroom",
       "list": "Off Angle",
@@ -2711,6 +2724,19 @@
       "genre": "EDM",
       "genre_source": "venue",
       "url": "https://wl.eventim.us/event/EFFIN-Heartbeats-Tour-DALLAS/708174?afflky=SILO"
+    },
+    {
+      "id": "silo-dallas-2027-03-13-mersiv",
+      "venue": "Silo Dallas",
+      "list": "Local",
+      "group": "",
+      "date": "2027-03-13",
+      "time": "9:00 PM",
+      "artist": "Mersiv",
+      "support": "",
+      "genre": "EDM",
+      "genre_source": "venue",
+      "url": "https://silodallas.com/events/mersiv-65713901409"
     },
     {
       "id": "the-regency-ballroom-2027-03-18-jersey",
@@ -2892,7 +2918,7 @@
       "support": "",
       "genre": "EDM",
       "genre_source": "venue",
-      "url": "https://silodallas.com/events/lsdream-65706009616"
+      "url": "https://wl.eventim.us/event/LSDREAM-BEE-HERE-NOW-TOUR-DALLAS/710137?afflky=SILO&EVENTPASS=BEE"
     },
     {
       "id": "red-rocks-2027-04-10-prof",
@@ -2958,6 +2984,19 @@
       "genre": "Live Music",
       "genre_source": "musicbrainz",
       "url": "https://www.redrocksonline.com/events/sublime-1681854/"
+    },
+    {
+      "id": "red-rocks-2027-04-20-sublime",
+      "venue": "Red Rocks",
+      "list": "Off Angle",
+      "group": "Out of State",
+      "date": "2027-04-20",
+      "time": "6:00 PM",
+      "artist": "Sublime",
+      "support": "",
+      "genre": "Live Music",
+      "genre_source": "musicbrainz",
+      "url": "https://www.redrocksonline.com/events/sublime-1695286/"
     },
     {
       "id": "the-regency-ballroom-2027-04-20-brakence",
