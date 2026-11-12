@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-11T20:15:20Z",
+  "generated_at": "2026-11-12T08:27:02Z",
   "lists": [
     "Local",
     "Off Angle"
@@ -73,58 +73,6 @@
     }
   ],
   "events": [
-    {
-      "id": "emo-s-2026-11-11-jose-madero-usa-tour-2026",
-      "venue": "Emo's",
-      "list": "Local",
-      "group": "",
-      "date": "2026-11-11",
-      "time": "7:00 PM",
-      "artist": "Jose Madero - USA Tour 2026",
-      "support": "",
-      "genre": "Live Music",
-      "genre_source": "default",
-      "url": "https://www.ticketmaster.com/jose-madero-usa-tour-2026-austin-texas-11-11-2026/event/3A0064D196617E5C"
-    },
-    {
-      "id": "bill-graham-civic-2026-11-11-brand-new",
-      "venue": "Bill Graham Civic",
-      "list": "Off Angle",
-      "group": "San Francisco",
-      "date": "2026-11-11",
-      "time": "8:00 PM",
-      "artist": "Brand New",
-      "support": "",
-      "genre": "Live Music",
-      "genre_source": "musicbrainz",
-      "url": "https://billgrahamcivic.com/events/brand-new-261111"
-    },
-    {
-      "id": "red-rocks-2026-11-11-steve-lacy-oh-yeah-tour",
-      "venue": "Red Rocks",
-      "list": "Off Angle",
-      "group": "Out of State",
-      "date": "2026-11-11",
-      "time": "8:00 PM",
-      "artist": "Steve Lacy: Oh yeah? Tour",
-      "support": "",
-      "genre": "Live Music",
-      "genre_source": "musicbrainz",
-      "url": "https://www.redrocksonline.com/events/steve-lacy-oh-yeahy-tour-1542697/"
-    },
-    {
-      "id": "the-regency-ballroom-2026-11-11-soft-cell",
-      "venue": "The Regency Ballroom",
-      "list": "Off Angle",
-      "group": "San Francisco",
-      "date": "2026-11-11",
-      "time": "8:00 PM",
-      "artist": "Soft Cell",
-      "support": "",
-      "genre": "EDM",
-      "genre_source": "musicbrainz",
-      "url": "https://www.theregencyballroom.com/events/detail?event_id=1527107"
-    },
     {
       "id": "red-rocks-2026-11-12-clipse-j-i-d",
       "venue": "Red Rocks",
@@ -1251,7 +1199,7 @@
       "date": "2026-12-06",
       "time": "8:00 PM",
       "artist": "Ripe",
-      "support": "",
+      "support": "Super Greens",
       "genre": "Live Music",
       "genre_source": "musicbrainz",
       "url": "https://www.theregencyballroom.com/events/detail?event_id=1587666"
@@ -2776,6 +2724,19 @@
       "genre": "EDM",
       "genre_source": "venue",
       "url": "https://wl.eventim.us/event/LEVEL-UP-DALLAS/706784?afflky=SILO"
+    },
+    {
+      "id": "red-rocks-2027-03-24-porter-robinson-b2b-ninajirachi",
+      "venue": "Red Rocks",
+      "list": "Off Angle",
+      "group": "Out of State",
+      "date": "2027-03-24",
+      "time": "6:00 PM",
+      "artist": "Porter Robinson B2B Ninajirachi",
+      "support": "TBA",
+      "genre": "EDM",
+      "genre_source": "musicbrainz",
+      "url": "https://www.redrocksonline.com/events/porter-robinson-b2b-ninajirachi-1674914/"
     },
     {
       "id": "bill-graham-civic-2027-03-24-san-francisco-vs-los-angeles",
