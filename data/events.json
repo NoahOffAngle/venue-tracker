@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-12T20:57:20Z",
+  "generated_at": "2026-11-13T08:10:32Z",
   "lists": [
     "Local",
     "Off Angle"
@@ -73,45 +73,6 @@
     }
   ],
   "events": [
-    {
-      "id": "red-rocks-2026-11-12-clipse-j-i-d",
-      "venue": "Red Rocks",
-      "list": "Off Angle",
-      "group": "Out of State",
-      "date": "2026-11-12",
-      "time": "6:00 PM",
-      "artist": "Clipse & J.I.D",
-      "support": "Samara Cyn",
-      "genre": "Live Music",
-      "genre_source": "musicbrainz",
-      "url": "https://www.redrocksonline.com/events/clipse-j-i-d-1439908/"
-    },
-    {
-      "id": "the-regency-ballroom-2026-11-12-an-evening-with-band-of-horses",
-      "venue": "The Regency Ballroom",
-      "list": "Off Angle",
-      "group": "San Francisco",
-      "date": "2026-11-12",
-      "time": "8:00 PM",
-      "artist": "An Evening With Band of Horses",
-      "support": "",
-      "genre": "Live Music",
-      "genre_source": "default",
-      "url": "https://www.theregencyballroom.com/events/detail?event_id=1444971"
-    },
-    {
-      "id": "silo-dallas-2026-11-12-tisoki",
-      "venue": "Silo Dallas",
-      "list": "Local",
-      "group": "",
-      "date": "2026-11-12",
-      "time": "9:00 PM",
-      "artist": "Tisoki",
-      "support": "",
-      "genre": "EDM",
-      "genre_source": "venue",
-      "url": "https://wl.eventim.us/event/Tisoki-DALLAS/700493?afflky=DiscoPresents-Ductwork"
-    },
     {
       "id": "the-concourse-project-2026-11-13-seismic-dance-event-9-0",
       "venue": "The Concourse Project",
@@ -306,6 +267,19 @@
       "genre": "EDM",
       "genre_source": "venue",
       "url": "https://wl.eventim.us/event/ZHU-ON-THE-MOVE-DALLAS/689492?afflky=SILO"
+    },
+    {
+      "id": "the-midway-2026-11-14-reggaeton-rave",
+      "venue": "The Midway",
+      "list": "Off Angle",
+      "group": "San Francisco",
+      "date": "2026-11-14",
+      "time": "9:00 PM",
+      "artist": "Reggaeton Rave",
+      "support": "",
+      "genre": "EDM",
+      "genre_source": "keyword",
+      "url": "https://dothebay.com/events/2026/11/14/reggaeton-rave-tickets"
     },
     {
       "id": "under-the-k-bridge-2026-11-15-garden-club-under-the-k-bridge-park",
@@ -590,7 +564,7 @@
       "artist": "Tisoki",
       "support": "",
       "genre": "EDM",
-      "genre_source": "same artist elsewhere",
+      "genre_source": "musicbrainz",
       "url": "https://dothebay.com/events/2026/11/21/tisoki-tickets"
     },
     {
@@ -644,6 +618,19 @@
       "genre": "EDM",
       "genre_source": "site",
       "url": "https://wl.seetickets.us/event/Eric-Prydz-at-The-Concourse-Project/691628?afflky=TheConcourseProject"
+    },
+    {
+      "id": "the-midway-2026-11-21-wuki-beats-i-can-t-release-mixtape-vol-3",
+      "venue": "The Midway",
+      "list": "Off Angle",
+      "group": "San Francisco",
+      "date": "2026-11-21",
+      "time": "9:00 PM",
+      "artist": "WUKI - BEATS I CAN'T RELEASE: MIXTAPE VOL. 3",
+      "support": "",
+      "genre": "EDM",
+      "genre_source": "venue leaning",
+      "url": "https://dothebay.com/events/2026/11/21/wuki-beats-i-cant-release-mixtape-vol-3-tickets"
     },
     {
       "id": "emo-s-2026-11-22-syd-beard-tour",
@@ -2193,6 +2180,19 @@
       "url": "https://wl.eventim.us/event/TWINSICK-DALLAS/705248?afflky=SILO"
     },
     {
+      "id": "the-midway-2027-01-23-bolly-la-la-land",
+      "venue": "The Midway",
+      "list": "Off Angle",
+      "group": "San Francisco",
+      "date": "2027-01-23",
+      "time": "9:00 PM",
+      "artist": "Bolly La La Land",
+      "support": "",
+      "genre": "EDM",
+      "genre_source": "venue leaning",
+      "url": "https://dothebay.com/events/2027/1/23/bolly-la-la-land-tickets"
+    },
+    {
       "id": "the-regency-ballroom-2027-01-23-glee-night",
       "venue": "The Regency Ballroom",
       "list": "Off Angle",
@@ -2295,6 +2295,19 @@
       "genre": "EDM",
       "genre_source": "venue",
       "url": "https://wl.eventim.us/event/JSTJR-Techno-Playground-DALLAS/710385?afflky=SILO"
+    },
+    {
+      "id": "the-midway-2027-01-30-bresh",
+      "venue": "The Midway",
+      "list": "Off Angle",
+      "group": "San Francisco",
+      "date": "2027-01-30",
+      "time": "9:00 PM",
+      "artist": "Bresh",
+      "support": "",
+      "genre": "EDM",
+      "genre_source": "same artist elsewhere",
+      "url": "https://dothebay.com/events/2027/1/30/bresh-tickets"
     },
     {
       "id": "silo-dallas-2027-01-31-viperactive",
@@ -2505,17 +2518,17 @@
       "url": "https://dothebay.com/events/2027/2/19/2000-s-rave-tickets"
     },
     {
-      "id": "the-midway-2027-02-27-kream",
+      "id": "the-midway-2027-02-20-taiki-nulight",
       "venue": "The Midway",
       "list": "Off Angle",
       "group": "San Francisco",
-      "date": "2027-02-27",
-      "time": "10:00 PM",
-      "artist": "Kream",
+      "date": "2027-02-20",
+      "time": "9:00 PM",
+      "artist": "Taiki Nulight",
       "support": "",
       "genre": "EDM",
-      "genre_source": "same artist elsewhere",
-      "url": "https://dothebay.com/events/2027/2/27/kream-tickets"
+      "genre_source": "musicbrainz",
+      "url": "https://dothebay.com/events/2027/2/20/taiki-nulight-tickets"
     },
     {
       "id": "bill-graham-civic-2027-02-27-sullivan-king",
@@ -2596,19 +2609,6 @@
       "url": "https://billgrahamcivic.com/events/2hollis-270306"
     },
     {
-      "id": "the-midway-2027-03-06-chelsea-cutler-is-this-the-end-tour",
-      "venue": "The Midway",
-      "list": "Off Angle",
-      "group": "San Francisco",
-      "date": "2027-03-06",
-      "time": "9:00 PM",
-      "artist": "Chelsea Cutler - IS THIS THE END? Tour",
-      "support": "",
-      "genre": "EDM",
-      "genre_source": "venue leaning",
-      "url": "https://dothebay.com/events/2027/3/6/chelsea-cutler-is-this-the-end-tour-tickets"
-    },
-    {
       "id": "the-regency-ballroom-2027-03-07-currents",
       "venue": "The Regency Ballroom",
       "list": "Off Angle",
@@ -2646,19 +2646,6 @@
       "genre": "EDM",
       "genre_source": "venue",
       "url": "https://silodallas.com/events/mc4d-65706009602"
-    },
-    {
-      "id": "the-midway-2027-03-12-layz-presents-outnumbered",
-      "venue": "The Midway",
-      "list": "Off Angle",
-      "group": "San Francisco",
-      "date": "2027-03-12",
-      "time": "10:00 PM",
-      "artist": "LAYZ Presents: OUTNUMBERED",
-      "support": "",
-      "genre": "EDM",
-      "genre_source": "same artist elsewhere",
-      "url": "https://dothebay.com/events/2027/3/12/layz-presents-outnumbered-tickets"
     },
     {
       "id": "silo-dallas-2027-03-12-effin",

@@ -159,6 +159,10 @@
     "genre": "Live Music",
     "checked": "2026-08-06"
   },
+  "bolly la la land": {
+    "genre": null,
+    "checked": "2026-11-13"
+  },
   "bolo's block after hours": {
     "genre": null,
     "checked": "2026-09-29"
@@ -1419,6 +1423,10 @@
     "genre": "Live Music",
     "checked": "2026-10-01"
   },
+  "taiki nulight": {
+    "genre": "EDM",
+    "checked": "2026-11-13"
+  },
   "taiwan golden melody night": {
     "genre": null,
     "checked": "2026-08-11"
@@ -1523,6 +1531,10 @@
     "genre": null,
     "checked": "2026-08-06"
   },
+  "tisoki": {
+    "genre": "EDM",
+    "checked": "2026-11-13"
+  },
   "tokimonsta": {
     "genre": null,
     "checked": "2026-09-17"
@@ -1622,6 +1634,10 @@
   "worship": {
     "genre": "Live Music",
     "checked": "2026-08-06"
+  },
+  "wuki": {
+    "genre": null,
+    "checked": "2026-11-13"
   },
   "xoxo and matin e": {
     "genre": null,
