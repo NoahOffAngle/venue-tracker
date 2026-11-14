@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-14T07:40:55Z",
+  "generated_at": "2026-11-14T18:46:52Z",
   "lists": [
     "Local",
     "Off Angle"
@@ -2425,6 +2425,19 @@
       "genre": "EDM",
       "genre_source": "musicbrainz",
       "url": "https://dothebay.com/events/2027/2/20/taiki-nulight-tickets"
+    },
+    {
+      "id": "the-midway-2027-02-27-kream",
+      "venue": "The Midway",
+      "list": "Off Angle",
+      "group": "San Francisco",
+      "date": "2027-02-27",
+      "time": "10:00 PM",
+      "artist": "Kream",
+      "support": "",
+      "genre": "EDM",
+      "genre_source": "same artist elsewhere",
+      "url": "https://dothebay.com/events/2027/2/27/kream-tickets"
     },
     {
       "id": "bill-graham-civic-2027-02-27-sullivan-king",
