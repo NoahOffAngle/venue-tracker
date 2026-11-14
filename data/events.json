@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-14T18:46:52Z",
+  "generated_at": "2026-11-14T23:07:51Z",
   "lists": [
     "Local",
     "Off Angle"
@@ -73,6 +73,19 @@
     }
   ],
   "events": [
+    {
+      "id": "kingdom-2026-11-14-almost-heaven-dj-set",
+      "venue": "Kingdom",
+      "list": "Local",
+      "group": "",
+      "date": "2026-11-14",
+      "time": "10:00 PM",
+      "artist": "Almost Heaven (DJ Set)",
+      "support": "",
+      "genre": "EDM",
+      "genre_source": "keyword",
+      "url": "https://kingdomnightclub.com/event/almost-heaven-dj-set/kingdom-nightclub/austin-texas/"
+    },
     {
       "id": "kingdom-2026-11-14-doss",
       "venue": "Kingdom",
