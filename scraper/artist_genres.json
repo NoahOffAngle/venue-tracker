@@ -999,6 +999,10 @@
     "genre": null,
     "checked": "2026-08-06"
   },
+  "megadeth": {
+    "genre": "Live Music",
+    "checked": "2026-11-16"
+  },
   "mersiv": {
     "genre": null,
     "checked": "2026-08-06"
@@ -1255,6 +1259,10 @@
     "genre": "Live Music",
     "checked": "2026-08-16"
   },
+  "roa": {
+    "genre": null,
+    "checked": "2026-11-16"
+  },
   "rod stewart": {
     "genre": null,
     "checked": "2026-08-06"
@@ -1386,6 +1394,10 @@
   "stardew valley": {
     "genre": null,
     "checked": "2026-08-06"
+  },
+  "stephen wilson jr": {
+    "genre": "Live Music",
+    "checked": "2026-11-16"
   },
   "steve aoki": {
     "genre": "EDM",
@@ -1618,6 +1630,10 @@
   "wave to earth": {
     "genre": null,
     "checked": "2026-08-06"
+  },
+  "westlife": {
+    "genre": null,
+    "checked": "2026-11-16"
   },
   "whales": {
     "genre": null,

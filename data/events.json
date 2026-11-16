@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-16T08:04:59Z",
+  "generated_at": "2026-11-16T22:57:05Z",
   "lists": [
     "Local",
     "Off Angle"
@@ -213,7 +213,7 @@
       "artist": "James Hype",
       "support": "",
       "genre": "EDM",
-      "genre_source": "musicbrainz",
+      "genre_source": "same artist elsewhere",
       "url": "https://dothebay.com/events/2026/11/20/james-hype-tickets"
     },
     {
@@ -787,6 +787,19 @@
       "genre": "Live Music",
       "genre_source": "default",
       "url": "https://www.redrocksonline.com/events/christmas-in-color-2-6/"
+    },
+    {
+      "id": "the-regency-ballroom-2026-12-03-roa",
+      "venue": "The Regency Ballroom",
+      "list": "Off Angle",
+      "group": "San Francisco",
+      "date": "2026-12-03",
+      "time": "8:00 PM",
+      "artist": "ROA",
+      "support": "",
+      "genre": "Live Music",
+      "genre_source": "default",
+      "url": "https://www.theregencyballroom.com/events/detail?event_id=1573659"
     },
     {
       "id": "silo-dallas-2026-12-03-samplifire",
@@ -1699,6 +1712,19 @@
       "url": "https://www.redrocksonline.com/events/christmas-in-color-2-35/"
     },
     {
+      "id": "silo-dallas-2027-01-07-perry-wayne",
+      "venue": "Silo Dallas",
+      "list": "Local",
+      "group": "",
+      "date": "2027-01-07",
+      "time": "8:00 PM",
+      "artist": "Perry Wayne",
+      "support": "",
+      "genre": "EDM",
+      "genre_source": "venue",
+      "url": "https://silodallas.com/events/perry-wayne-66162943607"
+    },
+    {
       "id": "silo-dallas-2027-01-09-nora-en-pure",
       "venue": "Silo Dallas",
       "list": "Local",
@@ -1840,6 +1866,19 @@
       "genre": "EDM",
       "genre_source": "venue",
       "url": "https://wl.eventim.us/event/REAPER-DALLAS/709720?afflky=DiscoPresents-Ductwork"
+    },
+    {
+      "id": "kingdom-2027-01-22-taiki-nulight",
+      "venue": "Kingdom",
+      "list": "Local",
+      "group": "",
+      "date": "2027-01-22",
+      "time": "10:00 PM",
+      "artist": "Taiki Nulight",
+      "support": "",
+      "genre": "EDM",
+      "genre_source": "musicbrainz",
+      "url": "https://kingdomnightclub.com/event/taiki-nulight/kingdom-nightclub/austin-texas/"
     },
     {
       "id": "bill-graham-civic-2027-01-22-san-francisco-vs-madison",
@@ -2271,6 +2310,19 @@
       "url": "https://dothebay.com/events/2027/2/19/2000-s-rave-tickets"
     },
     {
+      "id": "silo-dallas-2027-02-20-james-hype",
+      "venue": "Silo Dallas",
+      "list": "Local",
+      "group": "",
+      "date": "2027-02-20",
+      "time": "9:00 PM",
+      "artist": "James Hype",
+      "support": "",
+      "genre": "EDM",
+      "genre_source": "venue",
+      "url": "https://silodallas.com/events/james-hype-66162572089"
+    },
+    {
       "id": "the-midway-2027-02-20-taiki-nulight",
       "venue": "The Midway",
       "list": "Off Angle",
@@ -2308,6 +2360,19 @@
       "genre": "EDM",
       "genre_source": "musicbrainz",
       "url": "https://billgrahamcivic.com/events/sullivan-king-270227"
+    },
+    {
+      "id": "bill-graham-civic-2027-03-02-westlife",
+      "venue": "Bill Graham Civic",
+      "list": "Off Angle",
+      "group": "San Francisco",
+      "date": "2027-03-02",
+      "time": "7:30 PM",
+      "artist": "Westlife",
+      "support": "O-Town",
+      "genre": "Live Music",
+      "genre_source": "default",
+      "url": "https://billgrahamcivic.com/events/westlife-270302"
     },
     {
       "id": "the-regency-ballroom-2027-03-03-eluveitie",
@@ -3077,6 +3142,19 @@
       "url": "https://www.redrocksonline.com/events/matchbox-twenty-30-1656984/"
     },
     {
+      "id": "red-rocks-2027-05-26-megadeth-vaccination-of-the-nations-tour",
+      "venue": "Red Rocks",
+      "list": "Off Angle",
+      "group": "Out of State",
+      "date": "2027-05-26",
+      "time": "7:00 PM",
+      "artist": "MEGADETH: Vaccination of the Nations Tour",
+      "support": "Anthrax, Kerry King",
+      "genre": "Live Music",
+      "genre_source": "musicbrainz",
+      "url": "https://www.redrocksonline.com/events/megadeth-vaccination-of-the-nations-tour-1698155/"
+    },
+    {
       "id": "red-rocks-2027-05-27-a-perfect-circle-with-special-guest-the-cult",
       "venue": "Red Rocks",
       "list": "Off Angle",
@@ -3166,6 +3244,19 @@
       "genre": "Live Music",
       "genre_source": "musicbrainz",
       "url": "https://www.theregencyballroom.com/events/detail?event_id=1655580"
+    },
+    {
+      "id": "red-rocks-2027-06-20-stephen-wilson-jr-impression-of-a-human-tour",
+      "venue": "Red Rocks",
+      "list": "Off Angle",
+      "group": "Out of State",
+      "date": "2027-06-20",
+      "time": "7:30 PM",
+      "artist": "Stephen Wilson Jr. – Impression of a Human Tour",
+      "support": "",
+      "genre": "Live Music",
+      "genre_source": "musicbrainz",
+      "url": "https://www.redrocksonline.com/events/stephen-wilson-jr-y-impression-of-a-human-tour-1699382/"
     },
     {
       "id": "red-rocks-2027-06-21-papa-roach-rise-of-the-roach-tour",
