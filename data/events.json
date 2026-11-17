@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-16T22:57:05Z",
+  "generated_at": "2026-11-17T09:20:03Z",
   "lists": [
     "Local",
     "Off Angle"
@@ -73,19 +73,6 @@
     }
   ],
   "events": [
-    {
-      "id": "the-regency-ballroom-2026-11-16-manic-street-preachers",
-      "venue": "The Regency Ballroom",
-      "list": "Off Angle",
-      "group": "San Francisco",
-      "date": "2026-11-16",
-      "time": "8:00 PM",
-      "artist": "Manic Street Preachers",
-      "support": "",
-      "genre": "Live Music",
-      "genre_source": "musicbrainz",
-      "url": "https://www.theregencyballroom.com/events/detail?event_id=1463683"
-    },
     {
       "id": "emo-s-2026-11-17-amble",
       "venue": "Emo's",
@@ -3148,7 +3135,7 @@
       "group": "Out of State",
       "date": "2027-05-26",
       "time": "7:00 PM",
-      "artist": "MEGADETH: Vaccination of the Nations Tour",
+      "artist": "Megadeth: Vaccination of the Nations Tour",
       "support": "Anthrax, Kerry King",
       "genre": "Live Music",
       "genre_source": "musicbrainz",
