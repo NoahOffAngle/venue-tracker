@@ -107,6 +107,10 @@
     "genre": "EDM",
     "checked": "2026-09-28"
   },
+  "avatar": {
+    "genre": null,
+    "checked": "2026-11-17"
+  },
   "bag raiders": {
     "genre": "EDM",
     "checked": "2026-10-28"
@@ -443,6 +447,10 @@
     "genre": "Live Music",
     "checked": "2026-10-14"
   },
+  "dubfire20": {
+    "genre": null,
+    "checked": "2026-11-17"
+  },
   "dvs1": {
     "genre": null,
     "checked": "2026-09-15"
@@ -747,6 +755,10 @@
     "genre": "EDM",
     "checked": "2026-10-03"
   },
+  "jason isbell and the 400 unit": {
+    "genre": "Live Music",
+    "checked": "2026-11-17"
+  },
   "jay park": {
     "genre": "Live Music",
     "checked": "2026-08-06"
@@ -954,6 +966,10 @@
   "marc rebillet franc moody": {
     "genre": null,
     "checked": "2026-08-23"
+  },
+  "mardi gras gumbo festival 2027": {
+    "genre": null,
+    "checked": "2026-11-17"
   },
   "marilyn manson": {
     "genre": "Live Music",

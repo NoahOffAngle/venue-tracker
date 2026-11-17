@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-17T09:20:03Z",
+  "generated_at": "2026-11-17T21:50:33Z",
   "lists": [
     "Local",
     "Off Angle"
@@ -238,8 +238,8 @@
       "time": "8:00 PM",
       "artist": "Layton Giordani",
       "support": "Greggio",
-      "genre": "Live Music",
-      "genre_source": "default",
+      "genre": "EDM",
+      "genre_source": "same artist elsewhere",
       "url": "https://www.theregencyballroom.com/events/detail?event_id=1464359"
     },
     {
@@ -1530,6 +1530,19 @@
       "url": "https://www.redrocksonline.com/events/christmas-in-color-2-30/"
     },
     {
+      "id": "silo-dallas-2026-12-28-horsegiirl",
+      "venue": "Silo Dallas",
+      "list": "Local",
+      "group": "",
+      "date": "2026-12-28",
+      "time": "9:00 PM",
+      "artist": "horsegiirL",
+      "support": "",
+      "genre": "EDM",
+      "genre_source": "venue",
+      "url": "https://silodallas.com/events/horsegiirl-66162943617"
+    },
+    {
       "id": "red-rocks-2026-12-29-christmas-in-color",
       "venue": "Red Rocks",
       "list": "Off Angle",
@@ -2115,6 +2128,19 @@
       "url": "https://billgrahamcivic.com/events/sf-vs-salt-lake"
     },
     {
+      "id": "silo-dallas-2027-02-04-spencer-brown",
+      "venue": "Silo Dallas",
+      "list": "Local",
+      "group": "",
+      "date": "2027-02-04",
+      "time": "8:00 PM",
+      "artist": "Spencer Brown",
+      "support": "",
+      "genre": "EDM",
+      "genre_source": "venue",
+      "url": "https://silodallas.com/events/spencer-brown-66360423284"
+    },
+    {
       "id": "the-midway-2027-02-05-toxic-winter-2027",
       "venue": "The Midway",
       "list": "Off Angle",
@@ -2232,6 +2258,19 @@
       "url": "https://wl.eventim.us/event/LAYZ-DALLAS/709076?afflky=SILO"
     },
     {
+      "id": "the-midway-2027-02-13-mardi-gras-gumbo-festival-2027",
+      "venue": "The Midway",
+      "list": "Off Angle",
+      "group": "San Francisco",
+      "date": "2027-02-13",
+      "time": "11:00 AM",
+      "artist": "Mardi Gras Gumbo Festival 2027",
+      "support": "",
+      "genre": "EDM",
+      "genre_source": "venue leaning",
+      "url": "https://dothebay.com/events/2027/2/13/mardi-gras-gumbo-festival-2027-tickets"
+    },
+    {
       "id": "the-midway-2027-02-13-bassrush-presents-level-up-the-ritual-tour-2027",
       "venue": "The Midway",
       "list": "Off Angle",
@@ -2307,7 +2346,7 @@
       "support": "",
       "genre": "EDM",
       "genre_source": "venue",
-      "url": "https://silodallas.com/events/james-hype-66162572089"
+      "url": "https://wl.eventim.us/event/JAMES-HYPE-DALLAS/711573?afflky=SILO"
     },
     {
       "id": "the-midway-2027-02-20-taiki-nulight",
@@ -2347,6 +2386,19 @@
       "genre": "EDM",
       "genre_source": "musicbrainz",
       "url": "https://billgrahamcivic.com/events/sullivan-king-270227"
+    },
+    {
+      "id": "silo-dallas-2027-02-27-layton-giordani",
+      "venue": "Silo Dallas",
+      "list": "Local",
+      "group": "",
+      "date": "2027-02-27",
+      "time": "9:00 PM",
+      "artist": "Layton Giordani",
+      "support": "",
+      "genre": "EDM",
+      "genre_source": "venue",
+      "url": "https://silodallas.com/events/layton-giordani-66163069818"
     },
     {
       "id": "bill-graham-civic-2027-03-02-westlife",
@@ -2476,20 +2528,7 @@
       "support": "",
       "genre": "EDM",
       "genre_source": "venue",
-      "url": "https://silodallas.com/events/mc4d-65706009602"
-    },
-    {
-      "id": "the-midway-2027-03-12-layz-presents-outnumbered",
-      "venue": "The Midway",
-      "list": "Off Angle",
-      "group": "San Francisco",
-      "date": "2027-03-12",
-      "time": "10:00 PM",
-      "artist": "LAYZ Presents: OUTNUMBERED",
-      "support": "",
-      "genre": "EDM",
-      "genre_source": "same artist elsewhere",
-      "url": "https://dothebay.com/events/2027/3/12/layz-presents-outnumbered-tickets"
+      "url": "https://wl.eventim.us/event/MC4D-DALLAS/710625?afflky=DiscoPresents-Ductwork&EVENTPASS=COMPASS27"
     },
     {
       "id": "silo-dallas-2027-03-12-effin",
@@ -2685,6 +2724,19 @@
       "genre": "EDM",
       "genre_source": "musicbrainz",
       "url": "https://www.redrocksonline.com/events/hol-1657003/"
+    },
+    {
+      "id": "kingdom-2027-04-09-dubfire20",
+      "venue": "Kingdom",
+      "list": "Local",
+      "group": "",
+      "date": "2027-04-09",
+      "time": "10:00 PM",
+      "artist": "DUBFIRE20",
+      "support": "",
+      "genre": "EDM",
+      "genre_source": "venue leaning",
+      "url": "https://kingdomnightclub.com/event/dubfire20/kingdom-nightclub/austin-texas/"
     },
     {
       "id": "red-rocks-2027-04-09-svdden-death",
@@ -2973,6 +3025,19 @@
       "url": "https://www.redrocksonline.com/events/josiah-queen-1631705/"
     },
     {
+      "id": "the-regency-ballroom-2027-05-11-avatar",
+      "venue": "The Regency Ballroom",
+      "list": "Off Angle",
+      "group": "San Francisco",
+      "date": "2027-05-11",
+      "time": "7:00 PM",
+      "artist": "AVATAR",
+      "support": "The Barbarians of California",
+      "genre": "Live Music",
+      "genre_source": "default",
+      "url": "https://www.theregencyballroom.com/events/detail?event_id=1704397"
+    },
+    {
       "id": "red-rocks-2027-05-11-two-door-cinema-club",
       "venue": "Red Rocks",
       "list": "Off Angle",
@@ -3049,6 +3114,19 @@
       "genre": "Live Music",
       "genre_source": "default",
       "url": "https://underthekbridge.org/events/detail?event_id=1670971"
+    },
+    {
+      "id": "red-rocks-2027-05-15-jason-isbell-and-the-400-unit-drive-by-truckers",
+      "venue": "Red Rocks",
+      "list": "Off Angle",
+      "group": "Out of State",
+      "date": "2027-05-15",
+      "time": "7:00 PM",
+      "artist": "Jason Isbell and the 400 Unit & Drive-By Truckers",
+      "support": "",
+      "genre": "Live Music",
+      "genre_source": "musicbrainz",
+      "url": "https://www.redrocksonline.com/events/jason-isbell-and-the-400-unit-drive-by-truckers-1695032/"
     },
     {
       "id": "the-regency-ballroom-2027-05-15-the-wombats",
