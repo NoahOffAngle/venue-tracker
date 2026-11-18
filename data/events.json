@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-18T08:39:26Z",
+  "generated_at": "2026-11-18T21:29:11Z",
   "lists": [
     "Local",
     "Off Angle"
@@ -501,19 +501,6 @@
       "genre": "Live Music",
       "genre_source": "default",
       "url": "https://www.ticketmaster.com/grief-sucks-a-one-man-show-austin-texas-11-27-2026/event/3A0064E6E42CC53F"
-    },
-    {
-      "id": "the-regency-ballroom-2026-11-27-amtrac",
-      "venue": "The Regency Ballroom",
-      "list": "Off Angle",
-      "group": "San Francisco",
-      "date": "2026-11-27",
-      "time": "8:00 PM",
-      "artist": "Amtrac",
-      "support": "Seb Wildblood",
-      "genre": "EDM",
-      "genre_source": "musicbrainz",
-      "url": "https://www.theregencyballroom.com/events/detail?event_id=1566122"
     },
     {
       "id": "silo-dallas-2026-11-27-deathpact",
@@ -1696,7 +1683,7 @@
       "support": "",
       "genre": "EDM",
       "genre_source": "venue",
-      "url": "https://silodallas.com/events/perry-wayne-66162943607"
+      "url": "https://wl.eventim.us/event/PERRY-WAYNE-DALLAS/711529?afflky=DiscoPresents-Ductwork"
     },
     {
       "id": "silo-dallas-2027-01-09-nora-en-pure",
@@ -2048,6 +2035,19 @@
       "genre": "EDM",
       "genre_source": "venue",
       "url": "https://wl.eventim.us/event/KREAM-DALLAS/708549?afflky=SILO"
+    },
+    {
+      "id": "the-regency-ballroom-2027-01-29-dumb-nathan-fielder-rave",
+      "venue": "The Regency Ballroom",
+      "list": "Off Angle",
+      "group": "San Francisco",
+      "date": "2027-01-29",
+      "time": "9:00 PM",
+      "artist": "Dumb Nathan Fielder Rave",
+      "support": "",
+      "genre": "EDM",
+      "genre_source": "keyword",
+      "url": "https://www.theregencyballroom.com/events/detail?event_id=1705151"
     },
     {
       "id": "silo-dallas-2027-01-30-jstjr",
@@ -3179,6 +3179,19 @@
       "genre": "Live Music",
       "genre_source": "musicbrainz",
       "url": "https://www.redrocksonline.com/events/matchbox-twenty-30-1656984/"
+    },
+    {
+      "id": "red-rocks-2027-05-24-chris-tomlin-worship-under-the-stars",
+      "venue": "Red Rocks",
+      "list": "Off Angle",
+      "group": "Out of State",
+      "date": "2027-05-24",
+      "time": "7:30 PM",
+      "artist": "Chris Tomlin: Worship Under the Stars",
+      "support": "",
+      "genre": "Live Music",
+      "genre_source": "default",
+      "url": "https://www.redrocksonline.com/events/chris-tomlin-worship-under-the-stars-1705149/"
     },
     {
       "id": "red-rocks-2027-05-26-megadeth-vaccination-of-the-nations-tour",
