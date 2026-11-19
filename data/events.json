@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-18T21:29:11Z",
+  "generated_at": "2026-11-19T08:54:57Z",
   "lists": [
     "Local",
     "Off Angle"
@@ -73,32 +73,6 @@
     }
   ],
   "events": [
-    {
-      "id": "emo-s-2026-11-18-evan-honer-it-s-an-even-longer-road-tour",
-      "venue": "Emo's",
-      "list": "Local",
-      "group": "",
-      "date": "2026-11-18",
-      "time": "7:00 PM",
-      "artist": "Evan Honer - It's An Even Longer Road Tour",
-      "support": "",
-      "genre": "Live Music",
-      "genre_source": "default",
-      "url": "https://www.ticketmaster.com/evan-honer-its-an-even-longer-austin-texas-11-18-2026/event/3A0064C2B970AC59"
-    },
-    {
-      "id": "the-regency-ballroom-2026-11-18-ninajirachi",
-      "venue": "The Regency Ballroom",
-      "list": "Off Angle",
-      "group": "San Francisco",
-      "date": "2026-11-18",
-      "time": "8:00 PM",
-      "artist": "Ninajirachi",
-      "support": "MGNA Crrrta",
-      "genre": "EDM",
-      "genre_source": "musicbrainz",
-      "url": "https://www.theregencyballroom.com/events/detail?event_id=1629413"
-    },
     {
       "id": "emo-s-2026-11-19-dexter-and-the-moonrocks",
       "venue": "Emo's",
