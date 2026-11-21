@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-20T21:18:12Z",
+  "generated_at": "2026-11-21T08:22:29Z",
   "lists": [
     "Local",
     "Off Angle"
@@ -73,110 +73,6 @@
     }
   ],
   "events": [
-    {
-      "id": "the-midway-2026-11-20-hans-glader",
-      "venue": "The Midway",
-      "list": "Off Angle",
-      "group": "San Francisco",
-      "date": "2026-11-20",
-      "time": "10:00 PM",
-      "artist": "Hans Glader",
-      "support": "",
-      "genre": "EDM",
-      "genre_source": "musicbrainz",
-      "url": "https://dothebay.com/events/2026/11/20/hans-glader-tickets"
-    },
-    {
-      "id": "the-midway-2026-11-20-james-hype",
-      "venue": "The Midway",
-      "list": "Off Angle",
-      "group": "San Francisco",
-      "date": "2026-11-20",
-      "time": "10:00 PM",
-      "artist": "James Hype",
-      "support": "",
-      "genre": "EDM",
-      "genre_source": "same artist elsewhere",
-      "url": "https://dothebay.com/events/2026/11/20/james-hype-tickets"
-    },
-    {
-      "id": "emo-s-2026-11-20-dexter-and-the-moonrocks",
-      "venue": "Emo's",
-      "list": "Local",
-      "group": "",
-      "date": "2026-11-20",
-      "time": "7:00 PM",
-      "artist": "Dexter and The Moonrocks",
-      "support": "",
-      "genre": "Live Music",
-      "genre_source": "default",
-      "url": "https://www.ticketmaster.com/dexter-and-the-moonrocks-austin-texas-11-20-2026/event/3A0064CFAE3F9E53"
-    },
-    {
-      "id": "the-concourse-project-2026-11-20-kaskade",
-      "venue": "The Concourse Project",
-      "list": "Local",
-      "group": "",
-      "date": "2026-11-20",
-      "time": "8:00 PM",
-      "artist": "Kaskade",
-      "support": "",
-      "genre": "EDM",
-      "genre_source": "site",
-      "url": "https://wl.seetickets.us/event/Kaskade-at-The-Concourse-Project-Outdoors/702947?afflky=TheConcourseProject"
-    },
-    {
-      "id": "the-regency-ballroom-2026-11-20-layton-giordani",
-      "venue": "The Regency Ballroom",
-      "list": "Off Angle",
-      "group": "San Francisco",
-      "date": "2026-11-20",
-      "time": "8:00 PM",
-      "artist": "Layton Giordani",
-      "support": "Greggio",
-      "genre": "EDM",
-      "genre_source": "same artist elsewhere",
-      "url": "https://www.theregencyballroom.com/events/detail?event_id=1464359"
-    },
-    {
-      "id": "kingdom-2026-11-20-only-fire-friends",
-      "venue": "Kingdom",
-      "list": "Local",
-      "group": "",
-      "date": "2026-11-20",
-      "time": "9:00 PM",
-      "artist": "Only Fire & Friends",
-      "support": "",
-      "genre": "EDM",
-      "genre_source": "musicbrainz",
-      "url": "https://kingdomnightclub.com/event/only-fire-friends/kingdom-nightclub/austin-texas/"
-    },
-    {
-      "id": "silo-dallas-2026-11-20-crankdat",
-      "venue": "Silo Dallas",
-      "list": "Local",
-      "group": "",
-      "date": "2026-11-20",
-      "time": "9:00 PM",
-      "artist": "Crankdat",
-      "support": "",
-      "genre": "EDM",
-      "genre_source": "venue",
-      "url": "https://wl.eventim.us/event/CRANKDAT-DALLAS/696315?afflky=SILO"
-    },
-    {
-      "id": "silo-houston-2026-11-20-afrojack",
-      "venue": "Silo Houston",
-      "list": "Local",
-      "group": "",
-      "date": "2026-11-20",
-      "time": "9:00 PM",
-      "artist": "Afrojack",
-      "support": "",
-      "genre": "EDM",
-      "genre_source": "venue",
-      "url": "https://wl.eventim.us/event/AFROJACK-HOUSTON/696967?afflky=DuctworkHouston"
-    },
     {
       "id": "cow-palace-2026-11-21-the-great-dickens-christmas-fair",
       "venue": "Cow Palace",
@@ -1621,6 +1517,19 @@
       "url": "https://wl.eventim.us/event/PERRY-WAYNE-DALLAS/711529?afflky=DiscoPresents-Ductwork"
     },
     {
+      "id": "the-midway-2027-01-08-josh-fawaz",
+      "venue": "The Midway",
+      "list": "Off Angle",
+      "group": "San Francisco",
+      "date": "2027-01-08",
+      "time": "9:00 PM",
+      "artist": "Josh Fawaz",
+      "support": "",
+      "genre": "EDM",
+      "genre_source": "same artist elsewhere",
+      "url": "https://dothebay.com/events/2027/1/8/josh-fawaz-tickets"
+    },
+    {
       "id": "silo-dallas-2027-01-09-nora-en-pure",
       "venue": "Silo Dallas",
       "list": "Local",
@@ -2284,17 +2193,17 @@
       "url": "https://dothebay.com/events/2027/2/20/taiki-nulight-tickets"
     },
     {
-      "id": "the-midway-2027-02-27-kream",
+      "id": "the-midway-2027-02-26-daily-bread",
       "venue": "The Midway",
       "list": "Off Angle",
       "group": "San Francisco",
-      "date": "2027-02-27",
-      "time": "10:00 PM",
-      "artist": "Kream",
+      "date": "2027-02-26",
+      "time": "9:00 PM",
+      "artist": "Daily Bread",
       "support": "",
       "genre": "EDM",
-      "genre_source": "same artist elsewhere",
-      "url": "https://dothebay.com/events/2027/2/27/kream-tickets"
+      "genre_source": "venue leaning",
+      "url": "https://dothebay.com/events/2027/2/26/daily-bread-vanishing-point-tour-tickets"
     },
     {
       "id": "bill-graham-civic-2027-02-27-sullivan-king",
@@ -2399,19 +2308,6 @@
       "genre": "Live Music",
       "genre_source": "default",
       "url": "https://billgrahamcivic.com/events/2hollis-270306"
-    },
-    {
-      "id": "the-midway-2027-03-06-chelsea-cutler-is-this-the-end-tour",
-      "venue": "The Midway",
-      "list": "Off Angle",
-      "group": "San Francisco",
-      "date": "2027-03-06",
-      "time": "9:00 PM",
-      "artist": "Chelsea Cutler - IS THIS THE END? Tour",
-      "support": "",
-      "genre": "EDM",
-      "genre_source": "venue leaning",
-      "url": "https://dothebay.com/events/2027/3/6/chelsea-cutler-is-this-the-end-tour-tickets"
     },
     {
       "id": "the-regency-ballroom-2027-03-07-currents",
