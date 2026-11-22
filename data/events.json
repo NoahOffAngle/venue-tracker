@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-22T08:12:34Z",
+  "generated_at": "2026-11-22T20:24:56Z",
   "lists": [
     "Local",
     "Off Angle"
@@ -2271,6 +2271,19 @@
       "url": "https://wl.eventim.us/event/MC4D-DALLAS/710625?afflky=DiscoPresents-Ductwork"
     },
     {
+      "id": "the-midway-2027-03-12-layz-presents-outnumbered",
+      "venue": "The Midway",
+      "list": "Off Angle",
+      "group": "San Francisco",
+      "date": "2027-03-12",
+      "time": "10:00 PM",
+      "artist": "LAYZ Presents: OUTNUMBERED",
+      "support": "",
+      "genre": "EDM",
+      "genre_source": "same artist elsewhere",
+      "url": "https://dothebay.com/events/2027/3/12/layz-presents-outnumbered-tickets"
+    },
+    {
       "id": "silo-dallas-2027-03-12-effin",
       "venue": "Silo Dallas",
       "list": "Local",
@@ -2334,6 +2347,19 @@
       "genre": "EDM",
       "genre_source": "venue",
       "url": "https://wl.eventim.us/event/LEVEL-UP-DALLAS/706784?afflky=SILO"
+    },
+    {
+      "id": "the-midway-2027-03-20-ydg",
+      "venue": "The Midway",
+      "list": "Off Angle",
+      "group": "San Francisco",
+      "date": "2027-03-20",
+      "time": "9:00 PM",
+      "artist": "Ydg",
+      "support": "",
+      "genre": "EDM",
+      "genre_source": "venue leaning",
+      "url": "https://dothebay.com/events/2027/3/20/ydg-tickets"
     },
     {
       "id": "red-rocks-2027-03-24-porter-robinson-b2b-ninajirachi",
