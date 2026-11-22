@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-21T20:10:16Z",
+  "generated_at": "2026-11-22T08:12:34Z",
   "lists": [
     "Local",
     "Off Angle"
@@ -73,110 +73,6 @@
     }
   ],
   "events": [
-    {
-      "id": "cow-palace-2026-11-21-the-great-dickens-christmas-fair",
-      "venue": "Cow Palace",
-      "list": "Off Angle",
-      "group": "San Francisco",
-      "date": "2026-11-21",
-      "time": "10:00 AM",
-      "artist": "The Great Dickens Christmas Fair",
-      "support": "",
-      "genre": "Live Music",
-      "genre_source": "default",
-      "url": "https://www.cowpalace.com/event/the-great-dickens-christmas-fair-2/"
-    },
-    {
-      "id": "kingdom-2026-11-21-mark-knight",
-      "venue": "Kingdom",
-      "list": "Local",
-      "group": "",
-      "date": "2026-11-21",
-      "time": "10:00 PM",
-      "artist": "Mark Knight",
-      "support": "",
-      "genre": "EDM",
-      "genre_source": "venue leaning",
-      "url": "https://kingdomnightclub.com/event/mark-knight-2/kingdom-nightclub/austin-texas/"
-    },
-    {
-      "id": "the-midway-2026-11-21-tisoki",
-      "venue": "The Midway",
-      "list": "Off Angle",
-      "group": "San Francisco",
-      "date": "2026-11-21",
-      "time": "10:00 PM",
-      "artist": "Tisoki",
-      "support": "",
-      "genre": "EDM",
-      "genre_source": "musicbrainz",
-      "url": "https://dothebay.com/events/2026/11/21/tisoki-tickets"
-    },
-    {
-      "id": "emo-s-2026-11-21-bahamas-industrial-sport-sound",
-      "venue": "Emo's",
-      "list": "Local",
-      "group": "",
-      "date": "2026-11-21",
-      "time": "7:00 PM",
-      "artist": "Bahamas - Industrial Sport & Sound",
-      "support": "",
-      "genre": "Live Music",
-      "genre_source": "musicbrainz",
-      "url": "https://www.ticketmaster.com/bahamas-industrial-sport-sound-austin-texas-11-21-2026/event/3A006452B93B3A0F"
-    },
-    {
-      "id": "silo-dallas-2026-11-21-afrojack",
-      "venue": "Silo Dallas",
-      "list": "Local",
-      "group": "",
-      "date": "2026-11-21",
-      "time": "9:00 PM",
-      "artist": "Afrojack",
-      "support": "",
-      "genre": "EDM",
-      "genre_source": "venue",
-      "url": "https://wl.eventim.us/event/AFROJACK-DALLAS/695826?afflky=SILO"
-    },
-    {
-      "id": "silo-houston-2026-11-21-crankdat",
-      "venue": "Silo Houston",
-      "list": "Local",
-      "group": "",
-      "date": "2026-11-21",
-      "time": "9:00 PM",
-      "artist": "Crankdat",
-      "support": "",
-      "genre": "EDM",
-      "genre_source": "venue",
-      "url": "https://wl.eventim.us/event/Deorro-HOUSTON/699784?afflky=DuctworkHouston"
-    },
-    {
-      "id": "the-concourse-project-2026-11-21-eric-prydz",
-      "venue": "The Concourse Project",
-      "list": "Local",
-      "group": "",
-      "date": "2026-11-21",
-      "time": "9:00 PM",
-      "artist": "Eric Prydz",
-      "support": "Cristoph",
-      "genre": "EDM",
-      "genre_source": "site",
-      "url": "https://wl.seetickets.us/event/Eric-Prydz-at-The-Concourse-Project/691628?afflky=TheConcourseProject"
-    },
-    {
-      "id": "the-midway-2026-11-21-wuki-beats-i-can-t-release-mixtape-vol-3",
-      "venue": "The Midway",
-      "list": "Off Angle",
-      "group": "San Francisco",
-      "date": "2026-11-21",
-      "time": "9:00 PM",
-      "artist": "WUKI - BEATS I CAN'T RELEASE: MIXTAPE VOL. 3",
-      "support": "",
-      "genre": "EDM",
-      "genre_source": "venue leaning",
-      "url": "https://dothebay.com/events/2026/11/21/wuki-beats-i-cant-release-mixtape-vol-3-tickets"
-    },
     {
       "id": "the-regency-ballroom-2026-11-22-brutalismus-3000",
       "venue": "The Regency Ballroom",
