@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-24T11:08:11Z",
+  "generated_at": "2026-11-24T23:07:00Z",
   "lists": [
     "Local",
     "Off Angle"
@@ -152,16 +152,16 @@
       "url": "https://kingdomnightclub.com/event/rinsed/kingdom-nightclub/austin-texas/"
     },
     {
-      "id": "the-regency-ballroom-2026-11-27-amtrac",
+      "id": "the-regency-ballroom-2026-11-27-amtrac-moved-to-great-northern",
       "venue": "The Regency Ballroom",
       "list": "Off Angle",
       "group": "San Francisco",
       "date": "2026-11-27",
       "time": "10:00 PM",
-      "artist": "Amtrac",
+      "artist": "Amtrac *MOVED TO GREAT NORTHERN*",
       "support": "Seb Wildblood",
-      "genre": "EDM",
-      "genre_source": "musicbrainz",
+      "genre": "Live Music",
+      "genre_source": "default",
       "url": "https://www.theregencyballroom.com/events/detail?event_id=1566122"
     },
     {
@@ -971,6 +971,19 @@
       "url": "https://www.redrocksonline.com/events/christmas-in-color-2-21/"
     },
     {
+      "id": "silo-dallas-2026-12-18-flosstradamus-b2b-4b",
+      "venue": "Silo Dallas",
+      "list": "Local",
+      "group": "",
+      "date": "2026-12-18",
+      "time": "9:00 PM",
+      "artist": "Flosstradamus b2b 4B",
+      "support": "",
+      "genre": "EDM",
+      "genre_source": "venue",
+      "url": "https://silodallas.com/events/flosstradamus-b2b-4b-51223097231"
+    },
+    {
       "id": "kingdom-2026-12-19-monic",
       "venue": "Kingdom",
       "list": "Local",
@@ -1268,6 +1281,19 @@
       "genre": "EDM",
       "genre_source": "venue",
       "url": "https://wl.eventim.us/event/Josh-Baker-DALLAS/708681?afflky=SILO"
+    },
+    {
+      "id": "the-midway-2026-12-31-feral-start",
+      "venue": "The Midway",
+      "list": "Off Angle",
+      "group": "San Francisco",
+      "date": "2026-12-31",
+      "time": "10:00 PM",
+      "artist": "Feral Start",
+      "support": "JSTJR (Extended Set)",
+      "genre": "EDM",
+      "genre_source": "venue leaning",
+      "url": "https://dothebay.com/events/2026/12/31/feral-start-with-jstjr-extended-set-tickets"
     },
     {
       "id": "red-rocks-2026-12-31-christmas-in-color",
@@ -2336,19 +2362,6 @@
       "url": "https://wl.eventim.us/event/LEVEL-UP-DALLAS/706784?afflky=SILO"
     },
     {
-      "id": "the-midway-2027-03-20-ydg",
-      "venue": "The Midway",
-      "list": "Off Angle",
-      "group": "San Francisco",
-      "date": "2027-03-20",
-      "time": "9:00 PM",
-      "artist": "Ydg",
-      "support": "",
-      "genre": "EDM",
-      "genre_source": "venue leaning",
-      "url": "https://dothebay.com/events/2027/3/20/ydg-tickets"
-    },
-    {
       "id": "red-rocks-2027-03-24-porter-robinson-b2b-ninajirachi",
       "venue": "Red Rocks",
       "list": "Off Angle",
@@ -3257,6 +3270,32 @@
       "genre": "Live Music",
       "genre_source": "default",
       "url": "https://www.redrocksonline.com/events/rod-stewart-one-last-time-1216092/"
+    },
+    {
+      "id": "red-rocks-2027-09-04-dermot-kennedy-the-weight-of-the-woods-tour",
+      "venue": "Red Rocks",
+      "list": "Off Angle",
+      "group": "Out of State",
+      "date": "2027-09-04",
+      "time": "7:30 PM",
+      "artist": "Dermot Kennedy: The Weight of the Woods Tour",
+      "support": "Jonah Kagen, Aaron Rowe",
+      "genre": "Live Music",
+      "genre_source": "default",
+      "url": "https://www.redrocksonline.com/events/dermot-kennedy-the-weight-of-the-woods-tour-1386297/"
+    },
+    {
+      "id": "bill-graham-civic-2027-09-12-dermot-kennedy",
+      "venue": "Bill Graham Civic",
+      "list": "Off Angle",
+      "group": "San Francisco",
+      "date": "2027-09-12",
+      "time": "7:30 PM",
+      "artist": "Dermot Kennedy",
+      "support": "Jonah Kagen, Aaron Rowe",
+      "genre": "Live Music",
+      "genre_source": "default",
+      "url": "https://billgrahamcivic.com/events/dermot-kennedy-261024"
     },
     {
       "id": "red-rocks-2027-09-16-get-the-led-out",
