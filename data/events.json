@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-23T09:18:24Z",
+  "generated_at": "2026-11-24T01:02:24Z",
   "lists": [
     "Local",
     "Off Angle"
@@ -74,19 +74,6 @@
   ],
   "events": [
     {
-      "id": "the-regency-ballroom-2026-11-23-gary-numan",
-      "venue": "The Regency Ballroom",
-      "list": "Off Angle",
-      "group": "San Francisco",
-      "date": "2026-11-23",
-      "time": "8:00 PM",
-      "artist": "Gary Numan",
-      "support": "TREMOURS",
-      "genre": "EDM",
-      "genre_source": "musicbrainz",
-      "url": "https://www.theregencyballroom.com/events/detail?event_id=1423298"
-    },
-    {
       "id": "the-regency-ballroom-2026-11-24-the-amity-affliction",
       "venue": "The Regency Ballroom",
       "list": "Off Angle",
@@ -150,6 +137,32 @@
       "genre": "EDM",
       "genre_source": "venue",
       "url": "https://wl.eventim.us/event/Virtual-Riot-and-Blanke-DALLAS/695833?afflky=SILO"
+    },
+    {
+      "id": "kingdom-2026-11-27-rinsed",
+      "venue": "Kingdom",
+      "list": "Local",
+      "group": "",
+      "date": "2026-11-27",
+      "time": "10:00 PM",
+      "artist": "RINSED",
+      "support": "",
+      "genre": "EDM",
+      "genre_source": "venue leaning",
+      "url": "https://kingdomnightclub.com/event/rinsed/kingdom-nightclub/austin-texas/"
+    },
+    {
+      "id": "the-regency-ballroom-2026-11-27-amtrac",
+      "venue": "The Regency Ballroom",
+      "list": "Off Angle",
+      "group": "San Francisco",
+      "date": "2026-11-27",
+      "time": "10:00 PM",
+      "artist": "Amtrac",
+      "support": "Seb Wildblood",
+      "genre": "EDM",
+      "genre_source": "musicbrainz",
+      "url": "https://www.theregencyballroom.com/events/detail?event_id=1566122"
     },
     {
       "id": "the-midway-2026-11-27-dang-a-soulful-electronic-dance-night",
@@ -1294,6 +1307,19 @@
       "genre": "EDM",
       "genre_source": "venue",
       "url": "https://wl.eventim.us/event/JIGITZ-DALLAS/705406?afflky=SILO"
+    },
+    {
+      "id": "the-regency-ballroom-2026-12-31-moany-new-years-eve-2027",
+      "venue": "The Regency Ballroom",
+      "list": "Off Angle",
+      "group": "San Francisco",
+      "date": "2026-12-31",
+      "time": "9:00 PM",
+      "artist": "MOANY New Years Eve 2027",
+      "support": "",
+      "genre": "Live Music",
+      "genre_source": "default",
+      "url": "https://www.theregencyballroom.com/events/detail?event_id=1718707"
     },
     {
       "id": "kingdom-2027-01-01-mindchatter-dj-set",
