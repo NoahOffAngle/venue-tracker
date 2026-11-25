@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-25T09:56:19Z",
+  "generated_at": "2026-11-25T22:38:19Z",
   "lists": [
     "Local",
     "Off Angle"
@@ -462,6 +462,19 @@
       "genre": "EDM",
       "genre_source": "venue",
       "url": "https://wl.eventim.us/event/RL-GRIME-DALLAS/702474?afflky=SILO"
+    },
+    {
+      "id": "the-midway-2026-12-04-vila-sf",
+      "venue": "The Midway",
+      "list": "Off Angle",
+      "group": "San Francisco",
+      "date": "2026-12-04",
+      "time": "9:00 PM",
+      "artist": "Vila Sf",
+      "support": "",
+      "genre": "EDM",
+      "genre_source": "venue leaning",
+      "url": "https://dothebay.com/events/2026/12/4/vila-sf-tickets"
     },
     {
       "id": "kingdom-2026-12-05-amtrac",
@@ -942,7 +955,7 @@
       "support": "",
       "genre": "EDM",
       "genre_source": "venue",
-      "url": "https://silodallas.com/events/flosstradamus-b2b-4b-51223097231"
+      "url": "https://wl.eventim.us/event/FLOSSTRADAMUS-B2B-4B-DALLAS/687625?afflky=SILO"
     },
     {
       "id": "kingdom-2026-12-19-monic",
@@ -2256,19 +2269,6 @@
       "genre": "EDM",
       "genre_source": "venue",
       "url": "https://wl.eventim.us/event/MC4D-DALLAS/710625?afflky=DiscoPresents-Ductwork"
-    },
-    {
-      "id": "the-midway-2027-03-12-layz-presents-outnumbered",
-      "venue": "The Midway",
-      "list": "Off Angle",
-      "group": "San Francisco",
-      "date": "2027-03-12",
-      "time": "10:00 PM",
-      "artist": "LAYZ Presents: OUTNUMBERED",
-      "support": "",
-      "genre": "EDM",
-      "genre_source": "same artist elsewhere",
-      "url": "https://dothebay.com/events/2027/3/12/layz-presents-outnumbered-tickets"
     },
     {
       "id": "silo-dallas-2027-03-12-effin",
