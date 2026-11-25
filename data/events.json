@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-24T23:07:00Z",
+  "generated_at": "2026-11-25T09:56:19Z",
   "lists": [
     "Local",
     "Off Angle"
@@ -73,32 +73,6 @@
     }
   ],
   "events": [
-    {
-      "id": "the-regency-ballroom-2026-11-24-the-amity-affliction",
-      "venue": "The Regency Ballroom",
-      "list": "Off Angle",
-      "group": "San Francisco",
-      "date": "2026-11-24",
-      "time": "7:00 PM",
-      "artist": "The Amity Affliction",
-      "support": "blessthefall, Orthodox, Buried In Spring",
-      "genre": "Live Music",
-      "genre_source": "default",
-      "url": "https://www.theregencyballroom.com/events/detail?event_id=1516665"
-    },
-    {
-      "id": "bill-graham-civic-2026-11-24-steve-lacy",
-      "venue": "Bill Graham Civic",
-      "list": "Off Angle",
-      "group": "San Francisco",
-      "date": "2026-11-24",
-      "time": "8:00 PM",
-      "artist": "Steve Lacy",
-      "support": "",
-      "genre": "Live Music",
-      "genre_source": "musicbrainz",
-      "url": "https://billgrahamcivic.com/events/steve-lacy-261124"
-    },
     {
       "id": "the-regency-ballroom-2026-11-25-the-wrecks",
       "venue": "The Regency Ballroom",
@@ -332,19 +306,6 @@
       "genre": "EDM",
       "genre_source": "site",
       "url": "https://wl.seetickets.us/event/Green-Velvet-at-The-Concourse-Project/705130?afflky=TheConcourseProject"
-    },
-    {
-      "id": "the-regency-ballroom-2026-11-28-devault",
-      "venue": "The Regency Ballroom",
-      "list": "Off Angle",
-      "group": "San Francisco",
-      "date": "2026-11-28",
-      "time": "9:00 PM",
-      "artist": "Devault",
-      "support": "",
-      "genre": "Live Music",
-      "genre_source": "default",
-      "url": "https://www.theregencyballroom.com/events/detail?event_id=1497641"
     },
     {
       "id": "red-rocks-2026-11-29-christmas-in-color",
@@ -911,7 +872,7 @@
       "list": "Off Angle",
       "group": "San Francisco",
       "date": "2026-12-17",
-      "time": "8:00 PM",
+      "time": "9:00 PM",
       "artist": "Victoria Monét",
       "support": "",
       "genre": "Live Music",
@@ -1879,6 +1840,19 @@
       "genre": "EDM",
       "genre_source": "venue leaning",
       "url": "https://dothebay.com/events/2027/2/5/toxic-winter-2027-tickets"
+    },
+    {
+      "id": "the-regency-ballroom-2027-02-05-devault",
+      "venue": "The Regency Ballroom",
+      "list": "Off Angle",
+      "group": "San Francisco",
+      "date": "2027-02-05",
+      "time": "10:00 PM",
+      "artist": "Devault",
+      "support": "",
+      "genre": "Live Music",
+      "genre_source": "default",
+      "url": "https://www.theregencyballroom.com/events/detail?event_id=1497641"
     },
     {
       "id": "the-regency-ballroom-2027-02-05-twinsick",
