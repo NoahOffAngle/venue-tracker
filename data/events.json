@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-27T22:07:53Z",
+  "generated_at": "2026-11-28T08:58:40Z",
   "lists": [
     "Local",
     "Off Angle"
@@ -74,110 +74,6 @@
   ],
   "events": [
     {
-      "id": "kingdom-2026-11-27-rinsed",
-      "venue": "Kingdom",
-      "list": "Local",
-      "group": "",
-      "date": "2026-11-27",
-      "time": "10:00 PM",
-      "artist": "RINSED",
-      "support": "",
-      "genre": "EDM",
-      "genre_source": "venue leaning",
-      "url": "https://kingdomnightclub.com/event/rinsed/kingdom-nightclub/austin-texas/"
-    },
-    {
-      "id": "the-regency-ballroom-2026-11-27-amtrac-moved-to-great-northern",
-      "venue": "The Regency Ballroom",
-      "list": "Off Angle",
-      "group": "San Francisco",
-      "date": "2026-11-27",
-      "time": "10:00 PM",
-      "artist": "Amtrac *MOVED TO GREAT NORTHERN*",
-      "support": "Seb Wildblood",
-      "genre": "Live Music",
-      "genre_source": "default",
-      "url": "https://www.theregencyballroom.com/events/detail?event_id=1566122"
-    },
-    {
-      "id": "the-midway-2026-11-27-dang-a-soulful-electronic-dance-night",
-      "venue": "The Midway",
-      "list": "Off Angle",
-      "group": "San Francisco",
-      "date": "2026-11-27",
-      "time": "11:00 PM",
-      "artist": "DANG! - A Soulful Electronic Dance Night",
-      "support": "",
-      "genre": "EDM",
-      "genre_source": "venue leaning",
-      "url": "https://dothebay.com/events/2026/11/27/dang-a-soulful-electronic-dance-night-tickets"
-    },
-    {
-      "id": "red-rocks-2026-11-27-christmas-in-color",
-      "venue": "Red Rocks",
-      "list": "Off Angle",
-      "group": "Out of State",
-      "date": "2026-11-27",
-      "time": "5:30 PM",
-      "artist": "Christmas in Color",
-      "support": "",
-      "genre": "Live Music",
-      "genre_source": "default",
-      "url": "https://www.redrocksonline.com/events/christmas-in-color-2/"
-    },
-    {
-      "id": "emo-s-2026-11-27-grief-sucks-a-one-man-show-by-kevonstage",
-      "venue": "Emo's",
-      "list": "Local",
-      "group": "",
-      "date": "2026-11-27",
-      "time": "6:30 PM",
-      "artist": "Grief Sucks: A One Man Show By KevOnStage",
-      "support": "",
-      "genre": "Live Music",
-      "genre_source": "default",
-      "url": "https://www.ticketmaster.com/grief-sucks-a-one-man-show-austin-texas-11-27-2026/event/3A0064E6E42CC53F"
-    },
-    {
-      "id": "silo-dallas-2026-11-27-deathpact",
-      "venue": "Silo Dallas",
-      "list": "Local",
-      "group": "",
-      "date": "2026-11-27",
-      "time": "9:00 PM",
-      "artist": "Deathpact",
-      "support": "",
-      "genre": "EDM",
-      "genre_source": "venue",
-      "url": "https://wl.eventim.us/event/DEATHPACT-FROM-DARKNESS-COMES-LIGHT-ECLIPSED-DALLAS/700256?afflky=SILO"
-    },
-    {
-      "id": "silo-houston-2026-11-27-deorro",
-      "venue": "Silo Houston",
-      "list": "Local",
-      "group": "",
-      "date": "2026-11-27",
-      "time": "9:00 PM",
-      "artist": "Deorro",
-      "support": "",
-      "genre": "EDM",
-      "genre_source": "venue",
-      "url": "https://wl.eventim.us/event/Deorro-HOUSTON/699784?afflky=DuctworkHouston"
-    },
-    {
-      "id": "the-concourse-project-2026-11-27-hot-since-82-avision",
-      "venue": "The Concourse Project",
-      "list": "Local",
-      "group": "",
-      "date": "2026-11-27",
-      "time": "9:00 PM",
-      "artist": "Hot Since 82 + Avision",
-      "support": "Hot Since 82, Avision",
-      "genre": "EDM",
-      "genre_source": "site",
-      "url": "https://wl.seetickets.us/event/Hot-Since-82-Avision-at-The-Concourse-Project/702026?afflky=TheConcourseProject"
-    },
-    {
       "id": "kingdom-2026-11-28-untitled-fest",
       "venue": "Kingdom",
       "list": "Local",
@@ -214,7 +110,7 @@
       "support": "",
       "genre": "Live Music",
       "genre_source": "default",
-      "url": "https://www.redrocksonline.com/events/christmas-in-color-2-1/"
+      "url": "https://www.redrocksonline.com/events/christmas-in-color-2-36/"
     },
     {
       "id": "emo-s-2026-11-28-punchis-punchis-banda-rave",
@@ -279,7 +175,7 @@
       "support": "",
       "genre": "Live Music",
       "genre_source": "default",
-      "url": "https://www.redrocksonline.com/events/christmas-in-color-2-2/"
+      "url": "https://www.redrocksonline.com/events/christmas-in-color-2-1/"
     },
     {
       "id": "silo-dallas-2026-11-29-deorro",
@@ -305,7 +201,7 @@
       "support": "",
       "genre": "Live Music",
       "genre_source": "default",
-      "url": "https://www.redrocksonline.com/events/christmas-in-color-2-3/"
+      "url": "https://www.redrocksonline.com/events/christmas-in-color-2-2/"
     },
     {
       "id": "red-rocks-2026-12-01-christmas-in-color",
@@ -318,7 +214,7 @@
       "support": "",
       "genre": "Live Music",
       "genre_source": "default",
-      "url": "https://www.redrocksonline.com/events/christmas-in-color-2-4/"
+      "url": "https://www.redrocksonline.com/events/christmas-in-color-2-3/"
     },
     {
       "id": "red-rocks-2026-12-02-christmas-in-color",
@@ -331,7 +227,7 @@
       "support": "",
       "genre": "Live Music",
       "genre_source": "default",
-      "url": "https://www.redrocksonline.com/events/christmas-in-color-2-5/"
+      "url": "https://www.redrocksonline.com/events/christmas-in-color-2-4/"
     },
     {
       "id": "bill-graham-civic-2026-12-02-the-neighbourhood",
@@ -357,7 +253,7 @@
       "support": "",
       "genre": "Live Music",
       "genre_source": "default",
-      "url": "https://www.redrocksonline.com/events/christmas-in-color-2-6/"
+      "url": "https://www.redrocksonline.com/events/christmas-in-color-2-5/"
     },
     {
       "id": "the-regency-ballroom-2026-12-03-roa",
@@ -409,7 +305,7 @@
       "support": "",
       "genre": "Live Music",
       "genre_source": "default",
-      "url": "https://www.redrocksonline.com/events/christmas-in-color-2-7/"
+      "url": "https://www.redrocksonline.com/events/christmas-in-color-2-6/"
     },
     {
       "id": "silo-dallas-2026-12-04-rl-grime",
@@ -474,7 +370,7 @@
       "support": "",
       "genre": "Live Music",
       "genre_source": "default",
-      "url": "https://www.redrocksonline.com/events/christmas-in-color-2-8/"
+      "url": "https://www.redrocksonline.com/events/christmas-in-color-2-7/"
     },
     {
       "id": "bill-graham-civic-2026-12-05-its-murph",
@@ -513,7 +409,7 @@
       "support": "",
       "genre": "Live Music",
       "genre_source": "default",
-      "url": "https://www.redrocksonline.com/events/christmas-in-color-2-9/"
+      "url": "https://www.redrocksonline.com/events/christmas-in-color-2-8/"
     },
     {
       "id": "silo-dallas-2026-12-06-awen-hybrid",
@@ -552,7 +448,7 @@
       "support": "",
       "genre": "Live Music",
       "genre_source": "default",
-      "url": "https://www.redrocksonline.com/events/christmas-in-color-2-10/"
+      "url": "https://www.redrocksonline.com/events/christmas-in-color-2-9/"
     },
     {
       "id": "red-rocks-2026-12-08-christmas-in-color",
@@ -565,7 +461,7 @@
       "support": "",
       "genre": "Live Music",
       "genre_source": "default",
-      "url": "https://www.redrocksonline.com/events/christmas-in-color-2-11/"
+      "url": "https://www.redrocksonline.com/events/christmas-in-color-2-10/"
     },
     {
       "id": "red-rocks-2026-12-09-christmas-in-color",
@@ -578,7 +474,7 @@
       "support": "",
       "genre": "Live Music",
       "genre_source": "default",
-      "url": "https://www.redrocksonline.com/events/christmas-in-color-2-12/"
+      "url": "https://www.redrocksonline.com/events/christmas-in-color-2-11/"
     },
     {
       "id": "kingdom-2026-12-10-d-dan",
@@ -604,7 +500,7 @@
       "support": "",
       "genre": "Live Music",
       "genre_source": "default",
-      "url": "https://www.redrocksonline.com/events/christmas-in-color-2-13/"
+      "url": "https://www.redrocksonline.com/events/christmas-in-color-2-12/"
     },
     {
       "id": "silo-dallas-2026-12-10-goldie",
@@ -643,7 +539,7 @@
       "support": "",
       "genre": "Live Music",
       "genre_source": "default",
-      "url": "https://www.redrocksonline.com/events/christmas-in-color-2-14/"
+      "url": "https://www.redrocksonline.com/events/christmas-in-color-2-13/"
     },
     {
       "id": "silo-dallas-2026-12-11-wooli",
@@ -734,7 +630,7 @@
       "support": "",
       "genre": "Live Music",
       "genre_source": "default",
-      "url": "https://www.redrocksonline.com/events/christmas-in-color-2-15/"
+      "url": "https://www.redrocksonline.com/events/christmas-in-color-2-14/"
     },
     {
       "id": "silo-dallas-2026-12-12-omnom",
@@ -760,7 +656,7 @@
       "support": "",
       "genre": "Live Music",
       "genre_source": "default",
-      "url": "https://www.redrocksonline.com/events/christmas-in-color-2-16/"
+      "url": "https://www.redrocksonline.com/events/christmas-in-color-2-15/"
     },
     {
       "id": "silo-dallas-2026-12-13-sam-wolfe",
@@ -786,7 +682,7 @@
       "support": "",
       "genre": "Live Music",
       "genre_source": "default",
-      "url": "https://www.redrocksonline.com/events/christmas-in-color-2-17/"
+      "url": "https://www.redrocksonline.com/events/christmas-in-color-2-16/"
     },
     {
       "id": "red-rocks-2026-12-15-christmas-in-color",
@@ -799,7 +695,7 @@
       "support": "",
       "genre": "Live Music",
       "genre_source": "default",
-      "url": "https://www.redrocksonline.com/events/christmas-in-color-2-18/"
+      "url": "https://www.redrocksonline.com/events/christmas-in-color-2-17/"
     },
     {
       "id": "the-midway-2026-12-16-kim-petras-de-tour",
@@ -825,7 +721,7 @@
       "support": "",
       "genre": "Live Music",
       "genre_source": "default",
-      "url": "https://www.redrocksonline.com/events/christmas-in-color-2-19/"
+      "url": "https://www.redrocksonline.com/events/christmas-in-color-2-18/"
     },
     {
       "id": "red-rocks-2026-12-17-christmas-in-color",
@@ -838,7 +734,7 @@
       "support": "",
       "genre": "Live Music",
       "genre_source": "default",
-      "url": "https://www.redrocksonline.com/events/christmas-in-color-2-20/"
+      "url": "https://www.redrocksonline.com/events/christmas-in-color-2-19/"
     },
     {
       "id": "bill-graham-civic-2026-12-17-victoria-monet",
@@ -903,7 +799,7 @@
       "support": "",
       "genre": "Live Music",
       "genre_source": "default",
-      "url": "https://www.redrocksonline.com/events/christmas-in-color-2-21/"
+      "url": "https://www.redrocksonline.com/events/christmas-in-color-2-20/"
     },
     {
       "id": "silo-dallas-2026-12-18-flosstradamus-b2b-4b",
@@ -955,7 +851,7 @@
       "support": "",
       "genre": "Live Music",
       "genre_source": "default",
-      "url": "https://www.redrocksonline.com/events/christmas-in-color-2-22/"
+      "url": "https://www.redrocksonline.com/events/christmas-in-color-2-21/"
     },
     {
       "id": "the-regency-ballroom-2026-12-19-takuya-nakamura",
@@ -994,7 +890,7 @@
       "support": "",
       "genre": "Live Music",
       "genre_source": "default",
-      "url": "https://www.redrocksonline.com/events/christmas-in-color-2-23/"
+      "url": "https://www.redrocksonline.com/events/christmas-in-color-2-22/"
     },
     {
       "id": "silo-dallas-2026-12-20-supertask-x-mr-bill",
@@ -1020,7 +916,7 @@
       "support": "",
       "genre": "Live Music",
       "genre_source": "default",
-      "url": "https://www.redrocksonline.com/events/christmas-in-color-2-24/"
+      "url": "https://www.redrocksonline.com/events/christmas-in-color-2-23/"
     },
     {
       "id": "red-rocks-2026-12-22-christmas-in-color",
@@ -1033,7 +929,7 @@
       "support": "",
       "genre": "Live Music",
       "genre_source": "default",
-      "url": "https://www.redrocksonline.com/events/christmas-in-color-2-25/"
+      "url": "https://www.redrocksonline.com/events/christmas-in-color-2-24/"
     },
     {
       "id": "red-rocks-2026-12-23-christmas-in-color",
@@ -1046,7 +942,7 @@
       "support": "",
       "genre": "Live Music",
       "genre_source": "default",
-      "url": "https://www.redrocksonline.com/events/christmas-in-color-2-26/"
+      "url": "https://www.redrocksonline.com/events/christmas-in-color-2-25/"
     },
     {
       "id": "red-rocks-2026-12-24-christmas-in-color",
@@ -1059,7 +955,7 @@
       "support": "",
       "genre": "Live Music",
       "genre_source": "default",
-      "url": "https://www.redrocksonline.com/events/christmas-in-color-2-27/"
+      "url": "https://www.redrocksonline.com/events/christmas-in-color-2-26/"
     },
     {
       "id": "red-rocks-2026-12-26-christmas-in-color",
@@ -1072,7 +968,7 @@
       "support": "",
       "genre": "Live Music",
       "genre_source": "default",
-      "url": "https://www.redrocksonline.com/events/christmas-in-color-2-28/"
+      "url": "https://www.redrocksonline.com/events/christmas-in-color-2-27/"
     },
     {
       "id": "silo-dallas-2026-12-26-bresh",
@@ -1098,7 +994,7 @@
       "support": "",
       "genre": "Live Music",
       "genre_source": "default",
-      "url": "https://www.redrocksonline.com/events/christmas-in-color-2-29/"
+      "url": "https://www.redrocksonline.com/events/christmas-in-color-2-28/"
     },
     {
       "id": "silo-dallas-2026-12-27-sofi-tukker",
@@ -1137,7 +1033,7 @@
       "support": "",
       "genre": "Live Music",
       "genre_source": "default",
-      "url": "https://www.redrocksonline.com/events/christmas-in-color-2-30/"
+      "url": "https://www.redrocksonline.com/events/christmas-in-color-2-29/"
     },
     {
       "id": "silo-dallas-2026-12-28-horsegiirl",
@@ -1163,7 +1059,7 @@
       "support": "",
       "genre": "Live Music",
       "genre_source": "default",
-      "url": "https://www.redrocksonline.com/events/christmas-in-color-2-31/"
+      "url": "https://www.redrocksonline.com/events/christmas-in-color-2-30/"
     },
     {
       "id": "silo-dallas-2026-12-29-gryffin",
@@ -1189,7 +1085,7 @@
       "support": "",
       "genre": "Live Music",
       "genre_source": "default",
-      "url": "https://www.redrocksonline.com/events/christmas-in-color-2-32/"
+      "url": "https://www.redrocksonline.com/events/christmas-in-color-2-31/"
     },
     {
       "id": "bill-graham-civic-2026-12-30-illenium",
@@ -1241,7 +1137,7 @@
       "support": "",
       "genre": "Live Music",
       "genre_source": "default",
-      "url": "https://www.redrocksonline.com/events/christmas-in-color-2-33/"
+      "url": "https://www.redrocksonline.com/events/christmas-in-color-2-32/"
     },
     {
       "id": "bill-graham-civic-2026-12-31-illenium",
@@ -1306,7 +1202,7 @@
       "support": "",
       "genre": "Live Music",
       "genre_source": "default",
-      "url": "https://www.redrocksonline.com/events/christmas-in-color-2-34/"
+      "url": "https://www.redrocksonline.com/events/christmas-in-color-2-33/"
     },
     {
       "id": "bill-graham-civic-2027-01-01-illenium",
@@ -1345,7 +1241,7 @@
       "support": "",
       "genre": "Live Music",
       "genre_source": "default",
-      "url": "https://www.redrocksonline.com/events/christmas-in-color-2-35/"
+      "url": "https://www.redrocksonline.com/events/christmas-in-color-2-34/"
     },
     {
       "id": "silo-dallas-2027-01-07-perry-wayne",
